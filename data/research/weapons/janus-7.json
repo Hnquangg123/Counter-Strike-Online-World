@@ -1,0 +1,65 @@
+{
+  "slug": "janus-7",
+  "name": "JANUS-7",
+  "aliases": ["Janus-7"],
+  "category": "machine-gun",
+  "grade": null,
+  "origin": null,
+  "manufacturer": "Aegis Institute (based on the MG3)",
+  "caliber": "7.62mm",
+  "tagline": "An MG3-based machine gun that transforms to hurl auto-tracking lightning.",
+  "summary": "JANUS-7 is a 200-round 7.62mm machine gun designed by the Aegis Institute on the basis of the MG3. Its Janus Transformation System can be triggered (right-click, once the requirement is met) to enter Janus Form for 18 seconds, during which the gun deals electric damage that automatically tracks enemies within a short range.",
+  "description": "The wiki describes JANUS-7 as a machine gun designed by the Aegis Institute based on the MG3, using 7.62mm ammunition, with a Janus Transformation System that can perform a lightning bolt attack for a certain period of time. When the activation requirement is met, right-clicking transforms the weapon; in Janus Form it emits electric damage that automatically tracks enemies within a short range, hitting nearby enemies omnidirectionally and chaining through multiple targets in sequence. Listed damage: 38 (Normal), 35 (Zombie), 143 (Scenario), and up to about 63,000 to a boss in Janus Form with maxed firepower. Accuracy is rated 73%, price $9,000, Janus Form lasts 18 seconds. Drawbacks are low accuracy, high recoil, heavy weight, a long reload, high cost, and the fact that the lightning cannot score headshots and focuses on one target at a time within a limited range.",
+  "stats": {
+    "damage": "38 (Normal) / 35 (Zombie) / 143 (Scenario); ~63,000 to bosses in Janus Form at max firepower",
+    "accuracy": "73%",
+    "recoil": "High",
+    "rateOfFire": "High",
+    "weight": "Heavy",
+    "knockback": null,
+    "stun": "Strong stun power in both modes"
+  },
+  "ammo": { "magazine": 200, "reserve": null, "type": "7.62mm" },
+  "price": "$9,000",
+  "fireModes": ["A mode (normal fire)", "B mode / Janus Form (lightning, 18 seconds)"],
+  "obtainMethod": null,
+  "advantages": [
+    "High damage in B mode",
+    "High rate of fire",
+    "High magazine capacity",
+    "Lightning attacks nearby enemies omnidirectionally",
+    "Can eliminate multiple enemies sequentially",
+    "Strong stun power in both modes"
+  ],
+  "disadvantages": [
+    "Low accuracy",
+    "High recoil",
+    "Heavy weapon",
+    "Extended reload time",
+    "Expensive",
+    "Janus Form cannot achieve headshots",
+    "Lightning has limited range and focuses on one target at a time"
+  ],
+  "variants": ["JANUS-7 Xmas", "MG3 (base weapon)"],
+  "characters": [],
+  "abilities": [
+    {
+      "name": "Janus Transformation System",
+      "description": "Once the requirement is met, right-click to transform the gun for 18 seconds; while transformed it deals electric damage that automatically tracks enemies within a short range."
+    }
+  ],
+  "release": [
+    { "region": "kr", "date": "2013-10-10", "note": null },
+    { "region": "tw", "date": "2013-10-22", "note": "Taiwan/Hong Kong" },
+    { "region": "cn", "date": "2013-10-23", "note": null },
+    { "region": "jp", "date": "2013-10-23", "note": null },
+    { "region": "csn", "date": "2014-09-23", "note": "Counter-Strike Nexon: Zombies" },
+    { "region": "vn", "date": "2015-03-26", "note": null },
+    { "region": "id", "date": "2015-04-01", "note": null }
+  ],
+  "trivia": [
+    "JANUS-7 Xmas (released December 2015 in South Korea) features red lightning, a Snowman/Santa head design and reduced activation requirements."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/JANUS-7"
+}

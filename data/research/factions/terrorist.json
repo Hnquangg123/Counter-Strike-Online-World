@@ -1,0 +1,83 @@
+{
+  "slug": "terrorist",
+  "name": "Terrorist",
+  "aliases": ["TR", "Terrorists"],
+  "side": "tr",
+  "summary": "The Terrorists are the second core player faction of Counter-Strike Online: armed criminals, outlaws, anti-government forces, rebels and mercenaries opposing the Counter-Terrorists. CSO's TR roster includes the classic Counter-Strike groups plus several factions created for the game, and a large cast of named premium characters including Anemone, David Black, Ritsuka, Erika and Yuri.",
+  "description": "TR is the faction of illegal armed groups. In Counter-Strike Online it comprises the classic Counter-Strike factions - Phoenix Connexion, Elite Crew, Arctic Avengers, Guerrilla Warfare and Midwest Militia - and CSO additions such as Red Beret Condottiere, Vigilante Corps, National Liberation Campaign and the Asia Red Army. Each has a short in-game backstory blurb (e.g. Phoenix Connexion formed after the break-up of the USSR; Arctic Avengers founded in Sweden in 1977; Midwest Militia founded in 1993 after the Waco standoff).",
+  "lore": "Storyline-wise, the Terrorist side is home to David Black's AFC army, the Red Lizard led by Jim, and the Asia Red Army led by Mr. X. Thanks to the Aegis Institute's neutrality, Terrorist characters fight alongside Counter-Terrorists against the zombie threat throughout Zombie Scenario. The Terrorists also once threatened to destroy the Rex Research Institute's main laboratory for political purposes.",
+  "subFactions": [
+    "Phoenix Connexion",
+    "Elite Crew",
+    "Arctic Avengers",
+    "Guerrilla Warfare",
+    "Midwest Militia",
+    "Red Beret Condottiere",
+    "Vigilante Corps",
+    "National Liberation Campaign",
+    "Asia Red Army"
+  ],
+  "leaders": [],
+  "members": [
+    "David Black (Outlaw)",
+    "Spade",
+    "Raven",
+    "Carlito",
+    "Jim",
+    "Krieg",
+    "Yuwei",
+    "Lee Chang",
+    "Jennifer (Uniform)",
+    "Ritsuka (Ghost Bride)",
+    "Yuri (Soccer / School)",
+    "Erika",
+    "Michaela (Casual / Pirate)",
+    "Blair",
+    "Lingling",
+    "Gunsmith",
+    "Alin (Vacation)",
+    "Jin Se-yeon",
+    "Ace",
+    "Mila",
+    "Anemone",
+    "Karin"
+  ],
+  "membersNote": "Named TR characters taken from the wiki's Characters navbox (as seen on the Anemone page); transcendent-class TRs such as Anemone and Karin added from their own pages.",
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/5f/Tr.png",
+      "caption": "Terrorist emblem"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f5/Trwin.png",
+      "caption": "Terrorists win graphic"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/50/Terror_icon.png",
+      "caption": "Phoenix Connexion"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/d3/Leet_icon.png",
+      "caption": "Elite Crew"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/00/Arctic_icon.png",
+      "caption": "Arctic Avengers"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/d8/Guerilla_icon.png",
+      "caption": "Guerrilla Warfare"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/48/Militia_gfx.png",
+      "caption": "Midwest Militia"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/de/Rb.png",
+      "caption": "Red Beret Condottiere"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Terrorist",
+  "sections": ["Factions", "Characters", "Counter-Strike Online 2", "Armory", "Missions"],
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "zombie-scenario-survival-music",
+  "title": "Zombie Scenario - Survival music",
+  "composer": null,
+  "album": null,
+  "durationSeconds": null,
+  "summary": "The in-round combat theme for the survival stages of Zombie Scenario: Season 2.",
+  "description": "Listed on the Zombie Scenario: Season 2 page under the 'Survival music' heading of its Sounds section (one of four tracks across three categories). It accompanies the wave-survival portions of the season's chapters, as opposed to the pursuit and boss cue. Title, composer and audio file were not exposed by the digest.",
+  "usedIn": {
+    "gameModes": ["Zombie Scenario"],
+    "scenarios": ["Toxicity", "Culvert", "Decoy", "Angra Nest", "Poisoning"],
+    "maps": []
+  },
+  "audioUrl": null,
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Zombie_Scenario:_Season_2",
+  "_confidence": "medium (category label from the wiki; official title unknown)"
+}

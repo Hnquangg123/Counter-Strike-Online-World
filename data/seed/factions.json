@@ -1,0 +1,742 @@
+[
+  {
+    "slug": "aegis-institute",
+    "name": "Aegis Institute",
+    "aliases": [
+      "Aegis Research Institute",
+      "Aegis Research Center",
+      "Aegis Lab",
+      "Aegis Laboratory",
+      "Aegis Allied Force / Aegis Alliance Unit (its joint combat force)"
+    ],
+    "side": "neutral",
+    "summary": {
+      "en": "The Aegis Institute is the zombie-research and anti-zombie-weapons institute at the heart of Counter-Strike Online's Zombie Scenario storyline. Established by the Counter-Terrorism Alliance once it became clear Dr. Rex's research would not reduce the zombie threat, it gathers top scientists and weapons experts from many countries, arms the Zombie Extermination Squadron, and searches for a cure for the Zombie Virus. Its best-known face is Senior Researcher Soy (Ahn Soi), the voice guiding players through most scenario chapters."
+    },
+    "description": {
+      "en": "The Counter-Terrorism Alliance created the Aegis Research Center to develop specialised anti-zombie weapons and to study zombies, at the same time organising a separate zombie-extermination unit to declare war on the undead. The institute's staff are excellent scientists and researchers from each country who combine scientific knowledge with deep weapons expertise; they manufacture weapons for the Zombie Extermination Squadron while trying to cure the Zombie Virus. Its neutrality between CT and TR laid the groundwork for the two sides to carry out missions together - most notably large-scale joint operations built on the close friendship of David Black (AFC) and Gerard (PMC). A mysterious 'Doctor A' is said to be secretly aiding the counter-terrorism coalition."
+    },
+    "lore": {
+      "en": "**Campaign role.** The Institute frames the Season 2 pursuit of Dione: one year after the Lost City incident, Senior Researcher Soy briefs the LS team over the Caribbean (Toxicity) to search for clues about Dr. Rex, then orders the wounded Dione captured or killed (Culvert). Later, the Institute's secret communication base is discovered by Kronos, which sends zombies and mass-produced AMP Suits / Mad Mechanics to destroy it (Cordon). After Alin and Dominique blow up a Kronos secret lab and expose Kronos's facilities, Douglas Jacob strikes back and captures the Aegis laboratories; Jennifer and Dr. Soi arm themselves to retake them (Obstacle). With heroes and super soldiers engaged elsewhere, the government forms a special relief force to rescue survivors in isolated cities (Convoy). In the finale, the Aegis Allied Force storms Douglas Jacob's hideout and Soi calls in the airstrike that kills him.\n\n**Zombie classification.** Aegis has classified several notable zombies after first contact - e.g. Ganymede, categorised as a Siege Type Deimos: high HP, agile, able to slip past bullets and rush enemies at great speed. Other classified samples include Frozen Terror's Mane and Gluttony's Tongue.\n\n**Discontinued special missions.** 'Collect Hero's Information' (win 3 rounds as Hero in Zombie Hero mode), 'Morale Boost Experience', 'Airstrike Support'.\n\n**Position.** Founded by the Counter-Terrorism Alliance, but has maintained a deliberately neutral position between Counter-Terrorists and Terrorists so that both can run joint anti-zombie operations.\n\n## Weapon programmes\n\n- **BALROG Series** — Balrog Charging System - explosions after continuous fire; AHE ammunition (BALROG-I, BALROG-III, BALROG-V, BALROG-VII, BALROG-IX, BALROG-XI)\n- **JANUS Series** — Janus Transformation System - unlimited-fire form after enough hits (JANUS-1, JANUS-3, JANUS-5, JANUS-7, JANUS-9, JANUS-11)\n- **THANATOS Series** — Thanatos Blade System - sustained damage to multiple targets in a blade radius (THANATOS-1, THANATOS-3, THANATOS-5, THANATOS-7, THANATOS-9, THANATOS-11)\n- **VULCANUS Series** — Vulcanus Parts System - laser trails and missile launcher (VULCANUS-1, VULCANUS-3, VULCANUS-5, VULCANUS-7, VULCANUS-9, VULCANUS-11)\n- **Tiamat Series** — Plasma-energy prototype rifles (Plasma Rifle MK-1, Plasma Rifle MK-2, Tiamat MK-3, Tiamat MK-4)\n- **IGNITE Series** — Split magazine and Ignite Force system (IGNITE-7, IGNITE-10)\n- **Season Pass** — Re-studied Transform System / Berserk mode (Mechasaurus MK-4)\n- **Transcendent** — e.g. Astra's returning projectile (Astra, Gigantic Drill, Demolition Hammer, Ascalon)\n- **Legend** —  (USAS-12 Thunderfall)"
+    },
+    "leaders": [],
+    "members": [],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f6/Soy.png",
+        "caption": {
+          "en": "Soy (Senior Researcher) portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8c/Leader_soi_icon.png",
+        "caption": {
+          "en": "Leader Soi icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/15/Super_solider_jennifer_icon.png",
+        "caption": {
+          "en": "Super Soldier Jennifer icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/13/Walter_icon.png",
+        "caption": {
+          "en": "Walter icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d7/Vngirl_icon.png",
+        "caption": {
+          "en": "Ha Ly icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6a/Nojinctbuy.png",
+        "caption": {
+          "en": "Dr. Han buy icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9a/Zs_trace_cso.png",
+        "caption": {
+          "en": "Toxicity map icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c9/Zs_culvert.png",
+        "caption": {
+          "en": "Culvert map icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/62/Zs_defense2_cso.png",
+        "caption": {
+          "en": "Cordon map icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f6/Zs_obstacle3_cso.png",
+        "caption": {
+          "en": "Obstacle map icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/ab/Zs_convoy_cso.png",
+        "caption": {
+          "en": "Convoy map icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b8/Balrog7.png",
+        "caption": {
+          "en": "BALROG-VII"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c9/Janus-5.png",
+        "caption": {
+          "en": "JANUS-5"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/7d/Deimos2_gfx.png",
+        "caption": {
+          "en": "Ganymede (Siege Type Deimos) classification image"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Aegis_Institute",
+      "title": "Aegis Institute",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": [],
+    "release": [],
+    "trivia": []
+  },
+  {
+    "slug": "asia-red-army",
+    "name": "Asia Red Army",
+    "aliases": [
+      "ARA",
+      "Japanese Red Army",
+      "JRA",
+      "アジア赤軍",
+      "日本赤軍",
+      "Anti-Imperialist International Brigade",
+      "Anti-War Democratic Front",
+      "Holy War Brigade",
+      "jra (system name)"
+    ],
+    "side": "tr",
+    "summary": {
+      "en": "The Asia Red Army (Japanese Red Army in some regions) is a purchasable Terrorist faction class in Counter-Strike Online and a key organisation in the Zombie Scenario storyline. Led by Mr. X and secretly funded by Douglas Jacob's Kronos, it is the group Choi Ji Yoon infiltrated for the CIA and the group that raised and trained Ritsuka. Its members fight in white T-shirts with red scarves over their faces."
+    },
+    "description": {
+      "en": "A Terrorist faction model based on the real Japanese Red Army. Using it grants a bonus to experience and game points (20% in most regions, 10% in Indonesia), and purchase bonuses of game points in several regions. In-game the members wear white T-shirts and red face scarves; their weapons are the Beretta 92G Elite II, AK-47 and Anaconda."
+    },
+    "lore": {
+      "en": "The official description recounts the 1970 hijacking by which the group first made headlines and its worldwide terrorist activity in the name of Marxism. In the CSO storyline (Zombie Scenario: Season 6 - Episode Choi), the CIA sends Choi Ji Yoon undercover into the ARA; she is discovered by Ritsuka and held hostage until fellow agent May is dispatched to rescue her. The episode reveals that the ARA, led by Mr. X, is funded by Douglas Jacob to deploy a biological weapon that turns people into monsters and zombies. When the ARA and Ritsuka failed to meet his expectations, Douglas sabotaged them; by Season 8 (Abandoned Hound) Ritsuka returns to find the ARA hideout in ruins."
+    },
+    "leaders": [],
+    "members": ["ritsuka"],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d2/Ara.jpg",
+        "caption": {
+          "en": "Asia Red Army (infobox image)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/27/Jra_model.png",
+        "caption": {
+          "en": "Player model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d4/Jra_anaconda_c4.png",
+        "caption": {
+          "en": "ARA member with Anaconda and C4"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f9/Jra.png",
+        "caption": {
+          "en": "Selection icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Asia_Red_Army",
+      "title": "Asia Red Army",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": [],
+    "release": [],
+    "trivia": []
+  },
+  {
+    "slug": "counter-terrorist",
+    "name": "Counter-Terrorist",
+    "aliases": ["CT", "Counter-Terrorists"],
+    "side": "ct",
+    "summary": {
+      "en": "The Counter-Terrorists are one of the two core player factions of Counter-Strike Online: legally armed government forces, militaries, police, security and special-service units approved to protect worldwide security, and the opposing force to the Terrorists. In CSO the CT roster spans the classic Counter-Strike units plus several Asian special forces added for the game's regional markets, alongside named premium characters."
+    },
+    "description": {
+      "en": "CT is the faction of official, government-sanctioned armed forces. In Counter-Strike Online it comprises the classic units - American SEAL Team 6, German GSG-9, British SAS, French GIGN, Russian Spetsnaz - and CSO additions such as Korea's 707 Special Mission Battalion, Taiwan's SOZO (Thunder Squad), China's PLA special forces, Japan's SAT and Singapore's SAF. Each unit has a short in-game history blurb (e.g. ST-6 founded 1980 under Richard Marcinko; GSG-9 formed after the 1972 Munich Olympics; SAS founded in WWII by David Stirling; 707 formed in 1982 as the 'White Tigers')."
+    },
+    "lore": {
+      "en": "Storyline-wise, the Counter-Terrorism Alliance founded the Aegis Institute to fight the zombie threat, and CT-side characters (Gerard, Natasha, Choi Ji Yoon, Lucia, Mirage, Milia and others) carry much of the Zombie Scenario narrative. The Aegis Institute's neutrality allows CTs and Terrorists to run joint operations against the zombies."
+    },
+    "leaders": [],
+    "members": ["gerard", "natasha", "choi-ji-yoon", "lucia", "mirage", "milia"],
+    "media": [
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c5/Ct.png",
+        "caption": {
+          "en": "Counter-Terrorist emblem"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/2e/Ctwin.png",
+        "caption": {
+          "en": "Counter-Terrorists win graphic"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/80/Urban.png",
+        "caption": {
+          "en": "SEAL Team 6 (Urban)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e0/Gsg9.png",
+        "caption": {
+          "en": "GSG-9"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/34/Sas.png",
+        "caption": {
+          "en": "SAS"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/0a/Gign.png",
+        "caption": {
+          "en": "GIGN"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/be/Spetsnaz.png",
+        "caption": {
+          "en": "Spetsnaz"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/30/707.png",
+        "caption": {
+          "en": "707 Special Mission Battalion"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Counter-Terrorist",
+      "title": "Counter-Terrorist",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": [],
+    "release": [],
+    "trivia": []
+  },
+  {
+    "slug": "kronos",
+    "name": "Kronos",
+    "aliases": ["Kronos Company", "Kronos Corporation"],
+    "side": "neutral",
+    "summary": {
+      "en": "Kronos is the multinational company founded by Douglas Jacob that funds research projects worldwide - including Dr. Rex's Super Soldier Project, which became the Lost City zombie outbreak. After Dr. Rex's death Kronos continued his research and released a stream of anti-zombie products while hiding the truth: it was perfecting conscious super-soldier zombies, seeding outbreaks (Deimos and Ganymede containers), running an experimental 'Neon City', and stealing Aegis technology. Its exposure and Douglas Jacob's death form the climax of Zombie Scenario Seasons 7-9."
+    },
+    "description": {
+      "en": "A multinational company founded by Douglas Jacob that provides funding for various research projects. Publicly it produces anti-zombie weapons (the Hunter Killer series, the M32 MGL Zombie Killer, mounted Browning M2HB guns bearing its logo) and its containers appear in maps such as Port and Hell Ride. Privately it inherited and completed Dr. Rex's work, created living weapons (Cyborg, Amy, Angelina) and employed operatives such as Agent Ritsuka and Pyromaniac Yuri."
+    },
+    "lore": {
+      "en": "**Hidden hand.** Douglas Jacob was the anonymous informer who steered Dr. Rex toward the Heorgen corpses and kept funding him after the government pulled out. Kronos funded both sides of the CT-TR conflict, financed the Asia Red Army through Mr. X, owned the Vanguard Company as a mercenary subsidiary, and turned Jack into Laser Wing, its first conscious zombie.\n\n**Exposure.** Anomalous encrypted signals from the quarantined Lost City turned out to be Super Soldier Agent B contacting Kronos (Hell Ride); Kronos containers holding Deimos and Ganymede were found in Episode Lucia and Rendezvous; Kronos discovered and attacked the Aegis Institute's secret communication base with mass-produced Mad Mechanics (Cordon). Alin and Dominique destroyed a Kronos secret lab (Isolation), and the shockwave revealed the locations of its secret facilities, prompting worldwide investigations and turning Douglas's former allies against him.\n\n**Endgame.** Douglas struck his key enemies simultaneously and seized the Aegis laboratories (Obstacle); recaptured intelligence exposed a dangerous 'Secret Plan' built on Kronos's worldwide military factories; Kronos-released zombies overran cities worldwide (Convoy); and the Aegis Allied Force finally stormed Douglas's hideout, where he piloted the Adamant/Adamant-Z before dying in an airstrike while trying to launch an ICBM.\n\n**Position.** A multinational corporation that funds both Counter-Terrorists and Terrorists for its own gain; the true antagonist organisation of the later Zombie Scenario seasons and the force behind the conscious-zombie 'agents'."
+    },
+    "leaders": ["douglas-jacob"],
+    "members": ["douglas-jacob"],
+    "media": [
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c2/20200419_155731.JPG",
+        "caption": {
+          "en": "Kronos logo (page header image)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/63/Port_gfx.png",
+        "caption": {
+          "en": "Port map graphic"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/97/Zsh_hellride_cso.png",
+        "caption": {
+          "en": "Hell Ride map icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8a/Zs_mall_cso.png",
+        "caption": {
+          "en": "Isolation map icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/62/Zs_defense2_cso.png",
+        "caption": {
+          "en": "Cordon map icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f6/Zs_obstacle3_cso.png",
+        "caption": {
+          "en": "Obstacle map icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/10/Zs_secretplan2_cso.png",
+        "caption": {
+          "en": "Secret Plan map icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6f/Ma_alice.png",
+        "caption": {
+          "en": "Alice"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/19/Jacob_msg.png",
+        "caption": {
+          "en": "Douglas Jacob"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a3/Cyborg.png",
+        "caption": {
+          "en": "Cyborg"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Kronos",
+      "title": "Kronos",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": [],
+    "release": [],
+    "trivia": []
+  },
+  {
+    "slug": "rex-research-institute",
+    "name": "Rex Research Institute",
+    "aliases": ["Rex Laboratory", "Rex Lab", "Rex Labs", "Rex Research Facility", "Rex Institute"],
+    "side": "zombie",
+    "summary": {
+      "en": "The Rex Research Institute is the fictional organisation where the zombie apocalypse of Counter-Strike Online began. Founded by doctors and scientists developing life-prolonging medicine, it drifted toward the goal of human immortality; its experiments on living things backfired and produced the Rex Virus, which turns humans into zombies. The zombies escaped the lab during the Chaos chapter and spread the infection, and Jennifer was held there as a living test subject. Its director, Dr. Steve Rex, ran the classified Super Soldier Project that the virus was meant to serve."
+    },
+    "description": {
+      "en": "An organisation of doctors and scientists who began by creating medicines to prolong life and gradually shifted to seeking a way to make humans immortal. Their continuous experiments on living organisms backfired and created the dangerous Rex Virus, which turns humans into the undead. Publicly the Rex Laboratory is best known as an institute producing American military weapons; its director Dr. Steve Rex is a leading bio- and mechanical engineer who led the Super Soldier Project behind closed doors."
+    },
+    "lore": {
+      "en": "The zombies broke out of the lab in the Chaos chapter and began infecting others, isolating the surrounding Lost City. The institute is also where Jennifer was captured and kept alive as a human experimental subject. The main laboratory where the experiments took place was threatened with destruction by the Terrorists for political purposes (they managed to damage it only insignificantly); Yuri's bombing of the Rex facility is referenced elsewhere in the storyline. Dr. Rex remained hidden until revealing himself in the Envy Mask chapter, saying someone else (Douglas Jacob / Kronos) was continuing his super-soldier research. In Season 7, David Black and Erika return to the attacked Rex Labs looking for a cure for Erika. Rumour places the institute in Cuba: the Lost City map has posters written in Spanish, and Dead End takes place in Havana.\n\n**Position.** Nominally a US-military weapons institute (Counter-Terrorist-aligned), but the birthplace of the Rex Virus and the origin of every early zombie boss; treated as the source of the zombie threat."
+    },
+    "leaders": ["dr-rex"],
+    "members": ["dr-rex"],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a7/Rex_gfx.png",
+        "caption": {
+          "en": "Rex Laboratory (map graphic) - infobox image"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d1/Ae_gfx.png",
+        "caption": {
+          "en": "Roof map graphic"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f0/Zm_abyss_cso.png",
+        "caption": {
+          "en": "Abyss map icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/ca/Zm_abyss2_cso.png",
+        "caption": {
+          "en": "Abyss 2 map icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/21/Abyss3_gfx.png",
+        "caption": {
+          "en": "Abyss 3 map graphic"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b0/Chaos_gfx.png",
+        "caption": {
+          "en": "Chaos map graphic"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/95/Cube.png",
+        "caption": {
+          "en": "Cube map graphic"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9a/Zs_memories2_cso.png",
+        "caption": {
+          "en": "Memories map icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/5e/Doctorrex_msg.png",
+        "caption": {
+          "en": "Dr. Rex message portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Rex_Research_Institute",
+      "title": "Rex Research Institute",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": [],
+    "release": [],
+    "trivia": []
+  },
+  {
+    "slug": "terrorist",
+    "name": "Terrorist",
+    "aliases": ["TR", "Terrorists"],
+    "side": "tr",
+    "summary": {
+      "en": "The Terrorists are the second core player faction of Counter-Strike Online: armed criminals, outlaws, anti-government forces, rebels and mercenaries opposing the Counter-Terrorists. CSO's TR roster includes the classic Counter-Strike groups plus several factions created for the game, and a large cast of named premium characters including Anemone, David Black, Ritsuka, Erika and Yuri."
+    },
+    "description": {
+      "en": "TR is the faction of illegal armed groups. In Counter-Strike Online it comprises the classic Counter-Strike factions - Phoenix Connexion, Elite Crew, Arctic Avengers, Guerrilla Warfare and Midwest Militia - and CSO additions such as Red Beret Condottiere, Vigilante Corps, National Liberation Campaign and the Asia Red Army. Each has a short in-game backstory blurb (e.g. Phoenix Connexion formed after the break-up of the USSR; Arctic Avengers founded in Sweden in 1977; Midwest Militia founded in 1993 after the Waco standoff)."
+    },
+    "lore": {
+      "en": "Storyline-wise, the Terrorist side is home to David Black's AFC army, the Red Lizard led by Jim, and the Asia Red Army led by Mr. X. Thanks to the Aegis Institute's neutrality, Terrorist characters fight alongside Counter-Terrorists against the zombie threat throughout Zombie Scenario. The Terrorists also once threatened to destroy the Rex Research Institute's main laboratory for political purposes."
+    },
+    "leaders": [],
+    "members": ["david-black", "ritsuka", "yuri", "erika", "anemone", "karin"],
+    "media": [
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/5f/Tr.png",
+        "caption": {
+          "en": "Terrorist emblem"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f5/Trwin.png",
+        "caption": {
+          "en": "Terrorists win graphic"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/50/Terror_icon.png",
+        "caption": {
+          "en": "Phoenix Connexion"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d3/Leet_icon.png",
+        "caption": {
+          "en": "Elite Crew"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/00/Arctic_icon.png",
+        "caption": {
+          "en": "Arctic Avengers"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d8/Guerilla_icon.png",
+        "caption": {
+          "en": "Guerrilla Warfare"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/48/Militia_gfx.png",
+        "caption": {
+          "en": "Midwest Militia"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/de/Rb.png",
+        "caption": {
+          "en": "Red Beret Condottiere"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Terrorist",
+      "title": "Terrorist",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": [],
+    "release": [],
+    "trivia": []
+  },
+  {
+    "slug": "vanguard-company",
+    "name": "Vanguard Company",
+    "aliases": ["The Vanguards", "Vanguard Lab", "Vanguard Laboratory"],
+    "side": "tr",
+    "summary": {
+      "en": "The Vanguard Company is a shadowy munitions company and the main antagonist of Human Scenario mode. Emerging after the Siege Types were released in the Chaos chapter, it seized Siege Type samples from the rescue team by force, then suffered a catastrophic zombie outbreak when its research on those samples went wrong (Zombie Scenario: Season 3). Its Trooper, Ghost, Lancer and Titan soldiers are products of Dr. Rex's Super Soldier project, which Vanguard supported. Episode Carlito later reveals it was a subsidiary of Kronos, and that its destruction was orchestrated by Douglas Jacob."
+    },
+    "description": {
+      "en": "One of the world's most ill-fated munitions companies. Industry insiders assume a parent company controls it from behind, since little is known about its finances relative to its size. It does not hesitate to act against governments and it sponsors terrorists. Its soldiers - Titan, Ghost, Trooper and Lancer - appear to be outcomes of Dr. Rex's Super Soldier project, supported by Vanguard: humans reinforced with high technology for survivability and firepower. On completion of the project, Dr. Rex was found to have left the company."
+    },
+    "lore": {
+      "en": "**Human Scenario / Sidewinder.** After the Siege Types were unleashed in Chaos, Vanguard was tasked with taking the Siege Type samples from the rescue team to the Vanguard Lab. Government forces engaged them at Commander Victor's request, but Vanguard took the sample by force and withdrew.\n\n**Zombie Scenario: Season 3.** Research on the Siege Type samples went wrong and triggered a zombie-virus outbreak inside the Vanguard Lab. Some staff escaped by air; the rest had to reach the Panic Room to evacuate - only to find the lab's own defence system was infected too. Financier Norman, left behind, captured Erika to force David Black's AFC army toward the Panic Room; he is understood to have been infected there and died. The Vanguard Lab was destroyed and the fate of its personnel is unknown.\n\n**Kronos connection (Episode Carlito).** Vanguard was a child company of Kronos used as mercenaries to recover Dr. Rex's research. Douglas Jacob orchestrated the outbreak that destroyed it; Carlito and his unit became the last Vanguards, and Douglas later tried to eliminate them too. Vanguard troops also appear (as unfought dummy models) at the start of Episode Victor.\n\n**Position.** Hostile to the government and a sponsor of terrorists; the main antagonist force of Human Scenario mode. Later revealed to be a child company of Kronos."
+    },
+    "leaders": ["douglas-jacob"],
+    "members": ["douglas-jacob"],
+    "media": [
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f8/100831_3_1024_768.jpg",
+        "caption": {
+          "en": "The Vanguards (group art)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/4f/HScen_Enemy3.png",
+        "caption": {
+          "en": "Human Scenario enemy (Trooper)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/4e/HScen_Sniper.png",
+        "caption": {
+          "en": "Human Scenario enemy (Ghost/sniper)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/dd/HScen_Enemy4.png",
+        "caption": {
+          "en": "Human Scenario enemy (Lancer)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/0d/HScen_Enemy1.png",
+        "caption": {
+          "en": "Human Scenario enemy (Titan)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/cd/HScen_HTitan.png",
+        "caption": {
+          "en": "Heavy Titan"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f9/Norman_msg.png",
+        "caption": {
+          "en": "Norman message portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a6/Carlitoicon.png",
+        "caption": {
+          "en": "Carlito icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/19/Jacob_msg.png",
+        "caption": {
+          "en": "Douglas Jacob message portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/13/M14ebr.png",
+        "caption": {
+          "en": "M14 EBR"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9e/M134_gfx.png",
+        "caption": {
+          "en": "M134 Minigun"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/5a/Awpcamo.png",
+        "caption": {
+          "en": "AWP Camo"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/18/At4.png",
+        "caption": {
+          "en": "AT4-Lance"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Vanguard_Company",
+      "title": "Vanguard Company",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": [],
+    "release": [],
+    "trivia": []
+  }
+]

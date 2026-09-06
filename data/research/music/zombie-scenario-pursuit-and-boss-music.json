@@ -1,0 +1,18 @@
+{
+  "slug": "zombie-scenario-pursuit-and-boss-music",
+  "title": "Zombie Scenario - Pursuit and Boss music",
+  "composer": null,
+  "album": null,
+  "durationSeconds": null,
+  "summary": "The high-intensity theme for pursuit segments and boss fights (Dione, Revenant, Angra) in Zombie Scenario: Season 2.",
+  "description": "Listed on the Zombie Scenario: Season 2 page under the 'Pursuit and Boss music' heading of its Sounds section. It plays during checkpoint pursuits and the boss encounters against Dione (Toxicity, Culvert), Revenant (Decoy) and Angra (Angra Nest), and in the all-boss annihilation stage Poisoning. Title, composer and audio file were not exposed by the digest.",
+  "usedIn": {
+    "gameModes": ["Zombie Scenario"],
+    "scenarios": ["Toxicity", "Culvert", "Decoy", "Angra Nest", "Poisoning"],
+    "maps": []
+  },
+  "audioUrl": null,
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Zombie_Scenario:_Season_2",
+  "_confidence": "medium (category label from the wiki; official title unknown)"
+}

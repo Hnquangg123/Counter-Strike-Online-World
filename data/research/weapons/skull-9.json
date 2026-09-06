@@ -1,0 +1,67 @@
+{
+  "slug": "skull-9",
+  "name": "SKULL-9",
+  "aliases": ["Skull Axe", "Skull-9"],
+  "category": "melee",
+  "grade": null,
+  "origin": null,
+  "manufacturer": "Special alloy developed by the government (in-game lore)",
+  "caliber": null,
+  "tagline": "A giant government-alloy battle axe with murderous power against zombies.",
+  "summary": "SKULL-9 (the Skull Axe) is a large two-handed battle axe forged from a special alloy developed by the government, with destructive power aimed squarely at zombies. It has a longer reach than normal melee weapons, can hit multiple targets in one swing and does not slow the player down, but each slash has a delay and a low swing rate. It was sold only for limited periods and later offered through Bingo events and booster packs.",
+  "description": "The wiki describes SKULL-9 as a large battle axe made from a type of special alloy material developed by the government, with murderous destruction power especially towards zombies; it also has the Part System installed. Its primary attack is a vertical slash and its secondary a horizontal slash with a wider damage area but shorter range - the first melee weapon in CSO whose primary and secondary attacks deal equal damage. In Zombie modes a head hit deals 2,900 and body/chest/gut/leg hits 725 (up to 8,700 with a max-damage head hit), and it kills unarmored humans in one swing in normal matches (Kevlar reduces a 100 HP hit to 15). In Zombie Scenario it excels at breaking obstacles, mini-bosses and grouped zombies; in Human Scenario it kills Troopers and Lancers in one slash and Titans in two head slashes. Earlier versions dealt lower damage and weighed as much as an AWP.",
+  "stats": {
+    "damage": "Zombie mode: head 2,900, body 725 (max 8,700 on a head hit); one-swing kill on unarmored humans",
+    "accuracy": null,
+    "recoil": null,
+    "rateOfFire": "Low slash rate with attack delay",
+    "weight": "Does not affect player speed",
+    "knockback": null,
+    "stun": null
+  },
+  "ammo": { "magazine": null, "reserve": null, "type": null },
+  "price": "Limited-period sales only (cash)",
+  "fireModes": [
+    "Primary: vertical slash",
+    "Secondary: horizontal slash (wider area, shorter range)"
+  ],
+  "obtainMethod": "Limited-time purchase, Bingo Event, booster packs",
+  "advantages": [
+    "Massive damage to zombies",
+    "Longer attack range than normal melee weapons",
+    "Kills multiple targets in one slash",
+    "One-hit kill on bots (including leg hits)",
+    "No speed penalty",
+    "Wider damage area on the secondary slash",
+    "Available in most modes"
+  ],
+  "disadvantages": ["Attack delay", "Low slash rate", "Shorter secondary-slash range"],
+  "variants": [
+    "Green Dragon Blade (later melee with equal primary/secondary damage)",
+    "BALROG-IX (shares wall impact sound)"
+  ],
+  "characters": [],
+  "abilities": [],
+  "release": [
+    { "region": "kr", "date": "2010-12-16", "note": null },
+    { "region": "cn", "date": "2010-12-22", "note": null },
+    { "region": "tw", "date": "2011-01-11", "note": "Taiwan/Hong Kong" },
+    { "region": "jp", "date": "2011-03-31", "note": null },
+    { "region": "sg", "date": "2011-11-09", "note": "Singapore/Malaysia" },
+    { "region": "id", "date": "2012-03-14", "note": null },
+    { "region": "tr", "date": "2014-03-05", "note": null },
+    { "region": "csn", "date": "2014-09-23", "note": "Counter-Strike Nexon: Zombies" },
+    { "region": "vn", "date": "2015-03-26", "note": null }
+  ],
+  "trivia": [
+    "Earlier versions dealt lower damage and weighed as much as the AWP.",
+    "The attack delay causes kill icons to show the weapon switched to after the swing.",
+    "Useful for upgrading guns without spending ammo in Scenario modes.",
+    "First melee weapon dealing equal primary and secondary damage (followed by the Green Dragon Blade).",
+    "Cannot penetrate objects, only bodies (like SKULL-11).",
+    "Shares its wall-impact sound with BALROG-IX and the Green Dragon Blade.",
+    "In Counter-Strike Nexon: Studio it was bugged to be categorised as an item rather than a weapon, affecting disassembly, parts and paint."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/SKULL-9"
+}

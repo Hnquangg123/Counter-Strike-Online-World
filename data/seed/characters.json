@@ -1,0 +1,4476 @@
+[
+  {
+    "slug": "anemone",
+    "name": "Anemone",
+    "aliases": ["21-2 Transcendence Class TR", "Buffclass21s2tr (internal asset name)"],
+    "kind": "human",
+    "side": "tr",
+    "grade": "transcendent",
+    "classType": "Transcendent grade Terrorist character (Buff class, 2021 Season 2)",
+    "factions": ["terrorist"],
+    "profile": {
+      "gender": "Female",
+      "occupation": {
+        "en": "Pro gamer of Krono World (a VR platform); guardian/escort of her twin sister Mirage"
+      }
+    },
+    "tagline": {
+      "en": "Krono World's record-breaking pro gamer, standing guard over her twin sister Mirage."
+    },
+    "summary": {
+      "en": "Anemone is a Transcendent grade Terrorist character added to Counter-Strike Online on 1 July 2021 (Korea). She is a professional gamer on the VR platform Krono World whose skill has made her a name in world game competitions. Physically strong and sociable, she acts as a guardian for her twin sister Mirage after the two discover the creators of Krono World are running a suspicious scheme."
+    },
+    "story": {
+      "en": "Anemone is a pro gamer of Krono World, a VR platform, and is making a name for herself in world game competitions with her outstanding skills.\n\nUnlike her twin sister Mirage, Anemone is characterized by strong physical strength and affinity (sociability). When Mirage discovers that the creators of Krono World are running a suspicious scheme, Anemone accompanies her as a guardian.\n\nHer Counter-Terrorist counterpart and twin, Mirage, is a leading virtual streamer on Krono World who is secretly an excellent hacker; after stumbling on a suspicious log of Krono World, Mirage tries to contact the Aegis Lab (Aegis Institute) to avoid the enemies approaching for the information. Anemone is the Terrorist-side half of this paired 2021 Season 2 Transcendence class release.\n\n**Backstory from the Alpaca Anemone variant page (written as an in-character 'interview'):** As children, Anemone was the outdoorsy twin while Mirage, who was often unwell, had to stay indoors and spent much of her time on the computer. Anemone got into the habit of looking after her sister then, and it stuck even after Mirage recovered. Worried that Mirage was becoming withdrawn and avoiding people, Anemone started playing computer games alongside her to keep her company - and turned out to be far better than expected, eventually going pro without quite planning to. She also says she keeps whatever promises she makes with Mirage: the Alpaca costume itself is a penalty for losing a bet to her sister, which is why she is embarrassed to appear on air in it.\n\n## Personality\n\nStrong physical strength and high affinity/sociability (contrasted with her twin Mirage, who is lively online but shy and timid offline). Competitive spirit reflected in her voice lines (\"Time to break the record!\"). Protective older-sister energy toward Mirage; prefers being outdoors; honours bets and promises even when embarrassing (Alpaca Anemone interview)."
+    },
+    "quotes": [
+      {
+        "text": {
+          "en": "Anemone, online!"
+        },
+        "context": {
+          "en": "Page header quote (game start voice line)"
+        }
+      },
+      {
+        "text": {
+          "en": "Time to break the record!"
+        },
+        "context": {
+          "en": "Game start voice line (Transcendence class exclusive voice)"
+        }
+      },
+      {
+        "text": {
+          "en": "Hope nobody's late!"
+        },
+        "context": {
+          "en": "Game start voice line (Transcendence class exclusive voice)"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": {
+          "en": "Resolver (Exclusive Skill)"
+        },
+        "description": {
+          "en": "When used in Zombie Scenario, activates a ranged (area) skill that increases the defense of the user and allies; while active, attack power is increased up to 3 times when the user or allies are attacked."
+        }
+      },
+      {
+        "name": {
+          "en": "Experience/Point bonus"
+        },
+        "description": {
+          "en": "10% experience/point bonus when playing as this character (20% in PC rooms)."
+        }
+      },
+      {
+        "name": {
+          "en": "Higher Zombie Scenario level"
+        },
+        "description": {
+          "en": "This character has a higher level than a normal class in Zombie Scenario Mode."
+        }
+      },
+      {
+        "name": {
+          "en": "Zombie Z mutation"
+        },
+        "description": {
+          "en": "One initial mutation is added in Zombie Z mode."
+        }
+      },
+      {
+        "name": {
+          "en": "Damage HUD"
+        },
+        "description": {
+          "en": "The current damage is displayed on the lower HUD."
+        }
+      },
+      {
+        "name": {
+          "en": "Dedicated kill mark"
+        },
+        "description": {
+          "en": "A dedicated kill mark is displayed when killing an enemy."
+        }
+      },
+      {
+        "name": {
+          "en": "Transcendence class exclusive voice"
+        },
+        "description": {
+          "en": "Exclusive voice lines are applied."
+        }
+      }
+    ],
+    "scenarioStats": {
+      "health": 24,
+      "attack": 26,
+      "mobility": 25,
+      "armor": 21,
+      "ammo": 19
+    },
+    "costumes": [
+      {
+        "name": {
+          "en": "Anemone's Drone"
+        },
+        "description": {
+          "en": "Drone costume used by Anemone."
+        },
+        "imageUrl": "https://static.wikia.nocookie.net/cso/images/9/90/Anemone%27s_drone.png"
+      },
+      {
+        "name": {
+          "en": "Alpaca Anemone (variant)"
+        },
+        "description": {
+          "en": "Alpaca-costume version. In-lore she wears it as a penalty for losing a bet with Mirage. Page has an in-character interview giving Anemone's childhood backstory (see story)."
+        },
+        "imageUrl": "https://static.wikia.nocookie.net/cso/images/f/f2/Buffclass23s2tr.png"
+      }
+    ],
+    "signatureWeapon": "m2hb-devastator",
+    "weapons": ["m2hb-devastator"],
+    "scenarios": [],
+    "gameModes": ["zombie-scenario", "zombie-z", "original"],
+    "maps": [],
+    "relatedCharacters": ["mirage"],
+    "voiceActors": [
+      {
+        "region": "Korea",
+        "name": "Yoon Ah-young (윤아영)"
+      },
+      {
+        "region": "China",
+        "name": "Zisu Jiu Yue (紫蘇九月)"
+      },
+      {
+        "region": "Taiwan/Hong Kong",
+        "name": "Li Hanfei (李涵菲)"
+      },
+      {
+        "region": "CSN (Global / Counter-Strike Nexon)",
+        "name": "Dina Soaring"
+      }
+    ],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2021-07-01",
+        "note": "South Korea"
+      },
+      {
+        "region": "tw",
+        "date": "2021-07-14",
+        "note": "Taiwan & Hong Kong"
+      },
+      {
+        "region": "csn",
+        "date": "2021-07-14",
+        "note": "CSNS (Global)"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "Anemone is a genus of flowering plants in the buttercup family Ranunculaceae."
+      },
+      {
+        "en": "She shares her release posters (Korea and CSN:S) with her twin Mirage; the two were released together as the 21-2 Transcendence Class pair (TR/CT)."
+      },
+      {
+        "en": "The wiki's older concept art is captioned 'Anemone concept art (Old)'."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/55/Buffclass21s2tr.png",
+        "caption": {
+          "en": "Infobox portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/17/Buffclass21s2tr_shopmodel.png",
+        "caption": {
+          "en": "Model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/07/Buffclass21s2tr_viewmodel.png",
+        "caption": {
+          "en": "View model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/00/Buffclass21s2_kr.jpg",
+        "caption": {
+          "en": "Korea poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/86/Buffclasas21s2_cso_na.jpg",
+        "caption": {
+          "en": "CSN:S poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/bc/Killmark_21s2TR.gif",
+        "caption": {
+          "en": "Kill mark"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/cb/Anemone_icon.png",
+        "caption": {
+          "en": "Icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/37/Anemone_hud.png",
+        "caption": {
+          "en": "HUD icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3c/Anemoneconceptart.png",
+        "caption": {
+          "en": "Anemone concept art (Old)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e8/Buffclassskill_21s2tr_bg.png",
+        "caption": {
+          "en": "Exclusive skill (Resolver) background"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/90/Anemone%27s_drone.png",
+        "caption": {
+          "en": "Anemone's Drone costume"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "audio",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/51/Gamestart1_anemone.ogg",
+        "caption": {
+          "en": "Game start voice line 1"
+        },
+        "credit": "Nexon (voice line)"
+      },
+      {
+        "kind": "audio",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a1/Gamestart2_anemone.ogg",
+        "caption": {
+          "en": "Game start voice line 2"
+        },
+        "credit": "Nexon (voice line)"
+      },
+      {
+        "kind": "audio",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/dc/Gamestart3_anemone.ogg",
+        "caption": {
+          "en": "Game start voice line 3"
+        },
+        "credit": "Nexon (voice line)"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Anemone",
+      "title": "Anemone",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  },
+  {
+    "slug": "angra",
+    "name": "Angra",
+    "aliases": ["zbs_bossl_big06 (system name)"],
+    "kind": "boss",
+    "side": "zombie",
+    "grade": "unknown",
+    "classType": "Boss (Zombie Scenario: Season 2 - Angra Nest); playable giant zombie in Zombie Giant mode",
+    "factions": ["rex-research-institute"],
+    "profile": {
+      "gender": "Unknown"
+    },
+    "tagline": {
+      "en": "Dione's final form - the winged, poison-breathing dragon that was the first boss to take to the sky."
+    },
+    "summary": {
+      "en": "Angra is the final evolution of Dione (via Siege Type Dione) and the boss of the Angra Nest chapter, released alongside the Z-VIRUS: Scenario update. It is the first flying boss in Zombie Scenario: a European-dragon-styled monster that retains Dione's poison and tentacle attacks while adding a soaring mode, wind attacks and a devastating landing shockwave that disarms players. It later appears in Poisoning (round 5), Desert Plant and as a playable zombie in Zombie Giant."
+    },
+    "story": {
+      "en": "The LS team, having chased the wounded Dione through Toxicity and Culvert, finds the creature's hiding place at a mysterious ruined facility. According to Senior Researcher Soy, Dione - transforming under Z-VIRUS infection - is in a defenceless chrysalis stage, and the captain orders the team to kill it before it can emerge. Inside, what awaits is a huge devil's creation: Angra, the third and final confrontation with Dione, now far more powerful and able to fly. In Desert Plant, Angra appears on certain days from day 7, flying to the players' shelter to drop Venom Guards and special dark-blue-skinned zombies before landing near the truck that blocks the way out of the map."
+    },
+    "quotes": [],
+    "abilities": [
+      {
+        "name": {
+          "en": "Bite / Tackle (Land - Signature Primary)"
+        },
+        "description": {
+          "en": "Close-range land attacks."
+        }
+      },
+      {
+        "name": {
+          "en": "Earthquake (Land)"
+        },
+        "description": {
+          "en": "Ground-shaking attack."
+        }
+      },
+      {
+        "name": {
+          "en": "Tentacle (Land)"
+        },
+        "description": {
+          "en": "Same family of attack as Dione's but more damaging, with three patterns: instant tentacles under the player; a delayed simultaneous eruption; and a multi-stomp version where Angra predicts player movement so tentacles appear behind them. Countered by running in a circle, standing on the radar computer or ducking."
+        }
+      },
+      {
+        "name": {
+          "en": "Wind Elemental (Air)"
+        },
+        "description": {
+          "en": "Air-phase wind attack."
+        }
+      },
+      {
+        "name": {
+          "en": "Poison / Toxic Breath (both phases)"
+        },
+        "description": {
+          "en": "Locks onto one player while charging, then breathes a wide poison cloud with a short warm-up; dodge by getting behind it or strafing/jumping sideways. Inflicts a poison effect. Two radar computers must be switched on (E key, two players) while it flies off-map to detect it and avoid instant poison death."
+        }
+      },
+      {
+        "name": {
+          "en": "Soar mode / Land mode"
+        },
+        "description": {
+          "en": "Can fly; when it lands it damages and disarms everyone nearby (jump as it lands to keep your weapon) and instantly kills anyone directly beneath it."
+        }
+      },
+      {
+        "name": {
+          "en": "Poison Fog (Evolution skill, Zombie Giant)"
+        },
+        "description": {
+          "en": "After evolving in Zombie Giant (bluish colour scheme with cyan parts), gains a fourth skill releasing poison fog."
+        }
+      },
+      {
+        "name": {
+          "en": "Zombie Giant skill set"
+        },
+        "description": {
+          "en": "Spinning, Toxic Breath, Tentacle, Poison Fog (evolution)."
+        }
+      }
+    ],
+    "scenarioStats": {},
+    "costumes": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": ["zombie-scenario"],
+    "maps": ["angra-nest", "poisoning", "desert-plant"],
+    "relatedCharacters": ["dione", "dr-rex"],
+    "voiceActors": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "Final evolution of Dione; its wings are its iconic feature and it is the first Zombie Scenario boss able to fly."
+      },
+      {
+        "en": "Based on a European dragon."
+      },
+      {
+        "en": "'Angra' comes from Angra Mainyu, the Avestan name of the Zoroastrian/Persian spirit of darkness, death and destruction ('Evil Spirit')."
+      },
+      {
+        "en": "Considered one of the hardest bosses because its abilities cause disorientation (wide toxic breath, disarming landing shockwave)."
+      },
+      {
+        "en": "Before becoming a full playable zombie in Zombie Giant, Angra existed there only as a summon from Dione's fourth ability."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/91/Gogg.png",
+        "caption": {
+          "en": "Infobox portrait (HD model)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/ec/Angra_ingamemdl.png",
+        "caption": {
+          "en": "In-game model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a1/Angra_flying_hd.png",
+        "caption": {
+          "en": "Flying (HD)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/00/Angra_death_mdl.png",
+        "caption": {
+          "en": "Dead model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/94/Monksssssssssssss.png",
+        "caption": {
+          "en": "Tentacle model (shared with Dione)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/71/Angra_eggmdl.png",
+        "caption": {
+          "en": "Egg (chrysalis) model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "hud",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/ec/Bosshp_bg_left_angra.png",
+        "caption": {
+          "en": "Boss HP HUD"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/14/Angra_msg.png",
+        "caption": {
+          "en": "Message portrait (Zombie Shelter: Coop)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/bb/Zombipoison.png",
+        "caption": {
+          "en": "Poison effect inflicted by Angra"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e6/20120730ff_5.jpg",
+        "caption": {
+          "en": "Promotional art"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/94/Angraposter.png",
+        "caption": {
+          "en": "South Korea poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/af/Angracp.png",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d1/Angragameplay.png",
+        "caption": {
+          "en": "In-game screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/fb/Zg_angra.png",
+        "caption": {
+          "en": "Zombie Giant model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Angra",
+      "title": "Angra",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "choi-ji-yoon",
+    "name": "Choi Ji Yoon",
+    "aliases": ["최지윤", "Captain Choi", "choijiyoon (system name)"],
+    "kind": "human",
+    "side": "ct",
+    "grade": "unknown",
+    "classType": "Cash female Counter-Terrorist character; NPC captain in Zombie Scenario (Chaos, Episode Choi, All-Out)",
+    "factions": ["counter-terrorist"],
+    "profile": {
+      "gender": "Female",
+      "nationality": "Korean",
+      "occupation": {
+        "en": "Intelligence agent / special-forces captain; undercover infiltrator of the Asia Red Army"
+      }
+    },
+    "tagline": {
+      "en": "Two-headed serpent spy - the agent who infiltrated the Asia Red Army and never stopped chasing its secrets."
+    },
+    "summary": {
+      "en": "Choi Ji Yoon is a female Counter-Terrorist character (official description: 'Two-headed serpent spy') and Ritsuka's CT counterpart. An intelligence-bureau officer of the special forces, she went undercover inside the Asia Red Army; her cover was blown while she was reading the group's confidential files and she fled home, joining the Counter-Terrorists in the hope of one day recovering those documents. She is also the captain who leads players through the Rex basement in the Chaos chapter, and the heroine of Zombie Scenario Season 6's 'Episode Choi'."
+    },
+    "story": {
+      "en": "**Background.** A member of the special forces' intelligence bureau, Choi Ji Yoon was assigned to infiltrate a Terrorist group (the Asia Red Army, ARA). Another agent (Ritsuka) exposed her while she was looking through ARA's confidential documents, forcing her to flee back to her country. She then joined the Counter-Terrorists hoping to get her hands on those documents again.\n\n**Zombie Scenario: Season 1 - Chaos.** Choi Ji Yoon appears as the troop captain who orders the rescue team to press into the Rex laboratory basement. According to signal corpsman Felix's diary, the government issued an urgent retreat order, but Captain Choi's behaviour changed when she learned the team's location: she cut communications with headquarters and asked the team to carry out an internal investigation of the laboratory complex - leaving Felix wondering what she was really trying to find.\n\n**Z-VIRUS trailer.** She is shown investigating a lab when a Sting Finger attacks her from behind; fleeing, she encounters a Venom Guard and defends herself with an M32 MGL found on the ground.\n\n**Zombie Scenario: Season 6 - Episode Choi.** Sent by the CIA to infiltrate the Asia Red Army for intelligence, she is discovered by Ritsuka and held hostage; another CIA agent, May, is dispatched to rescue her. The episode reveals that the ARA, led by Mr. X, is funded by Douglas Jacob to deploy a biological weapon that turns people into monsters and zombies. She also appears in Season 7's All-Out chapter.\n\n**Family.** Her sister, a Female Researcher at the Rex Research Institute, turned into the Sting Finger zombie during the escape from the institute."
+    },
+    "quotes": [
+      {
+        "text": {
+          "en": "Two-headed serpent spy."
+        },
+        "context": {
+          "en": "Official description"
+        }
+      }
+    ],
+    "abilities": [],
+    "scenarioStats": {
+      "health": 22,
+      "attack": 16,
+      "mobility": 24,
+      "armor": 26,
+      "ammo": 17
+    },
+    "costumes": [],
+    "weapons": ["m4a1"],
+    "scenarios": [],
+    "gameModes": ["zombie-scenario"],
+    "maps": ["chaos", "episode-choi", "all-out"],
+    "relatedCharacters": ["ritsuka", "douglas-jacob"],
+    "voiceActors": [],
+    "release": [
+      {
+        "region": "sg",
+        "date": "2011-09-21",
+        "note": "Singapore/Malaysia - with Ritsuka and Double Agent Package"
+      },
+      {
+        "region": "id",
+        "date": "2012-01-04",
+        "note": "Indonesia"
+      },
+      {
+        "region": "tr",
+        "date": "2013-07-24",
+        "note": "Turkey"
+      },
+      {
+        "region": "csn",
+        "date": "2014-12-16",
+        "note": "CSN:Z"
+      },
+      {
+        "region": "vn",
+        "date": "2015-04-23",
+        "note": "Vietnam"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "Three alternate skins exist: Soccer, Limited Edition and Transcendence."
+      },
+      {
+        "en": "Her hair is brown in the selection icon and manga but dark blue on the in-game model (the same happens with Ritsuka)."
+      },
+      {
+        "en": "Appears as a non-playable supporting character in Chaos (Season 1) and Episode Choi (Season 6)."
+      },
+      {
+        "en": "Her NPC portrait is similar in Counter-Strike Online 2."
+      },
+      {
+        "en": "Her blue butterfly tattoo does not appear in the manga."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6b/Choijiyoon_gfx.png",
+        "caption": {
+          "en": "Infobox portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/ec/Choijiyoon_shopmodel.png",
+        "caption": {
+          "en": "Shop model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9a/Choi_hd.png",
+        "caption": {
+          "en": "HD model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/7d/Choiji-Yoon.jpg",
+        "caption": {
+          "en": "South Korea wallpaper"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/2b/Newgirl.jpg",
+        "caption": {
+          "en": "South Korea poster (with Ritsuka)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/76/Choijiyoon_promo.jpg",
+        "caption": {
+          "en": "Singapore/Malaysia poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9e/Chritsucp.jpg",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8b/Images_%285%29.jpg",
+        "caption": {
+          "en": "Taiwan/Hong Kong poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/93/Choijiyoon_poster_th.jpg",
+        "caption": {
+          "en": "Thailand poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e1/Ritsuka_choijiyoon_turkey_poster.png",
+        "caption": {
+          "en": "Turkey resale poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/87/Capnhatcuahang.png",
+        "caption": {
+          "en": "Vietnam poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/7b/Choijiyoon_msg.png",
+        "caption": {
+          "en": "NPC message portrait (Chaos, Episode Choi)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/75/Choiji-Yoon-CS_Online.jpg",
+        "caption": {
+          "en": "Choi Ji Yoon with M4A1"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8c/Choijiyoon_spray.png",
+        "caption": {
+          "en": "Spray"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/47/Choijiyoon_sd_HD.png",
+        "caption": {
+          "en": "SD spray"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/ff/Choijiyoon.png",
+        "caption": {
+          "en": "Buy icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f0/Choiji-Yoon-011.jpg",
+        "caption": {
+          "en": "In-game model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e8/Sexylegs.jpg",
+        "caption": {
+          "en": "Choi Ji Yoon at the scene where Gerard and David Black confront each other"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9b/Summerart2015.jpg",
+        "caption": {
+          "en": "CSO Summer 2015 poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/10/Choi_Ji-Yoon.jpg",
+        "caption": {
+          "en": "In-game screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "hud",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/83/Hud_choijiyoon.png",
+        "caption": {
+          "en": "HUD portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Choi_Ji_Yoon",
+      "title": "Choi Ji Yoon",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  },
+  {
+    "slug": "david-black",
+    "name": "David Black",
+    "aliases": ["David", "davidblack (system name)"],
+    "kind": "human",
+    "side": "tr",
+    "grade": "unknown",
+    "classType": "Premium male Terrorist character (Code Box); also a guiding/hidden NPC in Zombie Scenario",
+    "factions": ["terrorist"],
+    "profile": {
+      "gender": "Male",
+      "occupation": {
+        "en": "Veteran soldier; former SAS instructor; later leads the AFC army and the rescue effort for Erika"
+      }
+    },
+    "tagline": {
+      "en": "The SAS instructor who walked out of the Rex basement and never went back to the side he came from."
+    },
+    "summary": {
+      "en": "David Black is a premium Terrorist character obtainable from Code Box and one of the pillars of the Zombie Scenario storyline. A veteran SAS instructor who survived the Rex laboratory explosion, he was so disillusioned by what he saw underground that he accepted the Terrorists' offer of a way out in exchange for helping them obtain confidential documents. His former protege Gerard hunts him, and the two men's relationship - rivalry, then reluctant alliance - runs through Seasons 3 to 9."
+    },
+    "story": {
+      "en": "**Background (character page).** David is a battle-hardened veteran and a former SAS instructor. He was among the survivors trapped in the laboratory basement during the Rex laboratory explosion. What he witnessed there left him disillusioned, and he agreed to join the Terrorists after they promised to get him out of the lab if he helped them secure confidential documents. Learning that Gerard was pursuing him, he chose to face him on the battlefield in the hope of persuading Gerard to join the Terrorist side.\n\n**Zombie Scenario: Season 3 (Contact / Behind / Threat / Panic Room).** As leader of the AFC army, David receives an urgent request from Norman and, when contact is cut, tracks Norman's last signal to a deserted, sandstorm-swept town that hides the secret entrance to the Vanguard Laboratory. His force breaks into Vanguard headquarters at heavy cost; Erika - whom David treats like a daughter - is wounded. Norman watches through the lab cameras and sends AMP Suits, ostensibly as support. David fortifies the munitions factory as a foothold, but the AMP Suit kidnaps Erika and David rides the lift to the Panic Room to rescue her and take revenge on Norman, unaware of Norman's true intentions. The Panic Room, supposedly the safest place in Vanguard, becomes the worst battlefield of all.\n\n**Zombie Scenario: Season 7 (Rex Labs / Lowdown).** After escaping the Panic Room, Erika suffers unexplained recurring pain. Soi contacts David and tells him to come to the Rex Labs if he wants a cure; they arrive to find the lab already attacked, and follow coordinates found there to a meeting with Gerard rather than Soi. Gerard reveals that Douglas Jacob was the hidden hand behind Dr. Rex and behind Erika's kidnapping.\n\n**Zombie Scenario: Season 8 (Upcoming Threat).** David, Erika and Gerard form a new team and set out to recruit the person who once blew up the Rex Labs (Yuri), tracking them to an abandoned munitions factory - where Douglas sends a hunter after them. Ritsuka is also dispatched to stop the party but fails. By Season 9 David is named among the heroes (with Soi and Jennifer) working to stop Douglas."
+    },
+    "quotes": [],
+    "abilities": [
+      {
+        "name": {
+          "en": "Zombie Scenario stat profile"
+        },
+        "description": {
+          "en": "Higher HP (+4) and higher reserve ammo (+2), but lower attack power (-2) and lower mobility (-3). Suited to survival rather than raw combat."
+        }
+      }
+    ],
+    "scenarioStats": {
+      "health": 25,
+      "attack": 19,
+      "mobility": 18,
+      "armor": 21,
+      "ammo": 22
+    },
+    "costumes": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": ["zombie-scenario", "original"],
+    "maps": [
+      "behind",
+      "threat",
+      "panic-room",
+      "illusion",
+      "third-report",
+      "rex-labs",
+      "lowdown",
+      "upcoming-threat"
+    ],
+    "relatedCharacters": ["gerard", "erika", "douglas-jacob"],
+    "voiceActors": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "Appears as a guiding NPC in Behind, Threat, Panic Room and Illusion."
+      },
+      {
+        "en": "Appears as a hidden NPC supporting Soy in the Third Report chapter, revealing himself at the end."
+      },
+      {
+        "en": "A cutscene shows him wielding a Quad-barreled shotgun to protect Soy from three zombies."
+      },
+      {
+        "en": "His hidden-NPC message graphic is shared with Gerard."
+      },
+      {
+        "en": "Variants: Outlaw David (anarchist version) and Boss David Black (transcendence version)."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f8/Davidblack.png",
+        "caption": {
+          "en": "Infobox portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/5f/Davidblack_model.png",
+        "caption": {
+          "en": "Shop model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/89/Davidblack_ingamemdl.png",
+        "caption": {
+          "en": "In-game model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/0c/David_wdevil_costume.png",
+        "caption": {
+          "en": "David Black wearing Devil costume"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f6/Davidblack_icon.png",
+        "caption": {
+          "en": "Buy icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/72/David_black_concept_art.png",
+        "caption": {
+          "en": "Promotional art"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3b/Zsm_poster.jpg",
+        "caption": {
+          "en": "Lost City poster (Gerard, David Black, Ritsuka)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/ef/Gerrard_and_davidblack.jpeg",
+        "caption": {
+          "en": "Gerard confronting David Black"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/65/2009102901.jpg",
+        "caption": {
+          "en": "Zombie 3: Hero poster (Gerard, David Black and Hero in Abyss3)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f0/Cs1z.jpg",
+        "caption": {
+          "en": "Last Clue poster: 707, David Black and Gerard fighting Phobos"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8d/Csnz_originalpromotionalart.png",
+        "caption": {
+          "en": "CSN:Z promotional art (David Black with Nata Knife)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3e/Davidblack_msg.png",
+        "caption": {
+          "en": "NPC message portrait (ZS Season 3, Third Report)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c8/Anonymous_msg.png",
+        "caption": {
+          "en": "Hidden NPC (anonymous) message portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/63/David_Black.jpg",
+        "caption": {
+          "en": "In-game screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "hud",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/0a/Hud_davidblack.png",
+        "caption": {
+          "en": "HUD portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/bd/Black_angry.png",
+        "caption": {
+          "en": "Expression: Angry"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/61/Black_embar.png",
+        "caption": {
+          "en": "Expression: Embarrassed"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/cb/Black_frown.png",
+        "caption": {
+          "en": "Expression: Frown"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/ee/Black_laugh.png",
+        "caption": {
+          "en": "Expression: Laugh"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b9/Black_sad.png",
+        "caption": {
+          "en": "Expression: Sad"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/96/Black_smile.png",
+        "caption": {
+          "en": "Expression: Smile"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3b/Black_usual.png",
+        "caption": {
+          "en": "Expression: Usual"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/David_Black",
+      "title": "David Black",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  },
+  {
+    "slug": "dione",
+    "name": "Dione",
+    "aliases": ["zbs_bossl_big03 (system name)", "zg_dione (Zombie Giant system name)"],
+    "kind": "boss",
+    "side": "zombie",
+    "grade": "unknown",
+    "classType": "Boss (Zombie Scenario: Season 2); playable giant zombie in Zombie Giant mode",
+    "factions": ["rex-research-institute"],
+    "profile": {
+      "gender": "Male"
+    },
+    "tagline": {
+      "en": "The reptilian horror of the Caribbean jungle - the first boss that refused to die."
+    },
+    "summary": {
+      "en": "Dione is the reptilian boss of Zombie Scenario: Season 2, first met in the Toxicity chapter one year after the Lost City incident when the LS team, guided by Aegis researcher Soy, parachutes into the Caribbean jungle to look for clues about Dr. Rex. Uniquely for its time, Dione is not killed when its health is depleted: it escapes wounded, harasses the team in Culvert, evolves into Siege Type Dione, and ultimately becomes Angra. It later became a playable zombie in Zombie Giant mode."
+    },
+    "story": {
+      "en": "**Season 2 arc.** In Toxicity, the LS team defeats Dione but it escapes. Senior Researcher Soy reports that the beast was badly injured and that headquarters has ordered the pursuit to continue - capture it alive if possible, kill it if not. The team tracks Dione into the culverts (Culvert chapter), where it attacks from round 4 to 8 before evolving into Siege Type Dione at round 9; countless zombies pour in to meet the team at the same time. The LS captain later briefs the team on using a lure device (which also attracts zombies) to draw the monster out, and finally, at a ruined facility, explains that Dione - transforming due to Z-VIRUS infection - is in a defenceless chrysalis stage that must be destroyed before it can emerge (leading into Angra Nest). Dione also appears in round 3 of Poisoning and in Collapse.\n\n**Zombie Giant.** Dione is one of the playable zombies controlled in third person; a new death animation was created because the Scenario version never dies. Unlike Revenant and Fallen Titan, which get new skins when evolving, Dione simply becomes Siege Type Dione on evolution and gains a fourth skill that summons an Angra to support it."
+    },
+    "quotes": [],
+    "abilities": [
+      {
+        "name": {
+          "en": "Tentacle (ground pound)"
+        },
+        "description": {
+          "en": "Pounds the ground so black spots appear nearby, then tentacles erupt from them, tossing caught players upward for tentacle plus fall damage. Two variants: a single stab with instant tentacles, and a 7-stab sequence covering a large area with a delay. Can be avoided by crouching and moving, or ducking so the tentacles cannot toss you."
+        }
+      },
+      {
+        "name": {
+          "en": "Poison (toxic wave / spit)"
+        },
+        "description": {
+          "en": "Sways its head and moans for 3-4 seconds, then spews a long-range wave of toxin that damages or kills players who fail to take cover (ideally 180 degrees from its line of sight). Can be dodged with a well-timed jump."
+        }
+      },
+      {
+        "name": {
+          "en": "Rolling"
+        },
+        "description": {
+          "en": "Curls up and rolls to another spot, dealing heavy or lethal damage to anyone in its path; melee attacks are risky below half health."
+        }
+      },
+      {
+        "name": {
+          "en": "Circular swipe (disarm)"
+        },
+        "description": {
+          "en": "A spinning swipe with a chance to knock weapons out of players' hands within its radius."
+        }
+      },
+      {
+        "name": {
+          "en": "Summon Angra (Evolution skill, Zombie Giant)"
+        },
+        "description": {
+          "en": "After evolving into Siege Type Dione, can summon an Angra that soars overhead and uses poison breath."
+        }
+      },
+      {
+        "name": {
+          "en": "Weak point"
+        },
+        "description": {
+          "en": "Chest (and probably head); hitting other parts only chips its health bar. Attacks grow deadlier and wider-ranging as its health drops."
+        }
+      }
+    ],
+    "scenarioStats": {},
+    "costumes": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": ["zombie-scenario"],
+    "maps": ["toxicity", "culvert", "poisoning", "collapse", "decoy-per-intro"],
+    "relatedCharacters": ["angra", "dr-rex"],
+    "voiceActors": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "Named after Dione of Greek mythology; possibly also after Saturn's icy moon."
+      },
+      {
+        "en": "Standing where Dione lands gets the player crushed."
+      },
+      {
+        "en": "The first boss that did not die when its health was fully depleted - it was merely wounded and escaped to evolve (the second such boss is Tesla in Counter-Strike Online 2)."
+      },
+      {
+        "en": "Can be killed in Boss Chase, Forsaken and Splash."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b6/Dione.png",
+        "caption": {
+          "en": "Infobox portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3b/Dione_ingamemdl.png",
+        "caption": {
+          "en": "In-game model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/1e/Dione_modelhd_2.png",
+        "caption": {
+          "en": "In-game model (HD)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/38/Dione_modelhd_1.png",
+        "caption": {
+          "en": "In-game model (HD, 2)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/78/Dione_dummy.png",
+        "caption": {
+          "en": "Dummy model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/94/Monksssssssssssss.png",
+        "caption": {
+          "en": "Tentacle model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/1c/I_am_dione.png",
+        "caption": {
+          "en": "In-game screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/48/Dione_spining.png",
+        "caption": {
+          "en": "Rolling attack screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/20/3927179973609127937.jpg",
+        "caption": {
+          "en": "Poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "hud",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/fe/Bosshp_bg_left_dione.png",
+        "caption": {
+          "en": "Boss HP HUD"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "hud",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/01/Bosshp_bg_left_dione_new.png",
+        "caption": {
+          "en": "Boss HP HUD (new)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b6/Dione_attack_poison.png",
+        "caption": {
+          "en": "Poison spit attack"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c0/Dione_attack_tentacle.png",
+        "caption": {
+          "en": "Tentacle attack"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/aa/Dione_attack_roll.png",
+        "caption": {
+          "en": "Rolling attack"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/41/Diones5.jpg",
+        "caption": {
+          "en": "South Korea poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e5/Dionecp.jpg",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/cb/Dione.gif",
+        "caption": {
+          "en": "Preview animation"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "hud",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6f/Hud_dione.png",
+        "caption": {
+          "en": "Zombie Giant HUD portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Dione",
+      "title": "Dione",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  },
+  {
+    "slug": "douglas-jacob",
+    "name": "Douglas Jacob",
+    "aliases": ["Douglas", "Chairman of Kronos", "jacob (system name)"],
+    "kind": "npc",
+    "side": "neutral",
+    "grade": "unknown",
+    "classType": "Antagonist NPC / mission pointer; main antagonist of Zombie Scenario after Dr. Rex; pilots the Adamant / Adamant-Z boss battlegear",
+    "factions": ["kronos", "vanguard-company", "asia-red-army"],
+    "profile": {
+      "gender": "Male",
+      "occupation": {
+        "en": "Founder/president of the multinational Kronos company; secret financier of the Super Soldier Project"
+      }
+    },
+    "tagline": {
+      "en": "The anonymous informer behind Dr. Rex - a chairman who funded both sides of every war and finished the super-soldier dream himself."
+    },
+    "summary": {
+      "en": "Douglas Jacob, president of the multinational Kronos company, is the true mastermind of the Counter-Strike Online zombie saga and its main antagonist after Dr. Rex. First seen only as a mission-giver, he was revealed in Season 5's Last Ride (by Crono Wing and Soi) to be the man who secretly funded Dr. Rex's Super Soldier Project; after Rex's death he perfected the research, creating conscious zombie 'agents'. He bankrolled both Counter-Terrorists and Terrorists, owned the Vanguard Company and funded the Asia Red Army, and in the final battle piloted the Adamant-Z battlegear before dying in an airstrike called on his control room as he tried to launch an ICBM."
+    },
+    "story": {
+      "en": "**The anonymous informer.** When Dr. Rex's Super Soldier Project was on the brink of failure, Douglas served as the 'anonymous informer' who told Rex that the virus in the corpses from Heorgen was the key to success. This led Rex to create zombies and cost him his government funding; Douglas kept funding him in secret and, after Rex's death, carried the project on alone, ultimately producing the 'zombies with consciousness' he calls his agents - the thing Rex had dreamed of.\n\n**Mr. X and the Asia Red Army.** Seeing the CT-vs-Terrorist war as an opportunity, Douglas funded both sides across the world. His funding of the Asia Red Army drew the CIA's attention and led to Choi Ji Yoon's infiltration. On Mr. X's recommendation he hired Ritsuka to spread terror; when both the ARA and Ritsuka disappointed him he sabotaged them. After Alin and Dominique captured Ritsuka in Overflow, she cut ties with Kronos and sided with Carlito.\n\n**Erika.** Douglas identified Erika as a potential antibody test subject and is suspected of having ordered Norman to kidnap her to the Panic Room; she was infected during the abduction but her genes resisted mutation, leaving her in chronic pain that only Douglas's data can cure. He later sent Mammon to destroy a hidden research facility (disguised as a sewage treatment site) before Gerard and Jim could find it. After his defeat Erika is under treatment.\n\n**Jack and Laser Wing.** Douglas 'rescued' Jack from death after Yuri bombed the Rex research facility, turned him into Laser Wing - his first conscious zombie - and convinced him that Jennifer had abandoned him, setting Jack against her until Jack regained his senses before dying and partially revealed the common enemy.\n\n**Vanguard Company.** Episode Carlito reveals that Vanguard was a child company of Kronos, used as mercenaries to recover Dr. Rex's research. Douglas orchestrated the zombie outbreak that destroyed it, then valued Carlito's unit - the last Vanguards - for taking missions without question, before deciding mercenaries were a 'dying breed' once his research was perfected and trying to eliminate them with arranged zombie attacks. Carlito survived and joined the allied forces.\n\n**Endgame (Seasons 7-9).** Carlito's squad, the government forces and the Aegis researchers strike at Kronos; Alin and Dominique destroy a secret lab whose shockwave exposes Kronos's hidden facilities, turning governments and former allies against Douglas. He lashes out, seizing the Aegis Institute's laboratories (Obstacle), which Jennifer and Soi fight to recapture; a 'Secret Plan' involving his worldwide military factories is uncovered and attacked. In the final encounter he sends all his agents against the Aegis Allied Force, pilots the Adamant battlegear - built from leaked Aegis combat data, with a virus-infused Adamant-Z form - and, after failing, retreats to launch an ICBM. Soi requests air support and his control room is bombed just in time.\n\n## Personality\n\nManipulative string-puller who nudges events from behind the scenes; talkative and self-assured; treats people as assets and cuts 'loose ends'."
+    },
+    "quotes": [],
+    "abilities": [
+      {
+        "name": {
+          "en": "Adamant / Adamant-Z"
+        },
+        "description": {
+          "en": "High-tech battlegear he pilots himself; initial form and a zombie-virus-infused form."
+        }
+      }
+    ],
+    "scenarioStats": {},
+    "costumes": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": ["zombie-scenario"],
+    "maps": [
+      "last-ride-revealed",
+      "episode-carlito",
+      "rendezvous",
+      "episode-lucia",
+      "obstacle",
+      "secret-plan",
+      "convoy",
+      "chaser"
+    ],
+    "relatedCharacters": ["dr-rex", "erika"],
+    "voiceActors": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "Like Dr. Rex he follows the 'man in a suit' theme and is probably inspired by Half-Life's G-Man - Counter-Strike began as a Half-Life mod - nudging events to his liking, though he is far more talkative and is the employer rather than an agent."
+      },
+      {
+        "en": "The Trivia on the Vanguard Company page names him as the person supervising the Vanguard Lab's research project."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/19/Jacob_msg.png",
+        "caption": {
+          "en": "NPC message portrait (infobox)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/92/Pic2_douglas_jacob.png",
+        "caption": {
+          "en": "Gallery image"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/51/Char2_douglas_jacob.png",
+        "caption": {
+          "en": "Character art"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/44/Char3_douglas_jacob.png",
+        "caption": {
+          "en": "Character art (2)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Douglas_Jacob",
+      "title": "Douglas Jacob",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "dr-rex",
+    "name": "Dr. Rex",
+    "aliases": [
+      "Dr. Steve Rex",
+      "Steve Rex",
+      "Infected Rex",
+      "doctorrex / rex / infectedrex (system names)"
+    ],
+    "kind": "npc",
+    "side": "zombie",
+    "grade": "unknown",
+    "classType": "Antagonist NPC / mission pointer; final boss of Paranoia and Madness (Zombie Scenario: Season 4); Super Soldier (infected form)",
+    "factions": ["rex-research-institute", "counter-terrorist"],
+    "profile": {
+      "gender": "Male",
+      "occupation": {
+        "en": "Director of the Rex Laboratory; bio-engineer and mechanical engineer leading the classified Super Soldier Project"
+      }
+    },
+    "tagline": {
+      "en": "The scientist who dug up Europe's buried dead to build a super soldier - and built the zombie apocalypse instead."
+    },
+    "summary": {
+      "en": "Dr. Steve Rex, director of the Rex Research Institute, is the original mastermind of the zombie outbreak and the primary antagonist of Zombie Scenario up to Season 4. Leading a classified Super Soldier Project, he hit a wall - no soldier could withstand his high-tech battle gear - until an anonymous informer (later revealed as Douglas Jacob) told him of mutant animated corpses found in Europe decades earlier. His resulting Rex Virus amplified human strength but turned its hosts into mindless zombies. He sealed the failed experiment underground, but it broke loose in the Lost City. He resurfaced as the 'secret client' of Season 4, was infected, mutated into a gigantic boss combining the traits of earlier bosses, and was destroyed in Paranoia and Madness."
+    },
+    "story": {
+      "en": "**Rex Laboratory and the Super Soldier Program.** Publicly the Rex Laboratory produces American military weapons, but behind closed doors its director, Dr. Steve Rex - a leading authority in bio- and mechanical engineering - runs a classified Super Soldier Project whose goal is a soldier capable of defeating the Terrorists. No human subject had the strength or endurance to control Rex's high-tech battle gear, so the project stalled; Rex concluded the human body itself was the limit.\n\n**The Rex Virus.** A private report from an anonymous informer told Rex that powerful mutant corpses - zombies - had existed in Europe decades earlier (the corpses of Heorgen, per the Douglas Jacob page). Energised, Rex had the bodies excavated and brought to a secret underground laboratory, where he studied them obsessively for months. He succeeded in formulating the Rex Virus, which enhances the body's strongest capacities painlessly - but with one side effect: the infected became zombies with no self-consciousness, driven only to kill all humans regardless of faction. Because consciousness was essential to operating his battle gear, Rex judged the experiment a failure and sealed the underground lab for good. The government stopped funding him; Douglas Jacob kept funding him in secret.\n\n**Outbreak.** The zombies escaped the lab (Chaos chapter) and overran the Lost City, which was quarantined. Jennifer was captured and kept alive there as a human test subject.\n\n**Revelation (Season 4).** Posing as a secret client, Rex hired Gerard and Jim's team to deliver a research sample, then greeted them at the transaction site with waves of zombies (Conspiracy). In Envy Mask he revealed himself and his Super Soldier Program, admitting that instead of super soldiers it produced zombies and a viral plague. In Paranoia he became the main boss: infected, he transformed into a gigantic zombie that mixes the features of earlier bosses (Oberon's claw, Fallen Titan's hand, Revenant's armour) and reuses their attacks - Dione's poison spit, Dione/Angra's tentacles, Neid's dash and slash, Fallen Titan's charge, Phobos's stomp, Gluttony's hurricane - plus an egg-shaped blue shield that releases a shockwave. He returns as the round-5 final boss of Madness. Before dying he hinted that someone else was continuing his research to make super soldiers - Douglas Jacob and Kronos."
+    },
+    "quotes": [
+      {
+        "text": {
+          "en": "You wanna hear a story? You're going to die anyway"
+        },
+        "context": {
+          "en": "Dr. Rex's words in the Envy Mask chapter (page header quote)"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": {
+          "en": "Composite boss moveset (infected form)"
+        },
+        "description": {
+          "en": "Poison spit (Dione), tentacles (Dione/Angra), dash and slash (Neid), charge (Fallen Titan), stomp (Phobos), hurricane (Gluttony)."
+        }
+      },
+      {
+        "name": {
+          "en": "Egg shield"
+        },
+        "description": {
+          "en": "Encases himself in an egg-shaped blue shield, then releases a shockwave."
+        }
+      },
+      {
+        "name": {
+          "en": "Mid-battle healing"
+        },
+        "description": {
+          "en": "Third boss with a healing skill mid-fight, after Revenant and Bio Scorpion."
+        }
+      }
+    ],
+    "scenarioStats": {},
+    "costumes": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": ["zombie-scenario"],
+    "maps": [
+      "conspiracy-hidden-npc",
+      "envy-mask",
+      "paranoia-boss",
+      "madness-final-boss-round-5",
+      "memories"
+    ],
+    "relatedCharacters": ["douglas-jacob", "yuri"],
+    "voiceActors": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "Full name: Steve Rex."
+      },
+      {
+        "en": "His face resembles Tony Stark (Iron Man); his dark-blue blazer and red tie recall the G-Man from Half-Life."
+      },
+      {
+        "en": "The first mutant to retain consciousness after Z-VIRUS infection - a trait shared by all later Zombie Scenario bosses."
+      },
+      {
+        "en": "The only antagonist to appoint players Daily missions."
+      },
+      {
+        "en": "When infected, his appearing/sucking animations reuse Fallen Titan's appearing/howling animations."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/5e/Doctorrex_msg.png",
+        "caption": {
+          "en": "NPC message portrait (infobox)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6f/Drrex_promo_art.png",
+        "caption": {
+          "en": "Promotional art"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f8/Zs_rex_offscreenshot_5.png",
+        "caption": {
+          "en": "South Korea poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d2/Envymask_taiwanposter.png",
+        "caption": {
+          "en": "Taiwan/Hong Kong poster (Envy Mask)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/67/0701_3.png",
+        "caption": {
+          "en": "CSN:Z poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/38/606x295_paranoia.jpg",
+        "caption": {
+          "en": "Vietnam poster (Paranoia)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/40/Rex_human_ingamemdl.png",
+        "caption": {
+          "en": "In-game model (human)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/5b/Anonymous2_msg.png",
+        "caption": {
+          "en": "Hidden NPC message portrait (Conspiracy, Envy Mask)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/5b/Doctorrex.png",
+        "caption": {
+          "en": "Dr. Rex appointing a Daily Mission"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "hud",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b8/Hud_drrex.png",
+        "caption": {
+          "en": "Allstar HUD portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/dc/Infectedrex_msg.png",
+        "caption": {
+          "en": "Infected Rex message portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "hud",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8b/Bosshp_bg_left_rex.png",
+        "caption": {
+          "en": "Boss HP HUD"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/45/Rex_ingame_mdl.png",
+        "caption": {
+          "en": "Infected Rex in-game model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a8/Rex_infected_mdl_hd.png",
+        "caption": {
+          "en": "Infected Rex model (HD)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/39/Rex_tentacle.png",
+        "caption": {
+          "en": "Tentacle model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/25/Rex_taiwanposter.png",
+        "caption": {
+          "en": "Taiwan/Hong Kong poster (Paranoia)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/4d/Infected_rex_chinaposter.png",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6b/Paranoia_janus11_japanposter.png",
+        "caption": {
+          "en": "Japan poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/14/Paranoia_poster_indonesia.png",
+        "caption": {
+          "en": "Indonesia poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/00/Dr._Rex.jpg",
+        "caption": {
+          "en": "In-game screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "audio",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/44/Scene.ogg",
+        "caption": {
+          "en": "Cutscene audio"
+        },
+        "credit": "Nexon (voice line)"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Dr._Rex",
+      "title": "Dr. Rex",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "erika",
+    "name": "Erika",
+    "aliases": ["Erica (some regions)", "エリカ", "jpngirl01 (system name)"],
+    "kind": "human",
+    "side": "tr",
+    "grade": "unknown",
+    "classType": "Cash female Terrorist character (4th female Terrorist); NPC in Zombie Scenario Seasons 3, 7 and 8",
+    "factions": ["terrorist"],
+    "profile": {
+      "gender": "Female",
+      "birthplace": "Lost City (sole rescued survivor)",
+      "occupation": {
+        "en": "Trainee fighter under David Black"
+      }
+    },
+    "tagline": {
+      "en": "Master of Disguise - the Lost City's only rescued survivor, carrying a virus her own body refuses to obey."
+    },
+    "summary": {
+      "en": "Erika (Erica in some regions) is the fourth female Terrorist character in Counter-Strike Online and May's TR counterpart. The only survivor rescued from the ruined Lost City, she followed the man who saved her (David Black) into the Terrorist ranks and trained as a fighter to bury the trauma of the tragedy. Kidnapped at Vanguard's Panic Room and infected, her unusual genes stopped the mutation but left her in recurring pain - which drives the Season 7 and 8 storyline."
+    },
+    "story": {
+      "en": "**Background.** Erika was the only survivor rescued from the ruined Lost City. She joined the Terrorists, following the person who saved her life, and threw herself into learning to fight - a new life with a cruel fate ahead, and one that let her almost forget the shock of what she survived.\n\n**Zombie Scenario: Season 3.** Fighting alongside David Black's AFC army in the assault on Vanguard headquarters, Erika - who is like a daughter to David - is injured in the battle. Norman's AMP Suit then kidnaps her, drawing David into the Panic Room. She appears as a supporting NPC in the Behind, Threat and Panic Room chapters and in the extra chapter Illusion.\n\n**Kidnapping motive (Douglas Jacob page).** Douglas Jacob had identified Erika as a potential antibody test subject and, it is suspected, ordered Norman to abduct her so she could become his next 'agent'. During the abduction she was infected, but her special genes resisted the mutation - keeping her human at the cost of constant pain that prevents her from taking part in intense combat. Douglas's data also holds the means to cure that pain.\n\n**Zombie Scenario: Season 7 (Rex Labs / Lowdown).** After escaping the Panic Room, Erika begins to suffer periodic unexplained pain. Soi tells David to bring her to the Rex Labs for a cure; they find the lab attacked and, following coordinates recovered there, meet Gerard, who reveals Douglas's role behind Rex and behind her kidnapping.\n\n**Zombie Scenario: Season 8 (Upcoming Threat).** Now part of a team with David and Gerard, Erika's pain recurs as they reach an abandoned munitions factory hunting for the person who once bombed the Rex Labs; Douglas sends a hunter after them. After Douglas is defeated, Erika is said to be under treatment."
+    },
+    "quotes": [
+      {
+        "text": {
+          "en": "Master of Disguise"
+        },
+        "context": {
+          "en": "SG/MY description (name of her release set)"
+        }
+      }
+    ],
+    "abilities": [],
+    "scenarioStats": {
+      "health": 26,
+      "attack": 17,
+      "mobility": 19,
+      "armor": 23,
+      "ammo": 20
+    },
+    "costumes": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": ["original", "zombie-scenario"],
+    "maps": [
+      "behind",
+      "threat",
+      "panic-room",
+      "illusion",
+      "rex-labs",
+      "lowdown",
+      "upcoming-threat",
+      "industry"
+    ],
+    "relatedCharacters": ["david-black", "douglas-jacob", "gerard"],
+    "voiceActors": [],
+    "release": [
+      {
+        "region": "sg",
+        "date": "2012-01-19",
+        "note": "Singapore/Malaysia - with May and Master of Disguise set"
+      },
+      {
+        "region": "id",
+        "date": "2013-05-22",
+        "note": "Indonesia"
+      },
+      {
+        "region": "tr",
+        "date": "2014-04-02",
+        "note": "Turkey"
+      },
+      {
+        "region": "csn",
+        "date": "2015-04-22",
+        "note": "CSN:Z"
+      },
+      {
+        "region": "vn",
+        "date": "2015-10-13",
+        "note": "Vietnam"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "Speaks Chinese in the Taiwan/Hong Kong and China versions."
+      },
+      {
+        "en": "Introduced new radio commands (e.g. bomb-location and thank-you calls), shared with May."
+      },
+      {
+        "en": "Has a distinct swimming animation, also used by May."
+      },
+      {
+        "en": "In the CSO manhwa she wears black tights like May; this was cut from the in-game model."
+      },
+      {
+        "en": "Wears an 'N' (Newbie) sticker on her hat, hinting at her inexperience."
+      },
+      {
+        "en": "An old model and a current model exist."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9f/Jpngirl01_gfx.png",
+        "caption": {
+          "en": "Infobox portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/83/4116329719144645147.jpg",
+        "caption": {
+          "en": "Old model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9f/0000396912.jpg",
+        "caption": {
+          "en": "Current model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/20/Erica_model.png",
+        "caption": {
+          "en": "In-game model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8b/Erica.png",
+        "caption": {
+          "en": "Shop model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a0/Erica_wp90_lapin.png",
+        "caption": {
+          "en": "Erika with P90 Lapin"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/60/3485826660371005444.jpg",
+        "caption": {
+          "en": "South Korea poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d7/Jpngirl01_msg.png",
+        "caption": {
+          "en": "NPC message portrait (Behind, Panic Room, Illusion)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f8/Mayerika.jpg",
+        "caption": {
+          "en": "Singapore/Malaysia poster (with May)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a3/Indo_22_mei.jpg",
+        "caption": {
+          "en": "Indonesia poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/19/Ericcp.jpg",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/21/Mei_erica_soulbane_serrated_turkeyposter.png",
+        "caption": {
+          "en": "Turkey poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/4e/549444_465818253570479_4826617874059480206_n.png",
+        "caption": {
+          "en": "CSN:Z poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9a/606x295_capnhatcuahang.jpg",
+        "caption": {
+          "en": "Vietnam poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8e/EricaManhwa.png",
+        "caption": {
+          "en": "Official comic (manhwa)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e0/Jpngirl01.png",
+        "caption": {
+          "en": "Buy icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/05/EricaSpray.png",
+        "caption": {
+          "en": "Spray"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f7/49851522.png",
+        "caption": {
+          "en": "SD version"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9a/Jpngirl01_small.png",
+        "caption": {
+          "en": "Erika (old model) in Industry"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/4d/Erica.jpg",
+        "caption": {
+          "en": "In-game screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "hud",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/1d/Hud_jpngirl01.png",
+        "caption": {
+          "en": "HUD portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Erika",
+      "title": "Erika",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "gerard",
+    "name": "Gerard",
+    "aliases": ["Gerrard (some regions)", "gerrard (system name)"],
+    "kind": "human",
+    "side": "ct",
+    "grade": "unknown",
+    "classType": "Premium Counter-Terrorist character (Code Box / events); guiding NPC in Zombie Scenario: Season 4",
+    "factions": ["counter-terrorist"],
+    "profile": {
+      "gender": "Male",
+      "occupation": {
+        "en": "Former SAS operator, now a US private military contractor; leads the Vanguard sample-retrieval team in Season 4"
+      }
+    },
+    "tagline": {
+      "en": "The SAS operator falsely branded a traitor, hunting the mentor who actually was one."
+    },
+    "summary": {
+      "en": "Gerard is a premium Counter-Terrorist character and David Black's CT counterpart. A former SAS special-forces member now working for a US PMC, he left the SAS after being falsely accused of betrayal alongside his mentor David, who really did hand SAS documents to the Terrorists. He anchors the Season 4 storyline (leading the team that retrieves research samples from the ruined Vanguard base and confronts Dr. Rex) and later becomes the one who tells David and Erika the truth about Douglas Jacob."
+    },
+    "story": {
+      "en": "**Background (character page).** Gerard is a former SAS special-forces soldier now employed by a US private military company. His mentor David is a wanted man for betraying the organisation and passing confidential SAS documents to the Terrorists; Gerard himself left the SAS after being falsely accused of complicity in David's betrayal.\n\n**Zombie Scenario: Season 4 (Encounter / Conspiracy / Envy Mask / Paranoia).** After Vanguard Company collapses and David Black and Erika vanish from the Panic Room, Gerard leads a team sent to retrieve research samples from the ruined Vanguard base and deliver them to Jim's transport team waiting in the polar regions. One soldier is infected by a sample en route, the aircraft crash-lands, and only some of the team escape onto the transport train. Gerard's team reclaims the sample from Frozen Terror and joins Jim (leader of the Red Lizard); together they push through the polar wastes to deliver the sample to a secret client - who turns out to be Dr. Rex, greeting them with waves of zombies. Jim and Gerard prepare for the final confrontation, which ends with the infected Dr. Rex's defeat.\n\n**Zombie Scenario: Season 7 - Lowdown.** David Black and Erika, following coordinates from the attacked Rex Labs, meet Gerard instead of Soi. Gerard has learned that Douglas Jacob was hidden behind Dr. Rex all along and that Erika's earlier kidnapping was engineered by Douglas. From Season 8 onward Gerard, David and Erika operate as one team against Kronos."
+    },
+    "quotes": [],
+    "abilities": [
+      {
+        "name": {
+          "en": "Zombie Scenario stat profile"
+        },
+        "description": {
+          "en": "High attack power (+3) and high reserve ammo (+3), but low HP (-3) and low Kevlar strength (-2). Good for fast levelling and solo striking; punishes careless damage intake."
+        }
+      },
+      {
+        "name": {
+          "en": "Point/EXP bonus"
+        },
+        "description": {
+          "en": "Using Gerard rewards 15% additional points and EXP (20% in internet cafes)."
+        }
+      }
+    ],
+    "scenarioStats": {
+      "health": 18,
+      "attack": 24,
+      "mobility": 21,
+      "armor": 19,
+      "ammo": 23
+    },
+    "costumes": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": ["zombie-scenario"],
+    "maps": [
+      "hitchhiking",
+      "encounter",
+      "conspiracy",
+      "envy-mask",
+      "paranoia",
+      "lowdown",
+      "italy",
+      "blaze",
+      "toxicity",
+      "decoy",
+      "suzhou"
+    ],
+    "relatedCharacters": ["david-black", "erika", "dr-rex", "douglas-jacob"],
+    "voiceActors": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "Using Gerard rewards 15% extra points and EXP (20% in internet cafes)."
+      },
+      {
+        "en": "Seems to have a long-distance relationship with Jennifer, according to the Zombie Shelter official trailer."
+      },
+      {
+        "en": "Was the mysterious guiding NPC in Hitchhiking and the revealed guiding NPC across all Zombie Scenario: Season 4 chapters."
+      },
+      {
+        "en": "His hidden-NPC message graphic is shared with David Black."
+      },
+      {
+        "en": "Variants: Drill Instructor Gerard (transcendent) and Sheriff Gerard."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/76/Gerrard.png",
+        "caption": {
+          "en": "Infobox portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8e/Gerrard_ingamemdl.png",
+        "caption": {
+          "en": "In-game model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/89/Gerrard_shopmdl.png",
+        "caption": {
+          "en": "Shop model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f1/Gerrard_icon.png",
+        "caption": {
+          "en": "Buy icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/48/Gerard_concept_art.png",
+        "caption": {
+          "en": "Promotional art"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3b/Zsm_poster.jpg",
+        "caption": {
+          "en": "Lost City poster (Gerard, David Black, Ritsuka)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3d/41789_106050902854733_1279641380_n.jpg",
+        "caption": {
+          "en": "Gerard with Glock 18 in Italy"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/ef/Gerrard_and_davidblack.jpeg",
+        "caption": {
+          "en": "Gerard confronting David Black"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/65/2009102901.jpg",
+        "caption": {
+          "en": "Zombie 3: Hero poster (Gerard, David Black, Hero in Abyss3)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a3/O080010971309430322296.jpg",
+        "caption": {
+          "en": "Gerard poster in Blaze"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f0/Cs1z.jpg",
+        "caption": {
+          "en": "Last Clue poster: 707, David Black and Gerard vs Phobos"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8b/Gerrard_taiwan_poster.jpg",
+        "caption": {
+          "en": "Gerard fighting Revenant in Toxicity"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/cd/536636_319574044779004_284455941624148_856327_1275211942_n.jpg",
+        "caption": {
+          "en": "Gerard engaging Revenant with M14 EBR"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/5a/Tw05.png",
+        "caption": {
+          "en": "Gerard fighting Revenant in Decoy"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b6/Dual_infinity_gerrard_suzhou.jpg",
+        "caption": {
+          "en": "Gerard wielding Dual Infinity in Suzhou"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c8/Anonymous_msg.png",
+        "caption": {
+          "en": "Hidden NPC message portrait (Hitchhiking)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/1a/Gerrard_msg.png",
+        "caption": {
+          "en": "NPC message portrait (Zombie Scenario: Season 4)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6b/Gerrards.jpg",
+        "caption": {
+          "en": "In-game screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "hud",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b1/Hud_gerrard.png",
+        "caption": {
+          "en": "HUD portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/10/DragonClaw021.jpg",
+        "caption": {
+          "en": "Gerard with Dragon Tail"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/0a/Gerardwiththanatos7.png",
+        "caption": {
+          "en": "Gerard wielding THANATOS-7"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/71/Gerrard_angry.png",
+        "caption": {
+          "en": "Expression: Angry"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8b/Gerrard_laugh.png",
+        "caption": {
+          "en": "Expression: Laugh"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/1e/Gerrard_smile.png",
+        "caption": {
+          "en": "Expression: Smile"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6b/Gerrard_usual.png",
+        "caption": {
+          "en": "Expression: Usual"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Gerard",
+      "title": "Gerard",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "karin",
+    "name": "Karin",
+    "aliases": ["buffclass24s3tr (system name)", "24-3 Transcendence Class TR"],
+    "kind": "human",
+    "side": "tr",
+    "grade": "transcendent",
+    "classType": "Transcendent grade Terrorist character (Buff class, 2024 Season 3) - a fire fairy from another world",
+    "factions": ["terrorist"],
+    "profile": {
+      "gender": "Female",
+      "birthplace": "Another world (fairy realm)",
+      "occupation": {
+        "en": "Fire fairy; self-styled explorer on a 'secret mission'"
+      }
+    },
+    "tagline": {
+      "en": "The wise and powerful fire fairy - loud, confident, and quietly looked after by the sleep fairy behind her."
+    },
+    "summary": {
+      "en": "Karin is a Transcendent grade Terrorist character released on 27 June 2024 (Korea) as the TR half of the 'Advent Fairies' pair with Milia. A fire fairy who crossed into this world out of curiosity after watching Nyx and Skadi disappear, she claims to be searching for a way home but mostly spends her days learning about the new world and enjoying the attention. Her confidence constantly causes commotions; she does not realise Milia is quietly watching over her."
+    },
+    "story": {
+      "en": "**Overview.** Karin is a fairy who came to this world out of curiosity after seeing Nyx and Skadi vanish. She says she is looking for a way back, but for now she is busy discovering the new world and dealing with the attention she gets. Always stirring things up with her self-assurance, she has no idea that Milia is looking after her from behind.\n\n**Background (in-character interview, summarised).** Karin introduces herself as 'the wise and powerful fire fairy' and is briefly deflated when the reporter turns out to be looking for Milia. In a second recording she happily invites the reporter to photograph her, insists she is on a secret mission she cannot discuss, and is flustered to learn Milia has already told the reporter that Karin dragged her along in a huff to chase Skadi and Nyx. Karin reframes this as a calculated plan and predicts that people will tell tales of the great fairy Karin who explored new worlds and returned home. Asked how the mission is going, she claims it is going well but cannot give details in case enemies hear. She rushes off when she notices Milia falling asleep - before crying out for Milia's help.\n\n**Companions.** Small Ember - a small ember of fire known as Karin's companion, usable as a pet.\n\n## Personality\n\nConfident to the point of bluster, attention-loving, dramatic and a little scatterbrained; genuinely affectionate toward Milia and dependent on her despite claiming to lead."
+    },
+    "quotes": [
+      {
+        "text": {
+          "en": "Hello! Welcome! I am Karin, the wise and powerful fire fairy!"
+        },
+        "context": {
+          "en": "Opening line of her in-character interview (Background)"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": {
+          "en": "Baptism of Fire (Active skill, Zombie Scenario)"
+        },
+        "description": {
+          "en": "Grants an unlimited-ammunition buff and a barrier to Karin and nearby allies. If the barrier breaks before the duration ends, she gains a movement-speed buff; if it holds, she gains an attack-power buff."
+        }
+      },
+      {
+        "name": {
+          "en": "Passive - Connection with Milia"
+        },
+        "description": {
+          "en": "When playing Zombie Scenario alongside a Milia player, critical rate is slightly increased and damage taken slightly reduced (connection effect; does not stack with other connection effects)."
+        }
+      },
+      {
+        "name": {
+          "en": "Passive - Explosive Bullets"
+        },
+        "description": {
+          "en": "Applies the [Explosive Bullets] add-on effect by default (stackable, effect increases)."
+        }
+      },
+      {
+        "name": {
+          "en": "Passive - Elite/Boss damage"
+        },
+        "description": {
+          "en": "+8% attack power against Elite zombies and +4% against Boss monsters."
+        }
+      },
+      {
+        "name": {
+          "en": "Transcendent Class buffs"
+        },
+        "description": {
+          "en": "Exclusive voice lines; 10% EXP and 10% point bonus (20% in PC rooms); +10 level cap in Zombie Scenario; marks zombies below 20% health in Zombie Mode; +1 initial mutation point in Zombie Z; movement speed shown on HUD; unique kill mark."
+        }
+      },
+      {
+        "name": {
+          "en": "Pairing weapon bonus (Drakar series)"
+        },
+        "description": {
+          "en": "Increased Tempest Slash damage and attack range when using Drakar-I / II / III."
+        }
+      }
+    ],
+    "scenarioStats": {
+      "health": 23,
+      "attack": 28,
+      "mobility": 27,
+      "armor": 19,
+      "ammo": 18
+    },
+    "costumes": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": ["zombie-scenario", "zombie-the-mutation", "zombie-z", "original"],
+    "maps": [],
+    "relatedCharacters": ["milia"],
+    "voiceActors": [],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2024-06-27",
+        "note": "South Korea"
+      },
+      {
+        "region": "cn",
+        "date": "2024-07-02",
+        "note": "China"
+      },
+      {
+        "region": "tw",
+        "date": "2024-07-10",
+        "note": "Taiwan & Hong Kong"
+      },
+      {
+        "region": "csn",
+        "date": "2024-07-10",
+        "note": "CSNS (Global)"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "Released as a pair with Milia; the 'Advent Fairies' medal (10 Honor Points) is earned by owning Milia, Karin, the Pillow Fairy costume and the Small Ember costume permanently."
+      },
+      {
+        "en": "Corresponding items: Small Ember (pet) and SD Karin Spray."
+      },
+      {
+        "en": "Her name is spelled both 'Milia' and 'Millia' for her partner on the wiki."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/75/Buffclass24s3tr.png",
+        "caption": {
+          "en": "Infobox portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/67/Buffclass24s3tr_femalelong.png",
+        "caption": {
+          "en": "View model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6c/Karin_mdl.png",
+        "caption": {
+          "en": "Model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/fa/6940049224801247969.png",
+        "caption": {
+          "en": "Inventory icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/dd/24-3%EC%B4%88%EC%9B%94%ED%81%B4%EB%9E%98%EC%8A%A4_TR.jpg",
+        "caption": {
+          "en": "Official wallpaper"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f2/Buffclass24s3_kr.jpg",
+        "caption": {
+          "en": "Korea poster (shared with Milia)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/86/Buffclass24s3_csona.jpg",
+        "caption": {
+          "en": "CSN:S poster (shared with Milia)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a1/Killmark_24s3TR.gif",
+        "caption": {
+          "en": "Kill mark"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/52/Ef_buffclass24s3tr_skill.gif",
+        "caption": {
+          "en": "Skill sprite"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Karin",
+      "title": "Karin",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  },
+  {
+    "slug": "lucia",
+    "name": "Lucia",
+    "aliases": ["marinegirl (system name)"],
+    "kind": "human",
+    "side": "ct",
+    "grade": "unknown",
+    "classType": "Cash female Counter-Terrorist character with 2 unique emotions; NPC lead of Episode Lucia and Rendezvous",
+    "factions": ["counter-terrorist"],
+    "profile": {
+      "gender": "Female",
+      "occupation": {
+        "en": "Team leader of the Garcia fleet's Counter-Terrorist unit"
+      }
+    },
+    "tagline": {
+      "en": "The A-Team of the Sea - a naval strike-team leader hunting the bomber who sent explosives to her fleet."
+    },
+    "summary": {
+      "en": "Lucia is a cash female Counter-Terrorist character (TW/CN description: 'The A-Team of the Sea'), released with Enzo in the Marine Force Package. She leads the Garcia fleet's counter-terrorist team, a post earned through a major victory over terrorists in the Indian Ocean. After a terror attack used booby-trapped supplies shipped to her, she led her team in pursuit of the culprit. She is one of only a few characters with special emotes (Hand kiss, Marine dance), and she headlines Zombie Scenario Season 6's Episode Lucia and Season 7's Rendezvous."
+    },
+    "story": {
+      "en": "**Background.** Lucia commands the Counter-Terrorist team of the Garcia fleet, having risen to team leader after a major success against terrorists in the Indian Ocean. Sensing something wrong when a terror attack was carried out with exploding supplies that had been sent to her, she led her team to pursue the perpetrators.\n\n**Zombie Scenario: Season 6 - Episode Lucia.** Kronos containers carrying Deimos and Ganymede, intended to spread the zombie virus, are discovered during Lucia's episode (Kronos / Douglas Jacob pages).\n\n**Zombie Scenario: Season 7 - Rendezvous.** Lucia's fleet picks up repeated transmitted signals. Following them, she finds an unidentified facility and, sensing a connection to her senior Michaela, launches a search operation, committing offshore equipment to end a long-running pursuit. Lucia and Michaela (her Terrorist counterpart) end up facing a common enemy - yesterday's foe becoming today's recruit against the real power behind their long-standing goal."
+    },
+    "quotes": [
+      {
+        "text": {
+          "en": "The A-Team of the Sea"
+        },
+        "context": {
+          "en": "TW/CN description"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": {
+          "en": "Hand kiss (unique emotion)"
+        },
+        "description": {
+          "en": "Special emote; audio file Woman_special.ogg."
+        }
+      },
+      {
+        "name": {
+          "en": "Marine dance (unique emotion)"
+        },
+        "description": {
+          "en": "Special emote; audio file Woman_dance.ogg."
+        }
+      }
+    ],
+    "scenarioStats": {
+      "health": 24,
+      "attack": 23,
+      "mobility": 18,
+      "armor": 18,
+      "ammo": 22
+    },
+    "costumes": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": ["zombie-scenario"],
+    "maps": ["episode-lucia", "rendezvous"],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "release": [
+      {
+        "region": "jp",
+        "date": "2011-11-23",
+        "note": "Japan - with Enzo and Marine Force Package"
+      },
+      {
+        "region": "sg",
+        "date": "2012-07-04",
+        "note": "Singapore/Malaysia"
+      },
+      {
+        "region": "id",
+        "date": "2013-08-14",
+        "note": "Indonesia"
+      },
+      {
+        "region": "vn",
+        "date": "2015-03-26",
+        "note": "Vietnam - event price"
+      },
+      {
+        "region": "csn",
+        "date": "2015-08-26",
+        "note": "CSN:Z"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "One of the 'unique emotion' classes: can use two special emoticons (Kiss on hand / Dance)."
+      },
+      {
+        "en": "The leg model for the kick ability in Zombie 4: Darkness shares Lucia's leg texture."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/55/Marinegirl.png",
+        "caption": {
+          "en": "Infobox portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/27/Marinegirl_model.png",
+        "caption": {
+          "en": "In-game model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8b/Lucia_shopmdl.png",
+        "caption": {
+          "en": "Shop model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/46/Lucia5.jpg",
+        "caption": {
+          "en": "Promotional art"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b3/Lucia_.png",
+        "caption": {
+          "en": "Lucia with Kriss Super V"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6b/Lucia4.jpg",
+        "caption": {
+          "en": "Lucia posing"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/10/Tw5.png",
+        "caption": {
+          "en": "Valentine's Day promotional poster featuring Lucia"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f1/Wadwdf.png",
+        "caption": {
+          "en": "Buy icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/31/Marinegirl.gif",
+        "caption": {
+          "en": "Store preview"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/34/Wp20111123_1_1440x900.jpg",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/0b/Allforplayer_japan_lucia_enzo_waterpistol_resale_poster.png",
+        "caption": {
+          "en": "Japan resale poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/14/Enzo_Lucia.jpg",
+        "caption": {
+          "en": "Singapore/Malaysia poster (with Enzo)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/22/1376389566_incso_20130813_20130814_updatebanner-megaxus.jpg",
+        "caption": {
+          "en": "Indonesia poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/bd/Valuepack_marineset_pdecoder_poster_csnz.jpg",
+        "caption": {
+          "en": "CSN:Z poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f8/Lucias.jpg",
+        "caption": {
+          "en": "In-game screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "audio",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/42/Woman_dance.ogg",
+        "caption": {
+          "en": "Marine dance emote"
+        },
+        "credit": "Nexon (voice line)"
+      },
+      {
+        "kind": "audio",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d6/Woman_special.ogg",
+        "caption": {
+          "en": "Hand kiss emote"
+        },
+        "credit": "Nexon (voice line)"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Lucia",
+      "title": "Lucia",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "milia",
+    "name": "Milia",
+    "aliases": [
+      "Millia (alternate spelling on the wiki)",
+      "buffclass24s3ct (system name)",
+      "24-3 Transcendence Class CT"
+    ],
+    "kind": "human",
+    "side": "ct",
+    "grade": "transcendent",
+    "classType": "Transcendent grade Counter-Terrorist character (Buff class, 2024 Season 3) - a sleep fairy from another world",
+    "factions": ["counter-terrorist"],
+    "profile": {
+      "gender": "Female",
+      "birthplace": "Another world (a forest in the fairy realm)",
+      "occupation": {
+        "en": "Fairy of sleep"
+      }
+    },
+    "tagline": {
+      "en": "The dozing sleep fairy who does the real work while everyone assumes she's napping."
+    },
+    "summary": {
+      "en": "Milia is a Transcendent grade Counter-Terrorist character released on 27 June 2024 (Korea) as the CT half of the 'Advent Fairies' pair with Karin. A fairy of sleep who was slumbering peacefully in her forest until Karin dragged her into this world, she is content anywhere she can nap and finds this world rather good for resting. Although she always seems to be dozing, she works hard behind the scenes of many situations - not least keeping Karin out of trouble."
+    },
+    "story": {
+      "en": "**Overview.** A fairy of sleep who slept peacefully in her forest until Karin pulled her into this world. She is happy anywhere she can nap and thinks the new world is actually better for rest. Though she seems to be forever dozing, she quietly works hard behind the scenes.\n\n**Background (in-character interview, summarised).** Milia introduces herself as a sleep fairy, remarks that this world suffers from something called sleep deprivation, and offers the reporter her fairy blessing for restful sleep after hearing they had a nightmare. She observes that all she has seen here are humans, animals and 'walking corpses' who do not seem to be resting in peace either. She explains that she used to live in another world; one day Karin woke her in the forest saying Skadi was passing by, they followed Skadi until she vanished into a strange light, Karin followed, and Milia went along because she was worried about letting Karin go alone. She suspects Karin really just wants to play in a new playground rather than go home, and admits she too has considered finding a way back but is happy enough here as long as she gets to sleep. She then falls asleep mid-interview, asking the reporter to tell Karin not to wake her.\n\n**Companions.** Pillow Fairy - a pillow-shaped fairy known as Milia's companion, usable as a pet.\n\n## Personality\n\nSleepy, gentle and unhurried on the surface; observant, caring and quietly competent underneath. Protective of Karin in an understated, long-suffering way."
+    },
+    "quotes": [
+      {
+        "text": {
+          "en": "Hello, I'm Millia, a sleep fairy. *yawn*"
+        },
+        "context": {
+          "en": "Opening line of her in-character interview (Background)"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": {
+          "en": "Bedtime (Active skill, Zombie Scenario)"
+        },
+        "description": {
+          "en": "Grants continuous HP recovery and a barrier to Milia and nearby allies. If the barrier breaks before the duration ends, she gains an attack-power buff; if it holds, she gains an HP-recovery buff."
+        }
+      },
+      {
+        "name": {
+          "en": "Passive - Connection with Karin"
+        },
+        "description": {
+          "en": "When playing Zombie Scenario alongside a Karin player, critical rate is slightly increased and damage taken slightly reduced (connection effect; does not stack with other connection effects)."
+        }
+      },
+      {
+        "name": {
+          "en": "Passive - Hard Steps"
+        },
+        "description": {
+          "en": "Applies the [Hard Steps] add-on effect by default (stackable, effect increases)."
+        }
+      },
+      {
+        "name": {
+          "en": "Passive - Elite/Boss damage"
+        },
+        "description": {
+          "en": "+8% attack power against Elite zombies and +4% against Boss monsters."
+        }
+      },
+      {
+        "name": {
+          "en": "Transcendent Class buffs"
+        },
+        "description": {
+          "en": "Exclusive voice lines; 10% EXP and 10% point bonus (20% in PC rooms); +10 level cap in Zombie Scenario; marks zombies below 20% health in Zombie Mode; +1 initial mutation point in Zombie Z; movement speed shown on HUD; unique kill mark."
+        }
+      },
+      {
+        "name": {
+          "en": "Pairing weapon bonus (Drakar series)"
+        },
+        "description": {
+          "en": "Increased Tempest Slash damage and reduced hit counts required to raise the weapon stage."
+        }
+      }
+    ],
+    "scenarioStats": {
+      "health": 27,
+      "attack": 25,
+      "mobility": 19,
+      "armor": 26,
+      "ammo": 18
+    },
+    "costumes": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": ["zombie-scenario", "zombie-the-mutation", "zombie-z"],
+    "maps": [],
+    "relatedCharacters": ["karin"],
+    "voiceActors": [],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2024-06-27",
+        "note": "South Korea"
+      },
+      {
+        "region": "cn",
+        "date": "2024-07-02",
+        "note": "China"
+      },
+      {
+        "region": "tw",
+        "date": "2024-07-10",
+        "note": "Taiwan & Hong Kong"
+      },
+      {
+        "region": "csn",
+        "date": "2024-07-10",
+        "note": "CSNS (Global)"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "Released as a pair with Karin; the 'Advent Fairies' medal (10 Honor Points) requires owning Milia, Karin, the Pillow Fairy costume and the Small Ember costume permanently."
+      },
+      {
+        "en": "Corresponding items: Pillow Fairy (pet) and SD Milia Spray."
+      },
+      {
+        "en": "Has an emotion sprite in addition to her skill sprite."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/cc/Buffclass24s3ct.png",
+        "caption": {
+          "en": "Infobox portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/91/Buffclass24s3ct_femalelong.png",
+        "caption": {
+          "en": "View model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d6/Milia_model.png",
+        "caption": {
+          "en": "Model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/1d/6940049224801247968.png",
+        "caption": {
+          "en": "Inventory icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/96/24-3%EC%B4%88%EC%9B%94%ED%81%B4%EB%9E%98%EC%8A%A4_CT.jpg",
+        "caption": {
+          "en": "Official wallpaper"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f2/Buffclass24s3_kr.jpg",
+        "caption": {
+          "en": "Korea poster (shared with Karin)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/86/Buffclass24s3_csona.jpg",
+        "caption": {
+          "en": "CSN:S poster (shared with Karin)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/48/Killmark_24s3CT.gif",
+        "caption": {
+          "en": "Kill mark"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c6/Ef_buffclass24s3ct.gif",
+        "caption": {
+          "en": "Emotion sprite"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/89/Ef_buffclass24s3ct_skill.gif",
+        "caption": {
+          "en": "Skill sprite"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Milia",
+      "title": "Milia",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "mirage",
+    "name": "Mirage",
+    "aliases": [
+      "Mirage (Character)",
+      "21-2 Transcendental Class CT",
+      "Buffclass21s2ct (internal asset name)"
+    ],
+    "kind": "human",
+    "side": "ct",
+    "grade": "transcendent",
+    "classType": "Transcendent grade Counter-Terrorist character (Buff class, 2021 Season 2)",
+    "factions": ["counter-terrorist"],
+    "profile": {
+      "gender": "Female",
+      "occupation": {
+        "en": "Leading virtual streamer on the VR platform Krono World; secretly an excellent hacker"
+      }
+    },
+    "tagline": {
+      "en": "Krono World's star VR streamer with a hacker's secret - and a suspicious log she can't ignore."
+    },
+    "summary": {
+      "en": "Mirage is a Transcendent grade Counter-Terrorist character released alongside her twin sister Anemone on 1 July 2021 (Korea). A top virtual streamer on the VR platform Krono World, she is in fact a skilled hacker who is lively online but shy and timid offline. After stumbling upon a suspicious Krono World log she attempts to contact the Aegis Lab while enemies close in for the information."
+    },
+    "story": {
+      "en": "Although Mirage is a leading virtual streamer on the VR platform Krono World, she is actually an excellent hacker. She has a lively personality online but is shy and timid offline.\n\nShe discovers a suspicious log of Krono World that she stumbled upon, and tries to contact the Aegis Lab to avoid the enemies approaching for the information. Her twin sister Anemone, a Krono World pro gamer, accompanies her as a guardian.\n\n## Personality\n\nLively online persona, but shy and timid offline. Highly intelligent (skilled hacker)."
+    },
+    "quotes": [
+      {
+        "text": {
+          "en": "VR Streaming, going live!"
+        },
+        "context": {
+          "en": "Page header quote (game start voice line)"
+        }
+      },
+      {
+        "text": {
+          "en": "If you want to request a mission, now's the time!"
+        },
+        "context": {
+          "en": "Game start voice line"
+        }
+      },
+      {
+        "text": {
+          "en": "Streaming now!"
+        },
+        "context": {
+          "en": "Game start voice line"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": {
+          "en": "Defense Code (Exclusive Skill)"
+        },
+        "description": {
+          "en": "Activates a ranged (area) skill that protects the user and allies for a certain period of time when used in Zombie Scenario."
+        }
+      },
+      {
+        "name": {
+          "en": "Extra Satellite Mine"
+        },
+        "description": {
+          "en": "Receive +1 more Satellite Mine to use when playing as Mirage."
+        }
+      },
+      {
+        "name": {
+          "en": "Experience/Point bonus"
+        },
+        "description": {
+          "en": "10% experience/point bonus (20% in PC rooms)."
+        }
+      },
+      {
+        "name": {
+          "en": "Higher Zombie Scenario level"
+        },
+        "description": {
+          "en": "Higher level than the normal class in Zombie Scenario Mode."
+        }
+      },
+      {
+        "name": {
+          "en": "Zombie Z mutation"
+        },
+        "description": {
+          "en": "One initial mutation is added in Zombie Z mode."
+        }
+      },
+      {
+        "name": {
+          "en": "Damage HUD and dedicated kill mark"
+        },
+        "description": {
+          "en": "Current damage is displayed on the lower HUD; a dedicated kill mark is shown on kills."
+        }
+      }
+    ],
+    "scenarioStats": {
+      "health": 24,
+      "attack": 24,
+      "mobility": 24,
+      "armor": 22,
+      "ammo": 21
+    },
+    "costumes": [
+      {
+        "name": {
+          "en": "Mirage VR Glass"
+        },
+        "description": {
+          "en": "Glass costume used by Mirage."
+        },
+        "imageUrl": "https://static.wikia.nocookie.net/cso/images/4/4f/Mirage_vr_glass.png"
+      }
+    ],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": ["zombie-scenario", "zombie-z"],
+    "maps": [],
+    "relatedCharacters": ["anemone"],
+    "voiceActors": [
+      {
+        "region": "Korea",
+        "name": "Kim Gae Ryong (김가령)"
+      },
+      {
+        "region": "China",
+        "name": "Liu Shisi (劉十四)"
+      },
+      {
+        "region": "Taiwan/Hong Kong",
+        "name": "Ye Yu Jia (葉于嘉)"
+      },
+      {
+        "region": "CSN (Global)",
+        "name": "Dina Soaring"
+      }
+    ],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2021-07-01",
+        "note": "South Korea"
+      },
+      {
+        "region": "tw",
+        "date": "2021-07-14",
+        "note": "Taiwan & Hong Kong"
+      },
+      {
+        "region": "csn",
+        "date": "2021-07-14",
+        "note": "CSNS (Global)"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "Her face is similar to Miho and her hairstyle is similar to Yuri and Michaela."
+      },
+      {
+        "en": "She highly resembles Hatsune Miku, a Vocaloid voicebank developed by Crypton Future Media."
+      },
+      {
+        "en": "The background image on her page shows Mirage in Panic Room."
+      },
+      {
+        "en": "Not to be confused with the map of the same name (Mirage (Map))."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/0c/Buffclass21s2ct.png",
+        "caption": {
+          "en": "Infobox portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/dd/Buffclass21s2ct_shopmodel.png",
+        "caption": {
+          "en": "Model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/10/Buffclass21s2ct_viewmodel.png",
+        "caption": {
+          "en": "View model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/00/Buffclass21s2_kr.jpg",
+        "caption": {
+          "en": "Korea poster (shared with Anemone)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/86/Buffclasas21s2_cso_na.jpg",
+        "caption": {
+          "en": "CSN:S poster (shared with Anemone)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/fd/Killmark_21s2CT.gif",
+        "caption": {
+          "en": "Kill mark"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8d/Mirage_icon.png",
+        "caption": {
+          "en": "Icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/7b/Mirage_hud.png",
+        "caption": {
+          "en": "HUD icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/49/Mirageconceptart.png",
+        "caption": {
+          "en": "Mirage concept art"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e7/Buffclassskill_21s2ct_bg.png",
+        "caption": {
+          "en": "Exclusive skill (Defense Code) background"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/4f/Mirage_vr_glass.png",
+        "caption": {
+          "en": "Mirage VR Glass costume"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "audio",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c9/Gamestart1_mirage.ogg",
+        "caption": {
+          "en": "Game start voice line 1"
+        },
+        "credit": "Nexon (voice line)"
+      },
+      {
+        "kind": "audio",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f1/Gamestart2_mirage.ogg",
+        "caption": {
+          "en": "Game start voice line 2"
+        },
+        "credit": "Nexon (voice line)"
+      },
+      {
+        "kind": "audio",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/44/Gamestart3_mirage.ogg",
+        "caption": {
+          "en": "Game start voice line 3"
+        },
+        "credit": "Nexon (voice line)"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Mirage_(Character)",
+      "title": "Mirage",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  },
+  {
+    "slug": "natasha",
+    "name": "Natasha",
+    "aliases": ["Наташа", "natasha (system name)"],
+    "kind": "human",
+    "side": "ct",
+    "grade": "unknown",
+    "classType": "Cash/premium female Counter-Terrorist character (also obtainable permanently from Code Box)",
+    "factions": ["counter-terrorist"],
+    "profile": {
+      "gender": "Female",
+      "nationality": "Russian",
+      "occupation": {
+        "en": "Sniper, Russian Army"
+      }
+    },
+    "tagline": {
+      "en": "The Russian Army's top sniper, fighting for a friend the Terrorists took from her."
+    },
+    "summary": {
+      "en": "Natasha is the first female Counter-Terrorist character introduced in Counter-Strike Online and the CT counterpart of Jennifer. Described as the Russian Army's number-one sniper, she joined the counter-terrorist unit to avenge her best friend, who was killed by Terrorists."
+    },
+    "story": {
+      "en": "Natasha is the Russian Army's best sniper. After Terrorists killed her closest friend, she joined the Counter-Terrorist unit to take revenge on them. She was released as a paired set with Jennifer (her Terrorist counterpart) in several regions."
+    },
+    "quotes": [],
+    "abilities": [],
+    "scenarioStats": {
+      "health": 21,
+      "attack": 25,
+      "mobility": 20,
+      "armor": 22,
+      "ammo": 17
+    },
+    "costumes": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": ["zombie-scenario"],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "release": [
+      {
+        "region": "tr",
+        "date": "2013-05-09",
+        "note": "Turkey - released alongside Jennifer during Open Beta Test"
+      },
+      {
+        "region": "csn",
+        "date": "2014-10-07",
+        "note": "Counter-Strike Nexon: Zombies - released alongside Jennifer at Official Launch"
+      },
+      {
+        "region": "vn",
+        "date": "2015-12-17",
+        "note": "Vietnam - released alongside Jennifer"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "First female Counter-Terrorist character in Counter-Strike Online."
+      },
+      {
+        "en": "Can be obtained permanently through Code Boxes."
+      },
+      {
+        "en": "The most expensive cash Counter-Terrorist model in the Indonesian region."
+      },
+      {
+        "en": "An alternate 'Casual' version updates the original model with a different appearance and a high-quality close-up."
+      }
+    ],
+    "media": [
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3c/Natasha_icon.png",
+        "caption": {
+          "en": "Infobox icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/7f/Natasha_model.png",
+        "caption": {
+          "en": "Model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/43/Natasha_shopmodel.png",
+        "caption": {
+          "en": "Shop model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a2/Wall06_800_600.jpg",
+        "caption": {
+          "en": "Japan official wallpaper"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c5/101124135523_natasha1024x768.jpg",
+        "caption": {
+          "en": "Natasha wallpaper"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3e/Natasha-CS_online.jpg",
+        "caption": {
+          "en": "Concept art"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/2a/Natasha_ca2.png",
+        "caption": {
+          "en": "Concept art (2)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/69/Natasha-Wallpaper.jpg",
+        "caption": {
+          "en": "South Korea official wallpaper"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/91/Counter_strike_online_by_juijoyce-d37zwdu.jpg",
+        "caption": {
+          "en": "Singapore/Malaysia poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/85/Natashaspray.png",
+        "caption": {
+          "en": "Spray"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/7d/Natasha_sd_HD.png",
+        "caption": {
+          "en": "SD spray"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/08/Slide1.jpg",
+        "caption": {
+          "en": "Indonesia poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f5/Shop_natasha.png",
+        "caption": {
+          "en": "Buy icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/25/Girlstwrsl.png",
+        "caption": {
+          "en": "Taiwan resale poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/5c/Natcp.jpg",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/cf/Natasha_11.jpg",
+        "caption": {
+          "en": "Natasha with AW50"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/16/Natasha.jpg",
+        "caption": {
+          "en": "In-game screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "hud",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3e/Hud_natasha.png",
+        "caption": {
+          "en": "HUD portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Natasha",
+      "title": "Natasha",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "oberon",
+    "name": "Oberon",
+    "aliases": ["Auberon", "zbs_bossl_big02 (system name)"],
+    "kind": "boss",
+    "side": "zombie",
+    "grade": "unknown",
+    "classType": "Boss (Zombie Scenario: Season 1 - Dead End)",
+    "factions": ["rex-research-institute"],
+    "profile": {
+      "gender": "Male"
+    },
+    "tagline": {
+      "en": "The grey-skinned cyclops that broke out of government custody in the streets of Old Havana."
+    },
+    "summary": {
+      "en": "Oberon (or Auberon) is the boss of the Dead End chapter in Zombie Scenario: Season 1 and the third boss encountered in the mode's original story. Having escaped the Rex basement, it was captured by the government but freed itself by the time players reach round 2 of Dead End, set in Habana Vieja. It also appears in round 5 of Nightmare, in Collapse and in New Zombie Shelter. Defeating it originally yielded Siege-type Frame or Siege-type DNA (replaced after Zombie Scenario Re:boot)."
+    },
+    "story": {
+      "en": "Oberon escaped from the Rex laboratory basement during the Lost City outbreak and was captured by the government, but broke free by the time the rescue team reaches the second round of Dead End. Players must defeat it to clear the map. A radio call - 'Oberon has been released!' - announces its arrival. It appears again as the fifth-round boss of Nightmare and in the later Collapse and New Zombie Shelter maps."
+    },
+    "quotes": [
+      {
+        "text": {
+          "en": "Oberon has been released! I repeat again! Oberon has been released!"
+        },
+        "context": {
+          "en": "In-game announcement (page header quote)"
+        }
+      }
+    ],
+    "abilities": [
+      {
+        "name": {
+          "en": "Iron Strike / normal strikes (Signature Primary)"
+        },
+        "description": {
+          "en": "Basic melee strikes against players."
+        }
+      },
+      {
+        "name": {
+          "en": "High Jump (Signature Secondary)"
+        },
+        "description": {
+          "en": "Leaps and slams onto a targeted player or location; a direct hit kills instantly. Standing where it lands gets you crushed."
+        }
+      },
+      {
+        "name": {
+          "en": "Black Hole"
+        },
+        "description": {
+          "en": "Summons a black hole beneath its feet that pulls players in, followed by a spinning attack."
+        }
+      },
+      {
+        "name": {
+          "en": "Bombardment"
+        },
+        "description": {
+          "en": "Launches mines from its back into the air onto a targeted player; the mines explode on impact. Its strongest attack - use light weapons and watch the sky while it bombards."
+        }
+      },
+      {
+        "name": {
+          "en": "Claw Mode / Claw Strike"
+        },
+        "description": {
+          "en": "Draws its claws when its HP is halved; claw strikes force players to drop any non-melee weapon."
+        }
+      }
+    ],
+    "scenarioStats": {},
+    "costumes": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": ["zombie-scenario"],
+    "maps": ["dead-end", "nightmare", "collapse", "new-zombie-shelter"],
+    "relatedCharacters": ["dr-rex"],
+    "voiceActors": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "Named after Oberon, the second-largest moon of Uranus."
+      },
+      {
+        "en": "A glitch in Dead End can make it land outside the arena after its jumping attack; sometimes it fails to spawn in round 2."
+      },
+      {
+        "en": "Sometimes lands half outside the map, so many of its bombs fall harmlessly - players can exploit this."
+      },
+      {
+        "en": "Its head slightly resembles the Guardian of Hell from Doom 3."
+      },
+      {
+        "en": "Rewards on defeat (pre-Re:boot): Siege-type's Frame or Siege-type's DNA."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/4b/Oberon_V2.png",
+        "caption": {
+          "en": "Infobox portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/fd/Oberon_front.png",
+        "caption": {
+          "en": "Front view"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/fb/Oberon_back_view.png",
+        "caption": {
+          "en": "Back view"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/5f/Oberon_side_view.png",
+        "caption": {
+          "en": "Side view"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d0/Oberon_equipping_claw.png",
+        "caption": {
+          "en": "Oberon drawing his claws"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f2/Oberon_claw.png",
+        "caption": {
+          "en": "Oberon with his claw"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/92/Oberon_dead.png",
+        "caption": {
+          "en": "Dead Oberon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/29/Oberon_art.jpg",
+        "caption": {
+          "en": "Concept art"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/ec/Oberon_bomb.png",
+        "caption": {
+          "en": "Oberon's bomb"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "hud",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d3/Bosshp_bg_left_oberon.png",
+        "caption": {
+          "en": "Boss HP HUD"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "hud",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/24/Bosshp_bg_left_oberon_new.png",
+        "caption": {
+          "en": "Boss HP HUD (new)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e3/Oberon_msg.png",
+        "caption": {
+          "en": "Message portrait (Zombie Shelter: Coop)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/22/Oberon.jpg",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/1a/Obercp2.jpg",
+        "caption": {
+          "en": "China poster (2)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e8/Obecp3.jpg",
+        "caption": {
+          "en": "China poster (claw mode)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/16/Oberoncp.png",
+        "caption": {
+          "en": "China website wallpaper"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/fc/Oberon.gif",
+        "caption": {
+          "en": "Preview animation"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/60/Zs_deadend_20120524_1619240.jpg",
+        "caption": {
+          "en": "In-game screenshot (Dead End)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Oberon",
+      "title": "Oberon",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "phobos",
+    "name": "Prototype Phobos",
+    "aliases": ["Phobos", "zbs_bossl_big00 (system name)"],
+    "kind": "boss",
+    "side": "zombie",
+    "grade": "unknown",
+    "classType": "Boss (Zombie Scenario: Season 1 - Last Clue); the first boss ever introduced in Zombie Scenario",
+    "factions": ["rex-research-institute"],
+    "profile": {
+      "gender": "Male"
+    },
+    "tagline": {
+      "en": "Terror incarnate - the blue-skinned first boss waiting at the end of the Last Clue."
+    },
+    "summary": {
+      "en": "Prototype Phobos is the first boss introduced to Zombie Scenario, encountered at the end of the Last Clue chapter (Season 1) in Sector Z of the Rex Research Institute beneath the Lost City. It has enormous health, a shockwave that forces players to drop their weapons, a slash attack and a lethal rush called Mahadash. Its evolved, purple-skinned form, Siege Type Phobos, is the final boss of the Chaos chapter. Defeating Phobos originally rewarded Phobos' DNA for item fusion (replaced after Zombie Scenario Re:boot)."
+    },
+    "story": {
+      "en": "Following the map found in the dead advance-unit commander Andrey's note, the rescue team reaches the Rex laboratory complex (Last Clue) and confronts Phobos in its final round. After about a minute of combat, zombies arrive to support it; the team must kill them and defeat Phobos to win. Phobos returns as the round-3 boss of Nightmare, and appears in Desert Plant, Hell Ride and Episode Choi; it is also the boss used in the Zombie Scenario tutorial. Siege Type Phobos, which appears in Chaos with a purple colour, has nearly identical properties."
+    },
+    "quotes": [],
+    "abilities": [
+      {
+        "name": {
+          "en": "Slash (Signature Primary)"
+        },
+        "description": {
+          "en": "Normal melee slash attack."
+        }
+      },
+      {
+        "name": {
+          "en": "Shockwave (Signature Secondary)"
+        },
+        "description": {
+          "en": "Produces a shockwave that forces players to drop their current weapon (notably resetting JANUS-series transformation counters)."
+        }
+      },
+      {
+        "name": {
+          "en": "Mahadash (rush attack)"
+        },
+        "description": {
+          "en": "A charging rush that can kill a player outright; survivors are knocked away and take fall damage. Can hit twice."
+        }
+      },
+      {
+        "name": {
+          "en": "Stomp"
+        },
+        "description": {
+          "en": "A stomp attack later borrowed by the infected Dr. Rex."
+        }
+      },
+      {
+        "name": {
+          "en": "Zombie reinforcements"
+        },
+        "description": {
+          "en": "After roughly one minute of combat, zombies spawn to assist Phobos."
+        }
+      }
+    ],
+    "scenarioStats": {},
+    "costumes": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": ["zombie-scenario"],
+    "maps": [
+      "last-clue",
+      "nightmare",
+      "desert-plant",
+      "hell-ride",
+      "episode-choi",
+      "chaos-as-siege-type-phobos"
+    ],
+    "relatedCharacters": ["oberon", "dr-rex"],
+    "voiceActors": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "The first boss introduced in Zombie Scenario."
+      },
+      {
+        "en": "Named after Phobos, the Greek personification of fear (the word means 'terror'), and also the moon of Mars."
+      },
+      {
+        "en": "Its Mahadash may hit twice."
+      },
+      {
+        "en": "Sometimes fails to appear in Last Clue; using a Round Retry fixes it."
+      },
+      {
+        "en": "Rewards on defeat (pre-Re:boot): Phobos' DNA, fusable with items from Lost City, Double Gate and Trap."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f0/Phobos_V3.png",
+        "caption": {
+          "en": "Infobox portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b8/Phobos_model.png",
+        "caption": {
+          "en": "In-game model, front view"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/cc/Phobos_model_right_view.png",
+        "caption": {
+          "en": "Right view"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/cd/Phobos_model_back_view.png",
+        "caption": {
+          "en": "Back view"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/dc/Phobos_model_left_view.png",
+        "caption": {
+          "en": "Left view"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f5/Phobos_mdl_hd-1.png",
+        "caption": {
+          "en": "HD model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c3/Phobos_mdl_hd-2.png",
+        "caption": {
+          "en": "HD model (2)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c6/002-1.jpg",
+        "caption": {
+          "en": "South Korea poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9f/Phoboscp.jpg",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e6/Phoboscp2.jpg",
+        "caption": {
+          "en": "China poster (2)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "hud",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/dc/Bosshp_bg_left.png",
+        "caption": {
+          "en": "Boss HP HUD"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "hud",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8d/Bosshp_bg_left_new.png",
+        "caption": {
+          "en": "Boss HP HUD (new)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/4c/Phobos_msg.png",
+        "caption": {
+          "en": "Message portrait (Zombie Shelter: Coop)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/90/Zs_lastclue_20120907_2240200.jpg",
+        "caption": {
+          "en": "In-game screenshot of dead Phobos"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/33/Prototype_Phobos.gif",
+        "caption": {
+          "en": "Preview animation"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f0/Cs1z.jpg",
+        "caption": {
+          "en": "Last Clue poster: 707, David Black and Gerard fighting Phobos"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Prototype_Phobos",
+      "title": "Prototype Phobos",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "ritsuka",
+    "name": "Ritsuka",
+    "aliases": ["リツカ", "ritsuka (system name)"],
+    "kind": "human",
+    "side": "tr",
+    "grade": "unknown",
+    "classType": "Cash female Terrorist character; NPC in Zombie Scenario (Episode Choi, All-Out, Abandoned Hound)",
+    "factions": ["terrorist", "asia-red-army", "kronos"],
+    "profile": {
+      "gender": "Female",
+      "birthplace": "Asia",
+      "occupation": {
+        "en": "Mercenary; regular member of the Asia Red Army; later a Kronos operative"
+      }
+    },
+    "tagline": {
+      "en": "Reborn of Athena - raised in war zones, sworn to keep the Red Army's secrets from getting out."
+    },
+    "summary": {
+      "en": "Ritsuka is a female Terrorist character (official description: 'Reborn of Athena') and Choi Ji Yoon's TR counterpart. Born in Asia and caught up in domestic warfare from childhood, she became a regular member of the Asia Red Army during her mercenary years. When she caught a spy reading the ARA's secret papers, she made it her mission to stop that information from leaking. She later works for Kronos as 'Agent Ritsuka' before cutting ties after her capture in the Overflow chapter."
+    },
+    "story": {
+      "en": "**Background.** Born in Asia, Ritsuka was drawn into domestic warfare from an early age, accumulating combat experience and eventually becoming a regular member of the ARA during her time as a mercenary. There she discovered a spy (Choi Ji Yoon) reading the ARA's secret documents, and she now does everything she can to keep that information from getting out.\n\n**Zombie Scenario: Season 6 - Episode Choi.** Ritsuka is the one who unmasks the CIA infiltrator Choi Ji Yoon and holds her hostage; May is sent to rescue Choi. The episode reveals the ARA (led by Mr. X) is bankrolled by Douglas Jacob.\n\n**Kronos period (Agent Ritsuka / Douglas Jacob page).** On Mr. X's recommendation Douglas Jacob picked Ritsuka as an employee tasked with kidnapping or killing those who resist Kronos. Placed under heavy scrutiny after the failed kidnapping of Choi Ji Yoon, she hid her affiliation and began handling missions personally. When both the ARA and Ritsuka failed to meet his expectations, Douglas moved to sabotage them.\n\n**Zombie Scenario: Season 8 - Abandoned Hound / Overflow.** Asked by Douglas to stop David Black and Erika's party, Ritsuka ambushes them at a remote factory but fails, loses contact with Douglas and the super soldiers sent to support her, and retreats to the Asia Red Army hideout - only to find it in ruins. After being captured by Alin and Dominique in Overflow, she cuts ties with Kronos and decides to help Carlito instead."
+    },
+    "quotes": [
+      {
+        "text": {
+          "en": "Reborn of Athena"
+        },
+        "context": {
+          "en": "Official description"
+        }
+      }
+    ],
+    "abilities": [],
+    "scenarioStats": {
+      "health": 16,
+      "attack": 23,
+      "mobility": 26,
+      "armor": 17,
+      "ammo": 23
+    },
+    "costumes": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": ["original", "zombie-scenario"],
+    "maps": ["episode-choi", "all-out", "abandoned-hound", "overflow", "lost-city-poster"],
+    "relatedCharacters": ["choi-ji-yoon", "douglas-jacob"],
+    "voiceActors": [],
+    "release": [
+      {
+        "region": "sg",
+        "date": "2011-09-21",
+        "note": "Singapore/Malaysia - with Choi Ji Yoon and Double Agent Package"
+      },
+      {
+        "region": "id",
+        "date": "2012-01-04",
+        "note": "Indonesia"
+      },
+      {
+        "region": "tr",
+        "date": "2013-07-24",
+        "note": "Turkey"
+      },
+      {
+        "region": "csn",
+        "date": "2014-12-16",
+        "note": "CSN:Z / CSN:S"
+      },
+      {
+        "region": "vn",
+        "date": "2015-04-23",
+        "note": "Vietnam"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "A parody of Mei Shigenobu, daughter of the Japanese Red Army's leader, who was raised by members of the group."
+      },
+      {
+        "en": "Wears the most revealing outfit of the female characters; on 24 February 2022 her underwear was toned down and her face/eye colour (now grey) slightly changed."
+      },
+      {
+        "en": "Promotional art shows light-brown hair while the in-game model is black-haired (as with Choi Ji Yoon)."
+      },
+      {
+        "en": "Appears as a non-playable supporting character in Episode Choi (Season 6) and in All-Out (Season 7)."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f4/Ritsuka.png",
+        "caption": {
+          "en": "Infobox portrait"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f7/Ritsuka_playermodel.png",
+        "caption": {
+          "en": "In-game model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/02/Ritsuka_ingamemdl.png",
+        "caption": {
+          "en": "In-game model (old)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/5f/Ritsuka_shopmodel.png",
+        "caption": {
+          "en": "Shop model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/dc/Ritsuka_msg.png",
+        "caption": {
+          "en": "NPC message portrait (Episode Choi)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/05/Ritsuka_wkartred.png",
+        "caption": {
+          "en": "Ritsuka with Lightning Bazzi-1"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/13/Ritsuka_wsanta_hat_l85a2.png",
+        "caption": {
+          "en": "Ritsuka with Santa hat and L85A2"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/be/171568.jpg",
+        "caption": {
+          "en": "Promotional art"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/68/Ritsuka_icon.png",
+        "caption": {
+          "en": "Buy icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/93/Ritsuka_spray.png",
+        "caption": {
+          "en": "Spray"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c9/Ritsuka_sd_HD.png",
+        "caption": {
+          "en": "SD spray"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/2b/Newgirl.jpg",
+        "caption": {
+          "en": "South Korea poster (with Choi Ji Yoon)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/91/Kartteamkp%27.png",
+        "caption": {
+          "en": "Cart Rider Best Friend South Korea poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/71/Csw5102451hc2p81Ra.jpg",
+        "caption": {
+          "en": "Taiwan/Hong Kong poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9e/Chritsucp.jpg",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/75/RitsukaPoster.jpg",
+        "caption": {
+          "en": "Japan poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/be/Ritsuka_promo.jpg",
+        "caption": {
+          "en": "Singapore/Malaysia poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/28/Ritsuka_poster_th.jpg",
+        "caption": {
+          "en": "Thailand poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e1/Ritsuka_choijiyoon_turkey_poster.png",
+        "caption": {
+          "en": "Turkey resale poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3b/Zsm_poster.jpg",
+        "caption": {
+          "en": "Lost City poster (Ritsuka, David Black, Gerard)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Ritsuka",
+      "title": "Ritsuka",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "yuri",
+    "name": "Yuri",
+    "aliases": ["Юрий", "yuri (system name)"],
+    "kind": "human",
+    "side": "tr",
+    "grade": "unknown",
+    "classType": "Cash female Terrorist character (first-generation female TR)",
+    "factions": ["terrorist", "kronos"],
+    "profile": {
+      "gender": "Female",
+      "birthplace": "Asia",
+      "birthday": "Early-to-mid 1990s (birth period)",
+      "occupation": {
+        "en": "Explosives specialist / demolition expert"
+      }
+    },
+    "tagline": {
+      "en": "The explosives genius who was declared dead - then blew up the Rex Laboratory."
+    },
+    "summary": {
+      "en": "Yuri is a female Terrorist character and Criss's TR counterpart. Born in Asia in the early-to-mid 1990s, she is a genius with explosives who was rumoured to have died in an accident while researching new explosives during a war between nations - only to resurface in the Rex Laboratory bombing incident, reportedly using her new explosive technology. Her bombing of the Rex facility is a recurring plot point: it is why Jack was 'rescued' by Douglas Jacob and why David Black seeks her out in Season 8."
+    },
+    "story": {
+      "en": "**Background.** Born in Asia during the early-to-mid 1990s, Yuri is an explosives prodigy. She was rumoured to have died in an accident while researching new explosives amid conflicts between warring nations, but she surfaced again during the Rex Laboratory bombing incident, with reports that she put her new explosive technology to use there.\n\n**Pyromaniac Yuri (transcendent variant, Kronos page).** Described as a mysterious girl with an extraordinary talent for explosives who works exclusively on destructive jobs. She completed most of her missions but once unintentionally injured Jennifer on assignment. A master of disguise able to infiltrate anywhere, she has lately been on the run from Mei, who has chased her persistently ever since Yuri tried to use David Black's company and ended up exposing her own whereabouts.\n\n**Storyline hooks.** Douglas Jacob 'rescued' Jack from death after Yuri bombed the Rex Research Facility (Douglas Jacob page). In Zombie Scenario: Season 8, David Black's new team sets out to recruit 'the man who blew up the Rex Labs in the past' - the wiki's Season 8 page uses this phrasing - and in Overflow, Dominique and Alin travel to a rendezvous point to help Yuri, finding a village full of strange rifts."
+    },
+    "quotes": [],
+    "abilities": [
+      {
+        "name": {
+          "en": "Zombie Scenario stat profile"
+        },
+        "description": {
+          "en": "Very high attack power (+5) and high mobility (+2), but low health (-4), low Kevlar (-1) and low reserve ammo (-2)."
+        }
+      }
+    ],
+    "scenarioStats": {
+      "health": 17,
+      "attack": 26,
+      "mobility": 23,
+      "armor": 20,
+      "ammo": 19
+    },
+    "costumes": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": ["original", "zombie-scenario"],
+    "maps": ["dead-end-sg-my-poster", "overflow-storyline"],
+    "relatedCharacters": ["david-black"],
+    "voiceActors": [],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2009-04-30",
+        "note": "South Korea"
+      },
+      {
+        "region": "sg",
+        "date": "2011-11-23",
+        "note": "Singapore/Malaysia - with Criss and Angel vs Devil package"
+      },
+      {
+        "region": "id",
+        "date": "2012-05-03",
+        "note": "Indonesia"
+      },
+      {
+        "region": "tr",
+        "date": "2013-11-20",
+        "note": "Turkey"
+      },
+      {
+        "region": "csn",
+        "date": "2015-01-29",
+        "note": "CSN:Z"
+      },
+      {
+        "region": "vn",
+        "date": "2015-07-30",
+        "note": "Vietnam"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "Three alternate versions exist (Soccer, Limited Edition, Transcendence), usable in all modes; a fourth transcendent variant, Pyromaniac Yuri (2023), is tied to Kronos lore."
+      },
+      {
+        "en": "'Yuri' is a male given name in Russia; in Korean it means glass; in Japanese it can mean lily or swing."
+      },
+      {
+        "en": "Counter-Strike: Condition Zero Deleted Scenes (Secret War) also features a Spetsnaz operative named Yuri."
+      },
+      {
+        "en": "Also has a Counter-Strike Online 2 incarnation (Yuri/CSO2)."
+      }
+    ],
+    "media": [
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b6/Yuri_icon.png",
+        "caption": {
+          "en": "Infobox icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/10/Yuri-CS_Online.jpg",
+        "caption": {
+          "en": "Concept art"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/0c/Yuri-Wallpaper.jpg",
+        "caption": {
+          "en": "South Korea poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/ff/Newclass.jpg",
+        "caption": {
+          "en": "South Korea poster (2)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b3/Yuricp.jpg",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/64/180D4A1A49F995788C8A64.jpg",
+        "caption": {
+          "en": "Japan poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d2/Yuri_criss_deadend.jpg",
+        "caption": {
+          "en": "Singapore/Malaysia poster (Yuri and Criss in Dead End)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/37/Criss_yuri_spray_promo_th.jpg",
+        "caption": {
+          "en": "Thailand poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e7/Yuri_criss_poster_turkey.png",
+        "caption": {
+          "en": "Turkey poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3d/Yuri-Criss.png",
+        "caption": {
+          "en": "Vietnam poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "icon",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/55/Yuri_buyicon.png",
+        "caption": {
+          "en": "Buy icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/96/Scyuri.png",
+        "caption": {
+          "en": "Variant: Yuri (Soccer)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/2f/Yuri2_icon.png",
+        "caption": {
+          "en": "Variant: Yuri (Limited Edition)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a3/Buffyuri.png",
+        "caption": {
+          "en": "Variant: Transcendent Yuri"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/ce/Buffclass23s1tr_icon.png",
+        "caption": {
+          "en": "Variant: Pyromaniac Yuri"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Yuri",
+      "title": "Yuri",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  }
+]

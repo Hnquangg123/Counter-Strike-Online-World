@@ -1,0 +1,22 @@
+{
+  "slug": "team-deathmatch",
+  "name": "Team Deathmatch",
+  "aliases": ["TDM"],
+  "family": "original",
+  "tagline": "Counter-Terrorists versus Terrorists with instant respawns - first team to the kill limit wins.",
+  "summary": "Team Deathmatch is a team-versus-team kill-count mode. Originally a custom server-side mode in the original Counter-Strike, it became an official CSO mode: the match ends when a faction reaches the kill limit or leads when the timer runs out, and dead players respawn at their base after 5 seconds (3 with Short Respawn Time).",
+  "description": "The wiki states that Team Deathmatch is a game mode in Counter-Strike Online that originated as a custom server-side mode in the original Counter-Strike. Counter-Terrorists and Terrorists fight to eliminate opposing players until one faction reaches the kill limit or is the leading team when the timer runs out. Dead players respawn after 5 seconds in their spawn base, or 3 seconds with Short Respawn Time active. A large map pool is compatible, including Assault, Estate, Italy, Militia, Office, Camouflage, Aztec, Cbble, Dust, Dust2, Inferno, Nuke, Train, Truth, Rex, Toscana, Prodigy, Santorini, Survivor, Angel City, Turkey, Winter Shelter, Mirage, Port, Ruin, Moonlight, Industry, Greesia, Rats, Gallery, Kart, Suzhou, Tunnel, Dark Snow and Warehouse.",
+  "lore": null,
+  "rules": [
+    "Two teams; kill opposing players to score.",
+    "Win by reaching the kill limit or leading when time expires.",
+    "Respawn after 5 seconds at the team base (3 seconds with Short Respawn Time)."
+  ],
+  "maxPlayers": null,
+  "release": [],
+  "trivia": [
+    "A known bug can prevent respawning after death, requiring the player to re-enter the room."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Team_Deathmatch"
+}

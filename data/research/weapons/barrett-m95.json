@@ -1,0 +1,77 @@
+{
+  "slug": "barrett-m95",
+  "name": "Barrett M95",
+  "aliases": ["M95", "Barrett Model 1995"],
+  "category": "sniper-rifle",
+  "grade": null,
+  "origin": null,
+  "manufacturer": null,
+  "caliber": ".50 BMG",
+  "tagline": "A bullpup .50 BMG anti-materiel rifle that punches through five targets.",
+  "summary": "The Barrett M95 is a bullpup, bolt-action anti-materiel sniper rifle fed with 5 rounds of .50 BMG. It deals more damage than the AWP, kills humans instantly anywhere but the legs and penetrates up to five objects, but it is heavy, holds only 5 rounds, fires slowly and has the longest reload (4 seconds) of any bolt-action sniper in CSO. Christmas, Enhanced and White Tiger (Transcendent) editions exist.",
+  "description": "The wiki describes the Barrett M95 (Model 1995) as a bullpup-style, bolt-action, anti-materiel sniper rifle fed with 5 rounds of .50 BMG per magazine. It excels against vehicles and armored units in Human Scenario (three body shots or one unarmored neck shot kill a Titan) and can penetrate up to 5 objects such as walls, humans and zombies. Damage by range (no armor / with armor): head 433/456 at 0m, 418/440 at 36m, 391/412 at 86m; chest & arm 108/114, 104/110, 97/103; gut 135/142, 130/137, 122/128; legs 85 at all ranges. Against zombies with the Part System: head & chest 1,000 per round, gut 250, leg 200; 5 rounds deal 2,000-13,000 to Zombie Scenario bosses at maximum attack power. It costs $5,000 (ammo $12,000 per purchase in Scenario), weighs about 5% more than the AWP, has twice the AWP's recoil and reloads in 4.0 seconds; with Weapon Enhancement it can hold up to 10 rounds. David Black appears with the Christmas Edition in promotional posters.",
+  "stats": {
+    "damage": "Head 433 (no armor) / 456 (armor) at 0m; chest & arm 108/114; gut 135/142; legs 85. Zombies: head & chest 1,000 per round",
+    "accuracy": "Very high when scoped; accurate unscoped",
+    "recoil": "About 2x the AWP",
+    "rateOfFire": "Lower than other bolt-action sniper rifles",
+    "weight": "Heavy (+5% vs AWP)",
+    "knockback": "High against zombies",
+    "stun": "High against zombies"
+  },
+  "ammo": { "magazine": 5, "reserve": "High", "type": ".50 BMG" },
+  "price": "$5,000 (ammo $12,000 per full purchase in Scenario)",
+  "fireModes": ["Bolt-action", "Scoped"],
+  "obtainMethod": "Purchase; Weapon Enhancement; Christmas events (M95 Christmas Edition)",
+  "advantages": [
+    "Massive damage to humans, zombies and bosses",
+    "Very high accuracy when scoped; accurate without scope",
+    "Instant kill on humans except leg shots",
+    "Penetrates up to 5 objects (walls, humans, zombies)",
+    "Weapon Enhancement capable",
+    "High reserve ammunition",
+    "High knockback and stun against zombies"
+  ],
+  "disadvantages": [
+    "Low magazine capacity",
+    "Heavy weight",
+    "Long reload time (4 seconds)",
+    "Lower rate of fire than other bolt-action sniper rifles",
+    "Expensive price and ammunition"
+  ],
+  "variants": [
+    "M95 Christmas Edition",
+    "Barrett M95 Enhanced (via Weapon Enhancement)",
+    "Barrett M95 White Tiger (Transcendent; ensnare and White Tiger Summoning abilities)"
+  ],
+  "characters": ["David Black (promotional posters with the Christmas Edition)"],
+  "abilities": [],
+  "release": [
+    {
+      "region": "tw",
+      "date": "2010-09-14",
+      "note": "Taiwan/Hong Kong (base); Christmas Edition 2011-12-20"
+    },
+    { "region": "cn", "date": "2010-09-15", "note": "Base; Christmas Edition 2011-12-21" },
+    { "region": "kr", "date": "2010-09-16", "note": "Base; Christmas Edition 2011-12-22" },
+    { "region": "jp", "date": "2010-10-13", "note": null },
+    {
+      "region": "sg",
+      "date": "2012-04-25",
+      "note": "Singapore/Malaysia (base); Christmas Edition 2012-12-21"
+    },
+    { "region": "id", "date": "2013-05-08", "note": "Base; Christmas Edition 2013-12-18" },
+    { "region": "tr", "date": "2014-01-08", "note": null },
+    { "region": "csn", "date": "2014-09-23", "note": "Base; Christmas Edition 2014-12-16" },
+    { "region": "vn", "date": "2015-03-26", "note": "Base; Christmas Edition 2015-12-17" }
+  ],
+  "trivia": [
+    "Deals higher damage than the AWP and costs the same as the G3 SG/1 ($5,000).",
+    "Has the longest reloading time (4 seconds) among all bolt-action sniper rifles in Counter-Strike Online.",
+    "With enhancement it can hold up to 10 rounds.",
+    "'Henry Stoner' text is visible on the Expert edition.",
+    "Shooting airborne zombies knocks them far away, except Heavy zombies and Deimos/Ganymede."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Barrett_M95"
+}

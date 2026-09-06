@@ -1,0 +1,87 @@
+{
+  "slug": "rex-research-institute",
+  "name": "Rex Research Institute",
+  "aliases": ["Rex Laboratory", "Rex Lab", "Rex Labs", "Rex Research Facility", "Rex Institute"],
+  "side": "zombie",
+  "sideNote": "Nominally a US-military weapons institute (Counter-Terrorist-aligned), but the birthplace of the Rex Virus and the origin of every early zombie boss; treated as the source of the zombie threat.",
+  "summary": "The Rex Research Institute is the fictional organisation where the zombie apocalypse of Counter-Strike Online began. Founded by doctors and scientists developing life-prolonging medicine, it drifted toward the goal of human immortality; its experiments on living things backfired and produced the Rex Virus, which turns humans into zombies. The zombies escaped the lab during the Chaos chapter and spread the infection, and Jennifer was held there as a living test subject. Its director, Dr. Steve Rex, ran the classified Super Soldier Project that the virus was meant to serve.",
+  "description": "An organisation of doctors and scientists who began by creating medicines to prolong life and gradually shifted to seeking a way to make humans immortal. Their continuous experiments on living organisms backfired and created the dangerous Rex Virus, which turns humans into the undead. Publicly the Rex Laboratory is best known as an institute producing American military weapons; its director Dr. Steve Rex is a leading bio- and mechanical engineer who led the Super Soldier Project behind closed doors.",
+  "lore": "The zombies broke out of the lab in the Chaos chapter and began infecting others, isolating the surrounding Lost City. The institute is also where Jennifer was captured and kept alive as a human experimental subject. The main laboratory where the experiments took place was threatened with destruction by the Terrorists for political purposes (they managed to damage it only insignificantly); Yuri's bombing of the Rex facility is referenced elsewhere in the storyline. Dr. Rex remained hidden until revealing himself in the Envy Mask chapter, saying someone else (Douglas Jacob / Kronos) was continuing his super-soldier research. In Season 7, David Black and Erika return to the attacked Rex Labs looking for a cure for Erika. Rumour places the institute in Cuba: the Lost City map has posters written in Spanish, and Dead End takes place in Havana.",
+  "mapsDepicting": [
+    "Rex",
+    "Roof",
+    "Abyss",
+    "Abyss 2",
+    "Abyss 3",
+    "Chaos",
+    "Cube",
+    "Zombie Scenario: Season 4 maps",
+    "Memories",
+    "Rex Labs (Season 7)",
+    "Lost City (Sector Z)"
+  ],
+  "leaders": ["Dr. Steve Rex - director and mastermind of the outbreak"],
+  "members": [
+    "Dr. Steve Rex",
+    "Psycho Zombies - former co-workers on the Super Soldier Program",
+    "Blotter Zombie - developed the Zombie Grenade",
+    "Female Researcher (Choi Ji Yoon's sister) - became Sting Finger",
+    "Security Guard - became Venom Guard",
+    "Soy (Soi) - participated in the Super Soldier Program for her PhD research"
+  ],
+  "creations": [
+    "Rex Virus / Z-VIRUS",
+    "Prototype Phobos",
+    "Siege Type Phobos",
+    "Oberon",
+    "Dione / Siege Type Dione / Angra",
+    "Revenant",
+    "Super soldiers (Titan, Ghost, Trooper, Lancer via Vanguard)"
+  ],
+  "funders": ["Douglas Jacob / Kronos (secret funding after the government withdrew)"],
+  "trivia": [
+    "Rumoured to be located in Cuba (Spanish-language posters in Lost City; Dead End is set in Havana)."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/a/a7/Rex_gfx.png",
+      "caption": "Rex Laboratory (map graphic) - infobox image"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/d1/Ae_gfx.png",
+      "caption": "Roof map graphic"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f0/Zm_abyss_cso.png",
+      "caption": "Abyss map icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/ca/Zm_abyss2_cso.png",
+      "caption": "Abyss 2 map icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/21/Abyss3_gfx.png",
+      "caption": "Abyss 3 map graphic"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/b0/Chaos_gfx.png",
+      "caption": "Chaos map graphic"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/95/Cube.png",
+      "caption": "Cube map graphic"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/9a/Zs_memories2_cso.png",
+      "caption": "Memories map icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/5e/Doctorrex_msg.png",
+      "caption": "Dr. Rex message portrait"
+    }
+  ],
+  "emblemNote": "No logo image on the page; Rex_gfx.png (the lab map graphic) serves as the infobox image.",
+  "wikiUrl": "https://cso.fandom.com/wiki/Rex_Research_Institute",
+  "sections": ["Background", "Structure", "Known operatives (Dr. Steve Rex)", "Trivia"],
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

@@ -1,0 +1,147 @@
+{
+  "slug": "karin",
+  "name": "Karin",
+  "aliases": ["buffclass24s3tr (system name)", "24-3 Transcendence Class TR"],
+  "kind": "human",
+  "side": "tr",
+  "grade": "transcendent",
+  "classType": "Transcendent grade Terrorist character (Buff class, 2024 Season 3) - a fire fairy from another world",
+  "factions": ["Terrorist"],
+  "profile": {
+    "gender": "Female",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": "Another world (fairy realm)",
+    "nationality": null,
+    "occupation": "Fire fairy; self-styled explorer on a 'secret mission'",
+    "bloodType": null,
+    "birthday": null,
+    "raceAffiliation": "Fairy (fire)",
+    "status": "Alive"
+  },
+  "tagline": "The wise and powerful fire fairy - loud, confident, and quietly looked after by the sleep fairy behind her.",
+  "summary": "Karin is a Transcendent grade Terrorist character released on 27 June 2024 (Korea) as the TR half of the 'Advent Fairies' pair with Milia. A fire fairy who crossed into this world out of curiosity after watching Nyx and Skadi disappear, she claims to be searching for a way home but mostly spends her days learning about the new world and enjoying the attention. Her confidence constantly causes commotions; she does not realise Milia is quietly watching over her.",
+  "story": "**Overview.** Karin is a fairy who came to this world out of curiosity after seeing Nyx and Skadi vanish. She says she is looking for a way back, but for now she is busy discovering the new world and dealing with the attention she gets. Always stirring things up with her self-assurance, she has no idea that Milia is looking after her from behind.\n\n**Background (in-character interview, summarised).** Karin introduces herself as 'the wise and powerful fire fairy' and is briefly deflated when the reporter turns out to be looking for Milia. In a second recording she happily invites the reporter to photograph her, insists she is on a secret mission she cannot discuss, and is flustered to learn Milia has already told the reporter that Karin dragged her along in a huff to chase Skadi and Nyx. Karin reframes this as a calculated plan and predicts that people will tell tales of the great fairy Karin who explored new worlds and returned home. Asked how the mission is going, she claims it is going well but cannot give details in case enemies hear. She rushes off when she notices Milia falling asleep - before crying out for Milia's help.\n\n**Companions.** Small Ember - a small ember of fire known as Karin's companion, usable as a pet.",
+  "personality": "Confident to the point of bluster, attention-loving, dramatic and a little scatterbrained; genuinely affectionate toward Milia and dependent on her despite claiming to lead.",
+  "quotes": [
+    {
+      "text": "Hello! Welcome! I am Karin, the wise and powerful fire fairy!",
+      "context": "Opening line of her in-character interview (Background)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Baptism of Fire (Active skill, Zombie Scenario)",
+      "description": "Grants an unlimited-ammunition buff and a barrier to Karin and nearby allies. If the barrier breaks before the duration ends, she gains a movement-speed buff; if it holds, she gains an attack-power buff."
+    },
+    {
+      "name": "Passive - Connection with Milia",
+      "description": "When playing Zombie Scenario alongside a Milia player, critical rate is slightly increased and damage taken slightly reduced (connection effect; does not stack with other connection effects)."
+    },
+    {
+      "name": "Passive - Explosive Bullets",
+      "description": "Applies the [Explosive Bullets] add-on effect by default (stackable, effect increases)."
+    },
+    {
+      "name": "Passive - Elite/Boss damage",
+      "description": "+8% attack power against Elite zombies and +4% against Boss monsters."
+    },
+    {
+      "name": "Transcendent Class buffs",
+      "description": "Exclusive voice lines; 10% EXP and 10% point bonus (20% in PC rooms); +10 level cap in Zombie Scenario; marks zombies below 20% health in Zombie Mode; +1 initial mutation point in Zombie Z; movement speed shown on HUD; unique kill mark."
+    },
+    {
+      "name": "Pairing weapon bonus (Drakar series)",
+      "description": "Increased Tempest Slash damage and attack range when using Drakar-I / II / III."
+    }
+  ],
+  "zombieScenarioStats": {
+    "health": "23/28",
+    "attack": "28/28",
+    "mobility": "27/28",
+    "armor": "19/28",
+    "ammo": "18/28"
+  },
+  "obtainedFrom": "Class Decoder",
+  "appearances": {
+    "gameModes": [
+      "Zombie Scenario",
+      "Zombie Mode",
+      "Zombie Z",
+      "Original / general modes (Terrorist team)"
+    ],
+    "maps": [],
+    "scenarios": []
+  },
+  "weapons": ["Drakar-I", "Drakar-II", "Drakar-III (pairing weapons, Drakar Weapon Series)"],
+  "relatedCharacters": [
+    "Milia - sleep fairy she dragged into this world; CT counterpart",
+    "Skadi and Nyx - the fairies whose disappearance she followed",
+    "Small Ember - pet companion"
+  ],
+  "voiceActors": [],
+  "release": [
+    { "region": "kr", "date": "2024-06-27", "note": "South Korea" },
+    { "region": "cn", "date": "2024-07-02", "note": "China" },
+    { "region": "tw", "date": "2024-07-10", "note": "Taiwan & Hong Kong" },
+    { "region": "csn", "date": "2024-07-10", "note": "CSNS (Global)" }
+  ],
+  "trivia": [
+    "Released as a pair with Milia; the 'Advent Fairies' medal (10 Honor Points) is earned by owning Milia, Karin, the Pillow Fairy costume and the Small Ember costume permanently.",
+    "Corresponding items: Small Ember (pet) and SD Karin Spray.",
+    "Her name is spelled both 'Milia' and 'Millia' for her partner on the wiki."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/7/75/Buffclass24s3tr.png",
+      "caption": "Infobox portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/67/Buffclass24s3tr_femalelong.png",
+      "caption": "View model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/6c/Karin_mdl.png",
+      "caption": "Model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/fa/6940049224801247969.png",
+      "caption": "Inventory icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/dd/24-3%EC%B4%88%EC%9B%94%ED%81%B4%EB%9E%98%EC%8A%A4_TR.jpg",
+      "caption": "Official wallpaper"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f2/Buffclass24s3_kr.jpg",
+      "caption": "Korea poster (shared with Milia)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/86/Buffclass24s3_csona.jpg",
+      "caption": "CSN:S poster (shared with Milia)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/a/a1/Killmark_24s3TR.gif",
+      "caption": "Kill mark"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/52/Ef_buffclass24s3tr_skill.gif",
+      "caption": "Skill sprite"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Karin",
+  "sections": [
+    "Overview",
+    "Background",
+    "Release date",
+    "Buffs",
+    "Pairing Weapons",
+    "Zombie Scenario Skill (Passive / Active)",
+    "Zombie Scenario stats",
+    "Corresponding Items",
+    "Corresponding Medal",
+    "Gallery"
+  ],
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

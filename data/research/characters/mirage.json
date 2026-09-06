@@ -1,0 +1,183 @@
+{
+  "slug": "mirage",
+  "name": "Mirage",
+  "aliases": [
+    "Mirage (Character)",
+    "21-2 Transcendental Class CT",
+    "Buffclass21s2ct (internal asset name)"
+  ],
+  "kind": "human",
+  "side": "ct",
+  "grade": "transcendent",
+  "classType": "Transcendent grade Counter-Terrorist character (Buff class, 2021 Season 2)",
+  "factions": ["Counter-Terrorist"],
+  "profile": {
+    "gender": "Female",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": null,
+    "nationality": null,
+    "occupation": "Leading virtual streamer on the VR platform Krono World; secretly an excellent hacker",
+    "bloodType": null,
+    "birthday": null,
+    "raceAffiliation": "VR Human",
+    "status": "Online"
+  },
+  "tagline": "Krono World's star VR streamer with a hacker's secret - and a suspicious log she can't ignore.",
+  "summary": "Mirage is a Transcendent grade Counter-Terrorist character released alongside her twin sister Anemone on 1 July 2021 (Korea). A top virtual streamer on the VR platform Krono World, she is in fact a skilled hacker who is lively online but shy and timid offline. After stumbling upon a suspicious Krono World log she attempts to contact the Aegis Lab while enemies close in for the information.",
+  "story": "Although Mirage is a leading virtual streamer on the VR platform Krono World, she is actually an excellent hacker. She has a lively personality online but is shy and timid offline.\n\nShe discovers a suspicious log of Krono World that she stumbled upon, and tries to contact the Aegis Lab to avoid the enemies approaching for the information. Her twin sister Anemone, a Krono World pro gamer, accompanies her as a guardian.",
+  "personality": "Lively online persona, but shy and timid offline. Highly intelligent (skilled hacker).",
+  "quotes": [
+    { "text": "VR Streaming, going live!", "context": "Page header quote (game start voice line)" },
+    {
+      "text": "If you want to request a mission, now's the time!",
+      "context": "Game start voice line"
+    },
+    { "text": "Streaming now!", "context": "Game start voice line" }
+  ],
+  "abilities": [
+    {
+      "name": "Defense Code (Exclusive Skill)",
+      "description": "Activates a ranged (area) skill that protects the user and allies for a certain period of time when used in Zombie Scenario."
+    },
+    {
+      "name": "Extra Satellite Mine",
+      "description": "Receive +1 more Satellite Mine to use when playing as Mirage."
+    },
+    {
+      "name": "Experience/Point bonus",
+      "description": "10% experience/point bonus (20% in PC rooms)."
+    },
+    {
+      "name": "Higher Zombie Scenario level",
+      "description": "Higher level than the normal class in Zombie Scenario Mode."
+    },
+    {
+      "name": "Zombie Z mutation",
+      "description": "One initial mutation is added in Zombie Z mode."
+    },
+    {
+      "name": "Damage HUD and dedicated kill mark",
+      "description": "Current damage is displayed on the lower HUD; a dedicated kill mark is shown on kills."
+    }
+  ],
+  "zombieScenarioStats": {
+    "health": "24/28",
+    "attack": "24/28",
+    "mobility": "24/28",
+    "armor": "22/28",
+    "ammo": "21/28"
+  },
+  "costumes": [
+    {
+      "name": "Mirage VR Glass",
+      "description": "Glass costume used by Mirage.",
+      "image": "https://static.wikia.nocookie.net/cso/images/4/4f/Mirage_vr_glass.png"
+    }
+  ],
+  "obtainedFrom": "Class Decoder",
+  "appearances": {
+    "gameModes": [
+      "Zombie Scenario",
+      "Zombie Z",
+      "Original / general modes (Counter-Terrorist team)"
+    ],
+    "maps": [],
+    "scenarios": []
+  },
+  "weapons": ["Satellite Mine (Signature Primary / Pairing Weapon)"],
+  "relatedCharacters": [
+    "Anemone - twin sister, Terrorist counterpart",
+    "Blue Rabbit Mirage - variant",
+    "Aegis Institute (Aegis Lab) - she tries to contact them"
+  ],
+  "voiceActors": [
+    { "region": "Korea", "name": "Kim Gae Ryong (김가령)" },
+    { "region": "China", "name": "Liu Shisi (劉十四)" },
+    { "region": "Taiwan/Hong Kong", "name": "Ye Yu Jia (葉于嘉)" },
+    { "region": "CSN (Global)", "name": "Dina Soaring" }
+  ],
+  "release": [
+    { "region": "kr", "date": "2021-07-01", "note": "South Korea" },
+    { "region": "tw", "date": "2021-07-14", "note": "Taiwan & Hong Kong" },
+    { "region": "csn", "date": "2021-07-14", "note": "CSNS (Global)" }
+  ],
+  "trivia": [
+    "Her face is similar to Miho and her hairstyle is similar to Yuri and Michaela.",
+    "She highly resembles Hatsune Miku, a Vocaloid voicebank developed by Crypton Future Media.",
+    "The background image on her page shows Mirage in Panic Room.",
+    "Not to be confused with the map of the same name (Mirage (Map))."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/0c/Buffclass21s2ct.png",
+      "caption": "Infobox portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/dd/Buffclass21s2ct_shopmodel.png",
+      "caption": "Model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/10/Buffclass21s2ct_viewmodel.png",
+      "caption": "View model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/00/Buffclass21s2_kr.jpg",
+      "caption": "Korea poster (shared with Anemone)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/86/Buffclasas21s2_cso_na.jpg",
+      "caption": "CSN:S poster (shared with Anemone)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/fd/Killmark_21s2CT.gif",
+      "caption": "Kill mark"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/8d/Mirage_icon.png",
+      "caption": "Icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/7/7b/Mirage_hud.png",
+      "caption": "HUD icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/49/Mirageconceptart.png",
+      "caption": "Mirage concept art"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/e7/Buffclassskill_21s2ct_bg.png",
+      "caption": "Exclusive skill (Defense Code) background"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/4f/Mirage_vr_glass.png",
+      "caption": "Mirage VR Glass costume"
+    }
+  ],
+  "audio": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/c9/Gamestart1_mirage.ogg",
+      "caption": "Game start voice line 1"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f1/Gamestart2_mirage.ogg",
+      "caption": "Game start voice line 2"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/44/Gamestart3_mirage.ogg",
+      "caption": "Game start voice line 3"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Mirage_(Character)",
+  "sections": [
+    "Overview",
+    "Buffs",
+    "Release date",
+    "Mirage VR Glass",
+    "Zombie Scenario Stats",
+    "Gallery",
+    "Trivia"
+  ],
+  "license": "Text adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

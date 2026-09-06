@@ -1,0 +1,1190 @@
+[
+  {
+    "slug": "ak-47",
+    "name": "AK-47",
+    "aliases": ["CV-47", "Avtomat Kalashnikova Model 1947"],
+    "category": "assault-rifle",
+    "grade": "common",
+    "origin": "Soviet Union / Russia",
+    "manufacturer": "Izmash",
+    "caliber": "7.62 NATO (as written on the wiki infobox)",
+    "tagline": {
+      "en": "The Terrorists' hard-hitting workhorse rifle: huge damage, wild recoil."
+    },
+    "summary": {
+      "en": "The AK-47 is the Terrorist faction's standard assault rifle in Counter-Strike Online and a basic (Common-grade) weapon purchasable in Original mode. It deals high damage per hit and has a short reload, but its recoil is very high, so sustained spraying quickly destroys accuracy. Its Counter-Terrorist counterpart is the M4A1."
+    },
+    "description": {
+      "en": "Designed by Mikhail Kalashnikov and manufactured by Izmash, the AK-47 is fed with 30 rounds of 7.62 ammunition and fires in automatic mode. In Counter-Strike Online it is the Terrorist-exclusive basic rifle of Original mode ($2500 in match). The wiki characterises it as doing high damage per hit but with high recoil, so spraying makes the user lose accuracy tremendously; controlled bursts or single taps at range are the intended play style. Its damage listed by mode: 28 (Normal), 40-47 (Zombie), 56-66 (Scenario). Rated stats: accuracy 83%, recoil 21%, rate of fire 91%. The AK-47 has spawned a long line of reskins and reworks in CSO (Dragon, 60R, Gold, AKM, HQ, Red, Paladin, White Gold, 10th Anniversary).\n\n## Advantages\n\n- High damage for an assault rifle\n- Short reload time\n- High rate of fire\n- Cheaper than the M4A1\n- Accurate at long range (when tapped)\n\n## Disadvantages\n\n- Loses accuracy after just several shots\n- Very loud, reveals the shooter's position\n- Purchasable only for Terrorists in Original mode\n- Very high recoil\n- Wild spray pattern\n- Quite expensive ammunition cost"
+    },
+    "stats": {
+      "damage": 28,
+      "accuracy": 83,
+      "recoil": 21,
+      "rateOfFire": 91
+    },
+    "statNotes": {
+      "damage": "28 (Normal) / 40-47 (Zombie) / 56-66 (Scenario)",
+      "accuracy": "83%",
+      "recoil": "21%",
+      "rateOfFire": "91%"
+    },
+    "ammo": {
+      "magazine": 30,
+      "reserve": 90,
+      "type": "7.62 NATO"
+    },
+    "price": 2500,
+    "fireModes": ["Automatic"],
+    "obtainMethod": {
+      "en": "Basic weapon; purchasable by Terrorists (exclusive in Original mode)"
+    },
+    "variants": [],
+    "characters": [],
+    "abilities": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "Its Counter-Terrorist counterpart in Original mode is the M4A1."
+      },
+      {
+        "en": "Designer credited on the wiki: Mikhail Kalashnikov."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/AK-47",
+      "title": "AK-47",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  },
+  {
+    "slug": "balrog-vii",
+    "name": "BALROG-VII",
+    "aliases": ["BALROG-7", "Balrog-VII"],
+    "category": "machine-gun",
+    "grade": "unknown",
+    "manufacturer": "Aegis Institute",
+    "caliber": "7.62 AHE (Anti-zombie High Explosive) bullets",
+    "tagline": {
+      "en": "Aegis Institute's belt-fed machine gun that fires an explosive round every tenth shot."
+    },
+    "summary": {
+      "en": "BALROG-VII is a belt-fed machine gun developed by the Aegis Institute and fed with 120 rounds of 7.62 AHE bullets. Its Balrog Charging System lets it fire an explosive round after every 10 consecutive shots, making it a favourite for clearing zombie hordes and bosses in Zombie Scenario. It is heavy, expensive and inaccurate at long range."
+    },
+    "description": {
+      "en": "A belt-fed machine gun from the Aegis Institute (the in-game weapons lab behind the BALROG series), chambered for 7.62 AHE bullets with a 120-round belt and 240 rounds in reserve, priced at $9,000. The signature feature is the Balrog Charging System, which enables the weapon to fire explosive rounds after every 10 consecutive shots; in Normal mode the explosion deals 79 damage within a set range. Listed damage: 79 (Normal), 300 (Zombie), 375 (Scenario). It is equipped with a usable scope, but zooming reduces the rate of fire. A BLUE edition existed as an event-only variant.\n\n## Advantages\n\n- High damage output against both humans and zombies\n- Large magazine capacity\n- High rate of fire\n- Moderate recoil\n- Equipped with a usable scope\n\n## Disadvantages\n\n- Heavy weight\n- Poor long-range accuracy\n- High price and ammunition expenses\n- Limited availability (the BLUE edition was event-only)\n- Zooming reduces the rate of fire"
+    },
+    "stats": {
+      "damage": 79
+    },
+    "statNotes": {
+      "damage": "79 (Normal) / 300 (Zombie) / 375 (Scenario); explosion 79 (Normal)",
+      "accuracy": "Poor at long range",
+      "recoil": "Moderate",
+      "rateOfFire": "High",
+      "weight": "Heavy"
+    },
+    "ammo": {
+      "magazine": 120,
+      "reserve": 240,
+      "type": "7.62 AHE"
+    },
+    "price": 9000,
+    "fireModes": ["Automatic", "Scoped (zoom reduces rate of fire)"],
+    "variants": [],
+    "characters": [],
+    "abilities": [
+      {
+        "name": {
+          "en": "Balrog Charging System"
+        },
+        "description": {
+          "en": "After every 10 consecutive shots the weapon fires an explosive round; the explosion deals area damage (79 in Normal mode) within a set range."
+        }
+      }
+    ],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2012-07",
+        "note": "First release (South Korea, July 2012)"
+      },
+      {
+        "region": "csn",
+        "date": "2014-09",
+        "note": "Counter-Strike Nexon: Zombies"
+      },
+      {
+        "region": "vn",
+        "date": "2015-06",
+        "note": "Vietnam, June 2015 (last regional release listed)"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "The wiki calls it the fourth machine gun in the game equipped with a scope."
+      },
+      {
+        "en": "It shares animations with the K3 machine gun."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/BALROG-VII",
+      "title": "BALROG-VII",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  },
+  {
+    "slug": "barrett-m95",
+    "name": "Barrett M95",
+    "aliases": ["M95", "Barrett Model 1995"],
+    "category": "sniper-rifle",
+    "grade": "unknown",
+    "caliber": ".50 BMG",
+    "tagline": {
+      "en": "A bullpup .50 BMG anti-materiel rifle that punches through five targets."
+    },
+    "summary": {
+      "en": "The Barrett M95 is a bullpup, bolt-action anti-materiel sniper rifle fed with 5 rounds of .50 BMG. It deals more damage than the AWP, kills humans instantly anywhere but the legs and penetrates up to five objects, but it is heavy, holds only 5 rounds, fires slowly and has the longest reload (4 seconds) of any bolt-action sniper in CSO. Christmas, Enhanced and White Tiger (Transcendent) editions exist."
+    },
+    "description": {
+      "en": "The wiki describes the Barrett M95 (Model 1995) as a bullpup-style, bolt-action, anti-materiel sniper rifle fed with 5 rounds of .50 BMG per magazine. It excels against vehicles and armored units in Human Scenario (three body shots or one unarmored neck shot kill a Titan) and can penetrate up to 5 objects such as walls, humans and zombies. Damage by range (no armor / with armor): head 433/456 at 0m, 418/440 at 36m, 391/412 at 86m; chest & arm 108/114, 104/110, 97/103; gut 135/142, 130/137, 122/128; legs 85 at all ranges. Against zombies with the Part System: head & chest 1,000 per round, gut 250, leg 200; 5 rounds deal 2,000-13,000 to Zombie Scenario bosses at maximum attack power. It costs $5,000 (ammo $12,000 per purchase in Scenario), weighs about 5% more than the AWP, has twice the AWP's recoil and reloads in 4.0 seconds; with Weapon Enhancement it can hold up to 10 rounds. David Black appears with the Christmas Edition in promotional posters.\n\n## Advantages\n\n- Massive damage to humans, zombies and bosses\n- Very high accuracy when scoped; accurate without scope\n- Instant kill on humans except leg shots\n- Penetrates up to 5 objects (walls, humans, zombies)\n- Weapon Enhancement capable\n- High reserve ammunition\n- High knockback and stun against zombies\n\n## Disadvantages\n\n- Low magazine capacity\n- Heavy weight\n- Long reload time (4 seconds)\n- Lower rate of fire than other bolt-action sniper rifles\n- Expensive price and ammunition"
+    },
+    "stats": {},
+    "statNotes": {
+      "damage": "Head 433 (no armor) / 456 (armor) at 0m; chest & arm 108/114; gut 135/142; legs 85. Zombies: head & chest 1,000 per round",
+      "accuracy": "Very high when scoped; accurate unscoped",
+      "recoil": "About 2x the AWP",
+      "rateOfFire": "Lower than other bolt-action sniper rifles",
+      "weight": "Heavy (+5% vs AWP)",
+      "knockback": "High against zombies",
+      "stun": "High against zombies"
+    },
+    "ammo": {
+      "magazine": 5,
+      "type": ".50 BMG"
+    },
+    "price": 5000,
+    "fireModes": ["Bolt-action", "Scoped"],
+    "obtainMethod": {
+      "en": "Purchase; Weapon Enhancement; Christmas events (M95 Christmas Edition)"
+    },
+    "variants": [],
+    "characters": ["david-black"],
+    "abilities": [],
+    "release": [
+      {
+        "region": "tw",
+        "date": "2010-09-14",
+        "note": "Taiwan/Hong Kong (base); Christmas Edition 2011-12-20"
+      },
+      {
+        "region": "cn",
+        "date": "2010-09-15",
+        "note": "Base; Christmas Edition 2011-12-21"
+      },
+      {
+        "region": "kr",
+        "date": "2010-09-16",
+        "note": "Base; Christmas Edition 2011-12-22"
+      },
+      {
+        "region": "jp",
+        "date": "2010-10-13"
+      },
+      {
+        "region": "sg",
+        "date": "2012-04-25",
+        "note": "Singapore/Malaysia (base); Christmas Edition 2012-12-21"
+      },
+      {
+        "region": "id",
+        "date": "2013-05-08",
+        "note": "Base; Christmas Edition 2013-12-18"
+      },
+      {
+        "region": "tr",
+        "date": "2014-01-08"
+      },
+      {
+        "region": "csn",
+        "date": "2014-09-23",
+        "note": "Base; Christmas Edition 2014-12-16"
+      },
+      {
+        "region": "vn",
+        "date": "2015-03-26",
+        "note": "Base; Christmas Edition 2015-12-17"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "Deals higher damage than the AWP and costs the same as the G3 SG/1 ($5,000)."
+      },
+      {
+        "en": "Has the longest reloading time (4 seconds) among all bolt-action sniper rifles in Counter-Strike Online."
+      },
+      {
+        "en": "With enhancement it can hold up to 10 rounds."
+      },
+      {
+        "en": "'Henry Stoner' text is visible on the Expert edition."
+      },
+      {
+        "en": "Shooting airborne zombies knocks them far away, except Heavy zombies and Deimos/Ganymede."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Barrett_M95",
+      "title": "Barrett M95",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "crossbow",
+    "name": "Crossbow",
+    "aliases": [],
+    "category": "assault-rifle",
+    "grade": "unknown",
+    "caliber": "Crossbow bolts",
+    "tagline": {
+      "en": "A 50-bolt crossbow with a scope whose projectiles never anger zombies."
+    },
+    "summary": {
+      "en": "The Crossbow is fed with 50 crossbow bolts per clip and, although classed as an assault rifle in-game, fires real projectiles that travel to the target rather than hitscan bullets. It has a usable sniper scope, low recoil, penetrates Kevlar, knocks incoming zombies back and is the first weapon that does not raise a zombie's anger bar. It debuted in February 2010 alongside the MP5 Tiger and later gained an upgraded form, Crossbow Advance."
+    },
+    "description": {
+      "en": "The wiki describes the in-game Crossbow as fed with 50 rounds of crossbow bolts; the fired bolt does not instantly hit the target, so shots must be led. Its rate of fire is lower than other assault rifles (higher when unscoped, on par with the M14 EBR), recoil is lower than the M4A1, weight is the same as the Galil and knockback is similar to the TAR-21; stun on zombies is low. Reserve ammo is 200 in Original mode and 600 in Zombie Scenario; the weapon costs $3,500 ($4,700 with ammo in Original, $7,100 in Zombie Scenario) with ammo at $300 per 50-bolt clip. Damage to armored targets by body part: head 146, chest 48, gut and arm 47, legs 34; against zombies 1,700-7,300 in Zombie Infection and 40,000-80,000 to bosses in Zombie Scenario at maxed attack. Because it does not increase the zombie anger bar, it is well suited to defence in Zombie Hero. It was originally obtained by collecting four Happy New Year cards and is now distributed through the Event Decoder; owners could once upgrade it to Crossbow Advance by collecting kill points.\n\n## Advantages\n\n- Lightweight\n- Usable sniper scope for long-range engagement\n- Low recoil\n- Penetrates Kevlar armor\n- Does not increase the zombie anger meter\n- Knocks away incoming zombies\n- Relatively high rate of fire for its damage\n\n## Disadvantages\n\n- Bolts are projectiles with travel time (non-hitscan)\n- No longer obtainable through normal means\n- Cannot penetrate objects\n- Expensive for an assault rifle\n- Low stun effectiveness on zombies"
+    },
+    "stats": {},
+    "statNotes": {
+      "damage": "Head 146 / chest 48 / gut & arm 47 / legs 34 (armored); zombies 1,700-7,300; bosses 40,000-80,000 (maxed attack)",
+      "recoil": "Lower than the M4A1",
+      "rateOfFire": "Lower than other assault rifles; same as the M14 EBR",
+      "weight": "Same as the Galil (light)",
+      "knockback": "Similar to the TAR-21; knocks incoming zombies away",
+      "stun": "Low toward zombies"
+    },
+    "ammo": {
+      "magazine": 50,
+      "reserve": 200,
+      "type": "Crossbow bolts ($300 per 50-bolt clip)"
+    },
+    "price": 3500,
+    "fireModes": ["Semi-automatic bolts (projectile)", "Scoped"],
+    "obtainMethod": {
+      "en": "Event Decoder (current); originally by collecting 4 Happy New Year cards; upgradeable to Crossbow Advance via kill points (one-time event)"
+    },
+    "variants": [],
+    "characters": [],
+    "abilities": [],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2010-02-09",
+        "note": "Released alongside the MP5 Tiger"
+      },
+      {
+        "region": "tw",
+        "date": "2010-02-09",
+        "note": "Taiwan/Hong Kong"
+      },
+      {
+        "region": "cn",
+        "date": "2010-02-10"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "The bolts are actual projectiles, not hitscan bullets."
+      },
+      {
+        "en": "Classed as an assault rifle in the game even though it is not technically one."
+      },
+      {
+        "en": "First weapon that does not increase the zombie anger bar."
+      },
+      {
+        "en": "Enemy damage indicators appear from every direction when a Crossbow user shoots."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Crossbow",
+      "title": "Crossbow",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  },
+  {
+    "slug": "ethereal",
+    "name": "Ethereal",
+    "aliases": [],
+    "category": "assault-rifle",
+    "grade": "unknown",
+    "caliber": "Ether energy stones (30 per magazine)",
+    "tagline": {
+      "en": "A second-generation sci-fi rifle that turns meteorite ether into light-wave beams."
+    },
+    "summary": {
+      "en": "Ethereal is a futuristic (science-fiction) assault rifle fed with 30 ether energy stones extracted from meteorite material, which it converts into light-wave beams when firing. It is light, fast-firing and low-recoil with a quiet report, but its damage and long-range accuracy are low, it runs dry easily and its ammunition cannot be shared. It was obtainable only through the Bingo Event and Code Box."
+    },
+    "description": {
+      "en": "The wiki describes Ethereal as a 2nd-generation futuristic assault rifle fed with 30 ether energy stones, extracted from meteorite material, that converts energy into light-wave beams during firing. Relative to the Blaster (its predecessor in the sci-fi line) it is 8% lighter, has 3% lower recoil, 1% lower rate of fire, 4% lower accuracy and costs $400 more. Base damage is 26. Its firing sound is loud to the user but hard for distant players to hear, it leaves blue bullet trails and hit particles similar to the Thunderbolt, and 30 rounds deal roughly 7,000 damage to a boss at maximum firepower. An upgraded version, Ethereal Hero, deals increased zombie damage and fires a laser beam by converting compressed ether energy.\n\n## Advantages\n\n- Short reload time\n- High rate of fire\n- Light weight\n- Low recoil\n- Quiet firing sound to distant players\n\n## Disadvantages\n\n- Low damage for a rifle\n- Low accuracy at long range\n- Easily runs dry\n- Ammo cannot be shared\n- Expensive"
+    },
+    "stats": {
+      "damage": 26
+    },
+    "statNotes": {
+      "damage": "26 (standard)",
+      "accuracy": "Lower than the Blaster (-4%)",
+      "recoil": "Low (3% lower than the Blaster)",
+      "rateOfFire": "High (1% lower than the Blaster)",
+      "weight": "Light (8% lighter than the Blaster)",
+      "knockback": "Low",
+      "stun": "High"
+    },
+    "ammo": {
+      "magazine": 30,
+      "type": "Ether energy stones (cannot be shared with other weapons)"
+    },
+    "price": 400,
+    "fireModes": [],
+    "obtainMethod": {
+      "en": "Bingo Event and Code Box only"
+    },
+    "variants": [],
+    "characters": ["natasha"],
+    "abilities": [],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2012-06-28"
+      },
+      {
+        "region": "tw",
+        "date": "2012-07-04",
+        "note": "Taiwan/Hong Kong"
+      },
+      {
+        "region": "cn",
+        "date": "2012-07-04"
+      },
+      {
+        "region": "sg",
+        "date": "2013-11-20",
+        "note": "Singapore/Malaysia"
+      },
+      {
+        "region": "id",
+        "date": "2014-02-26"
+      },
+      {
+        "region": "csn",
+        "date": "2015-04-01",
+        "note": "Counter-Strike Nexon: Zombies"
+      },
+      {
+        "region": "vn",
+        "date": "2015-05-21"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "30 rounds deal about 7,000 damage to a boss at maximum firepower."
+      },
+      {
+        "en": "Firing sound is loud for the user but hard to hear for other players from far away."
+      },
+      {
+        "en": "Blue bullet trails and hit particles, similar to the Thunderbolt."
+      },
+      {
+        "en": "Has an unused idle sound."
+      },
+      {
+        "en": "Natasha is featured in its casual posters."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Ethereal",
+      "title": "Ethereal",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  },
+  {
+    "slug": "janus-7",
+    "name": "JANUS-7",
+    "aliases": ["Janus-7"],
+    "category": "machine-gun",
+    "grade": "unknown",
+    "manufacturer": "Aegis Institute (based on the MG3)",
+    "caliber": "7.62mm",
+    "tagline": {
+      "en": "An MG3-based machine gun that transforms to hurl auto-tracking lightning."
+    },
+    "summary": {
+      "en": "JANUS-7 is a 200-round 7.62mm machine gun designed by the Aegis Institute on the basis of the MG3. Its Janus Transformation System can be triggered (right-click, once the requirement is met) to enter Janus Form for 18 seconds, during which the gun deals electric damage that automatically tracks enemies within a short range."
+    },
+    "description": {
+      "en": "The wiki describes JANUS-7 as a machine gun designed by the Aegis Institute based on the MG3, using 7.62mm ammunition, with a Janus Transformation System that can perform a lightning bolt attack for a certain period of time. When the activation requirement is met, right-clicking transforms the weapon; in Janus Form it emits electric damage that automatically tracks enemies within a short range, hitting nearby enemies omnidirectionally and chaining through multiple targets in sequence. Listed damage: 38 (Normal), 35 (Zombie), 143 (Scenario), and up to about 63,000 to a boss in Janus Form with maxed firepower. Accuracy is rated 73%, price $9,000, Janus Form lasts 18 seconds. Drawbacks are low accuracy, high recoil, heavy weight, a long reload, high cost, and the fact that the lightning cannot score headshots and focuses on one target at a time within a limited range.\n\n## Advantages\n\n- High damage in B mode\n- High rate of fire\n- High magazine capacity\n- Lightning attacks nearby enemies omnidirectionally\n- Can eliminate multiple enemies sequentially\n- Strong stun power in both modes\n\n## Disadvantages\n\n- Low accuracy\n- High recoil\n- Heavy weapon\n- Extended reload time\n- Expensive\n- Janus Form cannot achieve headshots\n- Lightning has limited range and focuses on one target at a time"
+    },
+    "stats": {
+      "damage": 38,
+      "accuracy": 73
+    },
+    "statNotes": {
+      "damage": "38 (Normal) / 35 (Zombie) / 143 (Scenario); ~63,000 to bosses in Janus Form at max firepower",
+      "accuracy": "73%",
+      "recoil": "High",
+      "rateOfFire": "High",
+      "weight": "Heavy",
+      "stun": "Strong stun power in both modes"
+    },
+    "ammo": {
+      "magazine": 200,
+      "type": "7.62mm"
+    },
+    "price": 9000,
+    "fireModes": ["A mode (normal fire)", "B mode / Janus Form (lightning, 18 seconds)"],
+    "variants": [],
+    "characters": [],
+    "abilities": [
+      {
+        "name": {
+          "en": "Janus Transformation System"
+        },
+        "description": {
+          "en": "Once the requirement is met, right-click to transform the gun for 18 seconds; while transformed it deals electric damage that automatically tracks enemies within a short range."
+        }
+      }
+    ],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2013-10-10"
+      },
+      {
+        "region": "tw",
+        "date": "2013-10-22",
+        "note": "Taiwan/Hong Kong"
+      },
+      {
+        "region": "cn",
+        "date": "2013-10-23"
+      },
+      {
+        "region": "jp",
+        "date": "2013-10-23"
+      },
+      {
+        "region": "csn",
+        "date": "2014-09-23",
+        "note": "Counter-Strike Nexon: Zombies"
+      },
+      {
+        "region": "vn",
+        "date": "2015-03-26"
+      },
+      {
+        "region": "id",
+        "date": "2015-04-01"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "JANUS-7 Xmas (released December 2015 in South Korea) features red lightning, a Snowman/Santa head design and reduced activation requirements."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/JANUS-7",
+      "title": "JANUS-7",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  },
+  {
+    "slug": "m4a1",
+    "name": "M4A1",
+    "aliases": ["Maverick M4A1 Carbine"],
+    "category": "assault-rifle",
+    "grade": "common",
+    "origin": "United States",
+    "caliber": "5.56 NATO",
+    "tagline": {
+      "en": "The Counter-Terrorists' balanced carbine, with a detachable silencer."
+    },
+    "summary": {
+      "en": "The M4A1 is the Counter-Terrorist exclusive assault rifle of Original mode, described by the wiki as the best CT rifle thanks to its balance of damage and accuracy. It fires 30 rounds of 5.56 NATO, has low recoil and good long-range accuracy, and can mount a silencer that hides muzzle flash and sound at the cost of some firepower."
+    },
+    "description": {
+      "en": "The M4A1 (Maverick M4A1 Carbine) is a 30-round 5.56 NATO carbine exclusive to Counter-Terrorists in Original mode. The wiki calls it the best assault rifle among Counter-Terrorists due to its fair balance between damage and accuracy: medium damage, good long-range accuracy and low recoil. Its silencer attachment reduces muzzle flash and firing sound and improves recoil control, but lowers firepower and long-range accuracy. Compared with the AK-47 it deals 2 points less damage, costs $600 more and reloads about 0.5 seconds slower, which is why the wiki considers it less recommended for Scenario modes. Tactical advice from the wiki: aim for the head at close range, burst at the chest at medium range and single-tap the torso at long range; it is optimal for middle-to-close combat.\n\n## Advantages\n\n- High accuracy at long range\n- Silencer reduces firing noise\n- Light weight\n- High rate of fire\n- Low recoil\n- High damage\n\n## Disadvantages\n\n- Lower damage than the AK-47 (-2 points)\n- More expensive than the AK-47 (+$600)\n- Longer reload time than the AK-47 (+0.5 seconds)\n- Less recommended for Scenario modes"
+    },
+    "stats": {},
+    "statNotes": {
+      "damage": "Wiki states 2 points lower than the AK-47 (AK-47 = 28 Normal)",
+      "recoil": "Low",
+      "rateOfFire": "High",
+      "weight": "Light"
+    },
+    "ammo": {
+      "magazine": 30,
+      "type": "5.56 NATO"
+    },
+    "price": 600,
+    "fireModes": ["Automatic", "Silenced (attachable silencer)"],
+    "obtainMethod": {
+      "en": "Basic weapon; purchasable by Counter-Terrorists (exclusive in Original mode)"
+    },
+    "variants": [],
+    "characters": [],
+    "abilities": [
+      {
+        "name": {
+          "en": "Silencer"
+        },
+        "description": {
+          "en": "Attachable suppressor that reduces muzzle flash and firing sound and improves recoil control, while reducing firepower and long-range accuracy."
+        }
+      }
+    ],
+    "release": [
+      {
+        "region": "tw",
+        "date": "2009-09-29",
+        "note": "Listed on the wiki page as 'Taiwan/Hong Kong & China: 29 September 2009' - likely refers to a variant/update rather than the base rifle (unverified)"
+      },
+      {
+        "region": "cn",
+        "date": "2009-09-29",
+        "note": "See above"
+      },
+      {
+        "region": "kr",
+        "date": "2010-02-09",
+        "note": "Listed as 'South Korea & Taiwan/Hong Kong: 9 February 2010' - likely a variant release (unverified)"
+      },
+      {
+        "region": "cn",
+        "date": "2010-02-10",
+        "note": "Listed as 'China: 10 February 2010' - likely a variant release (unverified)"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "Its Terrorist counterpart in Original mode is the AK-47."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/M4A1",
+      "title": "M4A1",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "skull-11",
+    "name": "SKULL-11",
+    "aliases": ["Skull-11"],
+    "category": "shotgun",
+    "grade": "unknown",
+    "origin": "South Korea (modified USAS-12)",
+    "caliber": "12 Gauge Anti-Zombie",
+    "tagline": {
+      "en": "A 28-round anti-zombie USAS-12 that switches between buckshot and slugs."
+    },
+    "summary": {
+      "en": "SKULL-11 is a modified version of the Korean USAS-12 automatic shotgun fed with 28 rounds of 12 Gauge Anti-Zombie shells that deal critical damage to zombies. Its secondary fire switches to Slug mode, concentrating the shot into a narrow spread for middle and long range. It has high stun power and magazine capacity but is expensive, slow to reload and cannot penetrate walls or bodies."
+    },
+    "description": {
+      "en": "Per the wiki, SKULL-11 is a modified Korean USAS-12 fed with 28 rounds carrying a special gauge for critical zombie damage; Slug mode concentrates the gauges into a narrow space for long range, making it ideal for middle/far range. It costs $6,500 with ammunition at $175 per 20 rounds, has the Part System installed and was sold only in limited-time events for cash points. Its buckshot mode is very effective at clearing crowds of zombies and breaking barriers (28 rounds deal roughly 12,000 damage to bosses at maxed firepower), and it is the only shotgun that can switch between slug and pellet rounds mid-engagement. The scope on top is capped and unusable, the reload animation slows movement, and it cannot fire while reloading.\n\n## Advantages\n\n- High magazine capacity for a shotgun\n- High damage and stun power, especially against zombies\n- High rate of fire in buckshot mode\n- Effective at middle/far range in Slug mode\n- Very accurate with Slug mode\n- Can penetrate Kevlar\n- Low recoil\n\n## Disadvantages\n\n- Expensive price and ammunition\n- Low rate of fire in Slug mode\n- Slower movement during the reload animation\n- Cannot penetrate walls, objects or bodies in either mode\n- Cannot fire while reloading\n- Unusable (capped) scope\n- Low spare ammunition"
+    },
+    "stats": {},
+    "statNotes": {
+      "damage": "High (about 12,000 to bosses per 28-round magazine at maxed firepower)",
+      "accuracy": "Very accurate in Slug mode",
+      "recoil": "Low",
+      "rateOfFire": "High in buckshot mode; low in Slug mode",
+      "stun": "High stun power, especially against zombies"
+    },
+    "ammo": {
+      "magazine": 28,
+      "type": "12 Gauge Anti-Zombie ($175 per 20 rounds)"
+    },
+    "price": 6500,
+    "fireModes": ["Buckshot (primary)", "Slug mode (secondary)"],
+    "obtainMethod": {
+      "en": "Limited-time events for cash points only"
+    },
+    "variants": ["skull-3"],
+    "characters": [],
+    "abilities": [],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2012-04-19"
+      },
+      {
+        "region": "tw",
+        "date": "2012-04-24",
+        "note": "Taiwan/Hong Kong"
+      },
+      {
+        "region": "cn",
+        "date": "2012-04-25"
+      },
+      {
+        "region": "jp",
+        "date": "2012-04-25"
+      },
+      {
+        "region": "id",
+        "date": "2013-01-02"
+      },
+      {
+        "region": "sg",
+        "date": "2013-01-09",
+        "note": "Singapore/Malaysia"
+      },
+      {
+        "region": "csn",
+        "date": "2014-09-23",
+        "note": "Counter-Strike Nexon: Zombies"
+      },
+      {
+        "region": "tr",
+        "date": "2014-10-08"
+      },
+      {
+        "region": "vn",
+        "date": "2015-03-26"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "Features iron sights absent on the original USAS-12."
+      },
+      {
+        "en": "The scope is labelled 'Aopoint', a wordplay on Aimpoint."
+      },
+      {
+        "en": "The handguard displays the text 'DEATH ROAD' and the serial '54054-01'; the 'SKULL-11' marking sits behind the ejection port."
+      },
+      {
+        "en": "Only shotgun that can switch between slug and pellet rounds mid-engagement; slugs behave as tightly grouped pellets."
+      },
+      {
+        "en": "Shares its reload-speed movement penalty with the M134."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/SKULL-11",
+      "title": "SKULL-11",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "skull-3",
+    "name": "SKULL-3",
+    "aliases": ["Skull-3"],
+    "category": "submachine-gun",
+    "grade": "unknown",
+    "origin": "Based on the UMP45",
+    "manufacturer": "Government (in-game lore)",
+    "caliber": ".45 Anti-Zombie",
+    "tagline": {
+      "en": "A silenced anti-zombie UMP45 that can be dual-wielded on the fly."
+    },
+    "summary": {
+      "en": "SKULL-3 is an anti-zombie submachine gun chambered with 35 rounds of .45 Anti-Zombie cartridge that can be dual-wielded for 70 rounds. It carries a non-detachable suppressor, foregrip, an extended magazine (+10 over the UMP45) and a scope usable in single mode. Single mode is light and accurate; dual mode trades weight and recoil for high damage, rate of fire and penetration."
+    },
+    "description": {
+      "en": "The wiki describes SKULL-3 as an anti-zombie submachine gun chambered with 35 rounds of .45 Anti-Zombie cartridge and capable of being dual-wielded (70 rounds). It includes a non-detachable suppressor, a foregrip, an extended magazine (+10 capacity compared to the UMP) and a scope usable in single mode. It costs $4,000 in both Original and Scenario, with ammo at $1,050 (Original) / $3,000 (Scenario). Damage in single mode (armor / no armor): head 81 / 100+, chest 20 / 28, gut 20 / 28, leg 20 / 21; in dual mode: head 105 / 100+, chest 26 / 35, gut 26 / 35, leg 26 / 26. In zombie modes, 35 rounds of A mode deal roughly 700-2,800 damage and 70 rounds of B mode 1,960-7,840. Recommended use: single mode for medium/long range or escaping, dual mode for close combat and safe-area zombie killing, firing in 3-round bursts.\n\n## Advantages\n\n- Single mode: low recoil, light weight, short reload, usable scope, good long-range accuracy\n- Dual mode: high damage to humans and zombies, high rate of fire, silent, penetrates up to 4 objects, high stun on zombies, high reserve ammo\n\n## Disadvantages\n\n- Single mode: low damage and magazine capacity, low knockback\n- Dual mode: very heavy, unusable scope, high recoil, runs dry quickly, expensive, low knockback"
+    },
+    "stats": {},
+    "statNotes": {
+      "damage": "Single: head 81/100+, chest & gut 20/28, leg 20/21; Dual: head 105/100+, chest & gut 26/35, leg 26 (armor / no armor)",
+      "accuracy": "Good at long range in single mode",
+      "recoil": "Low (single) / High (dual)",
+      "rateOfFire": "High (dual)",
+      "weight": "Light (single) / Very heavy (dual)",
+      "knockback": "Low",
+      "stun": "High stun to zombies (dual)"
+    },
+    "ammo": {
+      "magazine": 35,
+      "type": ".45 Anti-Zombie"
+    },
+    "price": 4000,
+    "fireModes": ["Single mode (A mode, scoped, suppressed)", "Dual mode (B mode, akimbo)"],
+    "variants": [],
+    "characters": [],
+    "abilities": [],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2012-01-12"
+      },
+      {
+        "region": "tw",
+        "date": "2012-01-17",
+        "note": "Taiwan/Hong Kong"
+      },
+      {
+        "region": "cn",
+        "date": "2012-01-18"
+      },
+      {
+        "region": "jp",
+        "date": "2012-02-22"
+      },
+      {
+        "region": "id",
+        "date": "2012-09-12"
+      },
+      {
+        "region": "sg",
+        "date": "2012-11-07",
+        "note": "Singapore/Malaysia"
+      },
+      {
+        "region": "tr",
+        "date": "2014-05-14"
+      },
+      {
+        "region": "csn",
+        "date": "2014-09-23",
+        "note": "Counter-Strike Nexon: Zombies"
+      },
+      {
+        "region": "vn",
+        "date": "2015-03-26"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "The text 'SKULL-3' appears on the weapon."
+      },
+      {
+        "en": "Throwing the dual SKULL-3s during reload increases running speed."
+      },
+      {
+        "en": "An earlier version charged only $35 per 35 bullets."
+      },
+      {
+        "en": "The scope remains functional despite being obstructed by its cap; it reads 'Aopoint', parodying Aimpoint."
+      },
+      {
+        "en": "Dual-mode SKULL-3 weighs more than SKULL-4 despite being a submachine gun."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/SKULL-3",
+      "title": "SKULL-3",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "skull-5",
+    "name": "SKULL-5",
+    "aliases": ["Skull-5"],
+    "category": "sniper-rifle",
+    "grade": "unknown",
+    "origin": "Remodel of the M14 EBR",
+    "caliber": "5.56mm Anti-Zombie",
+    "tagline": {
+      "en": "An automatic anti-zombie sniper rifle built on the M14 EBR."
+    },
+    "summary": {
+      "en": "SKULL-5 is an automatic anti-zombie sniper rifle: a remodel of the M14 EBR fitted with a sniper scope and fed with 24 rounds of 5.56mm Anti-Zombie ammunition. Its government-developed bullets deal critical damage to zombies and have high penetration. It is part of the SKULL series and shares its reserve ammunition with the SKULL machine guns."
+    },
+    "description": {
+      "en": "The wiki describes SKULL-5 as a remodel of the M14 EBR attached with a sniper scope, firing specialized bullets created by the government that deliver critical damage to zombies and have high penetration power. It costs $6,000 in both Original and Scenario modes; ammunition costs $1,600 per magazine in Original and $4,000 per magazine in Scenario. Damage table (0m, armor / no armor): head 251 / 296, chest & hand 62 / 74, gut 78 / 92, leg 55 / 55; at 36m: head 238 / 280, chest & hand 59 / 70, gut 74 / 87, leg 52 / 52. A chrome-covered tournament edition, SKULL-5 World Championship, adds +40 human damage, +120 zombie damage, +150 reserve ammo, -0.5s reload and +4 clip size at the cost of -22% accuracy, +12% recoil, -9% fire rate and +4% weight.\n\n## Advantages\n\n- High damage\n- Very accurate\n- High reserve ammunition (shared with SKULL machine guns)\n- Short reload time\n- High fire rate when unscoped\n- Usable scope\n- High penetration\n- High stun power\n\n## Disadvantages\n\n- Expensive price and ammunition cost\n- Heavy weight\n- Low-power zoom\n- Decreased fire rate while zooming\n- Limited availability"
+    },
+    "stats": {},
+    "statNotes": {
+      "damage": "Head 251 (armor) / 296 (no armor) at 0m; chest & hand 62/74; gut 78/92; leg 55",
+      "accuracy": "Very accurate",
+      "rateOfFire": "High when unscoped; decreases while zooming",
+      "weight": "Heavy",
+      "stun": "High stun power"
+    },
+    "ammo": {
+      "magazine": 24,
+      "type": "5.56mm Anti-Zombie"
+    },
+    "price": 6000,
+    "fireModes": ["Automatic", "Scoped"],
+    "obtainMethod": {
+      "en": "Limited availability (wiki lists it as a disadvantage)"
+    },
+    "variants": [],
+    "characters": [],
+    "abilities": [],
+    "release": [
+      {
+        "region": "tw",
+        "date": "2011-02-15"
+      },
+      {
+        "region": "cn",
+        "date": "2011-02-16"
+      },
+      {
+        "region": "kr",
+        "date": "2011-02-17"
+      },
+      {
+        "region": "jp",
+        "date": "2011-04-27"
+      },
+      {
+        "region": "sg",
+        "date": "2012-09-12",
+        "note": "Singapore/Malaysia"
+      },
+      {
+        "region": "tr",
+        "date": "2014-02-05"
+      },
+      {
+        "region": "id",
+        "date": "2014-07-21"
+      },
+      {
+        "region": "csn",
+        "date": "2014-09-23",
+        "note": "Counter-Strike Nexon: Zombies"
+      },
+      {
+        "region": "vn",
+        "date": "2015-03-26"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "First weapon in the game that fires accurately while jumping."
+      },
+      {
+        "en": "First weapon featuring jungle-style (taped) magazines."
+      },
+      {
+        "en": "The chrome texture of the World Championship edition does not apply in D3D graphics mode."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/SKULL-5",
+      "title": "SKULL-5",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  },
+  {
+    "slug": "skull-9",
+    "name": "SKULL-9",
+    "aliases": ["Skull Axe", "Skull-9"],
+    "category": "melee",
+    "grade": "unknown",
+    "manufacturer": "Special alloy developed by the government (in-game lore)",
+    "tagline": {
+      "en": "A giant government-alloy battle axe with murderous power against zombies."
+    },
+    "summary": {
+      "en": "SKULL-9 (the Skull Axe) is a large two-handed battle axe forged from a special alloy developed by the government, with destructive power aimed squarely at zombies. It has a longer reach than normal melee weapons, can hit multiple targets in one swing and does not slow the player down, but each slash has a delay and a low swing rate. It was sold only for limited periods and later offered through Bingo events and booster packs."
+    },
+    "description": {
+      "en": "The wiki describes SKULL-9 as a large battle axe made from a type of special alloy material developed by the government, with murderous destruction power especially towards zombies; it also has the Part System installed. Its primary attack is a vertical slash and its secondary a horizontal slash with a wider damage area but shorter range - the first melee weapon in CSO whose primary and secondary attacks deal equal damage. In Zombie modes a head hit deals 2,900 and body/chest/gut/leg hits 725 (up to 8,700 with a max-damage head hit), and it kills unarmored humans in one swing in normal matches (Kevlar reduces a 100 HP hit to 15). In Zombie Scenario it excels at breaking obstacles, mini-bosses and grouped zombies; in Human Scenario it kills Troopers and Lancers in one slash and Titans in two head slashes. Earlier versions dealt lower damage and weighed as much as an AWP.\n\n## Advantages\n\n- Massive damage to zombies\n- Longer attack range than normal melee weapons\n- Kills multiple targets in one slash\n- One-hit kill on bots (including leg hits)\n- No speed penalty\n- Wider damage area on the secondary slash\n- Available in most modes\n\n## Disadvantages\n\n- Attack delay\n- Low slash rate\n- Shorter secondary-slash range"
+    },
+    "stats": {},
+    "statNotes": {
+      "damage": "Zombie mode: head 2,900, body 725 (max 8,700 on a head hit); one-swing kill on unarmored humans",
+      "rateOfFire": "Low slash rate with attack delay",
+      "weight": "Does not affect player speed"
+    },
+    "ammo": {},
+    "fireModes": [
+      "Primary: vertical slash",
+      "Secondary: horizontal slash (wider area, shorter range)"
+    ],
+    "obtainMethod": {
+      "en": "Limited-time purchase, Bingo Event, booster packs"
+    },
+    "variants": [],
+    "characters": [],
+    "abilities": [],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2010-12-16"
+      },
+      {
+        "region": "cn",
+        "date": "2010-12-22"
+      },
+      {
+        "region": "tw",
+        "date": "2011-01-11",
+        "note": "Taiwan/Hong Kong"
+      },
+      {
+        "region": "jp",
+        "date": "2011-03-31"
+      },
+      {
+        "region": "sg",
+        "date": "2011-11-09",
+        "note": "Singapore/Malaysia"
+      },
+      {
+        "region": "id",
+        "date": "2012-03-14"
+      },
+      {
+        "region": "tr",
+        "date": "2014-03-05"
+      },
+      {
+        "region": "csn",
+        "date": "2014-09-23",
+        "note": "Counter-Strike Nexon: Zombies"
+      },
+      {
+        "region": "vn",
+        "date": "2015-03-26"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "Earlier versions dealt lower damage and weighed as much as the AWP."
+      },
+      {
+        "en": "The attack delay causes kill icons to show the weapon switched to after the swing."
+      },
+      {
+        "en": "Useful for upgrading guns without spending ammo in Scenario modes."
+      },
+      {
+        "en": "First melee weapon dealing equal primary and secondary damage (followed by the Green Dragon Blade)."
+      },
+      {
+        "en": "Cannot penetrate objects, only bodies (like SKULL-11)."
+      },
+      {
+        "en": "Shares its wall-impact sound with BALROG-IX and the Green Dragon Blade."
+      },
+      {
+        "en": "In Counter-Strike Nexon: Studio it was bugged to be categorised as an item rather than a weapon, affecting disassembly, parts and paint."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/SKULL-9",
+      "title": "SKULL-9",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "wind-walker",
+    "name": "Wind Walker",
+    "aliases": [],
+    "category": "pistol",
+    "grade": "transcendent",
+    "caliber": "Shuriken cartridges (40 per cartridge)",
+    "tagline": {
+      "en": "A Transcendent secondary weapon that hurls shurikens and rides the wind."
+    },
+    "summary": {
+      "en": "Wind Walker is a Transcendent-grade secondary weapon released in South Korea on 27 June 2024. It uses 40-shuriken cartridges and can either launch shurikens to damage an area or deal damage in a cone in front of the user. Its Shuriken Storm skill spends 4 shurikens for a short-range burst, and Wind Boost automatically activates when the wind energy gauge is full, adding auto-targeting, a faster fire rate and a 360-degree attack mode in Zombie and Scenario modes."
+    },
+    "description": {
+      "en": "Described by the wiki as a Secondary Weapon that uses 40-shuriken cartridges, able to launch shurikens for area damage or deal damage in a cone in front of the user. Right-click triggers Shuriken Storm, which consumes 4 shurikens to inflict damage in a shortened frontal range. Wind Boost activates automatically when all wind energy is fully charged, granting auto-targeting, increased fire rate and a 360-degree attack mode in Zombie/Scenario modes. Its design is based on the Tactical Knife and the shuriken-throwing mechanic was inspired by Genji from Overwatch. It was featured on the wiki main page as the 'New Transcendent Pistol'.\n\n## Advantages\n\n- High damage\n- High accuracy\n- Low recoil\n- Light weight\n\n## Disadvantages\n\n- Low rate of fire\n- Available only during limited times"
+    },
+    "stats": {},
+    "statNotes": {
+      "damage": "High",
+      "accuracy": "High",
+      "recoil": "Low",
+      "rateOfFire": "Low",
+      "weight": "Light"
+    },
+    "ammo": {
+      "magazine": 40,
+      "type": "Shurikens"
+    },
+    "fireModes": [
+      "Shuriken launch (area damage)",
+      "Shuriken Storm (right-click cone, consumes 4 shurikens)",
+      "Wind Boost (auto-activated 360-degree mode)"
+    ],
+    "obtainMethod": {
+      "en": "Available only during limited times"
+    },
+    "variants": [],
+    "characters": [],
+    "abilities": [
+      {
+        "name": {
+          "en": "Shuriken Storm"
+        },
+        "description": {
+          "en": "Activated by right-clicking; consumes 4 shurikens to inflict damage in a shortened front range."
+        }
+      },
+      {
+        "name": {
+          "en": "Wind Boost"
+        },
+        "description": {
+          "en": "Activates automatically when all wind energy is fully charged; grants auto-targeting, increased fire rate and a 360-degree attack mode in Zombie/Scenario modes."
+        }
+      }
+    ],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2024-06-27"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "Based on the Tactical Knife design."
+      },
+      {
+        "en": "Inspired by Genji's shuriken-throwing mechanics from Overwatch."
+      },
+      {
+        "en": "The pre-release inventory icon displayed paired shuriken weapons."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Wind_Walker",
+      "title": "Wind Walker",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  },
+  {
+    "slug": "m2hb-devastator",
+    "name": "M2HB Devastator",
+    "aliases": ["M2 Devastator", "Buff M2"],
+    "category": "machine-gun",
+    "grade": "transcendent",
+    "origin": "United States",
+    "tagline": {
+      "en": "Anemone's incendiary .50 cal, fed from a backpack reservoir and finished with a missile barrage."
+    },
+    "summary": {
+      "en": "Transcendent-grade heavy machine gun firing incendiary .50 BMG from a backpack reservoir; after a gauge fills, a penetrating missile launcher activates whose missiles pull enemies in. Unlimited reserve ammo in Scenario mode."
+    },
+    "description": {
+      "en": "Transcendent-grade heavy machine gun firing incendiary .50 BMG from a backpack reservoir; after a gauge fills, a penetrating missile launcher activates whose missiles pull enemies in. Unlimited reserve ammo in Scenario mode.\n\nIt is the pairing weapon of the 2021 Season 2 Transcendence class Anemone; a Mirage-themed view-model skin also exists."
+    },
+    "stats": {},
+    "statNotes": {},
+    "ammo": {
+      "type": ".50 BMG (incendiary)"
+    },
+    "fireModes": ["Automatic", "Missile launcher (gauge)"],
+    "variants": [],
+    "characters": ["anemone", "mirage"],
+    "abilities": [
+      {
+        "name": {
+          "en": "Penetrating missile launcher"
+        },
+        "description": {
+          "en": "Once the gauge fills, launches missiles that pull enemies in."
+        }
+      },
+      {
+        "name": {
+          "en": "Unlimited reserve ammo"
+        },
+        "description": {
+          "en": "Reserve ammunition is unlimited in Scenario mode."
+        }
+      }
+    ],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2021-06-03"
+      },
+      {
+        "region": "cn",
+        "date": "2021-06-09"
+      },
+      {
+        "region": "tw",
+        "date": "2021-06-16"
+      },
+      {
+        "region": "csn",
+        "date": "2021-06-16"
+      }
+    ],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "artwork",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a1/Buffm2.png",
+        "caption": {
+          "en": "M2HB Devastator"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e4/V_mgsm_anemo.png",
+        "caption": {
+          "en": "Anemone-themed view model skin (V_mgsm_anemo)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8d/V_mgsm_mirajoo.png",
+        "caption": {
+          "en": "Mirage-themed view model skin"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/M2_Devastator",
+      "title": "M2HB Devastator",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  }
+]

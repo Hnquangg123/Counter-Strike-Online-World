@@ -1,0 +1,27 @@
+{
+  "slug": "zombie-touchdown",
+  "name": "Zombie Touchdown",
+  "aliases": ["ZTD"],
+  "family": "zombie",
+  "tagline": "Zombies carry the flag and try to touch the humans' target; sides swap every round.",
+  "summary": "Zombie Touchdown (December 2018) is an objective-based zombie mode. A flag-carrying zombie must touch (attack) the human faction's target object before time runs out while humans defend; zombies win on a successful touchdown, humans win by holding out, and the factions switch at the end of each round. Nobody is permanently dead - all players resurrect.",
+  "description": "The wiki's in-game blurb: zombies hold the flag and touch the target of the human faction; zombie victory if the attack succeeds, human victory if they defend within the time limit; at the end of each round the factions are switched. Flags can only be carried by zombies, who can pass them using a skill; humans standing near a fallen flag can reset it to its initial position. All players can be resurrected without permanent death. The mode's ranking variant is played with a hero shop system. Compatible maps: Last Shelter (ztd_lastshelter_cso) and Checkmate (ztd_checkmate_cso).",
+  "lore": null,
+  "rules": [
+    "A flagged zombie must touch the human target object before the timer ends.",
+    "Humans defend the target for the duration; humans near a dropped flag can reset it.",
+    "Flags can only be held by zombies and passed between them with a skill.",
+    "Factions switch at the end of each round.",
+    "All players resurrect; no permanent death."
+  ],
+  "maxPlayers": null,
+  "release": [
+    { "region": "kr", "date": "2018-12-27", "note": null },
+    { "region": "cn", "date": "2018-12-27", "note": null },
+    { "region": "tw", "date": "2019-01-03", "note": "Taiwan/Hong Kong" },
+    { "region": "id", "date": "2019-01-03", "note": null }
+  ],
+  "trivia": [],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Zombie_Touchdown"
+}

@@ -1,0 +1,161 @@
+{
+  "slug": "natasha",
+  "name": "Natasha",
+  "aliases": ["Наташа", "natasha (system name)"],
+  "kind": "human",
+  "side": "ct",
+  "grade": null,
+  "classType": "Cash/premium female Counter-Terrorist character (also obtainable permanently from Code Box)",
+  "factions": ["Counter-Terrorist", "Russian Army"],
+  "profile": {
+    "gender": "Female",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": null,
+    "nationality": "Russian",
+    "occupation": "Sniper, Russian Army",
+    "bloodType": null,
+    "birthday": null,
+    "raceAffiliation": "Human / Russian Army",
+    "status": "Alive"
+  },
+  "tagline": "The Russian Army's top sniper, fighting for a friend the Terrorists took from her.",
+  "summary": "Natasha is the first female Counter-Terrorist character introduced in Counter-Strike Online and the CT counterpart of Jennifer. Described as the Russian Army's number-one sniper, she joined the counter-terrorist unit to avenge her best friend, who was killed by Terrorists.",
+  "story": "Natasha is the Russian Army's best sniper. After Terrorists killed her closest friend, she joined the Counter-Terrorist unit to take revenge on them. She was released as a paired set with Jennifer (her Terrorist counterpart) in several regions.",
+  "personality": null,
+  "quotes": [],
+  "abilities": [],
+  "zombieScenarioStats": {
+    "health": "21/28",
+    "attack": "25/28",
+    "mobility": "20/28",
+    "armor": "22/28",
+    "ammo": "17/28"
+  },
+  "appearanceDescription": "Short blonde hair and blue eyes. Wears a Russian army dress uniform with matching shorts, a side cap, fingerless gloves, tights, a pistol holster on her belt and black high heels.",
+  "costPerRegion": {
+    "Taiwan/Hong Kong": "249 Cash (30 days)",
+    "China": "290 Cash (Permanent)",
+    "Indonesia": "15,000 Cash (1 day) / 30,000 (3 days) / 60,000 (10 days) / 90,000 (30 days) / 600,000 (Permanent)",
+    "Turkey": "50,000 points (Permanent)",
+    "Vietnam": "189 Golds (Permanent)"
+  },
+  "obtainedFrom": "Cash shop; Code Box (permanent)",
+  "appearances": {
+    "gameModes": ["Original / general modes (Counter-Terrorist team)", "Zombie Scenario"],
+    "maps": [],
+    "scenarios": []
+  },
+  "weapons": ["AW50 (pictured)", "Sniper rifles (role)"],
+  "relatedCharacters": [
+    "Jennifer - Terrorist counterpart, released alongside her",
+    "Natasha (Casual) - alternate version with updated model"
+  ],
+  "voiceActors": [],
+  "release": [
+    {
+      "region": "tr",
+      "date": "2013-05-09",
+      "note": "Turkey - released alongside Jennifer during Open Beta Test"
+    },
+    {
+      "region": "csn",
+      "date": "2014-10-07",
+      "note": "Counter-Strike Nexon: Zombies - released alongside Jennifer at Official Launch"
+    },
+    { "region": "vn", "date": "2015-12-17", "note": "Vietnam - released alongside Jennifer" }
+  ],
+  "trivia": [
+    "First female Counter-Terrorist character in Counter-Strike Online.",
+    "Can be obtained permanently through Code Boxes.",
+    "The most expensive cash Counter-Terrorist model in the Indonesian region.",
+    "An alternate 'Casual' version updates the original model with a different appearance and a high-quality close-up."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/3c/Natasha_icon.png",
+      "caption": "Infobox icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/7/7f/Natasha_model.png",
+      "caption": "Model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/43/Natasha_shopmodel.png",
+      "caption": "Shop model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/a/a2/Wall06_800_600.jpg",
+      "caption": "Japan official wallpaper"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/c5/101124135523_natasha1024x768.jpg",
+      "caption": "Natasha wallpaper"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/3e/Natasha-CS_online.jpg",
+      "caption": "Concept art"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/2a/Natasha_ca2.png",
+      "caption": "Concept art (2)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/69/Natasha-Wallpaper.jpg",
+      "caption": "South Korea official wallpaper"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/91/Counter_strike_online_by_juijoyce-d37zwdu.jpg",
+      "caption": "Singapore/Malaysia poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/85/Natashaspray.png",
+      "caption": "Spray"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/7/7d/Natasha_sd_HD.png",
+      "caption": "SD spray"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/08/Slide1.jpg",
+      "caption": "Indonesia poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f5/Shop_natasha.png",
+      "caption": "Buy icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/25/Girlstwrsl.png",
+      "caption": "Taiwan resale poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/5c/Natcp.jpg",
+      "caption": "China poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/cf/Natasha_11.jpg",
+      "caption": "Natasha with AW50"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/16/Natasha.jpg",
+      "caption": "In-game screenshot"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/3e/Hud_natasha.png",
+      "caption": "HUD portrait"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Natasha",
+  "sections": [
+    "History",
+    "Favourite weapon",
+    "Zombie Scenario Stats",
+    "Events",
+    "Appearance",
+    "Trivia",
+    "Gallery",
+    "See also"
+  ],
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

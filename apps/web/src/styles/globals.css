@@ -1,0 +1,437 @@
+@import "tailwindcss";
+
+/* Self-hosted fonts (npm, no external requests) */
+@import "@fontsource/chakra-petch/500.css";
+@import "@fontsource/chakra-petch/600.css";
+@import "@fontsource/chakra-petch/700.css";
+@import "@fontsource/barlow-condensed/500.css";
+@import "@fontsource/barlow-condensed/600.css";
+@import "@fontsource/barlow-condensed/700.css";
+@import "@fontsource/barlow/400.css";
+@import "@fontsource/barlow/400-italic.css";
+@import "@fontsource/barlow/500.css";
+@import "@fontsource/barlow/600.css";
+@import "@fontsource/share-tech-mono/400.css";
+@import "@fontsource/black-ops-one/400.css";
+
+@source "../components";
+@source "../app";
+
+/* ------------------------------------------------------------------------- */
+/*  CSO design tokens                                                        */
+/*  See docs/DESIGN_SYSTEM.md for the reasoning behind every value.          */
+/* ------------------------------------------------------------------------- */
+@theme {
+  /* Surfaces — the dark lobby */
+  --color-void: #07080a;
+  --color-carbon: #0e1013;
+  --color-steel: #15181d;
+  --color-gunmetal: #1f242b;
+  --color-smoke: #2b313a;
+  --color-line: rgba(232, 228, 218, 0.08);
+  --color-line-strong: rgba(232, 228, 218, 0.16);
+
+  /* Text */
+  --color-bone: #e8e4da;
+  --color-ash: #9aa0a8;
+  --color-dust: #5c6470;
+
+  /* Signal — CSO orange */
+  --color-ember: #f58a07;
+  --color-flare: #ffb13b;
+  --color-hot: #ff5a1f;
+
+  /* Sides */
+  --color-ct: #3f8cff;
+  --color-tr: #f5a524;
+
+  /* Modes */
+  --color-toxic: #7cff3f;
+  --color-plague: #9b30ff;
+  --color-blood: #b3001b;
+  --color-hazard: #ffd400;
+
+  /* Grades */
+  --color-grade-common: #9aa0a8;
+  --color-grade-rare: #3f8cff;
+  --color-grade-unique: #b36bff;
+  --color-grade-epic: #ffb13b;
+  --color-grade-transcendent: #5cf2ff;
+
+  /* Type */
+  --font-display: "Chakra Petch", "Barlow Condensed", system-ui, sans-serif;
+  --font-headline: "Barlow Condensed", "Chakra Petch", system-ui, sans-serif;
+  --font-sans: "Barlow", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "Share Tech Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --font-stencil: "Black Ops One", "Chakra Petch", system-ui, sans-serif;
+
+  --tracking-hud: 0.18em;
+  --tracking-stamp: 0.32em;
+
+  /* Motion */
+  --ease-cso: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --ease-snap: cubic-bezier(0.7, 0, 0.2, 1);
+
+  /* Effects */
+  --shadow-glow-ember: 0 0 0 1px rgba(245, 138, 7, 0.55), 0 0 28px rgba(245, 138, 7, 0.35);
+  --shadow-glow-toxic: 0 0 0 1px rgba(124, 255, 63, 0.55), 0 0 28px rgba(124, 255, 63, 0.3);
+  --shadow-glow-ct: 0 0 0 1px rgba(63, 140, 255, 0.55), 0 0 28px rgba(63, 140, 255, 0.3);
+  --shadow-panel: 0 1px 0 rgba(255, 255, 255, 0.04) inset, 0 24px 60px -30px rgba(0, 0, 0, 0.9);
+
+  --animate-radar: radar 4s linear infinite;
+  --animate-scan: scan 9s linear infinite;
+  --animate-flicker: flicker 7s ease-in-out infinite;
+  --animate-pulse-soft: pulse-soft 2.4s ease-in-out infinite;
+  --animate-marquee: marquee 40s linear infinite;
+  --animate-blink: blink 1.2s steps(2, start) infinite;
+
+  @keyframes radar {
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  @keyframes scan {
+    0% {
+      transform: translateY(-100%);
+    }
+    100% {
+      transform: translateY(100vh);
+    }
+  }
+  @keyframes flicker {
+    0%,
+    100% {
+      opacity: 1;
+    }
+    92% {
+      opacity: 1;
+    }
+    93% {
+      opacity: 0.6;
+    }
+    94% {
+      opacity: 1;
+    }
+    97% {
+      opacity: 0.75;
+    }
+    98% {
+      opacity: 1;
+    }
+  }
+  @keyframes pulse-soft {
+    0%,
+    100% {
+      opacity: 0.55;
+    }
+    50% {
+      opacity: 1;
+    }
+  }
+  @keyframes marquee {
+    to {
+      transform: translateX(-50%);
+    }
+  }
+  @keyframes blink {
+    to {
+      visibility: hidden;
+    }
+  }
+}
+
+/* ------------------------------------------------------------------------- */
+/*  Base                                                                     */
+/* ------------------------------------------------------------------------- */
+@layer base {
+  :root {
+    color-scheme: dark;
+    --accent: var(--color-ember);
+    --accent-soft: rgba(245, 138, 7, 0.16);
+  }
+
+  html {
+    background: var(--color-void);
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-void text-bone font-sans antialiased;
+    font-feature-settings: "ss01", "cv05";
+    background-image:
+      radial-gradient(1200px 600px at 50% -10%, rgba(245, 138, 7, 0.08), transparent 60%),
+      radial-gradient(900px 500px at 100% 100%, rgba(63, 140, 255, 0.05), transparent 60%);
+    background-attachment: fixed;
+  }
+
+  ::selection {
+    background: var(--color-ember);
+    color: var(--color-void);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display uppercase;
+    text-wrap: balance;
+    letter-spacing: 0.02em;
+  }
+
+  a {
+    @apply underline-offset-4;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-ember);
+    outline-offset: 2px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+/* ------------------------------------------------------------------------- */
+/*  CSO motifs                                                               */
+/* ------------------------------------------------------------------------- */
+
+/* The chamfered corner — the signature cut of the CSO lobby panels. */
+@utility chamfer {
+  clip-path: polygon(
+    0 0,
+    calc(100% - 14px) 0,
+    100% 14px,
+    100% 100%,
+    14px 100%,
+    0 calc(100% - 14px)
+  );
+}
+@utility chamfer-sm {
+  clip-path: polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 8px 100%, 0 calc(100% - 8px));
+}
+@utility chamfer-lg {
+  clip-path: polygon(
+    0 0,
+    calc(100% - 28px) 0,
+    100% 28px,
+    100% 100%,
+    28px 100%,
+    0 calc(100% - 28px)
+  );
+}
+@utility chamfer-tr {
+  clip-path: polygon(0 0, calc(100% - 14px) 0, 100% 14px, 100% 100%, 0 100%);
+}
+
+/* HUD brackets around an element, like the CS 1.6 target frame. */
+@utility hud-brackets {
+  position: relative;
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border: 1px solid var(--accent);
+    pointer-events: none;
+    transition: all 0.35s var(--ease-cso);
+  }
+  &::before {
+    top: 6px;
+    left: 6px;
+    border-right: 0;
+    border-bottom: 0;
+  }
+  &::after {
+    bottom: 6px;
+    right: 6px;
+    border-left: 0;
+    border-top: 0;
+  }
+  &:hover::before,
+  &:hover::after {
+    width: 22px;
+    height: 22px;
+  }
+}
+
+/* CRT scanlines, kept faint. */
+@utility scanlines {
+  position: relative;
+  &::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: repeating-linear-gradient(
+      to bottom,
+      transparent 0,
+      transparent 2px,
+      rgba(0, 0, 0, 0.18) 3px,
+      rgba(0, 0, 0, 0.18) 4px
+    );
+    mix-blend-mode: multiply;
+  }
+}
+
+/* Film grain via SVG noise, for hero backgrounds. */
+@utility grain {
+  position: relative;
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: 0.07;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.6 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+    background-size: 160px 160px;
+    mix-blend-mode: overlay;
+  }
+}
+
+/* Hazard stripes — Scenario mode and warnings. */
+@utility hazard-stripes {
+  background-image: repeating-linear-gradient(
+    -45deg,
+    var(--color-hazard) 0,
+    var(--color-hazard) 12px,
+    transparent 12px,
+    transparent 24px
+  );
+}
+
+/* Tactical grid backdrop. */
+@utility tac-grid {
+  background-image:
+    linear-gradient(rgba(232, 228, 218, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(232, 228, 218, 0.05) 1px, transparent 1px);
+  background-size: 48px 48px;
+  mask-image: radial-gradient(ellipse at center, black 40%, transparent 85%);
+}
+
+/* HUD numerals — the ammo-counter look. */
+@utility hud-numerals {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: var(--tracking-hud);
+  text-shadow: 0 0 12px color-mix(in srgb, var(--accent) 60%, transparent);
+}
+
+/* Stamped stencil label. */
+@utility stamp {
+  font-family: var(--font-stencil);
+  letter-spacing: var(--tracking-stamp);
+  text-transform: uppercase;
+  font-size: 0.7rem;
+}
+
+/* Kicker label above headings. */
+@utility kicker {
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  color: var(--accent);
+}
+
+/* Accent-driven glow ring for cards. */
+@utility glow-accent {
+  box-shadow:
+    0 0 0 1px color-mix(in srgb, var(--accent) 55%, transparent),
+    0 0 28px color-mix(in srgb, var(--accent) 30%, transparent);
+}
+
+/* Dividers with a fading orange hairline. */
+@utility hairline {
+  height: 1px;
+  background: linear-gradient(90deg, var(--accent), rgba(245, 138, 7, 0) 70%);
+}
+
+/* Text gradient for the wordmark. */
+@utility text-ember-gradient {
+  background: linear-gradient(
+    180deg,
+    var(--color-flare) 0%,
+    var(--color-ember) 55%,
+    var(--color-hot) 100%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Long-form content (story) */
+@utility prose-cso {
+  @apply text-bone/90 leading-relaxed;
+  font-size: 1.05rem;
+  & p {
+    margin-block: 1em;
+  }
+  & p:first-child {
+    margin-top: 0;
+  }
+  & h2,
+  & h3,
+  & h4 {
+    @apply font-display text-bone;
+    margin-top: 2em;
+    margin-bottom: 0.6em;
+  }
+  & h2 {
+    font-size: 1.6rem;
+  }
+  & h3 {
+    font-size: 1.25rem;
+  }
+  & strong {
+    @apply text-flare font-semibold;
+  }
+  & em {
+    @apply text-ash;
+  }
+  & a {
+    @apply text-ember hover:text-flare underline;
+  }
+  & ul,
+  & ol {
+    padding-left: 1.4em;
+    margin-block: 1em;
+  }
+  & ul {
+    list-style: square;
+  }
+  & li::marker {
+    color: var(--accent);
+  }
+  & blockquote {
+    border-left: 2px solid var(--accent);
+    padding-left: 1.2em;
+    margin-inline: 0;
+    font-style: italic;
+    color: var(--color-ash);
+  }
+  & hr {
+    border: 0;
+    height: 1px;
+    background: var(--color-line-strong);
+    margin-block: 2em;
+  }
+}
+
+/* Hide scrollbars on horizontal rails while keeping them scrollable. */
+@utility no-scrollbar {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}

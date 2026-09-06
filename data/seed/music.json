@@ -1,0 +1,166 @@
+[
+  {
+    "slug": "good-night",
+    "name": "Good Night",
+    "title": "Good Night",
+    "aliases": [],
+    "summary": {
+      "en": "The background music that plays in Zombie 4: Darkness when the map turns to night and the zombies grow stronger."
+    },
+    "description": {
+      "en": "The Zombie 4: Darkness wiki page lists among its trivia that the background music 'Good Night' plays when the map darkens - the moment humans lose their daytime advantage and the Night Stalker class is chosen. It is the mode's signature audio cue for the day/night switch. Composer, duration and file were not exposed by the page digest."
+    },
+    "usedIn": {
+      "gameModes": ["zombie-4-darkness"],
+      "scenarios": [],
+      "maps": ["dark-city", "shoreline"]
+    },
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Zombie_4:_Darkness",
+      "title": "Good Night",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": [],
+    "release": [],
+    "trivia": []
+  },
+  {
+    "slug": "lobby-theme",
+    "name": "Counter Strike Online - Lobby",
+    "title": "Counter Strike Online - Lobby",
+    "aliases": [],
+    "composer": "Seo Jeong Min (attribution from Last.fm; the CSO wiki has a composer page for him)",
+    "summary": {
+      "en": "The lobby/menu theme of Counter-Strike Online, credited on Last.fm to Korean composer Seo Jeong Min."
+    },
+    "description": {
+      "en": "Counter-Strike Online's wiki maintains composer pages for Seo Jeong Min (https://cso.fandom.com/wiki/Seo_Jeong_Min) and Koo Ja Wan (https://cso.fandom.com/wiki/Koo_Ja_Wan), but both returned HTTP 402 on every fetch attempt. External listings (Last.fm) credit Seo Jeong Min with tracks titled 'Counter Strike Online - Lobby' and 'Counter Strike Online Scenario Rush', which implies he composed the lobby theme and a scenario battle theme. Because this attribution comes from outside the wiki it should be verified against the composer pages before publication."
+    },
+    "usedIn": {
+      "gameModes": [],
+      "scenarios": [],
+      "maps": []
+    },
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Seo_Jeong_Min",
+      "title": "Counter Strike Online - Lobby",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": [],
+    "release": [],
+    "trivia": []
+  },
+  {
+    "slug": "zombie-4-darkness-preparation-music",
+    "name": "Zombie 4: Darkness - 20-second preparation music",
+    "title": "Zombie 4: Darkness - 20-second preparation music",
+    "aliases": [],
+    "durationSeconds": 20,
+    "summary": {
+      "en": "A 20-second preparation (freeze-time) cue played before each Zombie 4: Darkness round in most regions."
+    },
+    "description": {
+      "en": "The Zombie 4: Darkness page notes that the 20-second preparation music does not play in the Counter-Strike Nexon: Zombies and Vietnam versions, confirming that a dedicated pre-round track exists in the other regions (South Korea, Taiwan/Hong Kong, China, Japan, Singapore/Malaysia, Indonesia). The official track title was not captured; the wiki also mentions that the mode's voice announcer changed per region."
+    },
+    "usedIn": {
+      "gameModes": ["zombie-4-darkness"],
+      "scenarios": [],
+      "maps": []
+    },
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Zombie_4:_Darkness",
+      "title": "Zombie 4: Darkness - 20-second preparation music",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": [],
+    "release": [],
+    "trivia": []
+  },
+  {
+    "slug": "zombie-scenario-freeze-time-music",
+    "name": "Zombie Scenario - Freeze time music",
+    "title": "Zombie Scenario - Freeze time music",
+    "aliases": [],
+    "summary": {
+      "en": "The pre-round (freeze time) theme used across Zombie Scenario: Season 2 chapters."
+    },
+    "description": {
+      "en": "The Zombie Scenario: Season 2 page lists its soundtrack in three categories - 'Freeze time music', 'Survival music' and 'Pursuit and Boss music' - with four tracks in total. The freeze-time cue plays during the buy/preparation phase before each round of Toxicity, Culvert, Decoy, Angra Nest and Poisoning. File names and titles were not exposed by the digest; the wiki's Category:Sounds and Category:Music pages (which hold the audio files) could not be fetched."
+    },
+    "usedIn": {
+      "gameModes": ["zombie-scenario"],
+      "scenarios": ["toxicity", "culvert", "decoy", "angra-nest", "poisoning"],
+      "maps": []
+    },
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Zombie_Scenario:_Season_2",
+      "title": "Zombie Scenario - Freeze time music",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": [],
+    "release": [],
+    "trivia": []
+  },
+  {
+    "slug": "zombie-scenario-pursuit-and-boss-music",
+    "name": "Zombie Scenario - Pursuit and Boss music",
+    "title": "Zombie Scenario - Pursuit and Boss music",
+    "aliases": [],
+    "summary": {
+      "en": "The high-intensity theme for pursuit segments and boss fights (Dione, Revenant, Angra) in Zombie Scenario: Season 2."
+    },
+    "description": {
+      "en": "Listed on the Zombie Scenario: Season 2 page under the 'Pursuit and Boss music' heading of its Sounds section. It plays during checkpoint pursuits and the boss encounters against Dione (Toxicity, Culvert), Revenant (Decoy) and Angra (Angra Nest), and in the all-boss annihilation stage Poisoning. Title, composer and audio file were not exposed by the digest."
+    },
+    "usedIn": {
+      "gameModes": ["zombie-scenario"],
+      "scenarios": ["toxicity", "culvert", "decoy", "angra-nest", "poisoning"],
+      "maps": []
+    },
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Zombie_Scenario:_Season_2",
+      "title": "Zombie Scenario - Pursuit and Boss music",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": [],
+    "release": [],
+    "trivia": []
+  },
+  {
+    "slug": "zombie-scenario-survival-music",
+    "name": "Zombie Scenario - Survival music",
+    "title": "Zombie Scenario - Survival music",
+    "aliases": [],
+    "summary": {
+      "en": "The in-round combat theme for the survival stages of Zombie Scenario: Season 2."
+    },
+    "description": {
+      "en": "Listed on the Zombie Scenario: Season 2 page under the 'Survival music' heading of its Sounds section (one of four tracks across three categories). It accompanies the wave-survival portions of the season's chapters, as opposed to the pursuit and boss cue. Title, composer and audio file were not exposed by the digest."
+    },
+    "usedIn": {
+      "gameModes": ["zombie-scenario"],
+      "scenarios": ["toxicity", "culvert", "decoy", "angra-nest", "poisoning"],
+      "maps": []
+    },
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Zombie_Scenario:_Season_2",
+      "title": "Zombie Scenario - Survival music",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": [],
+    "release": [],
+    "trivia": []
+  }
+]

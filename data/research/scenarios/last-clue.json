@@ -1,0 +1,36 @@
+{
+  "slug": "last-clue",
+  "name": "Last Clue",
+  "aliases": ["zs_lastclue"],
+  "gameMode": "Zombie Scenario",
+  "season": "Season 1",
+  "chapter": 4,
+  "tagline": "Andrey's notebook leads the rescue team to Dr. Rex's laboratory - and to Prototype Phobos.",
+  "summary": "Last Clue is the fourth Zombie Scenario map and the first boss chapter. A rescue team answering the annihilated advance unit's distress call finds Commander Andrey's body clutching a notebook about the Lost City incident, with directions to Dr. Rex's laboratory. When Rex learns of the infiltration he releases his Prototype Phobos and flees; the team must destroy five barriers in a pursuit round and then defeat Phobos to secure a corpse sample.",
+  "story": "Per the wiki: a rescue team was dispatched after receiving a distress call from the advance unit, which had been annihilated. Commander Andrey's body was found holding a notebook containing information about the Lost City incident, and the notebook provided directions to Dr. Rex's laboratory. On learning of the rescue team's infiltration, Dr. Rex released Prototype Phobos and fled. The team defeats Prototype Phobos and obtains a corpse sample - the sample whose transport triggers the Human Scenario storyline (Desert Storm).",
+  "objectives": [
+    "Round 1 (Pursuit): destroy five barriers to advance through the laboratory.",
+    "Round 2: boss battle against Prototype Phobos."
+  ],
+  "bosses": ["Prototype Phobos"],
+  "characters": ["Commander Andrey (deceased)", "Dr. Rex", "Prototype Phobos"],
+  "maps": ["Last Clue (zs_lastclue)"],
+  "difficulties": ["easy", "normal", "hard", "very-hard", "hell"],
+  "rewards": ["Honor mission [Phobos Slayer]: defeat Phobos 100 times (excluding Easy difficulty)"],
+  "nextChapter": null,
+  "release": [
+    { "region": "kr", "date": "2010-01-21", "note": null },
+    { "region": "sg", "date": "2011-04-13", "note": "Singapore/Malaysia" },
+    { "region": "id", "date": "2011-12-21", "note": null },
+    { "region": "csn", "date": "2014-09-23", "note": "Counter-Strike Nexon: Zombies" }
+  ],
+  "trivia": [
+    "Prototype Phobos is described as Rex's attempt at a perfect zombie: hard skin, strength, speed and combat proficiency.",
+    "Parts of the map mirror the Hong Kong map.",
+    "The boss arena doubles as the Zombie Scenario tutorial (system name zs_zombieux).",
+    "The only Zombie Scenario pursuit map that includes a map overview."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Last_Clue",
+  "_notes": "Next chapter unknown: the Season 1 overview page could not be fetched (402). Candidate later Season 1 chapters include 'Dead End' (page exists at https://cso.fandom.com/wiki/Dead_End) - unverified."
+}

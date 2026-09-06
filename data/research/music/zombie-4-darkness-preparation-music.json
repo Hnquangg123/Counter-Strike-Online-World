@@ -1,0 +1,14 @@
+{
+  "slug": "zombie-4-darkness-preparation-music",
+  "title": "Zombie 4: Darkness - 20-second preparation music",
+  "composer": null,
+  "album": null,
+  "durationSeconds": 20,
+  "summary": "A 20-second preparation (freeze-time) cue played before each Zombie 4: Darkness round in most regions.",
+  "description": "The Zombie 4: Darkness page notes that the 20-second preparation music does not play in the Counter-Strike Nexon: Zombies and Vietnam versions, confirming that a dedicated pre-round track exists in the other regions (South Korea, Taiwan/Hong Kong, China, Japan, Singapore/Malaysia, Indonesia). The official track title was not captured; the wiki also mentions that the mode's voice announcer changed per region.",
+  "usedIn": { "gameModes": ["Zombie 4: Darkness"], "scenarios": [], "maps": [] },
+  "audioUrl": null,
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Zombie_4:_Darkness",
+  "_confidence": "medium (existence and length stated; title unknown)"
+}

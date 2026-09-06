@@ -1,0 +1,161 @@
+{
+  "slug": "phobos",
+  "name": "Prototype Phobos",
+  "aliases": ["Phobos", "zbs_bossl_big00 (system name)"],
+  "kind": "boss",
+  "side": "zombie",
+  "grade": null,
+  "classType": "Boss (Zombie Scenario: Season 1 - Last Clue); the first boss ever introduced in Zombie Scenario",
+  "factions": ["Zombie", "Rex Research Institute (origin)"],
+  "profile": {
+    "gender": "Male",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": null,
+    "nationality": null,
+    "occupation": null,
+    "bloodType": null,
+    "birthday": null,
+    "raceAffiliation": "Alien / Rex Research Institute",
+    "status": "Dead",
+    "location": "Rex Research Institute Sector Z; Lost City"
+  },
+  "tagline": "Terror incarnate - the blue-skinned first boss waiting at the end of the Last Clue.",
+  "summary": "Prototype Phobos is the first boss introduced to Zombie Scenario, encountered at the end of the Last Clue chapter (Season 1) in Sector Z of the Rex Research Institute beneath the Lost City. It has enormous health, a shockwave that forces players to drop their weapons, a slash attack and a lethal rush called Mahadash. Its evolved, purple-skinned form, Siege Type Phobos, is the final boss of the Chaos chapter. Defeating Phobos originally rewarded Phobos' DNA for item fusion (replaced after Zombie Scenario Re:boot).",
+  "story": "Following the map found in the dead advance-unit commander Andrey's note, the rescue team reaches the Rex laboratory complex (Last Clue) and confronts Phobos in its final round. After about a minute of combat, zombies arrive to support it; the team must kill them and defeat Phobos to win. Phobos returns as the round-3 boss of Nightmare, and appears in Desert Plant, Hell Ride and Episode Choi; it is also the boss used in the Zombie Scenario tutorial. Siege Type Phobos, which appears in Chaos with a purple colour, has nearly identical properties.",
+  "personality": null,
+  "quotes": [],
+  "abilities": [
+    { "name": "Slash (Signature Primary)", "description": "Normal melee slash attack." },
+    {
+      "name": "Shockwave (Signature Secondary)",
+      "description": "Produces a shockwave that forces players to drop their current weapon (notably resetting JANUS-series transformation counters)."
+    },
+    {
+      "name": "Mahadash (rush attack)",
+      "description": "A charging rush that can kill a player outright; survivors are knocked away and take fall damage. Can hit twice."
+    },
+    { "name": "Stomp", "description": "A stomp attack later borrowed by the infected Dr. Rex." },
+    {
+      "name": "Zombie reinforcements",
+      "description": "After roughly one minute of combat, zombies spawn to assist Phobos."
+    }
+  ],
+  "appearances": {
+    "gameModes": [
+      "Zombie Scenario",
+      "Zombie Scenario tutorial",
+      "Zombie Shelter: Coop (message portrait)"
+    ],
+    "maps": [
+      "Last Clue",
+      "Nightmare",
+      "Desert Plant",
+      "Hell Ride",
+      "Episode Choi",
+      "Chaos (as Siege Type Phobos)"
+    ],
+    "scenarios": ["Zombie Scenario: Season 1", "Zombie Scenario: Season 6 - Episode Choi"]
+  },
+  "weapons": [],
+  "relatedCharacters": [
+    "Siege Type Phobos - evolved version",
+    "Oberon - fellow Season 1 boss",
+    "Dr. Rex - creator; his infected form copies Phobos's stomp",
+    "Andrey (advance unit commander) and Felix (signal corpsman) - storyline NPCs whose notes lead to Phobos"
+  ],
+  "voiceActors": [],
+  "release": [],
+  "honorMission": {
+    "title": "Phobos Slayer",
+    "task": "Defeat Phobos 100 times (easy stage excluded)."
+  },
+  "tips": "Max out attack and health upgrades before round 2; favour high-fire-rate, large-magazine weapons (SKULL and BALROG series, MG3, M134 Minigun) or explosive spam (M79 Saw Off); aim for the head with machine guns; keep moving in one flow, avoid traps and avoid colliding with teammates.",
+  "trivia": [
+    "The first boss introduced in Zombie Scenario.",
+    "Named after Phobos, the Greek personification of fear (the word means 'terror'), and also the moon of Mars.",
+    "Its Mahadash may hit twice.",
+    "Sometimes fails to appear in Last Clue; using a Round Retry fixes it.",
+    "Rewards on defeat (pre-Re:boot): Phobos' DNA, fusable with items from Lost City, Double Gate and Trap."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f0/Phobos_V3.png",
+      "caption": "Infobox portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/b8/Phobos_model.png",
+      "caption": "In-game model, front view"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/cc/Phobos_model_right_view.png",
+      "caption": "Right view"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/cd/Phobos_model_back_view.png",
+      "caption": "Back view"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/dc/Phobos_model_left_view.png",
+      "caption": "Left view"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f5/Phobos_mdl_hd-1.png",
+      "caption": "HD model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/c3/Phobos_mdl_hd-2.png",
+      "caption": "HD model (2)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/c6/002-1.jpg",
+      "caption": "South Korea poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/9f/Phoboscp.jpg",
+      "caption": "China poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/e6/Phoboscp2.jpg",
+      "caption": "China poster (2)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/dc/Bosshp_bg_left.png",
+      "caption": "Boss HP HUD"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/8d/Bosshp_bg_left_new.png",
+      "caption": "Boss HP HUD (new)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/4c/Phobos_msg.png",
+      "caption": "Message portrait (Zombie Shelter: Coop)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/90/Zs_lastclue_20120907_2240200.jpg",
+      "caption": "In-game screenshot of dead Phobos"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/33/Prototype_Phobos.gif",
+      "caption": "Preview animation"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f0/Cs1z.jpg",
+      "caption": "Last Clue poster: 707, David Black and Gerard fighting Phobos"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Prototype_Phobos",
+  "redirectFrom": "https://cso.fandom.com/wiki/Phobos",
+  "sections": [
+    "Description",
+    "Achievements / Honor mission",
+    "Tips defeating Phobos (Before / Fighting)",
+    "Minimal Weapons Required",
+    "Gallery",
+    "Trivia",
+    "External links"
+  ],
+  "sourceNotes": "Storyline lead-in summarised from https://cso.fandom.com/wiki/Zombie_Scenario:_Season_1 (Felix's diary).",
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

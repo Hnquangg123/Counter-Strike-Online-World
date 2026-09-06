@@ -1,0 +1,116 @@
+{
+  "slug": "douglas-jacob",
+  "name": "Douglas Jacob",
+  "aliases": ["Douglas", "Chairman of Kronos", "jacob (system name)"],
+  "kind": "npc",
+  "side": "neutral",
+  "grade": null,
+  "classType": "Antagonist NPC / mission pointer; main antagonist of Zombie Scenario after Dr. Rex; pilots the Adamant / Adamant-Z boss battlegear",
+  "factions": [
+    "Kronos (founder and chairman)",
+    "Vanguard Company (parent-company owner)",
+    "Asia Red Army (funder)"
+  ],
+  "profile": {
+    "gender": "Male",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": null,
+    "nationality": null,
+    "occupation": "Founder/president of the multinational Kronos company; secret financier of the Super Soldier Project",
+    "bloodType": null,
+    "birthday": null,
+    "raceAffiliation": "Human / Dr. Rex, Kronos",
+    "status": "Dead (killed by airstrike)"
+  },
+  "tagline": "The anonymous informer behind Dr. Rex - a chairman who funded both sides of every war and finished the super-soldier dream himself.",
+  "summary": "Douglas Jacob, president of the multinational Kronos company, is the true mastermind of the Counter-Strike Online zombie saga and its main antagonist after Dr. Rex. First seen only as a mission-giver, he was revealed in Season 5's Last Ride (by Crono Wing and Soi) to be the man who secretly funded Dr. Rex's Super Soldier Project; after Rex's death he perfected the research, creating conscious zombie 'agents'. He bankrolled both Counter-Terrorists and Terrorists, owned the Vanguard Company and funded the Asia Red Army, and in the final battle piloted the Adamant-Z battlegear before dying in an airstrike called on his control room as he tried to launch an ICBM.",
+  "story": "**The anonymous informer.** When Dr. Rex's Super Soldier Project was on the brink of failure, Douglas served as the 'anonymous informer' who told Rex that the virus in the corpses from Heorgen was the key to success. This led Rex to create zombies and cost him his government funding; Douglas kept funding him in secret and, after Rex's death, carried the project on alone, ultimately producing the 'zombies with consciousness' he calls his agents - the thing Rex had dreamed of.\n\n**Mr. X and the Asia Red Army.** Seeing the CT-vs-Terrorist war as an opportunity, Douglas funded both sides across the world. His funding of the Asia Red Army drew the CIA's attention and led to Choi Ji Yoon's infiltration. On Mr. X's recommendation he hired Ritsuka to spread terror; when both the ARA and Ritsuka disappointed him he sabotaged them. After Alin and Dominique captured Ritsuka in Overflow, she cut ties with Kronos and sided with Carlito.\n\n**Erika.** Douglas identified Erika as a potential antibody test subject and is suspected of having ordered Norman to kidnap her to the Panic Room; she was infected during the abduction but her genes resisted mutation, leaving her in chronic pain that only Douglas's data can cure. He later sent Mammon to destroy a hidden research facility (disguised as a sewage treatment site) before Gerard and Jim could find it. After his defeat Erika is under treatment.\n\n**Jack and Laser Wing.** Douglas 'rescued' Jack from death after Yuri bombed the Rex research facility, turned him into Laser Wing - his first conscious zombie - and convinced him that Jennifer had abandoned him, setting Jack against her until Jack regained his senses before dying and partially revealed the common enemy.\n\n**Vanguard Company.** Episode Carlito reveals that Vanguard was a child company of Kronos, used as mercenaries to recover Dr. Rex's research. Douglas orchestrated the zombie outbreak that destroyed it, then valued Carlito's unit - the last Vanguards - for taking missions without question, before deciding mercenaries were a 'dying breed' once his research was perfected and trying to eliminate them with arranged zombie attacks. Carlito survived and joined the allied forces.\n\n**Endgame (Seasons 7-9).** Carlito's squad, the government forces and the Aegis researchers strike at Kronos; Alin and Dominique destroy a secret lab whose shockwave exposes Kronos's hidden facilities, turning governments and former allies against Douglas. He lashes out, seizing the Aegis Institute's laboratories (Obstacle), which Jennifer and Soi fight to recapture; a 'Secret Plan' involving his worldwide military factories is uncovered and attacked. In the final encounter he sends all his agents against the Aegis Allied Force, pilots the Adamant battlegear - built from leaked Aegis combat data, with a virus-infused Adamant-Z form - and, after failing, retreats to launch an ICBM. Soi requests air support and his control room is bombed just in time.",
+  "personality": "Manipulative string-puller who nudges events from behind the scenes; talkative and self-assured; treats people as assets and cuts 'loose ends'.",
+  "quotes": [],
+  "abilities": [
+    {
+      "name": "Adamant / Adamant-Z",
+      "description": "High-tech battlegear he pilots himself; initial form and a zombie-virus-infused form."
+    }
+  ],
+  "appearances": {
+    "gameModes": [
+      "Zombie Scenario",
+      "Daily/weekly missions (mission pointer)",
+      "Assassination (mission)"
+    ],
+    "maps": [
+      "Last Ride (revealed)",
+      "Episode Carlito",
+      "Rendezvous",
+      "Episode Lucia",
+      "Obstacle",
+      "Secret Plan",
+      "Convoy",
+      "Chaser"
+    ],
+    "scenarios": ["Zombie Scenario: Season 5 through Season 9"]
+  },
+  "missionsAppointed": [
+    { "title": "Assassination Request", "task": "Kill 3 VIPs in Assassination mode." },
+    {
+      "title": "No Bullets are Allowed!",
+      "task": "Kill a zombie in Zombie Mods with a melee weapon."
+    }
+  ],
+  "weapons": [
+    "Adamant / Adamant-Z battlegear",
+    "Kronos product lines: Hunter Killer series, Arbalest, Space Arbalest, Abyss Repulsor, M32 MGL Zombie Killer"
+  ],
+  "relatedCharacters": [
+    "Dr. Rex - the scientist he secretly funded",
+    "Soi (Soy)",
+    "Crono Wing",
+    "Mr. X",
+    "Ritsuka / Agent Ritsuka",
+    "Erika",
+    "Norman",
+    "Jack / Laser Wing",
+    "Jennifer",
+    "Carlito",
+    "Alin and Dominique",
+    "Alice, Cyborg, Angelina, Amy, Pyromaniac Yuri - Kronos-linked characters",
+    "Mammon"
+  ],
+  "voiceActors": [],
+  "release": [],
+  "trivia": [
+    "Like Dr. Rex he follows the 'man in a suit' theme and is probably inspired by Half-Life's G-Man - Counter-Strike began as a Half-Life mod - nudging events to his liking, though he is far more talkative and is the employer rather than an agent.",
+    "The Trivia on the Vanguard Company page names him as the person supervising the Vanguard Lab's research project."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/19/Jacob_msg.png",
+      "caption": "NPC message portrait (infobox)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/92/Pic2_douglas_jacob.png",
+      "caption": "Gallery image"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/51/Char2_douglas_jacob.png",
+      "caption": "Character art"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/44/Char3_douglas_jacob.png",
+      "caption": "Character art (2)"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Douglas_Jacob",
+  "sections": [
+    "Overview",
+    "History (Dr. Rex and The Super Soldier Project; Mr. X; Erica; Jack; Vanguard Company; Adamant)",
+    "List of missions appointed",
+    "Gallery",
+    "Trivia"
+  ],
+  "sourceNotes": "Endgame beats from https://cso.fandom.com/wiki/Zombie_Scenario:_Season_7, .../Season_9 and https://cso.fandom.com/wiki/Kronos.",
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

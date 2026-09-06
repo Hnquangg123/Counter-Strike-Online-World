@@ -1,0 +1,76 @@
+{
+  "slug": "asia-red-army",
+  "name": "Asia Red Army",
+  "aliases": [
+    "ARA",
+    "Japanese Red Army",
+    "JRA",
+    "アジア赤軍",
+    "日本赤軍",
+    "Anti-Imperialist International Brigade",
+    "Anti-War Democratic Front",
+    "Holy War Brigade",
+    "jra (system name)"
+  ],
+  "side": "tr",
+  "summary": "The Asia Red Army (Japanese Red Army in some regions) is a purchasable Terrorist faction class in Counter-Strike Online and a key organisation in the Zombie Scenario storyline. Led by Mr. X and secretly funded by Douglas Jacob's Kronos, it is the group Choi Ji Yoon infiltrated for the CIA and the group that raised and trained Ritsuka. Its members fight in white T-shirts with red scarves over their faces.",
+  "description": "A Terrorist faction model based on the real Japanese Red Army. Using it grants a bonus to experience and game points (20% in most regions, 10% in Indonesia), and purchase bonuses of game points in several regions. In-game the members wear white T-shirts and red face scarves; their weapons are the Beretta 92G Elite II, AK-47 and Anaconda.",
+  "lore": "The official description recounts the 1970 hijacking by which the group first made headlines and its worldwide terrorist activity in the name of Marxism. In the CSO storyline (Zombie Scenario: Season 6 - Episode Choi), the CIA sends Choi Ji Yoon undercover into the ARA; she is discovered by Ritsuka and held hostage until fellow agent May is dispatched to rescue her. The episode reveals that the ARA, led by Mr. X, is funded by Douglas Jacob to deploy a biological weapon that turns people into monsters and zombies. When the ARA and Ritsuka failed to meet his expectations, Douglas sabotaged them; by Season 8 (Abandoned Hound) Ritsuka returns to find the ARA hideout in ruins.",
+  "leaders": ["Mr. X - leader; funded by Douglas Jacob"],
+  "members": [
+    "Mr. X",
+    "Ritsuka - raised and trained by the ARA; regular member during her mercenary years",
+    "Kaze - the chairman's right hand, introduced in Counter-Strike Online 2"
+  ],
+  "enemies": ["Choi Ji Yoon (CIA infiltrator)", "May (CIA)", "Counter-Terrorists"],
+  "zombieScenarioStats": {
+    "health": "21/28",
+    "attack": "18/28",
+    "mobility": "24/28",
+    "armor": "18/28",
+    "ammo": "24/28"
+  },
+  "weapons": ["Beretta 92G Elite II", "AK-47", "Anaconda"],
+  "costPerRegion": {
+    "Taiwan/Hong Kong": "199 (30 days)",
+    "Singapore/Malaysia": "6500 cash points (30 days)",
+    "Indonesia": "45,000 (30 days)",
+    "Turkey": "6000 (30 days)"
+  },
+  "trivia": [
+    "The selection icon shows a member wielding a pair of Berettas in front of the Camouflage map; its pose is inspired by the original Counter-Strike Elite Crew icon.",
+    "A soccer-mode version exists; in Japan this is the only model purchasable with game points.",
+    "'ARA' is also a Japanese interjection meaning 'Oh my'."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/d2/Ara.jpg",
+      "caption": "Asia Red Army (infobox image)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/27/Jra_model.png",
+      "caption": "Player model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/d4/Jra_anaconda_c4.png",
+      "caption": "ARA member with Anaconda and C4"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f9/Jra.png",
+      "caption": "Selection icon"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Asia_Red_Army",
+  "sections": [
+    "Overview",
+    "Official Description",
+    "Zombie Scenario Stats",
+    "Weapons",
+    "Appearance",
+    "Characters",
+    "Gallery",
+    "Trivia",
+    "External links"
+  ],
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

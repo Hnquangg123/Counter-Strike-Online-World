@@ -1,0 +1,17 @@
+packages:
+  - "apps/*"
+  - "packages/*"
+
+# Keep a single copy of React/Next across the workspace so RSC boundaries and
+# Payload's admin UI never see duplicate React instances.
+catalog:
+  next: "16.3.4"
+  react: "19.2.8"
+  react-dom: "19.2.8"
+  "@types/react": "19.2.18"
+  "@types/react-dom": "19.2.7"
+  typescript: "~5.9.3"
+  zod: "^4.5.4"
+  "@types/node": "^22.19.9"
+  vitest: "^4.1.11"
+  tsx: "^4.23.13"

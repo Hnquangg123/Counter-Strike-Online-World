@@ -1,0 +1,75 @@
+{
+  "slug": "skull-11",
+  "name": "SKULL-11",
+  "aliases": ["Skull-11"],
+  "category": "shotgun",
+  "grade": null,
+  "origin": "South Korea (modified USAS-12)",
+  "manufacturer": null,
+  "caliber": "12 Gauge Anti-Zombie",
+  "tagline": "A 28-round anti-zombie USAS-12 that switches between buckshot and slugs.",
+  "summary": "SKULL-11 is a modified version of the Korean USAS-12 automatic shotgun fed with 28 rounds of 12 Gauge Anti-Zombie shells that deal critical damage to zombies. Its secondary fire switches to Slug mode, concentrating the shot into a narrow spread for middle and long range. It has high stun power and magazine capacity but is expensive, slow to reload and cannot penetrate walls or bodies.",
+  "description": "Per the wiki, SKULL-11 is a modified Korean USAS-12 fed with 28 rounds carrying a special gauge for critical zombie damage; Slug mode concentrates the gauges into a narrow space for long range, making it ideal for middle/far range. It costs $6,500 with ammunition at $175 per 20 rounds, has the Part System installed and was sold only in limited-time events for cash points. Its buckshot mode is very effective at clearing crowds of zombies and breaking barriers (28 rounds deal roughly 12,000 damage to bosses at maxed firepower), and it is the only shotgun that can switch between slug and pellet rounds mid-engagement. The scope on top is capped and unusable, the reload animation slows movement, and it cannot fire while reloading.",
+  "stats": {
+    "damage": "High (about 12,000 to bosses per 28-round magazine at maxed firepower)",
+    "accuracy": "Very accurate in Slug mode",
+    "recoil": "Low",
+    "rateOfFire": "High in buckshot mode; low in Slug mode",
+    "weight": null,
+    "knockback": null,
+    "stun": "High stun power, especially against zombies"
+  },
+  "ammo": {
+    "magazine": 28,
+    "reserve": "Low spare ammunition",
+    "type": "12 Gauge Anti-Zombie ($175 per 20 rounds)"
+  },
+  "price": "$6,500",
+  "fireModes": ["Buckshot (primary)", "Slug mode (secondary)"],
+  "obtainMethod": "Limited-time events for cash points only",
+  "advantages": [
+    "High magazine capacity for a shotgun",
+    "High damage and stun power, especially against zombies",
+    "High rate of fire in buckshot mode",
+    "Effective at middle/far range in Slug mode",
+    "Very accurate with Slug mode",
+    "Can penetrate Kevlar",
+    "Low recoil"
+  ],
+  "disadvantages": [
+    "Expensive price and ammunition",
+    "Low rate of fire in Slug mode",
+    "Slower movement during the reload animation",
+    "Cannot penetrate walls, objects or bodies in either mode",
+    "Cannot fire while reloading",
+    "Unusable (capped) scope",
+    "Low spare ammunition"
+  ],
+  "variants": [
+    "USAS-12 (base weapon)",
+    "SKULL-3 (shares the scope design)",
+    "SPAS-12 Superior (also has unusable optics)"
+  ],
+  "characters": ["SAS operative (depicted using it in promotional posters)"],
+  "abilities": [],
+  "release": [
+    { "region": "kr", "date": "2012-04-19", "note": null },
+    { "region": "tw", "date": "2012-04-24", "note": "Taiwan/Hong Kong" },
+    { "region": "cn", "date": "2012-04-25", "note": null },
+    { "region": "jp", "date": "2012-04-25", "note": null },
+    { "region": "id", "date": "2013-01-02", "note": null },
+    { "region": "sg", "date": "2013-01-09", "note": "Singapore/Malaysia" },
+    { "region": "csn", "date": "2014-09-23", "note": "Counter-Strike Nexon: Zombies" },
+    { "region": "tr", "date": "2014-10-08", "note": null },
+    { "region": "vn", "date": "2015-03-26", "note": null }
+  ],
+  "trivia": [
+    "Features iron sights absent on the original USAS-12.",
+    "The scope is labelled 'Aopoint', a wordplay on Aimpoint.",
+    "The handguard displays the text 'DEATH ROAD' and the serial '54054-01'; the 'SKULL-11' marking sits behind the ejection port.",
+    "Only shotgun that can switch between slug and pellet rounds mid-engagement; slugs behave as tightly grouped pellets.",
+    "Shares its reload-speed movement penalty with the M134."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/SKULL-11"
+}

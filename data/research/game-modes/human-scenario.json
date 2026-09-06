@@ -1,0 +1,29 @@
+{
+  "slug": "human-scenario",
+  "name": "Human Scenario",
+  "aliases": ["HS"],
+  "family": "scenario",
+  "tagline": "Survive the Vanguard troop - elite human soldiers, Titans, snipers and attack helicopters - in the Middle East.",
+  "summary": "Human Scenario is CSO's second scenario mode. Instead of zombies, players fight a huge force of computer-controlled human soldiers called the Vanguard troop, completing annihilation or reach-the-target missions across five Middle-Eastern maps. Enemies range from Troopers and Titans to cloaked Ghost snipers, Lancers with AT4s and boss vehicles such as the RAH-66 Comanche, V-22 Osprey and XT-300 Goliath.",
+  "description": "Per the wiki, Human Scenario depicts the battle between the players and a huge group of computer-controlled human soldiers called the Vanguard troop; players must survive their attacks and complete the given mission - either annihilating a number of enemies within the time limit or reaching a targeted area. Enemies carry weapons and shoot on sight, so fights are mostly middle-to-long range and weapons with high rate of fire, firepower and accuracy are recommended. Usable items include Battle Revival, Round Retry, Emergency Medicine and the Sentry Gun (ported from Half-Life). Health and armour are not shown on the HUD; a blood-red overlay indicates damage and health regenerates after about 60 seconds or on respawn. Enemy types: Trooper (M14 EBR, hand grenades), Titan (M134, smoke grenades), Ghost/Sniper (AWP, camouflage), Lancer (AT4), Heavy Titan (M134 Predator, 5000 HP), Drone (gatling gun, in Blaze). Bosses: RAH-66 Comanche (Desert Storm, Hellfire), V-22 Osprey (Blaze; transports drones and does not attack), XT-300 Goliath (Sidewinder). Maps in order: Desert Storm (annihilation, 10 rounds, Comanche; reward Black Box), Hellfire (pursuit, 2 rounds, Comanche; Pilot Dogtags), Mosque (sniper battle; top 3 rewarded), Blaze (pursuit + defence, 3 rounds, Osprey; Drone Controller), Sidewinder (annihilation, 10 rounds, Goliath; Black Box, Pilot Dogtags or Drone Controller).",
+  "lore": "The wiki's story text (paraphrased): after obtaining the sample of Phobos' corpse from the unidentified facility (the end of Zombie Scenario chapter Last Clue), the troops set out to transport it to headquarters by a roundabout desert route for safety. In the desert a large-scale barrage suddenly rained down on them; they took cover in nearby ruins to protect the samples and saw armies of elite soldiers with huge airborne weapons - not zombies. Who were they? Analysis eventually identified the enemy as Vanguard Contact; a third army planned to push through the cities Vanguard occupied to join up. During an air transport the team would have been annihilated by a Drone attack had Red Lizard 'Jim' not let them board the Blaze, and secret reports revealed that 'Norman', the man Jim trusted most, had betrayed the mercenaries. In the Counter-Strike Nexon: Zombies framing, the enemy even brought a Comanche, which the troops destroyed after securing an abandoned building; after severe combat in a sandstorm Victor learned the origin of the unknown enemies, knew that fighting a munitions corporation would be suicidal, and heard rumours of a parent company behind them, upgraded with top technology and involved in illegal activities such as funding terrorists. This arc leads directly into Zombie Scenario Season 3 (Norman, the Vanguard Laboratory).",
+  "rules": [
+    "PvE against AI human soldiers (Vanguard troop).",
+    "Mission types: annihilate a set number of enemies within the time limit, or reach a targeted area.",
+    "Health/armour hidden from the HUD; damage shown by a red overlay; health regenerates after ~60 s or on respawn.",
+    "Items: Battle Revival, Round Retry, Emergency Medicine, Sentry Gun.",
+    "Enemy weapons cannot be picked up.",
+    "Rewards: Black Box, Pilot Dogtags, Drone Controller depending on map."
+  ],
+  "maxPlayers": null,
+  "release": [],
+  "trivia": [
+    "All Human Scenario maps take place in the Middle East.",
+    "Mosque was not released in Singapore/Malaysia and Indonesia due to religious concerns.",
+    "The Sentry Gun is ported directly from Half-Life with modifications.",
+    "Earlier versions had health/firepower upgrades and random Supply Boxes, later replaced by health regeneration and directed airstrikes.",
+    "The wiki notes the mode received no new storylines from Nexon due to lack of demand, unlike Zombie Scenario."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Human_Scenario"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "deathmatch",
+  "name": "Deathmatch",
+  "aliases": ["DM", "Free-for-all"],
+  "family": "original",
+  "tagline": "Every player for themselves - first to the kill count wins.",
+  "summary": "Deathmatch pits every player against each other regardless of the team they joined. Like Team Deathmatch it began as a server-side custom mode in the original Counter-Strike and was made official in CSO; the first player to reach the set number of kills, or the leader when the timer runs out, wins.",
+  "description": "The wiki describes Deathmatch as a game mode in Counter-Strike Online, a server-side custom mode from the original Counter-Strike made official in CSO. Every player is pitted against each other regardless of the team they joined beforehand, and the player who reaches the set amount of kills first or leads when the timer runs out is the winner. Trivia notes a respawn bug where a player may spawn on top of another, leaving both stuck until one kills the other, and a teammate health-visibility feature.",
+  "lore": null,
+  "rules": [
+    "Free-for-all: all players are enemies.",
+    "Win by reaching the kill target first or leading when the timer ends.",
+    "Instant respawn."
+  ],
+  "maxPlayers": null,
+  "release": [],
+  "trivia": [
+    "Players can occasionally respawn on top of one another and get stuck until one is killed.",
+    "The wiki main page lists 'Death Basic Gun' variants (Basic Gun Deathmatch) alongside Deathmatch in the Original family."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Deathmatch"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "angra-nest",
+  "name": "Angra Nest",
+  "aliases": ["zs_angra"],
+  "gameMode": "Zombie Scenario",
+  "season": "Season 2",
+  "chapter": 4,
+  "tagline": "Dione's chrysalis cracks open, and the winged monster Angra takes flight.",
+  "summary": "Angra Nest is the final story chapter of Zombie Scenario: Season 2. Having lured and wounded the Siege-type zombie Dione, Team Alpha tracks it to an abandoned facility where it has entered a chrysalis stage under Z-Virus infection. When their weapons cannot crack the cocoon they bring the whole structure down - but Dione emerges unharmed in its final evolved form, Angra, the first boss in the series able to fly.",
+  "story": "The briefing on the wiki has the LS Captain report that the monster's hiding place has been located: Dione, transforming because of the Z-VIRUS infection, is in a chrysalis stage and must be eliminated before it emerges. Team Alpha finds Dione in a cocoon inside an abandoned facility. When their firepower fails to penetrate it, they choose to destroy the entire structure. Dione nevertheless emerges unharmed as Angra - its final evolutionary form with newly developed wings. The wiki notes that, unlike Dr. Rex, Angra's evolution inspired fear and pity in the crew who watched its survival instincts.",
+  "objectives": [
+    "Round 1: fight through the facility to the cocoon (first Zombie Scenario map with checkpoint respawns and a round time limit with a designated end zone).",
+    "Round 2: defeat Angra, which flies, uses poison attacks and deals far more damage than Dione.",
+    "Escape sequences during the timed segments must be executed quickly."
+  ],
+  "bosses": ["Angra (evolved form of Siege Type Dione)"],
+  "characters": [
+    "LS Captain (briefing)",
+    "Senior Researcher Soy",
+    "Team Alpha",
+    "Dr. Rex (referenced)",
+    "Dione / Angra"
+  ],
+  "maps": ["Angra Nest (zs_angra)"],
+  "difficulties": ["easy", "normal", "hard", "very-hard", "hell"],
+  "rewards": [
+    "Honor mission [Last Soldier]: defeat Angra 100 times (minimum 4 players; excludes Easy difficulty)"
+  ],
+  "nextChapter": "Poisoning (Season 2 annihilation stage, zs_nightmare2)",
+  "release": [
+    { "region": "kr", "date": "2012-07-12", "note": null },
+    { "region": "sg", "date": "2013-06-05", "note": "Singapore/Malaysia" },
+    { "region": "id", "date": "2013-06-19", "note": null },
+    { "region": "csn", "date": "2014-09-23", "note": "Counter-Strike Nexon: Zombies" },
+    { "region": "vn", "date": "2015-03-26", "note": null }
+  ],
+  "trivia": [
+    "Introduces three new zombie types: Hound Zombie (small infected dogs, hard to target), Sting Finger (extended attack range) and Venom Guard (explodes on death, injuring and knocking back players).",
+    "First map with checkpoint respawn mechanics and the first with round time limits ending in a designated zone.",
+    "Angra is the first boss in the series with flight capability.",
+    "A known bug allowed rapid round completion after breaking the initial barrier.",
+    "Wiki tips: machine guns for round 1, prioritise attack-power upgrades unless using SKULL or BALROG weapons, keep distance from Venom Guards, aim low at Hound Zombies, use AT4-CS or Thunderbolt against Angra's large health pool."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Angra_Nest"
+}

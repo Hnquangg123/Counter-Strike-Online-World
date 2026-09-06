@@ -1,0 +1,27 @@
+{
+  "slug": "zombie-scenario",
+  "name": "Zombie Scenario",
+  "aliases": ["ZS", "Zombie Scenario Mode", "Zombie Scenario Re:boot"],
+  "family": "scenario",
+  "tagline": "Up to 10 players versus ever-larger hordes of AI zombies and the bosses of Dr. Rex's experiments.",
+  "summary": "Zombie Scenario is CSO's flagship co-operative PvE campaign. Up to 10 players fight increasingly powerful waves of AI-controlled zombies across seven story seasons of chapters, buying stronger weapons and upgrading health, damage and barriers with doubled in-match money. Each chapter is a survival, pursuit, defence, raid or annihilation stage, most ending with a boss such as Phobos, Angra or Dr. Rex himself.",
+  "description": "The wiki describes Zombie Scenario as pitting up to 10 players against increasingly large hordes of AI-controlled zombies; the money cap is doubled and the amount earned varies by zombie type killed and map difficulty. Players buy enhanced health, damage and barrier durability, and rounds grow harder with more powerful zombie types spawning. Characters level up through kills and boss defeats, with automatic stat upgrades (firepower, health with partial restoration, armour); respawn times scale from 15 to 60 seconds with level (1-100), and the maximum character level is 111 for most characters (101 for some variants). Players pick CT or TR faction characters with differentiated base health, attack, speed, armour and ammo. Difficulty tiers are Easy, Normal, Hard, Very Hard and Hell (before the 2020 reorganisation: Easy 1-2, Normal, Hard 1-9). Completing a map grants reward boxes twice daily whose contents scale with difficulty - scenario-exclusive items, tattoos and costumes, point and cash items; the Re:boot update replaced all previous rewards.",
+  "lore": "The seven seasons follow the fallout of Dr. Rex's Rex Virus / Z-Virus research: the quarantined Lost City, the hunt for Rex's laboratory and Prototype Phobos (Season 1); the pursuit of the Siege-type zombie Dione and its winged evolution Angra (Season 2); David Black's AFC mercenaries against Norman and the Vanguard Laboratory, with Erika kidnapped (Season 3); Gerard and Jim's sample transport that ends face to face with Dr. Rex and his super-soldier program (Season 4); Jennifer's investigation of the Super Soldier Project and the cronobotic enemies (Season 5); episodic arcs for Choi Ji Yoon, Victor, Lucia and Carlito around Douglas Jacob and the Vanguard Company (Season 6); and the finale with Carlito, Lucia and Erica/David Black at Rex Labs (Season 7). See scenarios/_index.json for the chapter order.",
+  "rules": [
+    "Co-operative PvE for up to 10 players against AI zombies.",
+    "Doubled money cap; earnings depend on zombie type and difficulty.",
+    "In-match upgrades: health, damage, barrier durability; weapons bought with the B key.",
+    "Per-character levelling with automatic stat gains; respawn timers scale 15-60 s by level.",
+    "Difficulties: Easy, Normal, Hard, Very Hard, Hell.",
+    "Reward boxes awarded twice daily on completion, scaled by difficulty.",
+    "Stage styles: survival, pursuit (checkpoints/barriers), defence, raid, annihilation (all bosses)."
+  ],
+  "maxPlayers": 10,
+  "release": [],
+  "trivia": [
+    "Main page of the wiki lists Zombie Scenario among the Zombie modes.",
+    "Season 7 is described by the wiki as the last instalment of the series."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Zombie_Scenario"
+}

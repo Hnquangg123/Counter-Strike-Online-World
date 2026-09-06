@@ -1,0 +1,18 @@
+{
+  "slug": "lobby-theme",
+  "title": "Counter Strike Online - Lobby",
+  "composer": "Seo Jeong Min (attribution from Last.fm; the CSO wiki has a composer page for him)",
+  "album": null,
+  "durationSeconds": null,
+  "summary": "The lobby/menu theme of Counter-Strike Online, credited on Last.fm to Korean composer Seo Jeong Min.",
+  "description": "Counter-Strike Online's wiki maintains composer pages for Seo Jeong Min (https://cso.fandom.com/wiki/Seo_Jeong_Min) and Koo Ja Wan (https://cso.fandom.com/wiki/Koo_Ja_Wan), but both returned HTTP 402 on every fetch attempt. External listings (Last.fm) credit Seo Jeong Min with tracks titled 'Counter Strike Online - Lobby' and 'Counter Strike Online Scenario Rush', which implies he composed the lobby theme and a scenario battle theme. Because this attribution comes from outside the wiki it should be verified against the composer pages before publication.",
+  "usedIn": { "gameModes": ["Lobby / main menu"], "scenarios": [], "maps": [] },
+  "audioUrl": null,
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Seo_Jeong_Min",
+  "_confidence": "low (external attribution; wiki composer page not readable during this session)",
+  "_sources": [
+    "https://www.last.fm/music/Seo+Jeong+Min/_/Counter+Strike+Online+-+Lobby",
+    "https://sonichits.com/video/Seo_Jeong_Min/Counter_Strike_Online_Scenario_Rush"
+  ]
+}

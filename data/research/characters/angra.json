@@ -1,0 +1,160 @@
+{
+  "slug": "angra",
+  "name": "Angra",
+  "aliases": ["zbs_bossl_big06 (system name)"],
+  "kind": "boss",
+  "side": "zombie",
+  "grade": null,
+  "classType": "Boss (Zombie Scenario: Season 2 - Angra Nest); playable giant zombie in Zombie Giant mode",
+  "factions": ["Zombie", "Rex Research Institute (origin)"],
+  "profile": {
+    "gender": "Unknown",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": null,
+    "nationality": null,
+    "occupation": null,
+    "bloodType": null,
+    "birthday": null,
+    "raceAffiliation": "Super soldier / Rex Research Institute",
+    "status": "Dead"
+  },
+  "tagline": "Dione's final form - the winged, poison-breathing dragon that was the first boss to take to the sky.",
+  "summary": "Angra is the final evolution of Dione (via Siege Type Dione) and the boss of the Angra Nest chapter, released alongside the Z-VIRUS: Scenario update. It is the first flying boss in Zombie Scenario: a European-dragon-styled monster that retains Dione's poison and tentacle attacks while adding a soaring mode, wind attacks and a devastating landing shockwave that disarms players. It later appears in Poisoning (round 5), Desert Plant and as a playable zombie in Zombie Giant.",
+  "story": "The LS team, having chased the wounded Dione through Toxicity and Culvert, finds the creature's hiding place at a mysterious ruined facility. According to Senior Researcher Soy, Dione - transforming under Z-VIRUS infection - is in a defenceless chrysalis stage, and the captain orders the team to kill it before it can emerge. Inside, what awaits is a huge devil's creation: Angra, the third and final confrontation with Dione, now far more powerful and able to fly. In Desert Plant, Angra appears on certain days from day 7, flying to the players' shelter to drop Venom Guards and special dark-blue-skinned zombies before landing near the truck that blocks the way out of the map.",
+  "personality": null,
+  "quotes": [],
+  "abilities": [
+    {
+      "name": "Bite / Tackle (Land - Signature Primary)",
+      "description": "Close-range land attacks."
+    },
+    { "name": "Earthquake (Land)", "description": "Ground-shaking attack." },
+    {
+      "name": "Tentacle (Land)",
+      "description": "Same family of attack as Dione's but more damaging, with three patterns: instant tentacles under the player; a delayed simultaneous eruption; and a multi-stomp version where Angra predicts player movement so tentacles appear behind them. Countered by running in a circle, standing on the radar computer or ducking."
+    },
+    { "name": "Wind Elemental (Air)", "description": "Air-phase wind attack." },
+    {
+      "name": "Poison / Toxic Breath (both phases)",
+      "description": "Locks onto one player while charging, then breathes a wide poison cloud with a short warm-up; dodge by getting behind it or strafing/jumping sideways. Inflicts a poison effect. Two radar computers must be switched on (E key, two players) while it flies off-map to detect it and avoid instant poison death."
+    },
+    {
+      "name": "Soar mode / Land mode",
+      "description": "Can fly; when it lands it damages and disarms everyone nearby (jump as it lands to keep your weapon) and instantly kills anyone directly beneath it."
+    },
+    {
+      "name": "Poison Fog (Evolution skill, Zombie Giant)",
+      "description": "After evolving in Zombie Giant (bluish colour scheme with cyan parts), gains a fourth skill releasing poison fog."
+    },
+    {
+      "name": "Zombie Giant skill set",
+      "description": "Spinning, Toxic Breath, Tentacle, Poison Fog (evolution)."
+    }
+  ],
+  "appearances": {
+    "gameModes": ["Zombie Scenario", "Zombie Giant", "Zombie Shelter: Coop (message portrait)"],
+    "maps": ["Angra Nest", "Poisoning", "Desert Plant"],
+    "scenarios": ["Zombie Scenario: Season 2 (Angra Nest)", "Z-VIRUS: Scenario update"]
+  },
+  "weapons": [],
+  "relatedCharacters": [
+    "Dione - original form",
+    "Siege Type Dione - intermediate form (can summon Angra in Zombie Giant)",
+    "Venom Guard - zombies it drops in Desert Plant",
+    "Soy (Soi)",
+    "Dr. Rex - creator; the infected Dr. Rex reuses Angra's tentacle attack"
+  ],
+  "voiceActors": [],
+  "release": [
+    {
+      "region": null,
+      "date": null,
+      "note": "Added alongside the Angra Nest chapter (Z-VIRUS: Scenario)"
+    }
+  ],
+  "honorMission": {
+    "title": "Last Soldier",
+    "task": "Defeat Angra 100 times (at least 4 players, easy stage excluded)."
+  },
+  "tips": "Recommended weapons: BALROG-V, SKULL-6/5/3, Thunderbolt, AT4-CS; use the mounted Browning M2HB heavy machine gun whenever possible; invest in HP upgrades; share powerful weapons with teammates.",
+  "trivia": [
+    "Final evolution of Dione; its wings are its iconic feature and it is the first Zombie Scenario boss able to fly.",
+    "Based on a European dragon.",
+    "'Angra' comes from Angra Mainyu, the Avestan name of the Zoroastrian/Persian spirit of darkness, death and destruction ('Evil Spirit').",
+    "Considered one of the hardest bosses because its abilities cause disorientation (wide toxic breath, disarming landing shockwave).",
+    "Before becoming a full playable zombie in Zombie Giant, Angra existed there only as a summon from Dione's fourth ability."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/91/Gogg.png",
+      "caption": "Infobox portrait (HD model)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/ec/Angra_ingamemdl.png",
+      "caption": "In-game model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/a/a1/Angra_flying_hd.png",
+      "caption": "Flying (HD)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/00/Angra_death_mdl.png",
+      "caption": "Dead model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/94/Monksssssssssssss.png",
+      "caption": "Tentacle model (shared with Dione)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/7/71/Angra_eggmdl.png",
+      "caption": "Egg (chrysalis) model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/ec/Bosshp_bg_left_angra.png",
+      "caption": "Boss HP HUD"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/14/Angra_msg.png",
+      "caption": "Message portrait (Zombie Shelter: Coop)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/bb/Zombipoison.png",
+      "caption": "Poison effect inflicted by Angra"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/e6/20120730ff_5.jpg",
+      "caption": "Promotional art"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/94/Angraposter.png",
+      "caption": "South Korea poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/a/af/Angracp.png",
+      "caption": "China poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/d1/Angragameplay.png",
+      "caption": "In-game screenshot"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/fb/Zg_angra.png",
+      "caption": "Zombie Giant model"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Angra",
+  "sections": [
+    "Overview",
+    "Tactics and Tips",
+    "Zombie Giant",
+    "Skill Table",
+    "Minimum Weapons Required",
+    "Achievements / Honor mission",
+    "Gallery",
+    "Trivia"
+  ],
+  "sourceNotes": "Chrysalis / facility lead-in summarised from https://cso.fandom.com/wiki/Zombie_Scenario:_Season_2 (Storyline).",
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

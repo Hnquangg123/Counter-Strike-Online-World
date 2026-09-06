@@ -1,0 +1,18 @@
+{
+  "slug": "zombie-scenario-freeze-time-music",
+  "title": "Zombie Scenario - Freeze time music",
+  "composer": null,
+  "album": null,
+  "durationSeconds": null,
+  "summary": "The pre-round (freeze time) theme used across Zombie Scenario: Season 2 chapters.",
+  "description": "The Zombie Scenario: Season 2 page lists its soundtrack in three categories - 'Freeze time music', 'Survival music' and 'Pursuit and Boss music' - with four tracks in total. The freeze-time cue plays during the buy/preparation phase before each round of Toxicity, Culvert, Decoy, Angra Nest and Poisoning. File names and titles were not exposed by the digest; the wiki's Category:Sounds and Category:Music pages (which hold the audio files) could not be fetched.",
+  "usedIn": {
+    "gameModes": ["Zombie Scenario"],
+    "scenarios": ["Toxicity", "Culvert", "Decoy", "Angra Nest", "Poisoning"],
+    "maps": []
+  },
+  "audioUrl": null,
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Zombie_Scenario:_Season_2",
+  "_confidence": "medium (category label from the wiki; official title unknown)"
+}

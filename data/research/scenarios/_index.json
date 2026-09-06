@@ -1,0 +1,225 @@
+{
+  "wikiUrl": "https://cso.fandom.com/wiki/Zombie_Scenario",
+  "seasonPages": {
+    "Season 1": "https://cso.fandom.com/wiki/Zombie_Scenario:_Season_1",
+    "Season 2": "https://cso.fandom.com/wiki/Zombie_Scenario:_Season_2",
+    "Season 3": "https://cso.fandom.com/wiki/Zombie_Scenario:_Season_3",
+    "Season 4": "https://cso.fandom.com/wiki/Zombie_Scenario:_Season_4",
+    "Season 5": "https://cso.fandom.com/wiki/Zombie_Scenario:_Season_5",
+    "Season 6": "https://cso.fandom.com/wiki/Zombie_Scenario:_Season_6",
+    "Season 7": "https://cso.fandom.com/wiki/Zombie_Scenario:_Season_7"
+  },
+  "seasons": [
+    {
+      "season": "Season 1",
+      "chapters": ["Lost City", "Double Gate", "Trap", "Last Clue"],
+      "chapterDetails": [
+        {
+          "name": "Lost City",
+          "codename": "zs_lostcity",
+          "style": "Survival (5 rounds x 3 min)",
+          "boss": null
+        },
+        {
+          "name": "Double Gate",
+          "codename": "zs_2gate",
+          "style": "Survival / defence (5 rounds x 3 min, reinforceable gates)",
+          "boss": null
+        },
+        {
+          "name": "Trap",
+          "codename": "zs_trap",
+          "style": "Survival (5 rounds x 3 min, rooftop)",
+          "boss": null
+        },
+        {
+          "name": "Last Clue",
+          "codename": "zs_lastclue",
+          "style": "Pursuit (barriers) + boss",
+          "boss": "Prototype Phobos"
+        }
+      ],
+      "unverifiedChapters": ["Dead End"],
+      "note": "The Season 1 overview page returned HTTP 402 on every attempt; the order above is reconstructed from the individual chapter pages (Lost City = 'Season 1, Chapter 1'; Double Gate = 'second Zombie Scenario map'; Trap = 'third chapter of Season 1'; Last Clue = 'fourth Zombie Scenario map'). A 'Dead End' page exists on the wiki and is believed to be a later Season 1 chapter but its position and boss were NOT verified. Season 1 may also contain a Season-1 annihilation stage (Season 2's Poisoning uses codename zs_nightmare2, implying a zs_nightmare predecessor) - unverified.",
+      "story": "Special forces investigate a North American city quarantined by the Rex Virus (Lost City), fall back to a construction site whose salvaged radio attracts the dead (Double Gate), are lured to a rooftop by a voice calling itself Rex where the advance unit is annihilated (Trap), and a rescue team follows Commander Andrey's notebook to Dr. Rex's laboratory, defeats Prototype Phobos and recovers a corpse sample (Last Clue)."
+    },
+    {
+      "season": "Season 2",
+      "chapters": ["Toxicity", "Culvert", "Decoy", "Angra Nest", "Poisoning"],
+      "chapterDetails": [
+        { "name": "Toxicity", "codename": "zs_trace", "style": "Pursuit", "boss": "Dione" },
+        { "name": "Culvert", "codename": "zs_culvert", "style": "Pursuit", "boss": "Dione" },
+        { "name": "Decoy", "codename": "zs_decoy", "style": "Pursuit", "boss": "Revenant" },
+        {
+          "name": "Angra Nest",
+          "codename": "zs_angra",
+          "style": "Pursuit + boss (final story chapter)",
+          "boss": "Angra"
+        },
+        {
+          "name": "Poisoning",
+          "codename": "zs_nightmare2",
+          "style": "Annihilation (all-boss stage)",
+          "boss": "Juggernaut, Ganymede, Dione, Revenant, Angra"
+        }
+      ],
+      "story": "One year after the Lost City incident, Senior Researcher Soy briefs the LS team in a helicopter over the Caribbean Sea: Dr. Rex may be developing a new zombie. Team Alpha parachutes into the jungle (Toxicity), pursues the wounded Siege-type zombie Dione into a culvert swarming with zombies (Culvert), uses a lure device that also draws every zombie nearby (Decoy), and finally reaches the facility where Dione has entered a chrysalis stage under Z-Virus infection - only for it to emerge as the winged Angra (Angra Nest)."
+    },
+    {
+      "season": "Season 3",
+      "chapters": ["Contact", "Behind", "Threat", "Panic Room", "Illusion"],
+      "chapterDetails": [
+        {
+          "name": "Contact",
+          "codename": null,
+          "style": "Pursuit (2 rounds)",
+          "boss": "Fallen Titan"
+        },
+        {
+          "name": "Behind",
+          "codename": null,
+          "style": "Pursuit (2 rounds)",
+          "boss": "Bio Scorpion"
+        },
+        { "name": "Threat", "codename": null, "style": "Defence (1 round)", "boss": "AMP Suit" },
+        { "name": "Panic Room", "codename": null, "style": "Pursuit (1 round)", "boss": "Kraken" },
+        {
+          "name": "Illusion",
+          "codename": null,
+          "style": "Annihilation (5 rounds)",
+          "boss": "Juggernaut, Ganymede, Fallen Titan, Bio Scorpion, Mad Machine"
+        }
+      ],
+      "story": "A letter from Norman to Jim criticises selfish leadership; Norman breaks off writing when guards arrive with urgent news. David Black tries to contact Norman and tracks him to an isolated town housing the Vanguard Laboratory. David's AFC army fights its way in but Erika is injured; Norman sends equipment to support them while planning his own escape. The team secures a munitions factory but falls into Norman's trap, and Erika is kidnapped by Norman's AMP Suit. David pursues to the Panic Room for rescue and revenge. Honor missions: Titan Attacker (Contact 100x), Scorpion Chief (Behind 100x), Erika's Guardian (Threat 100x), AFC Commander (Panic Room 100x)."
+    },
+    {
+      "season": "Season 4",
+      "chapters": ["Encounter", "Conspiracy", "Envy Mask", "Paranoia", "Madness"],
+      "chapterDetails": [
+        {
+          "name": "Encounter",
+          "codename": null,
+          "style": "Pursuit (2 rounds)",
+          "boss": "Frozen Terror"
+        },
+        {
+          "name": "Conspiracy",
+          "codename": null,
+          "style": "Defence + pursuit (2 rounds)",
+          "boss": "Gluttony"
+        },
+        {
+          "name": "Envy Mask",
+          "codename": "zs_envymask",
+          "style": "Pursuit (2 rounds)",
+          "boss": "Neid and Zavist"
+        },
+        { "name": "Paranoia", "codename": null, "style": "Pursuit (2 rounds)", "boss": "Dr. Rex" },
+        {
+          "name": "Madness",
+          "codename": null,
+          "style": "Annihilation (5 rounds)",
+          "boss": "Juggernaut, Frozen Terror, Gluttony, Neid/Zavist, Dr. Rex"
+        }
+      ],
+      "story": "The wiki intro: Season 4 depicts the transport team of Gerard and Jim carrying an important sample to a secret client. Gerard's retrieval team recovers research samples from the collapsed Vanguard base; an infected soldier forces an emergency landing and the survivors escape by transport train to meet Jim's transportation team. Gerard and Jim journey through polar regions toward the transaction, enduring repeated battles and exhaustion, until the client reveals himself as Dr. Rex - the antagonist behind the zombie outbreaks, planning to create super soldiers - and they prepare for the final confrontation. Rewards: Frozen Terror's club, Snow Crystal Tattoo, Snake Tattoo, Gluttony Tattoo, Envy Tattoo."
+    },
+    {
+      "season": "Season 5",
+      "chapters": ["Omen", "Memories", "Another Truth", "Last Ride", "Collapse", "Oblivion"],
+      "chapterDetails": [
+        { "name": "Omen", "codename": null, "style": "Pursuit", "boss": "Laser Wing" },
+        { "name": "Memories", "codename": null, "style": "Pursuit", "boss": "Jack" },
+        { "name": "Another Truth", "codename": null, "style": "Pursuit", "boss": "Crono Athletic" },
+        { "name": "Last Ride", "codename": null, "style": "Pursuit", "boss": "Crono Wing" },
+        {
+          "name": "Collapse",
+          "codename": null,
+          "style": "Raid",
+          "boss": "Oberon, Dione, Revenant, Fallen Titan, Neid, Zavist"
+        },
+        {
+          "name": "Oblivion",
+          "codename": null,
+          "style": "Annihilation",
+          "boss": "Laser Wing, Jack, Crono Athletic, Crono Wing"
+        }
+      ],
+      "story": "Jennifer investigates the Super Soldier Project and suffers a nightmare about the Lost City, where she finds only the walking dead. After witnessing the Laser Wing incident she learns that others are continuing the project. At the lab facilities she meets a familiar zombie from the Rex accident, and a stranger contacts her through Jack's radio asking to meet about 'another truth', torn between truth and revenge; she then faces a new cronobotic enemy while protecting her team. Rewards: Laser Wing's wings, Jack's mask, Crono Athletic's face, Crono Wing's wings."
+    },
+    {
+      "season": "Season 6",
+      "chapters": [
+        "Episode Choi",
+        "Episode Victor",
+        "Episode Lucia",
+        "Episode Carlito",
+        "Forest Keeper"
+      ],
+      "chapterDetails": [
+        {
+          "name": "Episode Choi",
+          "codename": "zs_mschoi1",
+          "style": "Pursuit + defence (3 maps)",
+          "boss": "Mr. X"
+        },
+        {
+          "name": "Episode Victor",
+          "codename": "zs_victor1",
+          "style": "Pursuit (3 maps)",
+          "boss": "Condemned Criminal"
+        },
+        {
+          "name": "Episode Lucia",
+          "codename": "zs_lusia1",
+          "style": "Pursuit (3 maps)",
+          "boss": "Tyrant Crab"
+        },
+        {
+          "name": "Episode Carlito",
+          "codename": "zs_carlito1",
+          "style": "Pursuit (3 maps)",
+          "boss": "Comanche (x3), Agent Jay"
+        },
+        {
+          "name": "Forest Keeper",
+          "codename": "zs_multiboss",
+          "style": "Raid (2 rounds)",
+          "boss": "Season 1-5 bosses, Angra, Bootleg"
+        }
+      ],
+      "note": "Chapter names are as rendered by the wiki's compatible-maps table digest; the in-game episode subtitles were not captured and should be verified.",
+      "story": "Four character arcs: Choi Ji Yoon infiltrates the Asia Red Army for the CIA and is captured by Ritsuka; May rescues her and discovers that Douglas Jacob funds the terrorist group. Victor's squad disappears during a Phobos DNA transport. A fleet receives distress signals that lead to a zombie infestation (Lucia). Carlito accepts a laboratory infiltration mission from Douglas Jacob that ends in the destruction of the Vanguard Company."
+    },
+    {
+      "season": "Season 7",
+      "chapters": ["All-Out", "Rendezvous", "Rex Labs"],
+      "chapterDetails": [
+        {
+          "name": "All-Out",
+          "codename": null,
+          "style": "Pursuit (1 round, 3 maps)",
+          "boss": "Colossus (XT-300 Goliath)"
+        },
+        {
+          "name": "Rendezvous",
+          "codename": null,
+          "style": "Pursuit (1 round, 3 maps)",
+          "boss": "Megalodon"
+        },
+        {
+          "name": "Rex Labs",
+          "codename": null,
+          "style": "Pursuit (1 round, 2 maps)",
+          "boss": "Security System's Robot"
+        }
+      ],
+      "story": "Described by the wiki as the last instalment of the series. All-Out: Carlito of the Vanguard Company pursues Kronos after Douglas Jacob's betrayal, leading a squad through desert zones under air raids from XT-300 Goliath units. Rendezvous: Lucia follows repeated signals to an unidentified facility she suspects is connected to her elder Michaela, and pursues a final confrontation among offshore equipment. Rex Labs: Erica suffers unexplained periodic pain after escaping the Panic Room; David Black seeks help from Soi at Rex Labs but finds the facility under attack, beginning their investigation."
+    }
+  ],
+  "relatedScenarioModes": {
+    "Human Scenario": "https://cso.fandom.com/wiki/Human_Scenario",
+    "Zombie Z": "https://cso.fandom.com/wiki/Zombie_Z",
+    "New Zombie Shelter": "https://cso.fandom.com/wiki/New_Zombie_Shelter"
+  }
+}

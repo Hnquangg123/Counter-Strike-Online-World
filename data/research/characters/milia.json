@@ -1,0 +1,155 @@
+{
+  "slug": "milia",
+  "name": "Milia",
+  "aliases": [
+    "Millia (alternate spelling on the wiki)",
+    "buffclass24s3ct (system name)",
+    "24-3 Transcendence Class CT"
+  ],
+  "kind": "human",
+  "side": "ct",
+  "grade": "transcendent",
+  "classType": "Transcendent grade Counter-Terrorist character (Buff class, 2024 Season 3) - a sleep fairy from another world",
+  "factions": ["Counter-Terrorist"],
+  "profile": {
+    "gender": "Female",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": "Another world (a forest in the fairy realm)",
+    "nationality": null,
+    "occupation": "Fairy of sleep",
+    "bloodType": null,
+    "birthday": null,
+    "raceAffiliation": "Fairy (sleep)",
+    "status": "Alive"
+  },
+  "tagline": "The dozing sleep fairy who does the real work while everyone assumes she's napping.",
+  "summary": "Milia is a Transcendent grade Counter-Terrorist character released on 27 June 2024 (Korea) as the CT half of the 'Advent Fairies' pair with Karin. A fairy of sleep who was slumbering peacefully in her forest until Karin dragged her into this world, she is content anywhere she can nap and finds this world rather good for resting. Although she always seems to be dozing, she works hard behind the scenes of many situations - not least keeping Karin out of trouble.",
+  "story": "**Overview.** A fairy of sleep who slept peacefully in her forest until Karin pulled her into this world. She is happy anywhere she can nap and thinks the new world is actually better for rest. Though she seems to be forever dozing, she quietly works hard behind the scenes.\n\n**Background (in-character interview, summarised).** Milia introduces herself as a sleep fairy, remarks that this world suffers from something called sleep deprivation, and offers the reporter her fairy blessing for restful sleep after hearing they had a nightmare. She observes that all she has seen here are humans, animals and 'walking corpses' who do not seem to be resting in peace either. She explains that she used to live in another world; one day Karin woke her in the forest saying Skadi was passing by, they followed Skadi until she vanished into a strange light, Karin followed, and Milia went along because she was worried about letting Karin go alone. She suspects Karin really just wants to play in a new playground rather than go home, and admits she too has considered finding a way back but is happy enough here as long as she gets to sleep. She then falls asleep mid-interview, asking the reporter to tell Karin not to wake her.\n\n**Companions.** Pillow Fairy - a pillow-shaped fairy known as Milia's companion, usable as a pet.",
+  "personality": "Sleepy, gentle and unhurried on the surface; observant, caring and quietly competent underneath. Protective of Karin in an understated, long-suffering way.",
+  "quotes": [
+    {
+      "text": "Hello, I'm Millia, a sleep fairy. *yawn*",
+      "context": "Opening line of her in-character interview (Background)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Bedtime (Active skill, Zombie Scenario)",
+      "description": "Grants continuous HP recovery and a barrier to Milia and nearby allies. If the barrier breaks before the duration ends, she gains an attack-power buff; if it holds, she gains an HP-recovery buff."
+    },
+    {
+      "name": "Passive - Connection with Karin",
+      "description": "When playing Zombie Scenario alongside a Karin player, critical rate is slightly increased and damage taken slightly reduced (connection effect; does not stack with other connection effects)."
+    },
+    {
+      "name": "Passive - Hard Steps",
+      "description": "Applies the [Hard Steps] add-on effect by default (stackable, effect increases)."
+    },
+    {
+      "name": "Passive - Elite/Boss damage",
+      "description": "+8% attack power against Elite zombies and +4% against Boss monsters."
+    },
+    {
+      "name": "Transcendent Class buffs",
+      "description": "Exclusive voice lines; 10% EXP and 10% point bonus (20% in PC rooms); +10 level cap in Zombie Scenario; marks zombies below 20% health in Zombie Mode; +1 initial mutation point in Zombie Z; movement speed shown on HUD; unique kill mark."
+    },
+    {
+      "name": "Pairing weapon bonus (Drakar series)",
+      "description": "Increased Tempest Slash damage and reduced hit counts required to raise the weapon stage."
+    }
+  ],
+  "zombieScenarioStats": {
+    "health": "27/28",
+    "attack": "25/28",
+    "mobility": "19/28",
+    "armor": "26/28",
+    "ammo": "18/28"
+  },
+  "obtainedFrom": "Class Decoder",
+  "appearances": {
+    "gameModes": [
+      "Zombie Scenario",
+      "Zombie Mode",
+      "Zombie Z",
+      "Original / general modes (Counter-Terrorist team)"
+    ],
+    "maps": [],
+    "scenarios": []
+  },
+  "weapons": ["Drakar Weapon Series (pairing weapons)"],
+  "relatedCharacters": [
+    "Karin - fire fairy who dragged her into this world; TR counterpart",
+    "Skadi and Nyx - the fairies they followed",
+    "Pillow Fairy - pet companion"
+  ],
+  "voiceActors": [],
+  "release": [
+    { "region": "kr", "date": "2024-06-27", "note": "South Korea" },
+    { "region": "cn", "date": "2024-07-02", "note": "China" },
+    { "region": "tw", "date": "2024-07-10", "note": "Taiwan & Hong Kong" },
+    { "region": "csn", "date": "2024-07-10", "note": "CSNS (Global)" }
+  ],
+  "trivia": [
+    "Released as a pair with Karin; the 'Advent Fairies' medal (10 Honor Points) requires owning Milia, Karin, the Pillow Fairy costume and the Small Ember costume permanently.",
+    "Corresponding items: Pillow Fairy (pet) and SD Milia Spray.",
+    "Has an emotion sprite in addition to her skill sprite."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/cc/Buffclass24s3ct.png",
+      "caption": "Infobox portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/91/Buffclass24s3ct_femalelong.png",
+      "caption": "View model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/d6/Milia_model.png",
+      "caption": "Model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/1d/6940049224801247968.png",
+      "caption": "Inventory icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/96/24-3%EC%B4%88%EC%9B%94%ED%81%B4%EB%9E%98%EC%8A%A4_CT.jpg",
+      "caption": "Official wallpaper"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f2/Buffclass24s3_kr.jpg",
+      "caption": "Korea poster (shared with Karin)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/86/Buffclass24s3_csona.jpg",
+      "caption": "CSN:S poster (shared with Karin)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/48/Killmark_24s3CT.gif",
+      "caption": "Kill mark"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/c6/Ef_buffclass24s3ct.gif",
+      "caption": "Emotion sprite"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/89/Ef_buffclass24s3ct_skill.gif",
+      "caption": "Skill sprite"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Milia",
+  "sections": [
+    "Overview",
+    "Background",
+    "Release date",
+    "Buffs",
+    "Pairing Weapon",
+    "Zombie Scenario Skill (Passive / Active)",
+    "Zombie Scenario stats",
+    "Corresponding Items",
+    "Corresponding Medal",
+    "Gallery"
+  ],
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

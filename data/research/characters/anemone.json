@@ -1,0 +1,238 @@
+{
+  "slug": "anemone",
+  "name": "Anemone",
+  "aliases": ["21-2 Transcendence Class TR", "Buffclass21s2tr (internal asset name)"],
+  "kind": "human",
+  "side": "tr",
+  "grade": "transcendent",
+  "classType": "Transcendent grade Terrorist character (Buff class, 2021 Season 2)",
+  "factions": ["Terrorist"],
+  "profile": {
+    "gender": "Female",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": null,
+    "nationality": null,
+    "occupation": "Pro gamer of Krono World (a VR platform); guardian/escort of her twin sister Mirage",
+    "bloodType": null,
+    "birthday": null,
+    "raceAffiliation": "VR Human",
+    "status": "Online"
+  },
+  "tagline": "Krono World's record-breaking pro gamer, standing guard over her twin sister Mirage.",
+  "summary": "Anemone is a Transcendent grade Terrorist character added to Counter-Strike Online on 1 July 2021 (Korea). She is a professional gamer on the VR platform Krono World whose skill has made her a name in world game competitions. Physically strong and sociable, she acts as a guardian for her twin sister Mirage after the two discover the creators of Krono World are running a suspicious scheme.",
+  "story": "Anemone is a pro gamer of Krono World, a VR platform, and is making a name for herself in world game competitions with her outstanding skills.\n\nUnlike her twin sister Mirage, Anemone is characterized by strong physical strength and affinity (sociability). When Mirage discovers that the creators of Krono World are running a suspicious scheme, Anemone accompanies her as a guardian.\n\nHer Counter-Terrorist counterpart and twin, Mirage, is a leading virtual streamer on Krono World who is secretly an excellent hacker; after stumbling on a suspicious log of Krono World, Mirage tries to contact the Aegis Lab (Aegis Institute) to avoid the enemies approaching for the information. Anemone is the Terrorist-side half of this paired 2021 Season 2 Transcendence class release.\n\n**Backstory from the Alpaca Anemone variant page (written as an in-character 'interview'):** As children, Anemone was the outdoorsy twin while Mirage, who was often unwell, had to stay indoors and spent much of her time on the computer. Anemone got into the habit of looking after her sister then, and it stuck even after Mirage recovered. Worried that Mirage was becoming withdrawn and avoiding people, Anemone started playing computer games alongside her to keep her company - and turned out to be far better than expected, eventually going pro without quite planning to. She also says she keeps whatever promises she makes with Mirage: the Alpaca costume itself is a penalty for losing a bet to her sister, which is why she is embarrassed to appear on air in it.",
+  "personality": "Strong physical strength and high affinity/sociability (contrasted with her twin Mirage, who is lively online but shy and timid offline). Competitive spirit reflected in her voice lines (\"Time to break the record!\"). Protective older-sister energy toward Mirage; prefers being outdoors; honours bets and promises even when embarrassing (Alpaca Anemone interview).",
+  "quotes": [
+    { "text": "Anemone, online!", "context": "Page header quote (game start voice line)" },
+    {
+      "text": "Time to break the record!",
+      "context": "Game start voice line (Transcendence class exclusive voice)"
+    },
+    {
+      "text": "Hope nobody's late!",
+      "context": "Game start voice line (Transcendence class exclusive voice)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Resolver (Exclusive Skill)",
+      "description": "When used in Zombie Scenario, activates a ranged (area) skill that increases the defense of the user and allies; while active, attack power is increased up to 3 times when the user or allies are attacked."
+    },
+    {
+      "name": "Experience/Point bonus",
+      "description": "10% experience/point bonus when playing as this character (20% in PC rooms)."
+    },
+    {
+      "name": "Higher Zombie Scenario level",
+      "description": "This character has a higher level than a normal class in Zombie Scenario Mode."
+    },
+    {
+      "name": "Zombie Z mutation",
+      "description": "One initial mutation is added in Zombie Z mode."
+    },
+    { "name": "Damage HUD", "description": "The current damage is displayed on the lower HUD." },
+    {
+      "name": "Dedicated kill mark",
+      "description": "A dedicated kill mark is displayed when killing an enemy."
+    },
+    {
+      "name": "Transcendence class exclusive voice",
+      "description": "Exclusive voice lines are applied."
+    }
+  ],
+  "zombieScenarioStats": {
+    "health": "24/28",
+    "attack": "26/28",
+    "mobility": "25/28",
+    "armor": "21/28",
+    "ammo": "19/28"
+  },
+  "costumes": [
+    {
+      "name": "Anemone's Drone",
+      "description": "Drone costume used by Anemone.",
+      "image": "https://static.wikia.nocookie.net/cso/images/9/90/Anemone%27s_drone.png"
+    }
+  ],
+  "obtainedFrom": "Class Decoder",
+  "variants": [
+    {
+      "name": "Alpaca Anemone",
+      "wikiUrl": "https://cso.fandom.com/wiki/Alpaca_Anemone",
+      "side": "tr",
+      "grade": "transcendent",
+      "systemName": "buffclass2023s2tr",
+      "signaturePrimary": "Magnum Launcher",
+      "release": [{ "region": "kr", "date": "2023-06-01", "note": "South Korea" }],
+      "voiceActors": "Same cast as Anemone (KR Yoon Ah-young; CN Zisu Jiu Yue; TW/HK Li Hanfei; CSN Dina Soaring)",
+      "note": "Alpaca-costume version. In-lore she wears it as a penalty for losing a bet with Mirage. Page has an in-character interview giving Anemone's childhood backstory (see story).",
+      "images": [
+        {
+          "url": "https://static.wikia.nocookie.net/cso/images/f/f2/Buffclass23s2tr.png",
+          "caption": "Alpaca Anemone infobox portrait"
+        },
+        {
+          "url": "https://static.wikia.nocookie.net/cso/images/d/dc/Buffclass23s2tr_mdl.png",
+          "caption": "Alpaca Anemone model"
+        },
+        {
+          "url": "https://static.wikia.nocookie.net/cso/images/a/af/Buffclassskill_23s2tr_bg.png",
+          "caption": "Alpaca Anemone skill background"
+        },
+        {
+          "url": "https://static.wikia.nocookie.net/cso/images/c/c2/Alpaca_anomone_hand.png",
+          "caption": "Alpaca Anemone hand/view detail"
+        }
+      ]
+    }
+  ],
+  "signatureWeaponDetail": {
+    "name": "M2HB Devastator",
+    "wikiUrl": "https://cso.fandom.com/wiki/M2_Devastator",
+    "grade": "transcendent",
+    "type": "Machine gun",
+    "systemName": "mgsm",
+    "summary": "Transcendent-grade heavy machine gun firing incendiary .50 BMG from a backpack reservoir; after a gauge fills, a penetrating missile launcher activates whose missiles pull enemies in. Unlimited reserve ammo in Scenario mode.",
+    "release": [
+      { "region": "kr", "date": "2021-06-03" },
+      { "region": "cn", "date": "2021-06-09" },
+      { "region": "tw", "date": "2021-06-16" },
+      { "region": "csn", "date": "2021-06-16" }
+    ],
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/cso/images/a/a1/Buffm2.png",
+        "caption": "M2HB Devastator"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/cso/images/e/e4/V_mgsm_anemo.png",
+        "caption": "Anemone-themed view model skin (V_mgsm_anemo)"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/cso/images/8/8d/V_mgsm_mirajoo.png",
+        "caption": "Mirage-themed view model skin"
+      }
+    ]
+  },
+  "appearances": {
+    "gameModes": ["Zombie Scenario", "Zombie Z", "Original / general modes (Terrorist team)"],
+    "maps": [],
+    "scenarios": []
+  },
+  "weapons": ["M2 Devastator (Signature Primary / Pairing Weapon)"],
+  "relatedCharacters": [
+    "Mirage (Character) - twin sister, Counter-Terrorist counterpart",
+    "Alpaca Anemone - variant",
+    "Blue Rabbit Mirage - Mirage's variant"
+  ],
+  "voiceActors": [
+    { "region": "Korea", "name": "Yoon Ah-young (윤아영)" },
+    { "region": "China", "name": "Zisu Jiu Yue (紫蘇九月)" },
+    { "region": "Taiwan/Hong Kong", "name": "Li Hanfei (李涵菲)" },
+    { "region": "CSN (Global / Counter-Strike Nexon)", "name": "Dina Soaring" }
+  ],
+  "release": [
+    { "region": "kr", "date": "2021-07-01", "note": "South Korea" },
+    { "region": "tw", "date": "2021-07-14", "note": "Taiwan & Hong Kong" },
+    { "region": "csn", "date": "2021-07-14", "note": "CSNS (Global)" }
+  ],
+  "trivia": [
+    "Anemone is a genus of flowering plants in the buttercup family Ranunculaceae.",
+    "She shares her release posters (Korea and CSN:S) with her twin Mirage; the two were released together as the 21-2 Transcendence Class pair (TR/CT).",
+    "The wiki's older concept art is captioned 'Anemone concept art (Old)'."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/55/Buffclass21s2tr.png",
+      "caption": "Infobox portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/17/Buffclass21s2tr_shopmodel.png",
+      "caption": "Model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/07/Buffclass21s2tr_viewmodel.png",
+      "caption": "View model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/00/Buffclass21s2_kr.jpg",
+      "caption": "Korea poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/86/Buffclasas21s2_cso_na.jpg",
+      "caption": "CSN:S poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/bc/Killmark_21s2TR.gif",
+      "caption": "Kill mark"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/cb/Anemone_icon.png",
+      "caption": "Icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/37/Anemone_hud.png",
+      "caption": "HUD icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/3c/Anemoneconceptart.png",
+      "caption": "Anemone concept art (Old)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/e8/Buffclassskill_21s2tr_bg.png",
+      "caption": "Exclusive skill (Resolver) background"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/90/Anemone%27s_drone.png",
+      "caption": "Anemone's Drone costume"
+    }
+  ],
+  "audio": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/51/Gamestart1_anemone.ogg",
+      "caption": "Game start voice line 1"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/a/a1/Gamestart2_anemone.ogg",
+      "caption": "Game start voice line 2"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/dc/Gamestart3_anemone.ogg",
+      "caption": "Game start voice line 3"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Anemone",
+  "wikiCategories": ["Terrorist", "Characters", "Female Character"],
+  "sections": [
+    "Overview",
+    "Buffs",
+    "Release date",
+    "Anemone's Drone",
+    "Zombie Scenario Stats",
+    "Gallery",
+    "Trivia"
+  ],
+  "license": "Text adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

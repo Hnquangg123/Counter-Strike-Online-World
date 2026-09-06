@@ -1,0 +1,34 @@
+{
+  "slug": "studio",
+  "name": "Studio",
+  "aliases": ["Studio (mode)", "Studio Create", "Studio Play", "Fun mode / Playroom host"],
+  "family": "fun",
+  "tagline": "Build your own block maps with voxel tools, publish them, and play any CSO rule set on them.",
+  "summary": "Studio is CSO's community map-building mode (Korean open beta May-June 2017, official 13 July 2017). Players place and demolish blocks with voxel weapons, wire objects together with the Voxel Connector, then publish maps that others can play under many rule sets - Zombie Hero, Team Deathmatch, Bot Zombie, Destruction, Soccer, Zombie Escape, Hide and Seek, Zombie Shelter and more. Players cheer creators with cubes convertible to mileage.",
+  "description": "The wiki describes Studio as an interactive community-based mode, hinted six months before its open-beta release, that lets players build their own maps and share them; six reference maps were built with it. Editing uses the Voxel Rifle, Voxel Pistol, Voxel Minigun and Voxel Marker to create and demolish blocks, the Voxel Connector to link commands between objects, the Voxel Spinner to rotate blocks and the Voxel Scanner to copy block properties - these weapons are only available while editing. Studio Play offers gameplay with player-placed interactions and toys such as the Voxel Junk Gun and Voxel Grenade. Room settings allow Studio variants of Zombie Hero, Team Deathmatch, Bot Zombie, Destruction, Soccer, Zombie Escape, Zombie Z, Hide and Seek, Scenario T, Zombie Shelter, All Star / All Star+, Gun Deathmatch, Zombie 5: Rise and 'Studio Original' with Original rules. Finished maps can be published for everyone; players send cheer cubes that the creator converts into mileage points.",
+  "lore": null,
+  "rules": [
+    "Studio Create: build with voxel tools within cube limits per device/character/decoration.",
+    "Studio Play: play published maps under the selected rule set.",
+    "Publish maps for all players; cheer cubes convert to mileage for the creator."
+  ],
+  "maxPlayers": null,
+  "release": [
+    {
+      "region": "kr",
+      "date": "2017-07-13",
+      "note": "Official release; beta test 11 May - 1 June 2017"
+    },
+    { "region": "cn", "date": "2017-07-05", "note": null },
+    { "region": "csn", "date": "2017-11-29", "note": "Counter-Strike Nexon: Zombies" },
+    { "region": "id", "date": "2018-02-07", "note": null }
+  ],
+  "trivia": [
+    "Likely influenced by Garry's Mod; also compared to Cube / Cube 2: Sauerbraten's edit mode.",
+    "Does not support curve splicing unlike the Valve Hammer Editor; objects use larger ratios.",
+    "In development since the start of 2016.",
+    "The CSO Comics #1-#3 dialogue is lifted from the infamous Doom comic, per the map description."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Studio_(mode)"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "zombie-shelter",
+  "name": "New Zombie Shelter",
+  "aliases": ["Zombie Shelter", "Zombie Shelter: Co-op", "Zombie Shelter: Team Match", "ZSHT"],
+  "family": "pve",
+  "tagline": "Gather wood and steel by day, build and defend your shelter by night, and survive 30 days of the dead.",
+  "summary": "New Zombie Shelter replaces the original Zombie Shelter with a team-oriented base-building survival mode. Squads harvest wood and steel, craft weapons at a worktable, unlock four tiers of shelter structures (towers, fences, generators, turrets) and spend skill points across Combat, Survival and Engineer trees while zombies attack every night. Co-op teams must kill the final boss or call in a rescue within 30 days; Team Match pits two shelters against each other.",
+  "description": "The wiki describes New Zombie Shelter as a complete expansion of the old Zombie Shelter with more features and mechanics: where the old mode was simply PvPvE with a shelter per player, the new one has two variations - Team Match and Co-op - and is teamwork-oriented, with each team caring for one shared shelter. The Hammer was removed and the Shelter Axe tweaked so one slash reaps one unit of a resource; the Jungle Knife yields two resources per hit and a crowbar variant four. Primary resources are wood and steel, with electricity powering defences; storage buildings raise the resource cap. The Worktable (requires Beginner Engineer) crafts items such as the Machete, USP45, crowbar and claw hammer. Structures unlock by shelter tier: Tier 1 observation post, barbed-wire fence and gate, alarm, mines, gun tower, small generator; Tier 2 reconnaissance guard post, enhanced fencing, thorn trap, flamethrower, communication tower, medium generator, liquid-nitrogen cylinder; Tier 3 enhanced gate, claymore, gatling tower, large generator; Tier 4 shop post, plasma turret, electronics tower, mega generator. Players gain 3 skill points on day 1 and 1 per day after, spent in Combat (gun mastery, ammo/health up, Bombing Request), Survival (harvest, speed, campfire, tracker, Cloak, resource transporting) and Engineer (engineer ranks, auto repair, recycle, Wrecking Team with C4, turret moving) trees. Building menu: B key; skill tree: N key. Firing recklessly raises a noise gauge that draws zombies; players who die at night spectate with night-vision goggles; buildings cannot be destroyed by players who join after day 5.",
+  "lore": "No dedicated story section was captured. The setting is a zombie-overrun 'Dead City' (referenced in medal descriptions) where survivors build fortified shelters; the map City of Damned carries over from the old mode.",
+  "rules": [
+    "Co-op: 4 players; win by annihilating the final target boss zombie or successfully requesting rescue; lose if the main shelter is destroyed or the boss is not beaten within 30 days.",
+    "Rescue: all personnel must request rescue and group up within 60 seconds; the request can be repeated after 60 seconds if aborted.",
+    "Team Match: 6+ players; destroy the enemy's main shelter to win; lose if yours is destroyed.",
+    "Day/night cycle: harvest and build by day, defend against escalating zombie waves each night.",
+    "Skill points: 3 on day 1, then 1 per day; three skill trees (Combat, Survival, Engineer).",
+    "Noise gauge: reckless gunfire attracts zombies."
+  ],
+  "maxPlayers": "4 (Co-op) / 6+ (Team Match)",
+  "release": [],
+  "trivia": [
+    "The Shelter Tier 4 icon appeared before its update was released, reusing the old Zombie Shelter model.",
+    "After the Indonesian release, players were still given the old Zombie Shelter special missions by mistake, and the old City of Damned map remained playable.",
+    "Current maps have many structures that bosses can jump onto, making them hard to defeat.",
+    "A Cloak-skill glitch once allowed indefinite invisibility until patched.",
+    "Medals: [The Last Survivor] for 100 Co-op clears (4-player rooms) and a Team Match medal for 100 victories (6+ player rooms)."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/New_Zombie_Shelter",
+  "_notes": "The original 'Zombie Shelter' page (https://cso.fandom.com/wiki/Zombie_Shelter) returned 402 on every attempt; sub-pages exist at Zombie_Shelter:_Coop and Zombie_Shelter:_Team_Match."
+}

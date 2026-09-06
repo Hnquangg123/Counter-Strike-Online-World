@@ -1,0 +1,168 @@
+{
+  "slug": "lucia",
+  "name": "Lucia",
+  "aliases": ["marinegirl (system name)"],
+  "kind": "human",
+  "side": "ct",
+  "grade": null,
+  "classType": "Cash female Counter-Terrorist character with 2 unique emotions; NPC lead of Episode Lucia and Rendezvous",
+  "factions": ["Counter-Terrorist", "Jaciya Navy Force / Garcia fleet (naval counter-terror unit)"],
+  "profile": {
+    "gender": "Female",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": null,
+    "nationality": null,
+    "occupation": "Team leader of the Garcia fleet's Counter-Terrorist unit",
+    "bloodType": null,
+    "birthday": null,
+    "raceAffiliation": "Human / Jaciya Navy Force",
+    "status": "Alive"
+  },
+  "tagline": "The A-Team of the Sea - a naval strike-team leader hunting the bomber who sent explosives to her fleet.",
+  "summary": "Lucia is a cash female Counter-Terrorist character (TW/CN description: 'The A-Team of the Sea'), released with Enzo in the Marine Force Package. She leads the Garcia fleet's counter-terrorist team, a post earned through a major victory over terrorists in the Indian Ocean. After a terror attack used booby-trapped supplies shipped to her, she led her team in pursuit of the culprit. She is one of only a few characters with special emotes (Hand kiss, Marine dance), and she headlines Zombie Scenario Season 6's Episode Lucia and Season 7's Rendezvous.",
+  "story": "**Background.** Lucia commands the Counter-Terrorist team of the Garcia fleet, having risen to team leader after a major success against terrorists in the Indian Ocean. Sensing something wrong when a terror attack was carried out with exploding supplies that had been sent to her, she led her team to pursue the perpetrators.\n\n**Zombie Scenario: Season 6 - Episode Lucia.** Kronos containers carrying Deimos and Ganymede, intended to spread the zombie virus, are discovered during Lucia's episode (Kronos / Douglas Jacob pages).\n\n**Zombie Scenario: Season 7 - Rendezvous.** Lucia's fleet picks up repeated transmitted signals. Following them, she finds an unidentified facility and, sensing a connection to her senior Michaela, launches a search operation, committing offshore equipment to end a long-running pursuit. Lucia and Michaela (her Terrorist counterpart) end up facing a common enemy - yesterday's foe becoming today's recruit against the real power behind their long-standing goal.",
+  "personality": null,
+  "quotes": [{ "text": "The A-Team of the Sea", "context": "TW/CN description" }],
+  "abilities": [
+    {
+      "name": "Hand kiss (unique emotion)",
+      "description": "Special emote; audio file Woman_special.ogg."
+    },
+    {
+      "name": "Marine dance (unique emotion)",
+      "description": "Special emote; audio file Woman_dance.ogg."
+    }
+  ],
+  "zombieScenarioStats": {
+    "health": "24/28",
+    "attack": "23/28",
+    "mobility": "18/28",
+    "armor": "18/28",
+    "ammo": "22/28"
+  },
+  "appearanceDescription": "Short wavy blonde hair, black eyes. Unbuttoned white naval captain's uniform over a cropped blue-and-white striped marine shirt, matching shorts, naval captain's hat, black high heels.",
+  "costPerRegion": {
+    "South Korea": "8600 Cash (Permanent)",
+    "Taiwan/Hong Kong": "249 Cash (Permanent)",
+    "Japan": "960 Cash (Permanent)",
+    "China": "320 Cash (Permanent)",
+    "Singapore/Malaysia": "2200 Cash (3 days) / 4400 (10 days) / 6600 (30 days) / 8000 (Permanent)",
+    "Indonesia": "90,000 MI-Cash (Permanent)",
+    "CSN:Z": "$9.99 (Permanent)"
+  },
+  "obtainedFrom": "Cash shop (Marine Force Package with Enzo)",
+  "appearances": {
+    "gameModes": ["Original / general modes (Counter-Terrorist team)", "Zombie Scenario"],
+    "maps": ["Episode Lucia", "Rendezvous"],
+    "scenarios": [
+      "Zombie Scenario: Season 6 - Episode Lucia",
+      "Zombie Scenario: Season 7 - Rendezvous"
+    ]
+  },
+  "weapons": ["Kriss Super V (pictured)"],
+  "relatedCharacters": [
+    "Enzo - Counter-Terrorist teammate (released together)",
+    "Michaela - Terrorist counterpart and her senior",
+    "Pirate Michaela",
+    "Special Agent Lucia - alternate outfit",
+    "Douglas Jacob / Kronos - antagonists of her episodes"
+  ],
+  "voiceActors": [],
+  "release": [
+    { "region": "jp", "date": "2011-11-23", "note": "Japan - with Enzo and Marine Force Package" },
+    { "region": "sg", "date": "2012-07-04", "note": "Singapore/Malaysia" },
+    { "region": "id", "date": "2013-08-14", "note": "Indonesia" },
+    { "region": "vn", "date": "2015-03-26", "note": "Vietnam - event price" },
+    { "region": "csn", "date": "2015-08-26", "note": "CSN:Z" }
+  ],
+  "trivia": [
+    "One of the 'unique emotion' classes: can use two special emoticons (Kiss on hand / Dance).",
+    "The leg model for the kick ability in Zombie 4: Darkness shares Lucia's leg texture."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/55/Marinegirl.png",
+      "caption": "Infobox portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/27/Marinegirl_model.png",
+      "caption": "In-game model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/8b/Lucia_shopmdl.png",
+      "caption": "Shop model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/46/Lucia5.jpg",
+      "caption": "Promotional art"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/b3/Lucia_.png",
+      "caption": "Lucia with Kriss Super V"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/6b/Lucia4.jpg",
+      "caption": "Lucia posing"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/10/Tw5.png",
+      "caption": "Valentine's Day promotional poster featuring Lucia"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f1/Wadwdf.png",
+      "caption": "Buy icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/31/Marinegirl.gif",
+      "caption": "Store preview"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/34/Wp20111123_1_1440x900.jpg",
+      "caption": "China poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/0b/Allforplayer_japan_lucia_enzo_waterpistol_resale_poster.png",
+      "caption": "Japan resale poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/14/Enzo_Lucia.jpg",
+      "caption": "Singapore/Malaysia poster (with Enzo)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/22/1376389566_incso_20130813_20130814_updatebanner-megaxus.jpg",
+      "caption": "Indonesia poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/bd/Valuepack_marineset_pdecoder_poster_csnz.jpg",
+      "caption": "CSN:Z poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f8/Lucias.jpg",
+      "caption": "In-game screenshot"
+    }
+  ],
+  "audio": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/42/Woman_dance.ogg",
+      "caption": "Marine dance emote"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/d6/Woman_special.ogg",
+      "caption": "Hand kiss emote"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Lucia",
+  "sections": [
+    "Background",
+    "Release date",
+    "Favorite weapon",
+    "Zombie Scenario Stats",
+    "Appearance",
+    "Gallery",
+    "Trivia"
+  ],
+  "sourceNotes": "Episode Lucia / Rendezvous summaries from https://cso.fandom.com/wiki/Zombie_Scenario:_Season_7 and https://cso.fandom.com/wiki/Kronos. Dedicated pages exist: Episode Lucia (14 KB), Rendezvous (19 KB), Special Agent Lucia - not fetched.",
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

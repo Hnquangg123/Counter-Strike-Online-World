@@ -1,0 +1,159 @@
+{
+  "slug": "yuri",
+  "name": "Yuri",
+  "aliases": ["Юрий", "yuri (system name)"],
+  "kind": "human",
+  "side": "tr",
+  "grade": null,
+  "classType": "Cash female Terrorist character (first-generation female TR)",
+  "factions": ["Terrorist", "Kronos (as Pyromaniac Yuri, per Kronos page)"],
+  "profile": {
+    "gender": "Female",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": "Asia",
+    "nationality": null,
+    "occupation": "Explosives specialist / demolition expert",
+    "bloodType": null,
+    "birthday": "Early-to-mid 1990s (birth period)",
+    "raceAffiliation": "Human",
+    "status": "Alive",
+    "location": "Central Asia"
+  },
+  "tagline": "The explosives genius who was declared dead - then blew up the Rex Laboratory.",
+  "summary": "Yuri is a female Terrorist character and Criss's TR counterpart. Born in Asia in the early-to-mid 1990s, she is a genius with explosives who was rumoured to have died in an accident while researching new explosives during a war between nations - only to resurface in the Rex Laboratory bombing incident, reportedly using her new explosive technology. Her bombing of the Rex facility is a recurring plot point: it is why Jack was 'rescued' by Douglas Jacob and why David Black seeks her out in Season 8.",
+  "story": "**Background.** Born in Asia during the early-to-mid 1990s, Yuri is an explosives prodigy. She was rumoured to have died in an accident while researching new explosives amid conflicts between warring nations, but she surfaced again during the Rex Laboratory bombing incident, with reports that she put her new explosive technology to use there.\n\n**Pyromaniac Yuri (transcendent variant, Kronos page).** Described as a mysterious girl with an extraordinary talent for explosives who works exclusively on destructive jobs. She completed most of her missions but once unintentionally injured Jennifer on assignment. A master of disguise able to infiltrate anywhere, she has lately been on the run from Mei, who has chased her persistently ever since Yuri tried to use David Black's company and ended up exposing her own whereabouts.\n\n**Storyline hooks.** Douglas Jacob 'rescued' Jack from death after Yuri bombed the Rex Research Facility (Douglas Jacob page). In Zombie Scenario: Season 8, David Black's new team sets out to recruit 'the man who blew up the Rex Labs in the past' - the wiki's Season 8 page uses this phrasing - and in Overflow, Dominique and Alin travel to a rendezvous point to help Yuri, finding a village full of strange rifts.",
+  "personality": null,
+  "quotes": [],
+  "abilities": [
+    {
+      "name": "Zombie Scenario stat profile",
+      "description": "Very high attack power (+5) and high mobility (+2), but low health (-4), low Kevlar (-1) and low reserve ammo (-2)."
+    }
+  ],
+  "zombieScenarioStats": {
+    "health": "17/28",
+    "attack": "26/28",
+    "mobility": "23/28",
+    "armor": "20/28",
+    "ammo": "19/28"
+  },
+  "favoriteWeapons": ["Pistol", "Shotgun", "Assault Rifle", "Sniper Rifle", "Machine Gun", "Melee"],
+  "costPerRegion": {
+    "South Korea": "11,800 CASH (Permanent)",
+    "Taiwan/Hong Kong": "199 CASH (Permanent)",
+    "Singapore/Malaysia": "7000 CASH (Permanent)",
+    "Indonesia": "90,000 CASH (Permanent)",
+    "Vietnam": "189 Golds (Permanent)"
+  },
+  "obtainedFrom": "Cash shop (released with Criss and the Angel vs Devil package)",
+  "appearances": {
+    "gameModes": ["Original / general modes (Terrorist team)", "Zombie Scenario"],
+    "maps": ["Dead End (SG/MY poster)", "Overflow (storyline)"],
+    "scenarios": ["Zombie Scenario: Season 8 - Overflow (storyline mention)"]
+  },
+  "weapons": ["Explosives (lore)"],
+  "relatedCharacters": [
+    "Criss - Counter-Terrorist counterpart",
+    "Jennifer - accidentally injured by Yuri",
+    "Mei - pursuing her",
+    "Jack - survived the Rex bombing",
+    "David Black - seeks her out in Season 8",
+    "Alin and Dominique",
+    "Yuri (Soccer), Yuri (Limited Edition), Transcendent Yuri, Pyromaniac Yuri - variants"
+  ],
+  "voiceActors": [],
+  "release": [
+    { "region": "kr", "date": "2009-04-30", "note": "South Korea" },
+    {
+      "region": "sg",
+      "date": "2011-11-23",
+      "note": "Singapore/Malaysia - with Criss and Angel vs Devil package"
+    },
+    { "region": "id", "date": "2012-05-03", "note": "Indonesia" },
+    { "region": "tr", "date": "2013-11-20", "note": "Turkey" },
+    { "region": "csn", "date": "2015-01-29", "note": "CSN:Z" },
+    { "region": "vn", "date": "2015-07-30", "note": "Vietnam" }
+  ],
+  "trivia": [
+    "Three alternate versions exist (Soccer, Limited Edition, Transcendence), usable in all modes; a fourth transcendent variant, Pyromaniac Yuri (2023), is tied to Kronos lore.",
+    "'Yuri' is a male given name in Russia; in Korean it means glass; in Japanese it can mean lily or swing.",
+    "Counter-Strike: Condition Zero Deleted Scenes (Secret War) also features a Spetsnaz operative named Yuri.",
+    "Also has a Counter-Strike Online 2 incarnation (Yuri/CSO2)."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/b6/Yuri_icon.png",
+      "caption": "Infobox icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/10/Yuri-CS_Online.jpg",
+      "caption": "Concept art"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/0c/Yuri-Wallpaper.jpg",
+      "caption": "South Korea poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/ff/Newclass.jpg",
+      "caption": "South Korea poster (2)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/b3/Yuricp.jpg",
+      "caption": "China poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/64/180D4A1A49F995788C8A64.jpg",
+      "caption": "Japan poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/d2/Yuri_criss_deadend.jpg",
+      "caption": "Singapore/Malaysia poster (Yuri and Criss in Dead End)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/37/Criss_yuri_spray_promo_th.jpg",
+      "caption": "Thailand poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/e7/Yuri_criss_poster_turkey.png",
+      "caption": "Turkey poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/3d/Yuri-Criss.png",
+      "caption": "Vietnam poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/55/Yuri_buyicon.png",
+      "caption": "Buy icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/96/Scyuri.png",
+      "caption": "Variant: Yuri (Soccer)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/2f/Yuri2_icon.png",
+      "caption": "Variant: Yuri (Limited Edition)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/a/a3/Buffyuri.png",
+      "caption": "Variant: Transcendent Yuri"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/ce/Buffclass23s1tr_icon.png",
+      "caption": "Variant: Pyromaniac Yuri"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Yuri",
+  "sections": [
+    "Background",
+    "Release date",
+    "Favorite weapons",
+    "Zombie Scenario Stats",
+    "Variants",
+    "Gallery",
+    "Trivia"
+  ],
+  "sourceNotes": "Pyromaniac Yuri description from https://cso.fandom.com/wiki/Kronos; Rex bombing / Jack link from https://cso.fandom.com/wiki/Douglas_Jacob.",
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

@@ -1,0 +1,189 @@
+{
+  "slug": "dr-rex",
+  "name": "Dr. Rex",
+  "aliases": [
+    "Dr. Steve Rex",
+    "Steve Rex",
+    "Infected Rex",
+    "doctorrex / rex / infectedrex (system names)"
+  ],
+  "kind": "npc",
+  "side": "zombie",
+  "grade": null,
+  "classType": "Antagonist NPC / mission pointer; final boss of Paranoia and Madness (Zombie Scenario: Season 4); Super Soldier (infected form)",
+  "factions": [
+    "Rex Research Institute (director)",
+    "Counter-Terrorist (formerly - his lab made US military weapons)",
+    "Zombie (after infection)"
+  ],
+  "profile": {
+    "gender": "Male",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": null,
+    "nationality": null,
+    "occupation": "Director of the Rex Laboratory; bio-engineer and mechanical engineer leading the classified Super Soldier Project",
+    "bloodType": null,
+    "birthday": null,
+    "raceAffiliation": "Human (formerly), Zombie",
+    "status": "Dead"
+  },
+  "tagline": "The scientist who dug up Europe's buried dead to build a super soldier - and built the zombie apocalypse instead.",
+  "summary": "Dr. Steve Rex, director of the Rex Research Institute, is the original mastermind of the zombie outbreak and the primary antagonist of Zombie Scenario up to Season 4. Leading a classified Super Soldier Project, he hit a wall - no soldier could withstand his high-tech battle gear - until an anonymous informer (later revealed as Douglas Jacob) told him of mutant animated corpses found in Europe decades earlier. His resulting Rex Virus amplified human strength but turned its hosts into mindless zombies. He sealed the failed experiment underground, but it broke loose in the Lost City. He resurfaced as the 'secret client' of Season 4, was infected, mutated into a gigantic boss combining the traits of earlier bosses, and was destroyed in Paranoia and Madness.",
+  "story": "**Rex Laboratory and the Super Soldier Program.** Publicly the Rex Laboratory produces American military weapons, but behind closed doors its director, Dr. Steve Rex - a leading authority in bio- and mechanical engineering - runs a classified Super Soldier Project whose goal is a soldier capable of defeating the Terrorists. No human subject had the strength or endurance to control Rex's high-tech battle gear, so the project stalled; Rex concluded the human body itself was the limit.\n\n**The Rex Virus.** A private report from an anonymous informer told Rex that powerful mutant corpses - zombies - had existed in Europe decades earlier (the corpses of Heorgen, per the Douglas Jacob page). Energised, Rex had the bodies excavated and brought to a secret underground laboratory, where he studied them obsessively for months. He succeeded in formulating the Rex Virus, which enhances the body's strongest capacities painlessly - but with one side effect: the infected became zombies with no self-consciousness, driven only to kill all humans regardless of faction. Because consciousness was essential to operating his battle gear, Rex judged the experiment a failure and sealed the underground lab for good. The government stopped funding him; Douglas Jacob kept funding him in secret.\n\n**Outbreak.** The zombies escaped the lab (Chaos chapter) and overran the Lost City, which was quarantined. Jennifer was captured and kept alive there as a human test subject.\n\n**Revelation (Season 4).** Posing as a secret client, Rex hired Gerard and Jim's team to deliver a research sample, then greeted them at the transaction site with waves of zombies (Conspiracy). In Envy Mask he revealed himself and his Super Soldier Program, admitting that instead of super soldiers it produced zombies and a viral plague. In Paranoia he became the main boss: infected, he transformed into a gigantic zombie that mixes the features of earlier bosses (Oberon's claw, Fallen Titan's hand, Revenant's armour) and reuses their attacks - Dione's poison spit, Dione/Angra's tentacles, Neid's dash and slash, Fallen Titan's charge, Phobos's stomp, Gluttony's hurricane - plus an egg-shaped blue shield that releases a shockwave. He returns as the round-5 final boss of Madness. Before dying he hinted that someone else was continuing his research to make super soldiers - Douglas Jacob and Kronos.",
+  "personality": null,
+  "quotes": [
+    {
+      "text": "You wanna hear a story? You're going to die anyway",
+      "context": "Dr. Rex's words in the Envy Mask chapter (page header quote)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Composite boss moveset (infected form)",
+      "description": "Poison spit (Dione), tentacles (Dione/Angra), dash and slash (Neid), charge (Fallen Titan), stomp (Phobos), hurricane (Gluttony)."
+    },
+    {
+      "name": "Egg shield",
+      "description": "Encases himself in an egg-shaped blue shield, then releases a shockwave."
+    },
+    {
+      "name": "Mid-battle healing",
+      "description": "Third boss with a healing skill mid-fight, after Revenant and Bio Scorpion."
+    }
+  ],
+  "appearances": {
+    "gameModes": ["Zombie Scenario", "Daily missions (mission pointer)"],
+    "maps": [
+      "Conspiracy (hidden NPC)",
+      "Envy Mask",
+      "Paranoia (boss)",
+      "Madness (final boss, round 5)",
+      "Memories"
+    ],
+    "scenarios": ["Zombie Scenario: Season 4"]
+  },
+  "weapons": [],
+  "relatedCharacters": [
+    "Douglas Jacob - the 'anonymous informer' and secret funder who continued his work",
+    "Soi (Soy) - participated in his Super Soldier Program for her PhD research",
+    "Psycho Zombies - former co-workers on the program",
+    "Blotter Zombie - developed the Zombie Grenade for him",
+    "Jennifer - his captive test subject",
+    "Gerard and Jim - the team he lured as 'secret client'",
+    "Yuri - bombed the Rex facility"
+  ],
+  "voiceActors": [],
+  "release": [],
+  "honorMission": {
+    "title": "Madness Terminator",
+    "task": "Defeat Dr. Rex 100 times (rooms of 4+ players, easy stage excluded)."
+  },
+  "trivia": [
+    "Full name: Steve Rex.",
+    "His face resembles Tony Stark (Iron Man); his dark-blue blazer and red tie recall the G-Man from Half-Life.",
+    "The first mutant to retain consciousness after Z-VIRUS infection - a trait shared by all later Zombie Scenario bosses.",
+    "The only antagonist to appoint players Daily missions.",
+    "When infected, his appearing/sucking animations reuse Fallen Titan's appearing/howling animations."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/5e/Doctorrex_msg.png",
+      "caption": "NPC message portrait (infobox)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/6f/Drrex_promo_art.png",
+      "caption": "Promotional art"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f8/Zs_rex_offscreenshot_5.png",
+      "caption": "South Korea poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/d2/Envymask_taiwanposter.png",
+      "caption": "Taiwan/Hong Kong poster (Envy Mask)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/67/0701_3.png",
+      "caption": "CSN:Z poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/38/606x295_paranoia.jpg",
+      "caption": "Vietnam poster (Paranoia)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/40/Rex_human_ingamemdl.png",
+      "caption": "In-game model (human)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/5b/Anonymous2_msg.png",
+      "caption": "Hidden NPC message portrait (Conspiracy, Envy Mask)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/5b/Doctorrex.png",
+      "caption": "Dr. Rex appointing a Daily Mission"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/b8/Hud_drrex.png",
+      "caption": "Allstar HUD portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/dc/Infectedrex_msg.png",
+      "caption": "Infected Rex message portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/8b/Bosshp_bg_left_rex.png",
+      "caption": "Boss HP HUD"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/45/Rex_ingame_mdl.png",
+      "caption": "Infected Rex in-game model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/a/a8/Rex_infected_mdl_hd.png",
+      "caption": "Infected Rex model (HD)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/39/Rex_tentacle.png",
+      "caption": "Tentacle model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/25/Rex_taiwanposter.png",
+      "caption": "Taiwan/Hong Kong poster (Paranoia)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/4d/Infected_rex_chinaposter.png",
+      "caption": "China poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/6b/Paranoia_janus11_japanposter.png",
+      "caption": "Japan poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/14/Paranoia_poster_indonesia.png",
+      "caption": "Indonesia poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/00/Dr._Rex.jpg",
+      "caption": "In-game screenshot"
+    }
+  ],
+  "audio": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/44/Scene.ogg",
+      "caption": "Cutscene audio"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Dr._Rex",
+  "sections": [
+    "Background (Rex Laboratory & Super Soldier Program; The Rex Virus)",
+    "Revelation (Conspiracy / Envy Mask / Paranoia)",
+    "Contacts",
+    "Achievements / Honor mission",
+    "Gallery",
+    "Trivia"
+  ],
+  "sourceNotes": "Heorgen corpses and secret funding from https://cso.fandom.com/wiki/Douglas_Jacob; outbreak/Jennifer from https://cso.fandom.com/wiki/Rex_Research_Institute.",
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

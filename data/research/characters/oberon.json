@@ -1,0 +1,165 @@
+{
+  "slug": "oberon",
+  "name": "Oberon",
+  "aliases": ["Auberon", "zbs_bossl_big02 (system name)"],
+  "kind": "boss",
+  "side": "zombie",
+  "grade": null,
+  "classType": "Boss (Zombie Scenario: Season 1 - Dead End)",
+  "factions": ["Zombie", "Rex Research Institute (origin)"],
+  "profile": {
+    "gender": "Male",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": null,
+    "nationality": null,
+    "occupation": null,
+    "bloodType": null,
+    "birthday": null,
+    "raceAffiliation": "Alien / Rex Research Institute",
+    "status": "Dead",
+    "location": "Habana Vieja (Old Havana, Cuba)"
+  },
+  "tagline": "The grey-skinned cyclops that broke out of government custody in the streets of Old Havana.",
+  "summary": "Oberon (or Auberon) is the boss of the Dead End chapter in Zombie Scenario: Season 1 and the third boss encountered in the mode's original story. Having escaped the Rex basement, it was captured by the government but freed itself by the time players reach round 2 of Dead End, set in Habana Vieja. It also appears in round 5 of Nightmare, in Collapse and in New Zombie Shelter. Defeating it originally yielded Siege-type Frame or Siege-type DNA (replaced after Zombie Scenario Re:boot).",
+  "story": "Oberon escaped from the Rex laboratory basement during the Lost City outbreak and was captured by the government, but broke free by the time the rescue team reaches the second round of Dead End. Players must defeat it to clear the map. A radio call - 'Oberon has been released!' - announces its arrival. It appears again as the fifth-round boss of Nightmare and in the later Collapse and New Zombie Shelter maps.",
+  "personality": null,
+  "quotes": [
+    {
+      "text": "Oberon has been released! I repeat again! Oberon has been released!",
+      "context": "In-game announcement (page header quote)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Iron Strike / normal strikes (Signature Primary)",
+      "description": "Basic melee strikes against players."
+    },
+    {
+      "name": "High Jump (Signature Secondary)",
+      "description": "Leaps and slams onto a targeted player or location; a direct hit kills instantly. Standing where it lands gets you crushed."
+    },
+    {
+      "name": "Black Hole",
+      "description": "Summons a black hole beneath its feet that pulls players in, followed by a spinning attack."
+    },
+    {
+      "name": "Bombardment",
+      "description": "Launches mines from its back into the air onto a targeted player; the mines explode on impact. Its strongest attack - use light weapons and watch the sky while it bombards."
+    },
+    {
+      "name": "Claw Mode / Claw Strike",
+      "description": "Draws its claws when its HP is halved; claw strikes force players to drop any non-melee weapon."
+    }
+  ],
+  "appearances": {
+    "gameModes": ["Zombie Scenario", "Zombie Shelter: Coop (message portrait)"],
+    "maps": ["Dead End", "Nightmare", "Collapse", "New Zombie Shelter"],
+    "scenarios": ["Zombie Scenario: Season 1"]
+  },
+  "weapons": [],
+  "relatedCharacters": [
+    "Prototype Phobos and Siege Type Phobos - fellow Season 1 bosses",
+    "Dr. Rex - creator"
+  ],
+  "voiceActors": [],
+  "release": [],
+  "honorMission": {
+    "title": "Oberon Slayer",
+    "task": "Defeat Oberon 100 times (Pursuit: Dead End, easy stage excluded)."
+  },
+  "trivia": [
+    "Named after Oberon, the second-largest moon of Uranus.",
+    "A glitch in Dead End can make it land outside the arena after its jumping attack; sometimes it fails to spawn in round 2.",
+    "Sometimes lands half outside the map, so many of its bombs fall harmlessly - players can exploit this.",
+    "Its head slightly resembles the Guardian of Hell from Doom 3.",
+    "Rewards on defeat (pre-Re:boot): Siege-type's Frame or Siege-type's DNA."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/4b/Oberon_V2.png",
+      "caption": "Infobox portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/fd/Oberon_front.png",
+      "caption": "Front view"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/fb/Oberon_back_view.png",
+      "caption": "Back view"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/5f/Oberon_side_view.png",
+      "caption": "Side view"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/d0/Oberon_equipping_claw.png",
+      "caption": "Oberon drawing his claws"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f2/Oberon_claw.png",
+      "caption": "Oberon with his claw"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/92/Oberon_dead.png",
+      "caption": "Dead Oberon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/29/Oberon_art.jpg",
+      "caption": "Concept art"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/ec/Oberon_bomb.png",
+      "caption": "Oberon's bomb"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/d3/Bosshp_bg_left_oberon.png",
+      "caption": "Boss HP HUD"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/24/Bosshp_bg_left_oberon_new.png",
+      "caption": "Boss HP HUD (new)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/e3/Oberon_msg.png",
+      "caption": "Message portrait (Zombie Shelter: Coop)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/22/Oberon.jpg",
+      "caption": "China poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/1a/Obercp2.jpg",
+      "caption": "China poster (2)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/e8/Obecp3.jpg",
+      "caption": "China poster (claw mode)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/16/Oberoncp.png",
+      "caption": "China website wallpaper"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/fc/Oberon.gif",
+      "caption": "Preview animation"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/60/Zs_deadend_20120524_1619240.jpg",
+      "caption": "In-game screenshot (Dead End)"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Oberon",
+  "sections": [
+    "Overview",
+    "Tips",
+    "Abilities",
+    "Minimal Weapons Required",
+    "Achievements / Honor mission",
+    "Gallery",
+    "Trivia",
+    "External links"
+  ],
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

@@ -1,0 +1,193 @@
+{
+  "slug": "erika",
+  "name": "Erika",
+  "aliases": ["Erica (some regions)", "エリカ", "jpngirl01 (system name)"],
+  "kind": "human",
+  "side": "tr",
+  "grade": null,
+  "classType": "Cash female Terrorist character (4th female Terrorist); NPC in Zombie Scenario Seasons 3, 7 and 8",
+  "factions": ["Terrorist", "Rescue team", "AFC (David Black's army)"],
+  "profile": {
+    "gender": "Female",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": "Lost City (sole rescued survivor)",
+    "nationality": null,
+    "occupation": "Trainee fighter under David Black",
+    "bloodType": null,
+    "birthday": null,
+    "raceAffiliation": "Human / Rescue team",
+    "status": "Alive (infected but resisting mutation due to her unique genes; under treatment after Douglas Jacob's defeat)"
+  },
+  "tagline": "Master of Disguise - the Lost City's only rescued survivor, carrying a virus her own body refuses to obey.",
+  "summary": "Erika (Erica in some regions) is the fourth female Terrorist character in Counter-Strike Online and May's TR counterpart. The only survivor rescued from the ruined Lost City, she followed the man who saved her (David Black) into the Terrorist ranks and trained as a fighter to bury the trauma of the tragedy. Kidnapped at Vanguard's Panic Room and infected, her unusual genes stopped the mutation but left her in recurring pain - which drives the Season 7 and 8 storyline.",
+  "story": "**Background.** Erika was the only survivor rescued from the ruined Lost City. She joined the Terrorists, following the person who saved her life, and threw herself into learning to fight - a new life with a cruel fate ahead, and one that let her almost forget the shock of what she survived.\n\n**Zombie Scenario: Season 3.** Fighting alongside David Black's AFC army in the assault on Vanguard headquarters, Erika - who is like a daughter to David - is injured in the battle. Norman's AMP Suit then kidnaps her, drawing David into the Panic Room. She appears as a supporting NPC in the Behind, Threat and Panic Room chapters and in the extra chapter Illusion.\n\n**Kidnapping motive (Douglas Jacob page).** Douglas Jacob had identified Erika as a potential antibody test subject and, it is suspected, ordered Norman to abduct her so she could become his next 'agent'. During the abduction she was infected, but her special genes resisted the mutation - keeping her human at the cost of constant pain that prevents her from taking part in intense combat. Douglas's data also holds the means to cure that pain.\n\n**Zombie Scenario: Season 7 (Rex Labs / Lowdown).** After escaping the Panic Room, Erika begins to suffer periodic unexplained pain. Soi tells David to bring her to the Rex Labs for a cure; they find the lab attacked and, following coordinates recovered there, meet Gerard, who reveals Douglas's role behind Rex and behind her kidnapping.\n\n**Zombie Scenario: Season 8 (Upcoming Threat).** Now part of a team with David and Gerard, Erika's pain recurs as they reach an abandoned munitions factory hunting for the person who once bombed the Rex Labs; Douglas sends a hunter after them. After Douglas is defeated, Erika is said to be under treatment.",
+  "personality": null,
+  "quotes": [
+    { "text": "Master of Disguise", "context": "SG/MY description (name of her release set)" }
+  ],
+  "abilities": [],
+  "zombieScenarioStats": {
+    "health": "26/28",
+    "attack": "17/28",
+    "mobility": "19/28",
+    "armor": "23/28",
+    "ammo": "20/28"
+  },
+  "costPerRegion": {
+    "Taiwan/Hong Kong": "199 (Permanent)",
+    "China": "290 (Permanent)",
+    "Singapore/Malaysia": "7000 (Permanent)",
+    "Indonesia": "90,000 (Permanent)",
+    "Turkey": "6000 (Permanent)",
+    "CSN:Z": "$9.99 (Permanent)",
+    "Vietnam": "189 (Permanent)"
+  },
+  "obtainedFrom": "Cash shop (released with May and the Master of Disguise set); Code Box",
+  "appearances": {
+    "gameModes": ["Original / general modes (Terrorist team)", "Zombie Scenario"],
+    "maps": [
+      "Behind",
+      "Threat",
+      "Panic Room",
+      "Illusion",
+      "Rex Labs",
+      "Lowdown",
+      "Upcoming Threat",
+      "Industry"
+    ],
+    "scenarios": [
+      "Zombie Scenario: Season 3 (NPC)",
+      "Zombie Scenario: Season 7",
+      "Zombie Scenario: Season 8"
+    ]
+  },
+  "weapons": ["P90 Lapin (pictured)"],
+  "relatedCharacters": [
+    "May - Counter-Terrorist counterpart",
+    "David Black - her rescuer and father figure",
+    "Norman - kidnapped her",
+    "Douglas Jacob - ordered the kidnapping",
+    "Gerard",
+    "Soi",
+    "Trainee Erica - transcendent variant"
+  ],
+  "voiceActors": [],
+  "release": [
+    {
+      "region": "sg",
+      "date": "2012-01-19",
+      "note": "Singapore/Malaysia - with May and Master of Disguise set"
+    },
+    { "region": "id", "date": "2013-05-22", "note": "Indonesia" },
+    { "region": "tr", "date": "2014-04-02", "note": "Turkey" },
+    { "region": "csn", "date": "2015-04-22", "note": "CSN:Z" },
+    { "region": "vn", "date": "2015-10-13", "note": "Vietnam" }
+  ],
+  "trivia": [
+    "Speaks Chinese in the Taiwan/Hong Kong and China versions.",
+    "Introduced new radio commands (e.g. bomb-location and thank-you calls), shared with May.",
+    "Has a distinct swimming animation, also used by May.",
+    "In the CSO manhwa she wears black tights like May; this was cut from the in-game model.",
+    "Wears an 'N' (Newbie) sticker on her hat, hinting at her inexperience.",
+    "An old model and a current model exist."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/9f/Jpngirl01_gfx.png",
+      "caption": "Infobox portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/83/4116329719144645147.jpg",
+      "caption": "Old model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/9f/0000396912.jpg",
+      "caption": "Current model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/20/Erica_model.png",
+      "caption": "In-game model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/8b/Erica.png",
+      "caption": "Shop model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/a/a0/Erica_wp90_lapin.png",
+      "caption": "Erika with P90 Lapin"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/60/3485826660371005444.jpg",
+      "caption": "South Korea poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/d7/Jpngirl01_msg.png",
+      "caption": "NPC message portrait (Behind, Panic Room, Illusion)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f8/Mayerika.jpg",
+      "caption": "Singapore/Malaysia poster (with May)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/a/a3/Indo_22_mei.jpg",
+      "caption": "Indonesia poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/19/Ericcp.jpg",
+      "caption": "China poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/21/Mei_erica_soulbane_serrated_turkeyposter.png",
+      "caption": "Turkey poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/4e/549444_465818253570479_4826617874059480206_n.png",
+      "caption": "CSN:Z poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/9a/606x295_capnhatcuahang.jpg",
+      "caption": "Vietnam poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/8e/EricaManhwa.png",
+      "caption": "Official comic (manhwa)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/e0/Jpngirl01.png",
+      "caption": "Buy icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/05/EricaSpray.png",
+      "caption": "Spray"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f7/49851522.png",
+      "caption": "SD version"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/9a/Jpngirl01_small.png",
+      "caption": "Erika (old model) in Industry"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/4d/Erica.jpg",
+      "caption": "In-game screenshot"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/1d/Hud_jpngirl01.png",
+      "caption": "HUD portrait"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Erika",
+  "sections": [
+    "Background",
+    "Favorite weapon",
+    "Events",
+    "Zombie Scenario Stats",
+    "Trivia",
+    "Gallery"
+  ],
+  "sourceNotes": "Kidnapping/infection details from https://cso.fandom.com/wiki/Douglas_Jacob (section 'Erica'); season summaries from Zombie Scenario: Season 3, 7, 8 pages.",
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

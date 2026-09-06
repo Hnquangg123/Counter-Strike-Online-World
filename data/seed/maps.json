@@ -1,0 +1,419 @@
+[
+  {
+    "slug": "abandoned-hound",
+    "name": "Abandoned Hound",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "all-out",
+    "name": "All-Out",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "all-out"
+  },
+  {
+    "slug": "angra-nest",
+    "name": "Angra Nest",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "angra-nest"
+  },
+  {
+    "slug": "another-truth",
+    "name": "Another Truth",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "another-truth"
+  },
+  {
+    "slug": "behind",
+    "name": "Behind",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "behind"
+  },
+  {
+    "slug": "blaze",
+    "name": "Blaze",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "chaos",
+    "name": "Chaos",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "chaos-as-siege-type-phobos",
+    "name": "Chaos (as Siege Type Phobos)",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "chaser",
+    "name": "Chaser",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "collapse",
+    "name": "Collapse",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "collapse"
+  },
+  {
+    "slug": "conspiracy",
+    "name": "Conspiracy",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "conspiracy"
+  },
+  {
+    "slug": "conspiracy-hidden-npc",
+    "name": "Conspiracy (hidden NPC)",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "contact",
+    "name": "Contact",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "contact"
+  },
+  {
+    "slug": "convoy",
+    "name": "Convoy",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "culvert",
+    "name": "Culvert",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "culvert"
+  },
+  {
+    "slug": "dark-city",
+    "name": "Dark City",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "dead-end",
+    "name": "Dead End",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "dead-end-sg-my-poster",
+    "name": "Dead End (SG/MY poster)",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "decoy",
+    "name": "Decoy",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "decoy"
+  },
+  {
+    "slug": "decoy-per-intro",
+    "name": "Decoy (per intro)",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "desert-plant",
+    "name": "Desert Plant",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "double-gate",
+    "name": "Double Gate",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "double-gate"
+  },
+  {
+    "slug": "encounter",
+    "name": "Encounter",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "encounter"
+  },
+  {
+    "slug": "envy-mask",
+    "name": "Envy Mask",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "envy-mask"
+  },
+  {
+    "slug": "episode-carlito",
+    "name": "Episode Carlito",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "episode-carlito"
+  },
+  {
+    "slug": "episode-choi",
+    "name": "Episode Choi",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "episode-choi"
+  },
+  {
+    "slug": "episode-lucia",
+    "name": "Episode Lucia",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "episode-lucia"
+  },
+  {
+    "slug": "episode-victor",
+    "name": "Episode Victor",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "episode-victor"
+  },
+  {
+    "slug": "forest-keeper",
+    "name": "Forest Keeper",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "forest-keeper"
+  },
+  {
+    "slug": "hell-ride",
+    "name": "Hell Ride",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "hitchhiking",
+    "name": "Hitchhiking",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "illusion",
+    "name": "Illusion",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "illusion"
+  },
+  {
+    "slug": "industry",
+    "name": "Industry",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "italy",
+    "name": "Italy",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "last-clue",
+    "name": "Last Clue",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "last-clue"
+  },
+  {
+    "slug": "last-ride",
+    "name": "Last Ride",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "last-ride"
+  },
+  {
+    "slug": "last-ride-revealed",
+    "name": "Last Ride (revealed)",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "lost-city",
+    "name": "Lost City",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "lost-city"
+  },
+  {
+    "slug": "lost-city-poster",
+    "name": "Lost City (poster)",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "lowdown",
+    "name": "Lowdown",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "madness",
+    "name": "Madness",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "madness"
+  },
+  {
+    "slug": "madness-final-boss-round-5",
+    "name": "Madness (final boss, round 5)",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "memories",
+    "name": "Memories",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "memories"
+  },
+  {
+    "slug": "new-zombie-shelter",
+    "name": "New Zombie Shelter",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "nightmare",
+    "name": "Nightmare",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "oblivion",
+    "name": "Oblivion",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "oblivion"
+  },
+  {
+    "slug": "obstacle",
+    "name": "Obstacle",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "omen",
+    "name": "Omen",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "omen"
+  },
+  {
+    "slug": "overflow",
+    "name": "Overflow",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "overflow-storyline",
+    "name": "Overflow (storyline)",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "panic-room",
+    "name": "Panic Room",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "panic-room"
+  },
+  {
+    "slug": "paranoia",
+    "name": "Paranoia",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "paranoia"
+  },
+  {
+    "slug": "paranoia-boss",
+    "name": "Paranoia (boss)",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "poisoning",
+    "name": "Poisoning",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "poisoning"
+  },
+  {
+    "slug": "rendezvous",
+    "name": "Rendezvous",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "rendezvous"
+  },
+  {
+    "slug": "rex-labs",
+    "name": "Rex Labs",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "rex-labs"
+  },
+  {
+    "slug": "secret-plan",
+    "name": "Secret Plan",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "shoreline",
+    "name": "Shoreline",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "suzhou",
+    "name": "Suzhou",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "third-report",
+    "name": "Third Report",
+    "gameModes": [],
+    "featured": false
+  },
+  {
+    "slug": "threat",
+    "name": "Threat",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "threat"
+  },
+  {
+    "slug": "toxicity",
+    "name": "Toxicity",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "toxicity"
+  },
+  {
+    "slug": "trap",
+    "name": "Trap",
+    "gameModes": ["zombie-scenario"],
+    "featured": false,
+    "scenario": "trap"
+  },
+  {
+    "slug": "upcoming-threat",
+    "name": "Upcoming Threat",
+    "gameModes": [],
+    "featured": false
+  }
+]

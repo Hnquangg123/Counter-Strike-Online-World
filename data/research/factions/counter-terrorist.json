@@ -1,0 +1,77 @@
+{
+  "slug": "counter-terrorist",
+  "name": "Counter-Terrorist",
+  "aliases": ["CT", "Counter-Terrorists"],
+  "side": "ct",
+  "summary": "The Counter-Terrorists are one of the two core player factions of Counter-Strike Online: legally armed government forces, militaries, police, security and special-service units approved to protect worldwide security, and the opposing force to the Terrorists. In CSO the CT roster spans the classic Counter-Strike units plus several Asian special forces added for the game's regional markets, alongside named premium characters.",
+  "description": "CT is the faction of official, government-sanctioned armed forces. In Counter-Strike Online it comprises the classic units - American SEAL Team 6, German GSG-9, British SAS, French GIGN, Russian Spetsnaz - and CSO additions such as Korea's 707 Special Mission Battalion, Taiwan's SOZO (Thunder Squad), China's PLA special forces, Japan's SAT and Singapore's SAF. Each unit has a short in-game history blurb (e.g. ST-6 founded 1980 under Richard Marcinko; GSG-9 formed after the 1972 Munich Olympics; SAS founded in WWII by David Stirling; 707 formed in 1982 as the 'White Tigers').",
+  "lore": "Storyline-wise, the Counter-Terrorism Alliance founded the Aegis Institute to fight the zombie threat, and CT-side characters (Gerard, Natasha, Choi Ji Yoon, Lucia, Mirage, Milia and others) carry much of the Zombie Scenario narrative. The Aegis Institute's neutrality allows CTs and Terrorists to run joint operations against the zombies.",
+  "subFactions": [
+    "Seal Team 6 (American)",
+    "GSG-9 (German)",
+    "SAS (British)",
+    "GIGN (French)",
+    "Spetsnaz (Russian)",
+    "707 (Korean)",
+    "SOZO / Thunder Squad (Taiwan)",
+    "PLA (Chinese)",
+    "SAT (Japanese)",
+    "SAF (Singapore)"
+  ],
+  "leaders": [],
+  "members": [
+    "Gerard (Sheriff)",
+    "Keith",
+    "Enzo",
+    "Fernando",
+    "Walter",
+    "Henry (Jack the Ripper)",
+    "Dominique (SP)",
+    "Ian",
+    "Victor",
+    "Yeong Shin",
+    "Natasha (Casual)",
+    "Choi Ji Yoon (Soccer / Spy)",
+    "Criss",
+    "May",
+    "Lucia (Special Agent)",
+    "Maid Alice",
+    "Isabelle",
+    "Soi",
+    "Ha Ly",
+    "Jin Se-yeon",
+    "Rebecca",
+    "Lisa",
+    "Mirage",
+    "Milia"
+  ],
+  "membersNote": "Named CT characters taken from the wiki's Characters navbox (as seen on the Anemone page); transcendent-class CTs such as Mirage and Milia added from their own pages.",
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/c5/Ct.png",
+      "caption": "Counter-Terrorist emblem"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/2e/Ctwin.png",
+      "caption": "Counter-Terrorists win graphic"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/80/Urban.png",
+      "caption": "SEAL Team 6 (Urban)"
+    },
+    { "url": "https://static.wikia.nocookie.net/cso/images/e/e0/Gsg9.png", "caption": "GSG-9" },
+    { "url": "https://static.wikia.nocookie.net/cso/images/3/34/Sas.png", "caption": "SAS" },
+    { "url": "https://static.wikia.nocookie.net/cso/images/0/0a/Gign.png", "caption": "GIGN" },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/be/Spetsnaz.png",
+      "caption": "Spetsnaz"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/30/707.png",
+      "caption": "707 Special Mission Battalion"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Counter-Terrorist",
+  "sections": ["Factions", "Characters", "Counter-Strike Online 2", "Armory", "Missions"],
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

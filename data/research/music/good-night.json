@@ -1,0 +1,18 @@
+{
+  "slug": "good-night",
+  "title": "Good Night",
+  "composer": null,
+  "album": null,
+  "durationSeconds": null,
+  "summary": "The background music that plays in Zombie 4: Darkness when the map turns to night and the zombies grow stronger.",
+  "description": "The Zombie 4: Darkness wiki page lists among its trivia that the background music 'Good Night' plays when the map darkens - the moment humans lose their daytime advantage and the Night Stalker class is chosen. It is the mode's signature audio cue for the day/night switch. Composer, duration and file were not exposed by the page digest.",
+  "usedIn": {
+    "gameModes": ["Zombie 4: Darkness"],
+    "scenarios": [],
+    "maps": ["Dark City (zm_darkcity_cso)", "Shoreline (zm_shoreline_cso)"]
+  },
+  "audioUrl": null,
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Zombie_4:_Darkness",
+  "_confidence": "high (title and usage stated on the Zombie 4: Darkness page)"
+}

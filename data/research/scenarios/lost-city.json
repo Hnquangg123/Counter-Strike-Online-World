@@ -1,0 +1,42 @@
+{
+  "slug": "lost-city",
+  "name": "Lost City",
+  "aliases": ["zs_lostcity"],
+  "gameMode": "Zombie Scenario",
+  "season": "Season 1",
+  "chapter": 1,
+  "tagline": "A quarantined North American town, a missing research group, and the first battle against the Rex Virus.",
+  "summary": "Lost City is the opening chapter of Zombie Scenario. A month after a research group sent into a city isolated by the Rex Virus went silent, government special forces are dispatched, find the streets overrun with zombies, lose contact with headquarters and dig in for a last stand. It is a survival-style map: players spawn in the centre and hold out against waves from four directions over 5 rounds of 3 minutes each.",
+  "story": "The wiki's official description opens: \"It has been a month since a research group was out of contact after being sent to the city that had been isolated due to Rex Virus infection.\" The government dispatched special forces to investigate; they discovered numerous zombies throughout the city, communications were cut off, and the surviving humans now prepare for a final battle. Background notes on the wiki add that a research facility existed in this North American town where Dr. Rex conducted his research - the isolated location, sparse population and adequate infrastructure made it suitable for his work. The story also introduces Erica, described as the sole survivor of Lost City, rescued by special-forces member David Black, who later joined the AFC mercenary group and sensed that Erica's survival was more than mere luck. The advance team and the city's soldiers who fought the zombies defensively are described as largely forgotten.",
+  "objectives": [
+    "Survive for as long as possible; the game ends only when players finish all rounds or all of them die.",
+    "Purchase weapons and equipment via the B key.",
+    "Dead players respawn at the next round or by using a Battle Revival item (unavailable in the final 30 seconds).",
+    "Structure: 5 rounds, 3-minute time limit per round; spawn in the centre with threats from four directions."
+  ],
+  "bosses": [],
+  "characters": [
+    "Erica",
+    "David Black",
+    "Dr. Rex",
+    "Commander Andrey's advance unit (referenced in later chapters)"
+  ],
+  "maps": ["Lost City (zs_lostcity)"],
+  "difficulties": ["easy", "normal", "hard", "very-hard", "hell"],
+  "rewards": [
+    "Honor mission [City Hunter]: clear Survival: Lost City 400 times (excluding Easy difficulty)"
+  ],
+  "nextChapter": "Double Gate",
+  "release": [],
+  "trivia": [
+    "The map is shaped like an inverted cross and carries 'LOST CITY' signage.",
+    "A censored Coca-Cola promotional sign is present.",
+    "Five characters are featured on in-map posters.",
+    "Throw-type zombies appear in three variants - Regular, Light and Heavy - and Lost City is the only map featuring the last two throw types.",
+    "Older bugs (zombie pathing, Kevlar invulnerability) were fixed in the Re:boot update.",
+    "The round structure was changed several times after launch (20 -> 50 -> 5 rounds).",
+    "Game mode is listed as 'Survival' on the current wiki infobox (post Re:boot classification)."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Lost_City"
+}

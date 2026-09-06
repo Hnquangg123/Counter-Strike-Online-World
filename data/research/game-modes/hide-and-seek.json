@@ -1,0 +1,25 @@
+{
+  "slug": "hide-and-seek",
+  "name": "Hide and Seek",
+  "aliases": ["Prophunt", "Prop Hunt", "Prophet Hunt (main-page label)"],
+  "family": "fun",
+  "tagline": "Turn into a random object and stay hidden while M3-armed seekers hunt you down.",
+  "summary": "Hide and Seek is CSO's prop-hunt mode (South Korea 25 July 2019). Hiders transform into random objects and must survive undetected until time runs out; seekers, armed only with the M3 shotgun, must find every disguised player and lose health when their shots hit nothing. Custom maps for the mode can be built in Studio.",
+  "description": "The wiki's blurb: it is a game you win by turning into a random object and surviving for a limited time without being detected. Hiders (object team) transform into random objects, get a second transformation opportunity mid-game and can rotate the transforming machine up to three times per game; they cough when a smoke grenade explodes nearby, and smaller objects have less health. Seekers (human team) carry only the M3 shotgun, do not respawn when eliminated (they can only send compliments while spectating) and lose health if their shots do not hit an object player; burning does not damage seekers. Maps can be created with Studio Create.",
+  "lore": null,
+  "rules": [
+    "Hiders win by surviving the time limit undetected.",
+    "Seekers win by finding all object players or if the objects fail to survive.",
+    "Seekers use only the M3 shotgun and lose health on missed shots.",
+    "Hiders get a second transformation and up to three transform-machine uses per game.",
+    "Smoke grenades make nearby hiders cough."
+  ],
+  "maxPlayers": null,
+  "release": [
+    { "region": "kr", "date": "2019-07-25", "note": null },
+    { "region": "csn", "date": "2019-08-21", "note": "Counter-Strike Nexon: Zombies" }
+  ],
+  "trivia": ["The M3 is the only usable weapon in this mode."],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Hide_and_Seek"
+}

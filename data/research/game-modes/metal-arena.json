@@ -1,0 +1,21 @@
+{
+  "slug": "metal-arena",
+  "name": "Metal Arena",
+  "aliases": [],
+  "family": "fun",
+  "tagline": "Two factions of players and bots battle over bases in a MOBA-style arena.",
+  "summary": "Metal Arena is a PvPvE Fun mode in which two teams of players and AI bots - Blue and Red, each with three selectable characters - fight to reach a target score first. Teams capture bases that spawn bots, shorten respawns and generate points over time; players level up from bot kills and can teleport back to spawn.",
+  "description": "The wiki describes a mode in which two teams, each with allied players and AI bots, compete against each other; Metal Arena consists of 3 different characters in 2 factions, Blue and Red, and the faction with the highest score wins. Teams can gain bases to spawn bots; respawn time depends on the bases conquered, and standing in the spawn point replenishes ammo, health and armour. Bases are captured by staying in range (player-count differences shorten capture time) and held bases grant automatic team points. Players score by eliminating enemy players or Hector units and level up automatically with EXP from destroying bots. Pressing 0 teleports the player to spawn after 3 seconds with a 3-minute cooldown. Compatible maps: Quasar and Pulsar.",
+  "lore": null,
+  "rules": [
+    "Reach the target team score before the enemy.",
+    "Capture and hold bases for bot spawns and passive points.",
+    "Kills on enemy players and Hector units score points; bot kills grant EXP for automatic level-ups.",
+    "Teleport to spawn with key 0 (3 s delay, 3 min cooldown)."
+  ],
+  "maxPlayers": null,
+  "release": [],
+  "trivia": [],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Metal_Arena"
+}

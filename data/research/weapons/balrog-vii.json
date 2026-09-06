@@ -1,0 +1,64 @@
+{
+  "slug": "balrog-vii",
+  "name": "BALROG-VII",
+  "aliases": ["BALROG-7", "Balrog-VII"],
+  "category": "machine-gun",
+  "grade": null,
+  "origin": null,
+  "manufacturer": "Aegis Institute",
+  "caliber": "7.62 AHE (Anti-zombie High Explosive) bullets",
+  "tagline": "Aegis Institute's belt-fed machine gun that fires an explosive round every tenth shot.",
+  "summary": "BALROG-VII is a belt-fed machine gun developed by the Aegis Institute and fed with 120 rounds of 7.62 AHE bullets. Its Balrog Charging System lets it fire an explosive round after every 10 consecutive shots, making it a favourite for clearing zombie hordes and bosses in Zombie Scenario. It is heavy, expensive and inaccurate at long range.",
+  "description": "A belt-fed machine gun from the Aegis Institute (the in-game weapons lab behind the BALROG series), chambered for 7.62 AHE bullets with a 120-round belt and 240 rounds in reserve, priced at $9,000. The signature feature is the Balrog Charging System, which enables the weapon to fire explosive rounds after every 10 consecutive shots; in Normal mode the explosion deals 79 damage within a set range. Listed damage: 79 (Normal), 300 (Zombie), 375 (Scenario). It is equipped with a usable scope, but zooming reduces the rate of fire. A BLUE edition existed as an event-only variant.",
+  "stats": {
+    "damage": "79 (Normal) / 300 (Zombie) / 375 (Scenario); explosion 79 (Normal)",
+    "accuracy": "Poor at long range",
+    "recoil": "Moderate",
+    "rateOfFire": "High",
+    "weight": "Heavy",
+    "knockback": null,
+    "stun": null
+  },
+  "ammo": { "magazine": 120, "reserve": 240, "type": "7.62 AHE" },
+  "price": "$9,000",
+  "fireModes": ["Automatic", "Scoped (zoom reduces rate of fire)"],
+  "obtainMethod": null,
+  "advantages": [
+    "High damage output against both humans and zombies",
+    "Large magazine capacity",
+    "High rate of fire",
+    "Moderate recoil",
+    "Equipped with a usable scope"
+  ],
+  "disadvantages": [
+    "Heavy weight",
+    "Poor long-range accuracy",
+    "High price and ammunition expenses",
+    "Limited availability (the BLUE edition was event-only)",
+    "Zooming reduces the rate of fire"
+  ],
+  "variants": ["BALROG-VII BLUE"],
+  "characters": [],
+  "abilities": [
+    {
+      "name": "Balrog Charging System",
+      "description": "After every 10 consecutive shots the weapon fires an explosive round; the explosion deals area damage (79 in Normal mode) within a set range."
+    }
+  ],
+  "release": [
+    { "region": "kr", "date": "2012-07", "note": "First release (South Korea, July 2012)" },
+    { "region": "csn", "date": "2014-09", "note": "Counter-Strike Nexon: Zombies" },
+    {
+      "region": "vn",
+      "date": "2015-06",
+      "note": "Vietnam, June 2015 (last regional release listed)"
+    }
+  ],
+  "trivia": [
+    "The wiki calls it the fourth machine gun in the game equipped with a scope.",
+    "It shares animations with the K3 machine gun."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/BALROG-VII",
+  "_notes": "Release dates were only exposed at month granularity in our fetch; other regions (TW/HK, CN, JP, SG/MY, ID, TR) exist on the page but were not captured."
+}

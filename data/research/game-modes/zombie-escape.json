@@ -1,0 +1,28 @@
+{
+  "slug": "zombie-escape",
+  "name": "Zombie Escape",
+  "aliases": ["ZE"],
+  "family": "zombie",
+  "tagline": "Run for the escape vehicle before the unkillable Origin zombie and its horde catch you.",
+  "summary": "Zombie Escape began as a Fun mode and later became a standalone mode. Each round one player becomes the Origin zombie with infinite health and must infect the humans, who race through the map to reach and activate an escape vehicle in time; anyone left behind dies in the bomb's explosion. If the zombies reach the destination first, or infect everyone, they win.",
+  "description": "The wiki explains that Zombie Escape was a fun mode in Counter-Strike Online that became standalone in later updates; it is round-based like most modes. At round start a player is randomly chosen as the Origin zombie, which has infinite health, and must infect all humans (infected humans have 4000-5000 HP). Zombies must stop the humans from reaching their final destination; if zombies reach it first they win the round. Humans must escape to the vehicle and activate it within a time window; latecomers are killed by the bomb's explosion. Zombies killed by headshot do not revive, though the shooter earns no points for the kill. Humans have access to grenades, ammo replenishment and vital-detection items; zombies can bunny-hop. Humans killed by the world (falls, hazards) are confirmed dead rather than becoming zombies, unlike other CS versions.",
+  "lore": null,
+  "rules": [
+    "One random Origin zombie per round with infinite health; infected humans have 4000-5000 HP.",
+    "Humans win by reaching the escape point and activating the vehicle in time, or escaping with survivors uninfected.",
+    "Zombies win by reaching the escape point first or infecting all humans.",
+    "Late humans die to the bomb explosion.",
+    "Headshot-killed zombies do not revive.",
+    "EXP and points are based on how many times the player escapes as a human."
+  ],
+  "maxPlayers": null,
+  "release": [],
+  "trivia": [
+    "Zombie Escape is originally a non-official community mode for Counter-Strike and Counter-Strike: Source that became an official mode in CSO.",
+    "In earlier releases the Origin zombie had 10,000 HP and could die.",
+    "Excluded from the Fun modes after the Hitchhiking update.",
+    "Maps listed: ze_bloodcastle, ze_skyline_cso, ze_venice_cso, ze_hitchhiking_cso, ze_rising_cso, ze_rhyzome_cso."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Zombie_Escape"
+}

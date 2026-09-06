@@ -1,0 +1,68 @@
+{
+  "slug": "skull-5",
+  "name": "SKULL-5",
+  "aliases": ["Skull-5"],
+  "category": "sniper-rifle",
+  "grade": null,
+  "origin": "Remodel of the M14 EBR",
+  "manufacturer": null,
+  "caliber": "5.56mm Anti-Zombie",
+  "tagline": "An automatic anti-zombie sniper rifle built on the M14 EBR.",
+  "summary": "SKULL-5 is an automatic anti-zombie sniper rifle: a remodel of the M14 EBR fitted with a sniper scope and fed with 24 rounds of 5.56mm Anti-Zombie ammunition. Its government-developed bullets deal critical damage to zombies and have high penetration. It is part of the SKULL series and shares its reserve ammunition with the SKULL machine guns.",
+  "description": "The wiki describes SKULL-5 as a remodel of the M14 EBR attached with a sniper scope, firing specialized bullets created by the government that deliver critical damage to zombies and have high penetration power. It costs $6,000 in both Original and Scenario modes; ammunition costs $1,600 per magazine in Original and $4,000 per magazine in Scenario. Damage table (0m, armor / no armor): head 251 / 296, chest & hand 62 / 74, gut 78 / 92, leg 55 / 55; at 36m: head 238 / 280, chest & hand 59 / 70, gut 74 / 87, leg 52 / 52. A chrome-covered tournament edition, SKULL-5 World Championship, adds +40 human damage, +120 zombie damage, +150 reserve ammo, -0.5s reload and +4 clip size at the cost of -22% accuracy, +12% recoil, -9% fire rate and +4% weight.",
+  "stats": {
+    "damage": "Head 251 (armor) / 296 (no armor) at 0m; chest & hand 62/74; gut 78/92; leg 55",
+    "accuracy": "Very accurate",
+    "recoil": null,
+    "rateOfFire": "High when unscoped; decreases while zooming",
+    "weight": "Heavy",
+    "knockback": null,
+    "stun": "High stun power"
+  },
+  "ammo": {
+    "magazine": 24,
+    "reserve": "High (shared with the SKULL machine guns)",
+    "type": "5.56mm Anti-Zombie"
+  },
+  "price": "$6,000 (Original) / $6,000 (Scenario); ammo $1,600 per mag (Original), $4,000 per mag (Scenario)",
+  "fireModes": ["Automatic", "Scoped"],
+  "obtainMethod": "Limited availability (wiki lists it as a disadvantage)",
+  "advantages": [
+    "High damage",
+    "Very accurate",
+    "High reserve ammunition (shared with SKULL machine guns)",
+    "Short reload time",
+    "High fire rate when unscoped",
+    "Usable scope",
+    "High penetration",
+    "High stun power"
+  ],
+  "disadvantages": [
+    "Expensive price and ammunition cost",
+    "Heavy weight",
+    "Low-power zoom",
+    "Decreased fire rate while zooming",
+    "Limited availability"
+  ],
+  "variants": ["SKULL-5 World Championship", "M14 EBR (base weapon)"],
+  "characters": [],
+  "abilities": [],
+  "release": [
+    { "region": "tw", "date": "2011-02-15", "note": null },
+    { "region": "cn", "date": "2011-02-16", "note": null },
+    { "region": "kr", "date": "2011-02-17", "note": null },
+    { "region": "jp", "date": "2011-04-27", "note": null },
+    { "region": "sg", "date": "2012-09-12", "note": "Singapore/Malaysia" },
+    { "region": "tr", "date": "2014-02-05", "note": null },
+    { "region": "id", "date": "2014-07-21", "note": null },
+    { "region": "csn", "date": "2014-09-23", "note": "Counter-Strike Nexon: Zombies" },
+    { "region": "vn", "date": "2015-03-26", "note": null }
+  ],
+  "trivia": [
+    "First weapon in the game that fires accurately while jumping.",
+    "First weapon featuring jungle-style (taped) magazines.",
+    "The chrome texture of the World Championship edition does not apply in D3D graphics mode."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/SKULL-5"
+}

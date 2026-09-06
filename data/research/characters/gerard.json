@@ -1,0 +1,231 @@
+{
+  "slug": "gerard",
+  "name": "Gerard",
+  "aliases": ["Gerrard (some regions)", "gerrard (system name)"],
+  "kind": "human",
+  "side": "ct",
+  "grade": null,
+  "classType": "Premium Counter-Terrorist character (Code Box / events); guiding NPC in Zombie Scenario: Season 4",
+  "factions": [
+    "Counter-Terrorist",
+    "SAS (formerly)",
+    "PMC (Private Military Contractor, USA)",
+    "Rescue Team"
+  ],
+  "profile": {
+    "gender": "Male",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": null,
+    "nationality": null,
+    "occupation": "Former SAS operator, now a US private military contractor; leads the Vanguard sample-retrieval team in Season 4",
+    "bloodType": null,
+    "birthday": null,
+    "raceAffiliation": "Human / SAS (formerly), PMC, Rescue Team",
+    "status": "Alive"
+  },
+  "tagline": "The SAS operator falsely branded a traitor, hunting the mentor who actually was one.",
+  "summary": "Gerard is a premium Counter-Terrorist character and David Black's CT counterpart. A former SAS special-forces member now working for a US PMC, he left the SAS after being falsely accused of betrayal alongside his mentor David, who really did hand SAS documents to the Terrorists. He anchors the Season 4 storyline (leading the team that retrieves research samples from the ruined Vanguard base and confronts Dr. Rex) and later becomes the one who tells David and Erika the truth about Douglas Jacob.",
+  "story": "**Background (character page).** Gerard is a former SAS special-forces soldier now employed by a US private military company. His mentor David is a wanted man for betraying the organisation and passing confidential SAS documents to the Terrorists; Gerard himself left the SAS after being falsely accused of complicity in David's betrayal.\n\n**Zombie Scenario: Season 4 (Encounter / Conspiracy / Envy Mask / Paranoia).** After Vanguard Company collapses and David Black and Erika vanish from the Panic Room, Gerard leads a team sent to retrieve research samples from the ruined Vanguard base and deliver them to Jim's transport team waiting in the polar regions. One soldier is infected by a sample en route, the aircraft crash-lands, and only some of the team escape onto the transport train. Gerard's team reclaims the sample from Frozen Terror and joins Jim (leader of the Red Lizard); together they push through the polar wastes to deliver the sample to a secret client - who turns out to be Dr. Rex, greeting them with waves of zombies. Jim and Gerard prepare for the final confrontation, which ends with the infected Dr. Rex's defeat.\n\n**Zombie Scenario: Season 7 - Lowdown.** David Black and Erika, following coordinates from the attacked Rex Labs, meet Gerard instead of Soi. Gerard has learned that Douglas Jacob was hidden behind Dr. Rex all along and that Erika's earlier kidnapping was engineered by Douglas. From Season 8 onward Gerard, David and Erika operate as one team against Kronos.",
+  "personality": null,
+  "quotes": [],
+  "abilities": [
+    {
+      "name": "Zombie Scenario stat profile",
+      "description": "High attack power (+3) and high reserve ammo (+3), but low HP (-3) and low Kevlar strength (-2). Good for fast levelling and solo striking; punishes careless damage intake."
+    },
+    {
+      "name": "Point/EXP bonus",
+      "description": "Using Gerard rewards 15% additional points and EXP (20% in internet cafes)."
+    }
+  ],
+  "zombieScenarioStats": {
+    "health": "18/28",
+    "attack": "24/28",
+    "mobility": "21/28",
+    "armor": "19/28",
+    "ammo": "23/28"
+  },
+  "favoriteWeapons": [
+    "Pistol",
+    "Submachine gun",
+    "Shotgun",
+    "Rifle",
+    "Machine gun",
+    "Melee",
+    "Equipment"
+  ],
+  "appearanceDescription": "Spiky dark-blonde hair, goatee, blue eyes. Orange jacket over a white shirt, black fingerless gloves, dark-blue jeans with a red chain accessory, brown leather shoes.",
+  "obtainedFrom": "Code Box, Top Class Decoder, or certain events",
+  "appearances": {
+    "gameModes": ["Zombie Scenario", "Original / general modes (Counter-Terrorist team)"],
+    "maps": [
+      "Hitchhiking",
+      "Encounter",
+      "Conspiracy",
+      "Envy Mask",
+      "Paranoia",
+      "Lowdown",
+      "Italy",
+      "Blaze",
+      "Toxicity",
+      "Decoy",
+      "Suzhou"
+    ],
+    "scenarios": [
+      "Zombie Scenario: Season 4 (guiding NPC for all chapters)",
+      "Hitchhiking (mysterious guiding NPC)",
+      "Zombie Scenario: Season 7 - Lowdown",
+      "Zombie Scenario: Season 8"
+    ]
+  },
+  "weapons": [
+    "Glock 18",
+    "M14 EBR",
+    "Dual Infinity",
+    "Dragon Tail",
+    "Kriss / Dual Kriss",
+    "BALROG-XI",
+    "BALROG-IX",
+    "SKULL-1",
+    "SKULL-3 / Akimbo SKULL-3",
+    "SKULL-4",
+    "M16A4",
+    "Lightning Dao-1",
+    "THANATOS-7",
+    "Magnum Drill"
+  ],
+  "relatedCharacters": [
+    "David Black - Terrorist counterpart, former mentor",
+    "Jennifer - apparent long-distance relationship (Zombie Shelter trailer)",
+    "Jim (Red Lizard) - ally in Season 4",
+    "Erika",
+    "Dr. Rex - the 'secret client'",
+    "Douglas Jacob",
+    "Drill Instructor Gerard - transcendent variant",
+    "Sheriff Gerard - variant"
+  ],
+  "voiceActors": [],
+  "release": [],
+  "trivia": [
+    "Using Gerard rewards 15% extra points and EXP (20% in internet cafes).",
+    "Seems to have a long-distance relationship with Jennifer, according to the Zombie Shelter official trailer.",
+    "Was the mysterious guiding NPC in Hitchhiking and the revealed guiding NPC across all Zombie Scenario: Season 4 chapters.",
+    "His hidden-NPC message graphic is shared with David Black.",
+    "Variants: Drill Instructor Gerard (transcendent) and Sheriff Gerard."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/7/76/Gerrard.png",
+      "caption": "Infobox portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/8e/Gerrard_ingamemdl.png",
+      "caption": "In-game model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/89/Gerrard_shopmdl.png",
+      "caption": "Shop model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f1/Gerrard_icon.png",
+      "caption": "Buy icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/48/Gerard_concept_art.png",
+      "caption": "Promotional art"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/3b/Zsm_poster.jpg",
+      "caption": "Lost City poster (Gerard, David Black, Ritsuka)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/3d/41789_106050902854733_1279641380_n.jpg",
+      "caption": "Gerard with Glock 18 in Italy"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/ef/Gerrard_and_davidblack.jpeg",
+      "caption": "Gerard confronting David Black"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/65/2009102901.jpg",
+      "caption": "Zombie 3: Hero poster (Gerard, David Black, Hero in Abyss3)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/a/a3/O080010971309430322296.jpg",
+      "caption": "Gerard poster in Blaze"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f0/Cs1z.jpg",
+      "caption": "Last Clue poster: 707, David Black and Gerard vs Phobos"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/8b/Gerrard_taiwan_poster.jpg",
+      "caption": "Gerard fighting Revenant in Toxicity"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/cd/536636_319574044779004_284455941624148_856327_1275211942_n.jpg",
+      "caption": "Gerard engaging Revenant with M14 EBR"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/5a/Tw05.png",
+      "caption": "Gerard fighting Revenant in Decoy"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/b6/Dual_infinity_gerrard_suzhou.jpg",
+      "caption": "Gerard wielding Dual Infinity in Suzhou"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/c8/Anonymous_msg.png",
+      "caption": "Hidden NPC message portrait (Hitchhiking)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/1a/Gerrard_msg.png",
+      "caption": "NPC message portrait (Zombie Scenario: Season 4)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/6b/Gerrards.jpg",
+      "caption": "In-game screenshot"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/b1/Hud_gerrard.png",
+      "caption": "HUD portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/10/DragonClaw021.jpg",
+      "caption": "Gerard with Dragon Tail"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/0a/Gerardwiththanatos7.png",
+      "caption": "Gerard wielding THANATOS-7"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/7/71/Gerrard_angry.png",
+      "caption": "Expression: Angry"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/8b/Gerrard_laugh.png",
+      "caption": "Expression: Laugh"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/1e/Gerrard_smile.png",
+      "caption": "Expression: Smile"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/6b/Gerrard_usual.png",
+      "caption": "Expression: Usual"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Gerard",
+  "sections": [
+    "Background",
+    "Zombie Scenario Stats",
+    "Trivia",
+    "Favorite weapons",
+    "Appearance",
+    "Gallery"
+  ],
+  "sourceNotes": "Season 4 and Season 7 storyline summarised from https://cso.fandom.com/wiki/Zombie_Scenario:_Season_4 and https://cso.fandom.com/wiki/Zombie_Scenario:_Season_7.",
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

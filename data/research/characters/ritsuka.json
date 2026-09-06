@@ -1,0 +1,175 @@
+{
+  "slug": "ritsuka",
+  "name": "Ritsuka",
+  "aliases": ["リツカ", "ritsuka (system name)"],
+  "kind": "human",
+  "side": "tr",
+  "grade": null,
+  "classType": "Cash female Terrorist character; NPC in Zombie Scenario (Episode Choi, All-Out, Abandoned Hound)",
+  "factions": ["Terrorist", "Asia Red Army (ARA)", "Kronos (as Agent Ritsuka, later cut ties)"],
+  "profile": {
+    "gender": "Female",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": "Asia",
+    "nationality": null,
+    "occupation": "Mercenary; regular member of the Asia Red Army; later a Kronos operative",
+    "bloodType": null,
+    "birthday": null,
+    "raceAffiliation": "Human / Asia Red Army",
+    "status": "Alive"
+  },
+  "tagline": "Reborn of Athena - raised in war zones, sworn to keep the Red Army's secrets from getting out.",
+  "summary": "Ritsuka is a female Terrorist character (official description: 'Reborn of Athena') and Choi Ji Yoon's TR counterpart. Born in Asia and caught up in domestic warfare from childhood, she became a regular member of the Asia Red Army during her mercenary years. When she caught a spy reading the ARA's secret papers, she made it her mission to stop that information from leaking. She later works for Kronos as 'Agent Ritsuka' before cutting ties after her capture in the Overflow chapter.",
+  "story": "**Background.** Born in Asia, Ritsuka was drawn into domestic warfare from an early age, accumulating combat experience and eventually becoming a regular member of the ARA during her time as a mercenary. There she discovered a spy (Choi Ji Yoon) reading the ARA's secret documents, and she now does everything she can to keep that information from getting out.\n\n**Zombie Scenario: Season 6 - Episode Choi.** Ritsuka is the one who unmasks the CIA infiltrator Choi Ji Yoon and holds her hostage; May is sent to rescue Choi. The episode reveals the ARA (led by Mr. X) is bankrolled by Douglas Jacob.\n\n**Kronos period (Agent Ritsuka / Douglas Jacob page).** On Mr. X's recommendation Douglas Jacob picked Ritsuka as an employee tasked with kidnapping or killing those who resist Kronos. Placed under heavy scrutiny after the failed kidnapping of Choi Ji Yoon, she hid her affiliation and began handling missions personally. When both the ARA and Ritsuka failed to meet his expectations, Douglas moved to sabotage them.\n\n**Zombie Scenario: Season 8 - Abandoned Hound / Overflow.** Asked by Douglas to stop David Black and Erika's party, Ritsuka ambushes them at a remote factory but fails, loses contact with Douglas and the super soldiers sent to support her, and retreats to the Asia Red Army hideout - only to find it in ruins. After being captured by Alin and Dominique in Overflow, she cuts ties with Kronos and decides to help Carlito instead.",
+  "personality": null,
+  "quotes": [{ "text": "Reborn of Athena", "context": "Official description" }],
+  "abilities": [],
+  "zombieScenarioStats": {
+    "health": "16/28",
+    "attack": "23/28",
+    "mobility": "26/28",
+    "armor": "17/28",
+    "ammo": "23/28"
+  },
+  "appearanceDescription": "Short black hair (brown in promotional art), brown eyes (grey after the 24 Feb 2022 update). Bandage-wrap top, black choker, bandaged arms, a black squirrel tattoo on her left shoulder, red belt, a bandage-wrapped knife on her left thigh, brown cowboy boots.",
+  "costPerRegion": {
+    "Taiwan/Hong Kong": "199 CASH (Permanent)",
+    "Singapore/Malaysia": "2000 CASH (3 days) / 4000 (10 days) / 6000 (30 days)",
+    "Indonesia": "7500 MI-CASH (1 day) / 15,000 (3 days) / 30,000 (10 days) / 45,000 (30 days) / 90,000 (Permanent)",
+    "Vietnam": "189 Golds (Permanent)"
+  },
+  "obtainedFrom": "Cash shop (released with Choi Ji Yoon in the Double Agent Package); Code Box",
+  "appearances": {
+    "gameModes": ["Original / general modes (Terrorist team)", "Zombie Scenario"],
+    "maps": ["Episode Choi", "All-Out", "Abandoned Hound", "Overflow", "Lost City (poster)"],
+    "scenarios": [
+      "Zombie Scenario: Season 6 - Episode Choi (NPC)",
+      "Zombie Scenario: Season 7 - All-Out (NPC)",
+      "Zombie Scenario: Season 8 - Abandoned Hound, Overflow"
+    ]
+  },
+  "weapons": ["Lightning Bazzi-1 (pictured)", "L85A2 (pictured with Santa hat)"],
+  "relatedCharacters": [
+    "Choi Ji Yoon - Counter-Terrorist counterpart; the spy she exposed",
+    "Mr. X - ARA leader",
+    "Douglas Jacob - Kronos employer",
+    "Carlito - whom she later helps",
+    "Alin and Dominique - captured her in Overflow",
+    "Ghost Bride Ritsuka - alternate outfit",
+    "Agent Ritsuka, Guide Ritsuka, Pathfinder Ritsuka - transcendent variants"
+  ],
+  "voiceActors": [],
+  "release": [
+    {
+      "region": "sg",
+      "date": "2011-09-21",
+      "note": "Singapore/Malaysia - with Choi Ji Yoon and Double Agent Package"
+    },
+    { "region": "id", "date": "2012-01-04", "note": "Indonesia" },
+    { "region": "tr", "date": "2013-07-24", "note": "Turkey" },
+    { "region": "csn", "date": "2014-12-16", "note": "CSN:Z / CSN:S" },
+    { "region": "vn", "date": "2015-04-23", "note": "Vietnam" }
+  ],
+  "trivia": [
+    "A parody of Mei Shigenobu, daughter of the Japanese Red Army's leader, who was raised by members of the group.",
+    "Wears the most revealing outfit of the female characters; on 24 February 2022 her underwear was toned down and her face/eye colour (now grey) slightly changed.",
+    "Promotional art shows light-brown hair while the in-game model is black-haired (as with Choi Ji Yoon).",
+    "Appears as a non-playable supporting character in Episode Choi (Season 6) and in All-Out (Season 7)."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f4/Ritsuka.png",
+      "caption": "Infobox portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f7/Ritsuka_playermodel.png",
+      "caption": "In-game model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/02/Ritsuka_ingamemdl.png",
+      "caption": "In-game model (old)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/5f/Ritsuka_shopmodel.png",
+      "caption": "Shop model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/dc/Ritsuka_msg.png",
+      "caption": "NPC message portrait (Episode Choi)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/05/Ritsuka_wkartred.png",
+      "caption": "Ritsuka with Lightning Bazzi-1"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/13/Ritsuka_wsanta_hat_l85a2.png",
+      "caption": "Ritsuka with Santa hat and L85A2"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/be/171568.jpg",
+      "caption": "Promotional art"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/68/Ritsuka_icon.png",
+      "caption": "Buy icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/93/Ritsuka_spray.png",
+      "caption": "Spray"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/c9/Ritsuka_sd_HD.png",
+      "caption": "SD spray"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/2b/Newgirl.jpg",
+      "caption": "South Korea poster (with Choi Ji Yoon)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/91/Kartteamkp%27.png",
+      "caption": "Cart Rider Best Friend South Korea poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/7/71/Csw5102451hc2p81Ra.jpg",
+      "caption": "Taiwan/Hong Kong poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/9e/Chritsucp.jpg",
+      "caption": "China poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/7/75/RitsukaPoster.jpg",
+      "caption": "Japan poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/be/Ritsuka_promo.jpg",
+      "caption": "Singapore/Malaysia poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/28/Ritsuka_poster_th.jpg",
+      "caption": "Thailand poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/e1/Ritsuka_choijiyoon_turkey_poster.png",
+      "caption": "Turkey resale poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/3b/Zsm_poster.jpg",
+      "caption": "Lost City poster (Ritsuka, David Black, Gerard)"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Ritsuka",
+  "sections": [
+    "Background",
+    "Events",
+    "Favorite weapons",
+    "Zombie Scenario Stats",
+    "Appearance",
+    "Gallery",
+    "Trivia"
+  ],
+  "sourceNotes": "Kronos-era details from https://cso.fandom.com/wiki/Kronos (Agent Ritsuka) and https://cso.fandom.com/wiki/Douglas_Jacob (Mr. X section); Season 8 from https://cso.fandom.com/wiki/Zombie_Scenario:_Season_8.",
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

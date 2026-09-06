@@ -1,0 +1,95 @@
+{
+  "slug": "vanguard-company",
+  "name": "Vanguard Company",
+  "aliases": ["The Vanguards", "Vanguard Lab", "Vanguard Laboratory"],
+  "side": "tr",
+  "sideNote": "Hostile to the government and a sponsor of terrorists; the main antagonist force of Human Scenario mode. Later revealed to be a child company of Kronos.",
+  "summary": "The Vanguard Company is a shadowy munitions company and the main antagonist of Human Scenario mode. Emerging after the Siege Types were released in the Chaos chapter, it seized Siege Type samples from the rescue team by force, then suffered a catastrophic zombie outbreak when its research on those samples went wrong (Zombie Scenario: Season 3). Its Trooper, Ghost, Lancer and Titan soldiers are products of Dr. Rex's Super Soldier project, which Vanguard supported. Episode Carlito later reveals it was a subsidiary of Kronos, and that its destruction was orchestrated by Douglas Jacob.",
+  "description": "One of the world's most ill-fated munitions companies. Industry insiders assume a parent company controls it from behind, since little is known about its finances relative to its size. It does not hesitate to act against governments and it sponsors terrorists. Its soldiers - Titan, Ghost, Trooper and Lancer - appear to be outcomes of Dr. Rex's Super Soldier project, supported by Vanguard: humans reinforced with high technology for survivability and firepower. On completion of the project, Dr. Rex was found to have left the company.",
+  "lore": "**Human Scenario / Sidewinder.** After the Siege Types were unleashed in Chaos, Vanguard was tasked with taking the Siege Type samples from the rescue team to the Vanguard Lab. Government forces engaged them at Commander Victor's request, but Vanguard took the sample by force and withdrew.\n\n**Zombie Scenario: Season 3.** Research on the Siege Type samples went wrong and triggered a zombie-virus outbreak inside the Vanguard Lab. Some staff escaped by air; the rest had to reach the Panic Room to evacuate - only to find the lab's own defence system was infected too. Financier Norman, left behind, captured Erika to force David Black's AFC army toward the Panic Room; he is understood to have been infected there and died. The Vanguard Lab was destroyed and the fate of its personnel is unknown.\n\n**Kronos connection (Episode Carlito).** Vanguard was a child company of Kronos used as mercenaries to recover Dr. Rex's research. Douglas Jacob orchestrated the outbreak that destroyed it; Carlito and his unit became the last Vanguards, and Douglas later tried to eliminate them too. Vanguard troops also appear (as unfought dummy models) at the start of Episode Victor.",
+  "troops": [
+    {
+      "name": "Trooper",
+      "description": "Most common enemy; M14 EBR and HE grenades; deadly up close but weak armour and HP."
+    },
+    { "name": "Ghost", "description": null },
+    { "name": "Lancer", "description": null },
+    { "name": "Titan", "description": null },
+    { "name": "Heavy Titan", "description": null }
+  ],
+  "weaponsAdopted": ["M14 EBR", "M134 Minigun", "AWP Camo", "AT4-Lance"],
+  "leaders": [
+    "Douglas Jacob - supervises the Vanguard Lab research project (via Kronos)",
+    "Norman - fund provider after the sample acquisition"
+  ],
+  "members": [
+    "Norman",
+    "Carlito (veteran mercenary; last of the Vanguards)",
+    "Douglas Jacob",
+    "Trooper / Ghost / Lancer / Titan / Heavy Titan (super-soldier troops)"
+  ],
+  "enemies": ["Government forces (Commander Victor)", "David Black's AFC army", "Aegis Institute"],
+  "trivia": [
+    "In military terms a vanguard is the leading part of an advancing formation, scouting the enemy and securing ground ahead of the main force.",
+    "Douglas Jacob is the fundamental person supervising the research project in the Vanguard Lab."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f8/100831_3_1024_768.jpg",
+      "caption": "The Vanguards (group art)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/4f/HScen_Enemy3.png",
+      "caption": "Human Scenario enemy (Trooper)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/4e/HScen_Sniper.png",
+      "caption": "Human Scenario enemy (Ghost/sniper)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/dd/HScen_Enemy4.png",
+      "caption": "Human Scenario enemy (Lancer)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/0d/HScen_Enemy1.png",
+      "caption": "Human Scenario enemy (Titan)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/cd/HScen_HTitan.png",
+      "caption": "Heavy Titan"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f9/Norman_msg.png",
+      "caption": "Norman message portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/a/a6/Carlitoicon.png",
+      "caption": "Carlito icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/19/Jacob_msg.png",
+      "caption": "Douglas Jacob message portrait"
+    },
+    { "url": "https://static.wikia.nocookie.net/cso/images/1/13/M14ebr.png", "caption": "M14 EBR" },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/9e/M134_gfx.png",
+      "caption": "M134 Minigun"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/5a/Awpcamo.png",
+      "caption": "AWP Camo"
+    },
+    { "url": "https://static.wikia.nocookie.net/cso/images/1/18/At4.png", "caption": "AT4-Lance" }
+  ],
+  "emblemNote": "No standalone logo on the wiki page; the group art (first image) is the best visual identifier.",
+  "wikiUrl": "https://cso.fandom.com/wiki/Vanguard_Company",
+  "sections": [
+    "Overview",
+    "Vanguard Troops",
+    "Specific Characters",
+    "Weapons adopted",
+    "Trivia",
+    "External link"
+  ],
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

@@ -1,0 +1,166 @@
+{
+  "slug": "dione",
+  "name": "Dione",
+  "aliases": ["zbs_bossl_big03 (system name)", "zg_dione (Zombie Giant system name)"],
+  "kind": "boss",
+  "side": "zombie",
+  "grade": null,
+  "classType": "Boss (Zombie Scenario: Season 2); playable giant zombie in Zombie Giant mode",
+  "factions": ["Zombie", "Rex Research Institute (origin)"],
+  "profile": {
+    "gender": "Male",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": null,
+    "nationality": null,
+    "occupation": null,
+    "bloodType": null,
+    "birthday": null,
+    "raceAffiliation": "Alien / Rex Research Institute",
+    "status": "Wounded, Escaped, Evolved (into Siege Type Dione, then Angra)"
+  },
+  "tagline": "The reptilian horror of the Caribbean jungle - the first boss that refused to die.",
+  "summary": "Dione is the reptilian boss of Zombie Scenario: Season 2, first met in the Toxicity chapter one year after the Lost City incident when the LS team, guided by Aegis researcher Soy, parachutes into the Caribbean jungle to look for clues about Dr. Rex. Uniquely for its time, Dione is not killed when its health is depleted: it escapes wounded, harasses the team in Culvert, evolves into Siege Type Dione, and ultimately becomes Angra. It later became a playable zombie in Zombie Giant mode.",
+  "story": "**Season 2 arc.** In Toxicity, the LS team defeats Dione but it escapes. Senior Researcher Soy reports that the beast was badly injured and that headquarters has ordered the pursuit to continue - capture it alive if possible, kill it if not. The team tracks Dione into the culverts (Culvert chapter), where it attacks from round 4 to 8 before evolving into Siege Type Dione at round 9; countless zombies pour in to meet the team at the same time. The LS captain later briefs the team on using a lure device (which also attracts zombies) to draw the monster out, and finally, at a ruined facility, explains that Dione - transforming due to Z-VIRUS infection - is in a defenceless chrysalis stage that must be destroyed before it can emerge (leading into Angra Nest). Dione also appears in round 3 of Poisoning and in Collapse.\n\n**Zombie Giant.** Dione is one of the playable zombies controlled in third person; a new death animation was created because the Scenario version never dies. Unlike Revenant and Fallen Titan, which get new skins when evolving, Dione simply becomes Siege Type Dione on evolution and gains a fourth skill that summons an Angra to support it.",
+  "personality": null,
+  "quotes": [],
+  "abilities": [
+    {
+      "name": "Tentacle (ground pound)",
+      "description": "Pounds the ground so black spots appear nearby, then tentacles erupt from them, tossing caught players upward for tentacle plus fall damage. Two variants: a single stab with instant tentacles, and a 7-stab sequence covering a large area with a delay. Can be avoided by crouching and moving, or ducking so the tentacles cannot toss you."
+    },
+    {
+      "name": "Poison (toxic wave / spit)",
+      "description": "Sways its head and moans for 3-4 seconds, then spews a long-range wave of toxin that damages or kills players who fail to take cover (ideally 180 degrees from its line of sight). Can be dodged with a well-timed jump."
+    },
+    {
+      "name": "Rolling",
+      "description": "Curls up and rolls to another spot, dealing heavy or lethal damage to anyone in its path; melee attacks are risky below half health."
+    },
+    {
+      "name": "Circular swipe (disarm)",
+      "description": "A spinning swipe with a chance to knock weapons out of players' hands within its radius."
+    },
+    {
+      "name": "Summon Angra (Evolution skill, Zombie Giant)",
+      "description": "After evolving into Siege Type Dione, can summon an Angra that soars overhead and uses poison breath."
+    },
+    {
+      "name": "Weak point",
+      "description": "Chest (and probably head); hitting other parts only chips its health bar. Attacks grow deadlier and wider-ranging as its health drops."
+    }
+  ],
+  "appearances": {
+    "gameModes": ["Zombie Scenario", "Zombie Giant", "Boss Chase / Forsaken / Splash (killable)"],
+    "maps": ["Toxicity", "Culvert", "Poisoning", "Collapse", "Decoy (per intro)"],
+    "scenarios": ["Zombie Scenario: Season 2"]
+  },
+  "weapons": [],
+  "relatedCharacters": [
+    "Siege Type Dione - evolved form",
+    "Angra - final evolution",
+    "Revenant - fellow Season 2 boss",
+    "Soy (Soi) - Aegis researcher who calls out Dione's attacks",
+    "Dr. Rex - creator"
+  ],
+  "voiceActors": [],
+  "release": [],
+  "honorMission": {
+    "title": "Dione Pursuer",
+    "task": "Defeat Dione 100 times (Pursuit: Toxicity, rooms of 4+ players, easy stage excluded)."
+  },
+  "trivia": [
+    "Named after Dione of Greek mythology; possibly also after Saturn's icy moon.",
+    "Standing where Dione lands gets the player crushed.",
+    "The first boss that did not die when its health was fully depleted - it was merely wounded and escaped to evolve (the second such boss is Tesla in Counter-Strike Online 2).",
+    "Can be killed in Boss Chase, Forsaken and Splash."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/b6/Dione.png",
+      "caption": "Infobox portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/3b/Dione_ingamemdl.png",
+      "caption": "In-game model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/1e/Dione_modelhd_2.png",
+      "caption": "In-game model (HD)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/38/Dione_modelhd_1.png",
+      "caption": "In-game model (HD, 2)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/7/78/Dione_dummy.png",
+      "caption": "Dummy model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/94/Monksssssssssssss.png",
+      "caption": "Tentacle model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/1c/I_am_dione.png",
+      "caption": "In-game screenshot"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/48/Dione_spining.png",
+      "caption": "Rolling attack screenshot"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/20/3927179973609127937.jpg",
+      "caption": "Poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/fe/Bosshp_bg_left_dione.png",
+      "caption": "Boss HP HUD"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/01/Bosshp_bg_left_dione_new.png",
+      "caption": "Boss HP HUD (new)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/b6/Dione_attack_poison.png",
+      "caption": "Poison spit attack"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/c0/Dione_attack_tentacle.png",
+      "caption": "Tentacle attack"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/a/aa/Dione_attack_roll.png",
+      "caption": "Rolling attack"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/41/Diones5.jpg",
+      "caption": "South Korea poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/e5/Dionecp.jpg",
+      "caption": "China poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/cb/Dione.gif",
+      "caption": "Preview animation"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/6f/Hud_dione.png",
+      "caption": "Zombie Giant HUD portrait"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Dione",
+  "sections": [
+    "Overview",
+    "Fighting Dione",
+    "Zombie Giant",
+    "Skill Table",
+    "Minimal Weapons Required",
+    "Achievements / Honor mission",
+    "Gallery",
+    "Trivia"
+  ],
+  "sourceNotes": "Season 2 narrative beats summarised from https://cso.fandom.com/wiki/Zombie_Scenario:_Season_2 (Storyline).",
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

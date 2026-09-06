@@ -1,0 +1,24 @@
+{
+  "slug": "original",
+  "name": "Original",
+  "aliases": ["Original mode", "Classic", "Bomb Defusal / Hostage Rescue"],
+  "family": "original",
+  "tagline": "The classic Counter-Strike rules: round-based, no mid-round respawn, and money decides your loadout.",
+  "summary": "Original modes are the classic modes carried over from the original Counter-Strike - the Terrorist versus Counter-Terrorist mission maps. They use non-instantaneous respawn (you return only at the start of the next round) and put more weight on the money a player earns to buy weapons and equipment. The wiki counts four official modes in the Original category and notes a South Korean update on 8 August 2019 that added tournament-rule tweaks and UI improvements.",
+  "description": "Per the wiki, Original modes are the classic modes in original Counter-Strike. They promote non-instantaneous respawn, meaning players respawn only at the start of the next round, and place more importance on the amount of money a player has to buy weapons and equipment. There are four official modes categorised as Original modes (the digest did not render their names). As of 8 August 2019 in South Korea, Original mode was updated with new features including tournament rule modifications and UI improvements. Faction-exclusive basic weapons apply here (for example AK-47 for Terrorists and M4A1 for Counter-Terrorists).",
+  "lore": null,
+  "rules": [
+    "Round-based; dead players respawn at the start of the next round.",
+    "Money earned per round buys weapons and equipment.",
+    "Classic mission objectives from Counter-Strike (bomb, hostage and other original scenarios).",
+    "Some weapons are faction-exclusive to buy in this mode."
+  ],
+  "maxPlayers": null,
+  "release": [],
+  "trivia": [
+    "The wiki main page lists 'Original' as the first game-mode family, alongside Team Deathmatch, Death (match) and Basic Gun (deathmatch) variants."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Original",
+  "_notes": "The fetched digest of this page was fragmentary; the four sub-mode names and map list were not rendered."
+}

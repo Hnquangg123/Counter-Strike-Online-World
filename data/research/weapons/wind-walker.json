@@ -1,0 +1,52 @@
+{
+  "slug": "wind-walker",
+  "name": "Wind Walker",
+  "aliases": [],
+  "category": "pistol",
+  "grade": "transcendent",
+  "origin": null,
+  "manufacturer": null,
+  "caliber": "Shuriken cartridges (40 per cartridge)",
+  "tagline": "A Transcendent secondary weapon that hurls shurikens and rides the wind.",
+  "summary": "Wind Walker is a Transcendent-grade secondary weapon released in South Korea on 27 June 2024. It uses 40-shuriken cartridges and can either launch shurikens to damage an area or deal damage in a cone in front of the user. Its Shuriken Storm skill spends 4 shurikens for a short-range burst, and Wind Boost automatically activates when the wind energy gauge is full, adding auto-targeting, a faster fire rate and a 360-degree attack mode in Zombie and Scenario modes.",
+  "description": "Described by the wiki as a Secondary Weapon that uses 40-shuriken cartridges, able to launch shurikens for area damage or deal damage in a cone in front of the user. Right-click triggers Shuriken Storm, which consumes 4 shurikens to inflict damage in a shortened frontal range. Wind Boost activates automatically when all wind energy is fully charged, granting auto-targeting, increased fire rate and a 360-degree attack mode in Zombie/Scenario modes. Its design is based on the Tactical Knife and the shuriken-throwing mechanic was inspired by Genji from Overwatch. It was featured on the wiki main page as the 'New Transcendent Pistol'.",
+  "stats": {
+    "damage": "High",
+    "accuracy": "High",
+    "recoil": "Low",
+    "rateOfFire": "Low",
+    "weight": "Light",
+    "knockback": null,
+    "stun": null
+  },
+  "ammo": { "magazine": 40, "reserve": null, "type": "Shurikens" },
+  "price": null,
+  "fireModes": [
+    "Shuriken launch (area damage)",
+    "Shuriken Storm (right-click cone, consumes 4 shurikens)",
+    "Wind Boost (auto-activated 360-degree mode)"
+  ],
+  "obtainMethod": "Available only during limited times",
+  "advantages": ["High damage", "High accuracy", "Low recoil", "Light weight"],
+  "disadvantages": ["Low rate of fire", "Available only during limited times"],
+  "variants": [],
+  "characters": [],
+  "abilities": [
+    {
+      "name": "Shuriken Storm",
+      "description": "Activated by right-clicking; consumes 4 shurikens to inflict damage in a shortened front range."
+    },
+    {
+      "name": "Wind Boost",
+      "description": "Activates automatically when all wind energy is fully charged; grants auto-targeting, increased fire rate and a 360-degree attack mode in Zombie/Scenario modes."
+    }
+  ],
+  "release": [{ "region": "kr", "date": "2024-06-27", "note": null }],
+  "trivia": [
+    "Based on the Tactical Knife design.",
+    "Inspired by Genji's shuriken-throwing mechanics from Overwatch.",
+    "The pre-release inventory icon displayed paired shuriken weapons."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Wind_Walker"
+}

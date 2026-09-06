@@ -1,0 +1,38 @@
+{
+  "slug": "trap",
+  "name": "Trap",
+  "aliases": ["zs_trap"],
+  "gameMode": "Zombie Scenario",
+  "season": "Season 1",
+  "chapter": 3,
+  "tagline": "A voice calling itself 'Rex' lures the survivors to a rooftop for a final stand.",
+  "summary": "Trap is the third chapter of Zombie Scenario: Season 1, set on a small square rooftop ringed by buildings. After defending the ruined construction site, the survivors hear a mysterious voice from someone calling himself 'Rex'. Commander Andrey gathers the survivors on the rooftop - the source of the sound - for a final battle for survival, but the advance force is annihilated by endless zombies.",
+  "story": "The wiki's story summary: after defending the destroyed construction site, the survivors hear a mysterious voice from someone calling himself \"Rex\". Commander Andrey gathers the survivors to the rooftop, the source of the sound, for a \"final battle for survival\", but the advance force faces \"annihilation by endless zombies\" - the trap of the title. Their fate is picked up in the next chapter, Last Clue, where a rescue team finds Andrey's body and his notebook.",
+  "objectives": [
+    "Survive on the rooftop for 5 rounds with a 3-minute time limit per round.",
+    "Spawn in the centre rooftop surrounded by buildings; zombies climb in from all sides.",
+    "Both green and red Regular Zombies on this map throw accurate zombie grenades."
+  ],
+  "bosses": [],
+  "characters": ["Commander Andrey", "Dr. Rex (voice)"],
+  "maps": ["Trap (zs_trap)"],
+  "difficulties": ["easy", "normal", "hard", "very-hard", "hell"],
+  "rewards": [
+    "Honor mission: clear Trap 400 times - medal described as given to a player who has cleared the Zombie Scenario Trap map 400 times"
+  ],
+  "nextChapter": "Last Clue",
+  "release": [
+    { "region": "kr", "date": "2010-01-07", "note": null },
+    { "region": "sg", "date": "2011-03-30", "note": "Singapore/Malaysia" },
+    { "region": "id", "date": "2011-12-07", "note": null },
+    { "region": "csn", "date": "2014-09-23", "note": "Counter-Strike Nexon: Zombies" }
+  ],
+  "trivia": [
+    "The MOTEL billboard displays real-life logos (HBO, MTV, ESPN, CNN).",
+    "A blood-splatter easter egg can be triggered by slashing the centre of the ground with certain melee weapons.",
+    "Originally 50 rounds of 2 minutes, later reduced to 30 and then to the current 5 rounds.",
+    "Wiki tips: speed-based characters with medium-high health and A-tier or SS-tier weapons are recommended."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Trap"
+}

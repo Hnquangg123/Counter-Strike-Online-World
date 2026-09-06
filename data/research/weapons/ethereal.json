@@ -1,0 +1,65 @@
+{
+  "slug": "ethereal",
+  "name": "Ethereal",
+  "aliases": [],
+  "category": "assault-rifle",
+  "grade": null,
+  "origin": null,
+  "manufacturer": null,
+  "caliber": "Ether energy stones (30 per magazine)",
+  "tagline": "A second-generation sci-fi rifle that turns meteorite ether into light-wave beams.",
+  "summary": "Ethereal is a futuristic (science-fiction) assault rifle fed with 30 ether energy stones extracted from meteorite material, which it converts into light-wave beams when firing. It is light, fast-firing and low-recoil with a quiet report, but its damage and long-range accuracy are low, it runs dry easily and its ammunition cannot be shared. It was obtainable only through the Bingo Event and Code Box.",
+  "description": "The wiki describes Ethereal as a 2nd-generation futuristic assault rifle fed with 30 ether energy stones, extracted from meteorite material, that converts energy into light-wave beams during firing. Relative to the Blaster (its predecessor in the sci-fi line) it is 8% lighter, has 3% lower recoil, 1% lower rate of fire, 4% lower accuracy and costs $400 more. Base damage is 26. Its firing sound is loud to the user but hard for distant players to hear, it leaves blue bullet trails and hit particles similar to the Thunderbolt, and 30 rounds deal roughly 7,000 damage to a boss at maximum firepower. An upgraded version, Ethereal Hero, deals increased zombie damage and fires a laser beam by converting compressed ether energy.",
+  "stats": {
+    "damage": "26 (standard)",
+    "accuracy": "Lower than the Blaster (-4%)",
+    "recoil": "Low (3% lower than the Blaster)",
+    "rateOfFire": "High (1% lower than the Blaster)",
+    "weight": "Light (8% lighter than the Blaster)",
+    "knockback": "Low",
+    "stun": "High"
+  },
+  "ammo": {
+    "magazine": 30,
+    "reserve": null,
+    "type": "Ether energy stones (cannot be shared with other weapons)"
+  },
+  "price": "$400 more than the Blaster",
+  "fireModes": [],
+  "obtainMethod": "Bingo Event and Code Box only",
+  "advantages": [
+    "Short reload time",
+    "High rate of fire",
+    "Light weight",
+    "Low recoil",
+    "Quiet firing sound to distant players"
+  ],
+  "disadvantages": [
+    "Low damage for a rifle",
+    "Low accuracy at long range",
+    "Easily runs dry",
+    "Ammo cannot be shared",
+    "Expensive"
+  ],
+  "variants": ["Ethereal Hero", "Blaster (predecessor)"],
+  "characters": ["Natasha (featured in casual posters for the weapon)"],
+  "abilities": [],
+  "release": [
+    { "region": "kr", "date": "2012-06-28", "note": null },
+    { "region": "tw", "date": "2012-07-04", "note": "Taiwan/Hong Kong" },
+    { "region": "cn", "date": "2012-07-04", "note": null },
+    { "region": "sg", "date": "2013-11-20", "note": "Singapore/Malaysia" },
+    { "region": "id", "date": "2014-02-26", "note": null },
+    { "region": "csn", "date": "2015-04-01", "note": "Counter-Strike Nexon: Zombies" },
+    { "region": "vn", "date": "2015-05-21", "note": null }
+  ],
+  "trivia": [
+    "30 rounds deal about 7,000 damage to a boss at maximum firepower.",
+    "Firing sound is loud for the user but hard to hear for other players from far away.",
+    "Blue bullet trails and hit particles, similar to the Thunderbolt.",
+    "Has an unused idle sound.",
+    "Natasha is featured in its casual posters."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Ethereal"
+}

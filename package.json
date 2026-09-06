@@ -1,0 +1,47 @@
+{
+  "name": "csow",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Counter-Strike Online World — the living archive of Counter-Strike Online: characters, weapons, scenarios, modes, lore and music, with a public API.",
+  "license": "MIT",
+  "packageManager": "pnpm@10.28.0",
+  "engines": {
+    "node": ">=22.12.0",
+    "pnpm": ">=10"
+  },
+  "scripts": {
+    "dev": "turbo run dev --filter=@csow/web",
+    "build": "turbo run build",
+    "start": "pnpm --filter @csow/web start",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write .",
+    "format": "biome format --write .",
+    "typecheck": "turbo run typecheck",
+    "test": "turbo run test",
+    "test:e2e": "pnpm --filter @csow/web test:e2e",
+    "payload": "pnpm --filter @csow/web payload",
+    "generate:types": "pnpm --filter @csow/web generate:types",
+    "generate:importmap": "pnpm --filter @csow/web generate:importmap",
+    "seed": "pnpm --filter @csow/web seed",
+    "seed:reset": "pnpm --filter @csow/web seed:reset",
+    "ingest": "pnpm --filter @csow/ingest start",
+    "ai": "pnpm --filter @csow/ai start",
+    "clean": "turbo run clean && rm -rf node_modules"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.5.12",
+    "babel-plugin-react-compiler": "^1.0.0",
+    "turbo": "^2.10.12",
+    "typescript": "~5.9.3"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "sharp",
+      "esbuild",
+      "unrs-resolver",
+      "@biomejs/biome",
+      "@libsql/client",
+      "libsql"
+    ]
+  }
+}

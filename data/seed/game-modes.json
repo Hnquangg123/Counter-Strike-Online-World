@@ -1,0 +1,900 @@
+[
+  {
+    "slug": "deathmatch",
+    "name": "Deathmatch",
+    "aliases": ["DM", "Free-for-all"],
+    "family": "original",
+    "tagline": {
+      "en": "Every player for themselves - first to the kill count wins."
+    },
+    "summary": {
+      "en": "Deathmatch pits every player against each other regardless of the team they joined. Like Team Deathmatch it began as a server-side custom mode in the original Counter-Strike and was made official in CSO; the first player to reach the set number of kills, or the leader when the timer runs out, wins."
+    },
+    "description": {
+      "en": "The wiki describes Deathmatch as a game mode in Counter-Strike Online, a server-side custom mode from the original Counter-Strike made official in CSO. Every player is pitted against each other regardless of the team they joined beforehand, and the player who reaches the set amount of kills first or leads when the timer runs out is the winner. Trivia notes a respawn bug where a player may spawn on top of another, leaving both stuck until one kills the other, and a teammate health-visibility feature."
+    },
+    "rules": [
+      {
+        "en": "Free-for-all: all players are enemies."
+      },
+      {
+        "en": "Win by reaching the kill target first or leading when the timer ends."
+      },
+      {
+        "en": "Instant respawn."
+      }
+    ],
+    "release": [],
+    "trivia": [
+      {
+        "en": "Players can occasionally respawn on top of one another and get stuck until one is killed."
+      },
+      {
+        "en": "The wiki main page lists 'Death Basic Gun' variants (Basic Gun Deathmatch) alongside Deathmatch in the Original family."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Deathmatch",
+      "title": "Deathmatch",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "hide-and-seek",
+    "name": "Hide and Seek",
+    "aliases": ["Prophunt", "Prop Hunt", "Prophet Hunt (main-page label)"],
+    "family": "fun",
+    "tagline": {
+      "en": "Turn into a random object and stay hidden while M3-armed seekers hunt you down."
+    },
+    "summary": {
+      "en": "Hide and Seek is CSO's prop-hunt mode (South Korea 25 July 2019). Hiders transform into random objects and must survive undetected until time runs out; seekers, armed only with the M3 shotgun, must find every disguised player and lose health when their shots hit nothing. Custom maps for the mode can be built in Studio."
+    },
+    "description": {
+      "en": "The wiki's blurb: it is a game you win by turning into a random object and surviving for a limited time without being detected. Hiders (object team) transform into random objects, get a second transformation opportunity mid-game and can rotate the transforming machine up to three times per game; they cough when a smoke grenade explodes nearby, and smaller objects have less health. Seekers (human team) carry only the M3 shotgun, do not respawn when eliminated (they can only send compliments while spectating) and lose health if their shots do not hit an object player; burning does not damage seekers. Maps can be created with Studio Create."
+    },
+    "rules": [
+      {
+        "en": "Hiders win by surviving the time limit undetected."
+      },
+      {
+        "en": "Seekers win by finding all object players or if the objects fail to survive."
+      },
+      {
+        "en": "Seekers use only the M3 shotgun and lose health on missed shots."
+      },
+      {
+        "en": "Hiders get a second transformation and up to three transform-machine uses per game."
+      },
+      {
+        "en": "Smoke grenades make nearby hiders cough."
+      }
+    ],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2019-07-25"
+      },
+      {
+        "region": "csn",
+        "date": "2019-08-21",
+        "note": "Counter-Strike Nexon: Zombies"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "The M3 is the only usable weapon in this mode."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Hide_and_Seek",
+      "title": "Hide and Seek",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "human-scenario",
+    "name": "Human Scenario",
+    "aliases": ["HS"],
+    "family": "scenario",
+    "tagline": {
+      "en": "Survive the Vanguard troop - elite human soldiers, Titans, snipers and attack helicopters - in the Middle East."
+    },
+    "summary": {
+      "en": "Human Scenario is CSO's second scenario mode. Instead of zombies, players fight a huge force of computer-controlled human soldiers called the Vanguard troop, completing annihilation or reach-the-target missions across five Middle-Eastern maps. Enemies range from Troopers and Titans to cloaked Ghost snipers, Lancers with AT4s and boss vehicles such as the RAH-66 Comanche, V-22 Osprey and XT-300 Goliath."
+    },
+    "description": {
+      "en": "Per the wiki, Human Scenario depicts the battle between the players and a huge group of computer-controlled human soldiers called the Vanguard troop; players must survive their attacks and complete the given mission - either annihilating a number of enemies within the time limit or reaching a targeted area. Enemies carry weapons and shoot on sight, so fights are mostly middle-to-long range and weapons with high rate of fire, firepower and accuracy are recommended. Usable items include Battle Revival, Round Retry, Emergency Medicine and the Sentry Gun (ported from Half-Life). Health and armour are not shown on the HUD; a blood-red overlay indicates damage and health regenerates after about 60 seconds or on respawn. Enemy types: Trooper (M14 EBR, hand grenades), Titan (M134, smoke grenades), Ghost/Sniper (AWP, camouflage), Lancer (AT4), Heavy Titan (M134 Predator, 5000 HP), Drone (gatling gun, in Blaze). Bosses: RAH-66 Comanche (Desert Storm, Hellfire), V-22 Osprey (Blaze; transports drones and does not attack), XT-300 Goliath (Sidewinder). Maps in order: Desert Storm (annihilation, 10 rounds, Comanche; reward Black Box), Hellfire (pursuit, 2 rounds, Comanche; Pilot Dogtags), Mosque (sniper battle; top 3 rewarded), Blaze (pursuit + defence, 3 rounds, Osprey; Drone Controller), Sidewinder (annihilation, 10 rounds, Goliath; Black Box, Pilot Dogtags or Drone Controller)."
+    },
+    "lore": {
+      "en": "The wiki's story text (paraphrased): after obtaining the sample of Phobos' corpse from the unidentified facility (the end of Zombie Scenario chapter Last Clue), the troops set out to transport it to headquarters by a roundabout desert route for safety. In the desert a large-scale barrage suddenly rained down on them; they took cover in nearby ruins to protect the samples and saw armies of elite soldiers with huge airborne weapons - not zombies. Who were they? Analysis eventually identified the enemy as Vanguard Contact; a third army planned to push through the cities Vanguard occupied to join up. During an air transport the team would have been annihilated by a Drone attack had Red Lizard 'Jim' not let them board the Blaze, and secret reports revealed that 'Norman', the man Jim trusted most, had betrayed the mercenaries. In the Counter-Strike Nexon: Zombies framing, the enemy even brought a Comanche, which the troops destroyed after securing an abandoned building; after severe combat in a sandstorm Victor learned the origin of the unknown enemies, knew that fighting a munitions corporation would be suicidal, and heard rumours of a parent company behind them, upgraded with top technology and involved in illegal activities such as funding terrorists. This arc leads directly into Zombie Scenario Season 3 (Norman, the Vanguard Laboratory)."
+    },
+    "rules": [
+      {
+        "en": "PvE against AI human soldiers (Vanguard troop)."
+      },
+      {
+        "en": "Mission types: annihilate a set number of enemies within the time limit, or reach a targeted area."
+      },
+      {
+        "en": "Health/armour hidden from the HUD; damage shown by a red overlay; health regenerates after ~60 s or on respawn."
+      },
+      {
+        "en": "Items: Battle Revival, Round Retry, Emergency Medicine, Sentry Gun."
+      },
+      {
+        "en": "Enemy weapons cannot be picked up."
+      },
+      {
+        "en": "Rewards: Black Box, Pilot Dogtags, Drone Controller depending on map."
+      }
+    ],
+    "release": [],
+    "trivia": [
+      {
+        "en": "All Human Scenario maps take place in the Middle East."
+      },
+      {
+        "en": "Mosque was not released in Singapore/Malaysia and Indonesia due to religious concerns."
+      },
+      {
+        "en": "The Sentry Gun is ported directly from Half-Life with modifications."
+      },
+      {
+        "en": "Earlier versions had health/firepower upgrades and random Supply Boxes, later replaced by health regeneration and directed airstrikes."
+      },
+      {
+        "en": "The wiki notes the mode received no new storylines from Nexon due to lack of demand, unlike Zombie Scenario."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Human_Scenario",
+      "title": "Human Scenario",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "metal-arena",
+    "name": "Metal Arena",
+    "aliases": [],
+    "family": "fun",
+    "tagline": {
+      "en": "Two factions of players and bots battle over bases in a MOBA-style arena."
+    },
+    "summary": {
+      "en": "Metal Arena is a PvPvE Fun mode in which two teams of players and AI bots - Blue and Red, each with three selectable characters - fight to reach a target score first. Teams capture bases that spawn bots, shorten respawns and generate points over time; players level up from bot kills and can teleport back to spawn."
+    },
+    "description": {
+      "en": "The wiki describes a mode in which two teams, each with allied players and AI bots, compete against each other; Metal Arena consists of 3 different characters in 2 factions, Blue and Red, and the faction with the highest score wins. Teams can gain bases to spawn bots; respawn time depends on the bases conquered, and standing in the spawn point replenishes ammo, health and armour. Bases are captured by staying in range (player-count differences shorten capture time) and held bases grant automatic team points. Players score by eliminating enemy players or Hector units and level up automatically with EXP from destroying bots. Pressing 0 teleports the player to spawn after 3 seconds with a 3-minute cooldown. Compatible maps: Quasar and Pulsar."
+    },
+    "rules": [
+      {
+        "en": "Reach the target team score before the enemy."
+      },
+      {
+        "en": "Capture and hold bases for bot spawns and passive points."
+      },
+      {
+        "en": "Kills on enemy players and Hector units score points; bot kills grant EXP for automatic level-ups."
+      },
+      {
+        "en": "Teleport to spawn with key 0 (3 s delay, 3 min cooldown)."
+      }
+    ],
+    "release": [],
+    "trivia": [],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Metal_Arena",
+      "title": "Metal Arena",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "original",
+    "name": "Original",
+    "aliases": ["Original mode", "Classic", "Bomb Defusal / Hostage Rescue"],
+    "family": "original",
+    "tagline": {
+      "en": "The classic Counter-Strike rules: round-based, no mid-round respawn, and money decides your loadout."
+    },
+    "summary": {
+      "en": "Original modes are the classic modes carried over from the original Counter-Strike - the Terrorist versus Counter-Terrorist mission maps. They use non-instantaneous respawn (you return only at the start of the next round) and put more weight on the money a player earns to buy weapons and equipment. The wiki counts four official modes in the Original category and notes a South Korean update on 8 August 2019 that added tournament-rule tweaks and UI improvements."
+    },
+    "description": {
+      "en": "Per the wiki, Original modes are the classic modes in original Counter-Strike. They promote non-instantaneous respawn, meaning players respawn only at the start of the next round, and place more importance on the amount of money a player has to buy weapons and equipment. There are four official modes categorised as Original modes (the digest did not render their names). As of 8 August 2019 in South Korea, Original mode was updated with new features including tournament rule modifications and UI improvements. Faction-exclusive basic weapons apply here (for example AK-47 for Terrorists and M4A1 for Counter-Terrorists)."
+    },
+    "rules": [
+      {
+        "en": "Round-based; dead players respawn at the start of the next round."
+      },
+      {
+        "en": "Money earned per round buys weapons and equipment."
+      },
+      {
+        "en": "Classic mission objectives from Counter-Strike (bomb, hostage and other original scenarios)."
+      },
+      {
+        "en": "Some weapons are faction-exclusive to buy in this mode."
+      }
+    ],
+    "release": [],
+    "trivia": [
+      {
+        "en": "The wiki main page lists 'Original' as the first game-mode family, alongside Team Deathmatch, Death (match) and Basic Gun (deathmatch) variants."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Original",
+      "title": "Original",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  },
+  {
+    "slug": "studio",
+    "name": "Studio",
+    "aliases": ["Studio (mode)", "Studio Create", "Studio Play", "Fun mode / Playroom host"],
+    "family": "fun",
+    "tagline": {
+      "en": "Build your own block maps with voxel tools, publish them, and play any CSO rule set on them."
+    },
+    "summary": {
+      "en": "Studio is CSO's community map-building mode (Korean open beta May-June 2017, official 13 July 2017). Players place and demolish blocks with voxel weapons, wire objects together with the Voxel Connector, then publish maps that others can play under many rule sets - Zombie Hero, Team Deathmatch, Bot Zombie, Destruction, Soccer, Zombie Escape, Hide and Seek, Zombie Shelter and more. Players cheer creators with cubes convertible to mileage."
+    },
+    "description": {
+      "en": "The wiki describes Studio as an interactive community-based mode, hinted six months before its open-beta release, that lets players build their own maps and share them; six reference maps were built with it. Editing uses the Voxel Rifle, Voxel Pistol, Voxel Minigun and Voxel Marker to create and demolish blocks, the Voxel Connector to link commands between objects, the Voxel Spinner to rotate blocks and the Voxel Scanner to copy block properties - these weapons are only available while editing. Studio Play offers gameplay with player-placed interactions and toys such as the Voxel Junk Gun and Voxel Grenade. Room settings allow Studio variants of Zombie Hero, Team Deathmatch, Bot Zombie, Destruction, Soccer, Zombie Escape, Zombie Z, Hide and Seek, Scenario T, Zombie Shelter, All Star / All Star+, Gun Deathmatch, Zombie 5: Rise and 'Studio Original' with Original rules. Finished maps can be published for everyone; players send cheer cubes that the creator converts into mileage points."
+    },
+    "rules": [
+      {
+        "en": "Studio Create: build with voxel tools within cube limits per device/character/decoration."
+      },
+      {
+        "en": "Studio Play: play published maps under the selected rule set."
+      },
+      {
+        "en": "Publish maps for all players; cheer cubes convert to mileage for the creator."
+      }
+    ],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2017-07-13",
+        "note": "Official release; beta test 11 May - 1 June 2017"
+      },
+      {
+        "region": "cn",
+        "date": "2017-07-05"
+      },
+      {
+        "region": "csn",
+        "date": "2017-11-29",
+        "note": "Counter-Strike Nexon: Zombies"
+      },
+      {
+        "region": "id",
+        "date": "2018-02-07"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "Likely influenced by Garry's Mod; also compared to Cube / Cube 2: Sauerbraten's edit mode."
+      },
+      {
+        "en": "Does not support curve splicing unlike the Valve Hammer Editor; objects use larger ratios."
+      },
+      {
+        "en": "In development since the start of 2016."
+      },
+      {
+        "en": "The CSO Comics #1-#3 dialogue is lifted from the infamous Doom comic, per the map description."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Studio_(mode)",
+      "title": "Studio",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "team-deathmatch",
+    "name": "Team Deathmatch",
+    "aliases": ["TDM"],
+    "family": "original",
+    "tagline": {
+      "en": "Counter-Terrorists versus Terrorists with instant respawns - first team to the kill limit wins."
+    },
+    "summary": {
+      "en": "Team Deathmatch is a team-versus-team kill-count mode. Originally a custom server-side mode in the original Counter-Strike, it became an official CSO mode: the match ends when a faction reaches the kill limit or leads when the timer runs out, and dead players respawn at their base after 5 seconds (3 with Short Respawn Time)."
+    },
+    "description": {
+      "en": "The wiki states that Team Deathmatch is a game mode in Counter-Strike Online that originated as a custom server-side mode in the original Counter-Strike. Counter-Terrorists and Terrorists fight to eliminate opposing players until one faction reaches the kill limit or is the leading team when the timer runs out. Dead players respawn after 5 seconds in their spawn base, or 3 seconds with Short Respawn Time active. A large map pool is compatible, including Assault, Estate, Italy, Militia, Office, Camouflage, Aztec, Cbble, Dust, Dust2, Inferno, Nuke, Train, Truth, Rex, Toscana, Prodigy, Santorini, Survivor, Angel City, Turkey, Winter Shelter, Mirage, Port, Ruin, Moonlight, Industry, Greesia, Rats, Gallery, Kart, Suzhou, Tunnel, Dark Snow and Warehouse."
+    },
+    "rules": [
+      {
+        "en": "Two teams; kill opposing players to score."
+      },
+      {
+        "en": "Win by reaching the kill limit or leading when time expires."
+      },
+      {
+        "en": "Respawn after 5 seconds at the team base (3 seconds with Short Respawn Time)."
+      }
+    ],
+    "release": [],
+    "trivia": [
+      {
+        "en": "A known bug can prevent respawning after death, requiring the player to re-enter the room."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Team_Deathmatch",
+      "title": "Team Deathmatch",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "zombie-4-darkness",
+    "name": "Zombie 4: Darkness",
+    "aliases": ["Zombie: Darkness", "Zombie Mod 4"],
+    "family": "zombie",
+    "tagline": {
+      "en": "Humans rule the day, zombies rule the night - a day/night cycle decides who is hunting whom."
+    },
+    "summary": {
+      "en": "Zombie 4: Darkness is a standalone zombie infection mode built around a day/night cycle: humans are stronger in daylight and zombies grow more powerful when darkness falls. It drops the Hero and evolution systems of Zombie Hero, adds sprinting, kicking and Concentrated Fire for humans, climbing and adrenaline skills for zombies, and introduces the Night Stalker and Spin Diver classes."
+    },
+    "description": {
+      "en": "The wiki describes a mode where players are divided into a minority of zombies and a majority of humans; zombies must find and infect the humans within the time limit, humans must kill all zombies or survive the round, and zombies become stronger when darkness comes. There is a set duration for day and night. Compared with Zombie Hero there are no Hero/Heroine characters and no evolution system, plus new HUD icons and the M2 Browning. Five zombie classes: Regular (rushes, climbs walls), Light (hides, high jumps, low defence), Heavy (defence, tremor jump), Night Stalker (selected at nightfall with enhanced abilities) and Spin Diver (exclusive to the Shadow Conqueror set; rolling and pouncing). Humans double-tap W to sprint using adrenaline, press 5 to kick and 6 for Concentrated Fire (needs 30%+ gauge); attack power rises 1% per second, grenades deal more damage and do not hurt the thrower. Zombies use adrenaline-based special abilities with class-specific right-click skills, heal faster at night and keep full respawn health. Maps: Dark City (zm_darkcity_cso) and Shoreline (zm_shoreline_cso)."
+    },
+    "lore": {
+      "en": "The Counter-Strike Nexon: Zombies tagline reads 'Darkness... Is coming.' The wiki states the mode does not continue the previous Zombie Modes' story; its setting is a night-fall siege where Ospreys and Apache helicopters can be seen at daybreak on some maps."
+    },
+    "rules": [
+      {
+        "en": "Humans win by killing all zombies or surviving; zombies win by infecting all humans."
+      },
+      {
+        "en": "Timed day and night phases: humans stronger by day, zombies stronger at night."
+      },
+      {
+        "en": "No Hero/Heroine and no zombie evolution."
+      },
+      {
+        "en": "Human skills: sprint (adrenaline), kick (key 5), Concentrated Fire (key 6, 30%+ gauge)."
+      },
+      {
+        "en": "Zombie skills: class-specific adrenaline abilities, wall climbing, faster night healing."
+      },
+      {
+        "en": "Night Stalker chosen at nightfall (later selectable with the Shadow Conqueror set)."
+      }
+    ],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2014-01-09"
+      },
+      {
+        "region": "tw",
+        "date": "2014-01-14",
+        "note": "Taiwan/Hong Kong"
+      },
+      {
+        "region": "cn",
+        "date": "2014-01-15"
+      },
+      {
+        "region": "jp",
+        "date": "2014-01-15"
+      },
+      {
+        "region": "sg",
+        "date": "2014-06-03",
+        "note": "Singapore/Malaysia"
+      },
+      {
+        "region": "id",
+        "date": "2014-08-06"
+      },
+      {
+        "region": "csn",
+        "date": "2015-06-28",
+        "note": "Counter-Strike Nexon: Zombies"
+      },
+      {
+        "region": "vn",
+        "date": "2015-08-20"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "First CSO mode to introduce kicking (humans) and climbing (zombies)."
+      },
+      {
+        "en": "The trailer resembles Left 4 Dead although the gameplay differs."
+      },
+      {
+        "en": "The background music 'Good Night' plays when the map darkens."
+      },
+      {
+        "en": "New HUD numbers reuse Half-Life fonts."
+      },
+      {
+        "en": "Initially allowed Expert/Master weapon variants, later patched."
+      },
+      {
+        "en": "Discontinued in CSO China in mid-2021."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Zombie_4:_Darkness",
+      "title": "Zombie 4: Darkness",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  },
+  {
+    "slug": "zombie-escape",
+    "name": "Zombie Escape",
+    "aliases": ["ZE"],
+    "family": "zombie",
+    "tagline": {
+      "en": "Run for the escape vehicle before the unkillable Origin zombie and its horde catch you."
+    },
+    "summary": {
+      "en": "Zombie Escape began as a Fun mode and later became a standalone mode. Each round one player becomes the Origin zombie with infinite health and must infect the humans, who race through the map to reach and activate an escape vehicle in time; anyone left behind dies in the bomb's explosion. If the zombies reach the destination first, or infect everyone, they win."
+    },
+    "description": {
+      "en": "The wiki explains that Zombie Escape was a fun mode in Counter-Strike Online that became standalone in later updates; it is round-based like most modes. At round start a player is randomly chosen as the Origin zombie, which has infinite health, and must infect all humans (infected humans have 4000-5000 HP). Zombies must stop the humans from reaching their final destination; if zombies reach it first they win the round. Humans must escape to the vehicle and activate it within a time window; latecomers are killed by the bomb's explosion. Zombies killed by headshot do not revive, though the shooter earns no points for the kill. Humans have access to grenades, ammo replenishment and vital-detection items; zombies can bunny-hop. Humans killed by the world (falls, hazards) are confirmed dead rather than becoming zombies, unlike other CS versions."
+    },
+    "rules": [
+      {
+        "en": "One random Origin zombie per round with infinite health; infected humans have 4000-5000 HP."
+      },
+      {
+        "en": "Humans win by reaching the escape point and activating the vehicle in time, or escaping with survivors uninfected."
+      },
+      {
+        "en": "Zombies win by reaching the escape point first or infecting all humans."
+      },
+      {
+        "en": "Late humans die to the bomb explosion."
+      },
+      {
+        "en": "Headshot-killed zombies do not revive."
+      },
+      {
+        "en": "EXP and points are based on how many times the player escapes as a human."
+      }
+    ],
+    "release": [],
+    "trivia": [
+      {
+        "en": "Zombie Escape is originally a non-official community mode for Counter-Strike and Counter-Strike: Source that became an official mode in CSO."
+      },
+      {
+        "en": "In earlier releases the Origin zombie had 10,000 HP and could die."
+      },
+      {
+        "en": "Excluded from the Fun modes after the Hitchhiking update."
+      },
+      {
+        "en": "Maps listed: ze_bloodcastle, ze_skyline_cso, ze_venice_cso, ze_hitchhiking_cso, ze_rising_cso, ze_rhyzome_cso."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Zombie_Escape",
+      "title": "Zombie Escape",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "zombie-hero",
+    "name": "Zombie 3: Hero",
+    "aliases": ["Zombie: The Hero", "Zombie Hero", "Zombie Mod 3", "ZH"],
+    "family": "zombie",
+    "tagline": {
+      "en": "Humans versus zombies - with a Hero or Heroine wielding exclusive weapons on the human side."
+    },
+    "summary": {
+      "en": "Zombie 3: Hero is the third Zombie Mod and, according to the wiki, the most popular zombie mode in the game. At round start a human is chosen as Hero or Heroine (others may be sidekicks) and armed with hero-exclusive weapons, while zombies gain an Anger Bar that lets them evolve into stronger forms as they take damage or infect humans. Humans win by surviving the round or killing every zombie; zombies win by infecting everyone."
+    },
+    "description": {
+      "en": "The wiki describes Zombie: The Hero (Zombie Mod 3) as the third Zombie Mod in Counter-Strike Online, providing several new features for both humans and zombies and introducing new zombie types. At round start humans may be designated Hero/Heroine or sidekick (sidekick chances are higher). Heroes and Heroines access exclusive powerful weapons through selection menus; after the Zombie Mode Rework they pick specific hero-exclusive weapons instead of fixed loadouts. Zombies have an Anger Bar filled by taking damage or infecting humans; when full the zombie evolves, increasing maximum health and armour. Lesser zombies can use host-equivalent skills with reduced efficiency; humans gain weapon damage bonuses through morale (up to 230%); zombies revive instantly unless killed by headshot; certain weapons (for example the Crossbow) do not raise the anger meter. Zombie classes: Regular, Light, Heavy, Voodoo and Banshee. Maps listed include Abyss3 (the basement of the Rex Research Institute), Italy, Dust, Assault, Estate, Winter Shelter and Abyss2."
+    },
+    "lore": {
+      "en": "The Abyss maps are set in the Rex Research Institute, the facility where Dr. Rex's virus research took place; Abyss3 is its basement. No further narrative was captured from the mode page."
+    },
+    "rules": [
+      {
+        "en": "Humans win by surviving the time limit or killing all zombies; zombies win by infecting all humans."
+      },
+      {
+        "en": "One or more humans become Hero/Heroine with exclusive weapons; others may be sidekicks."
+      },
+      {
+        "en": "Zombie Anger Bar fills from damage taken or infections; full bar triggers evolution (more HP and armour)."
+      },
+      {
+        "en": "Zombies revive instantly unless killed by headshot."
+      },
+      {
+        "en": "Human morale raises weapon damage up to 230%."
+      }
+    ],
+    "release": [
+      {
+        "region": "sg",
+        "date": "2011-12-21",
+        "note": "Singapore/Malaysia"
+      },
+      {
+        "region": "id",
+        "date": "2012-02-15"
+      },
+      {
+        "region": "tr",
+        "date": "2013-11-20"
+      },
+      {
+        "region": "csn",
+        "date": "2014-09-23",
+        "note": "Counter-Strike Nexon: Zombies"
+      },
+      {
+        "region": "vn",
+        "date": "2015-03-26"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "Described by the wiki as the most popular zombie mode of all zombie modes in the game."
+      },
+      {
+        "en": "A 'Zombie Hero Classic' variant page exists (https://cso.fandom.com/wiki/Zombie_Hero_Classic)."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Zombie_3:_Hero",
+      "title": "Zombie 3: Hero",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "zombie-scenario",
+    "name": "Zombie Scenario",
+    "aliases": ["ZS", "Zombie Scenario Mode", "Zombie Scenario Re:boot"],
+    "family": "scenario",
+    "tagline": {
+      "en": "Up to 10 players versus ever-larger hordes of AI zombies and the bosses of Dr. Rex's experiments."
+    },
+    "summary": {
+      "en": "Zombie Scenario is CSO's flagship co-operative PvE campaign. Up to 10 players fight increasingly powerful waves of AI-controlled zombies across seven story seasons of chapters, buying stronger weapons and upgrading health, damage and barriers with doubled in-match money. Each chapter is a survival, pursuit, defence, raid or annihilation stage, most ending with a boss such as Phobos, Angra or Dr. Rex himself."
+    },
+    "description": {
+      "en": "The wiki describes Zombie Scenario as pitting up to 10 players against increasingly large hordes of AI-controlled zombies; the money cap is doubled and the amount earned varies by zombie type killed and map difficulty. Players buy enhanced health, damage and barrier durability, and rounds grow harder with more powerful zombie types spawning. Characters level up through kills and boss defeats, with automatic stat upgrades (firepower, health with partial restoration, armour); respawn times scale from 15 to 60 seconds with level (1-100), and the maximum character level is 111 for most characters (101 for some variants). Players pick CT or TR faction characters with differentiated base health, attack, speed, armour and ammo. Difficulty tiers are Easy, Normal, Hard, Very Hard and Hell (before the 2020 reorganisation: Easy 1-2, Normal, Hard 1-9). Completing a map grants reward boxes twice daily whose contents scale with difficulty - scenario-exclusive items, tattoos and costumes, point and cash items; the Re:boot update replaced all previous rewards."
+    },
+    "lore": {
+      "en": "The seven seasons follow the fallout of Dr. Rex's Rex Virus / Z-Virus research: the quarantined Lost City, the hunt for Rex's laboratory and Prototype Phobos (Season 1); the pursuit of the Siege-type zombie Dione and its winged evolution Angra (Season 2); David Black's AFC mercenaries against Norman and the Vanguard Laboratory, with Erika kidnapped (Season 3); Gerard and Jim's sample transport that ends face to face with Dr. Rex and his super-soldier program (Season 4); Jennifer's investigation of the Super Soldier Project and the cronobotic enemies (Season 5); episodic arcs for Choi Ji Yoon, Victor, Lucia and Carlito around Douglas Jacob and the Vanguard Company (Season 6); and the finale with Carlito, Lucia and Erica/David Black at Rex Labs (Season 7). See scenarios/_index.json for the chapter order."
+    },
+    "rules": [
+      {
+        "en": "Co-operative PvE for up to 10 players against AI zombies."
+      },
+      {
+        "en": "Doubled money cap; earnings depend on zombie type and difficulty."
+      },
+      {
+        "en": "In-match upgrades: health, damage, barrier durability; weapons bought with the B key."
+      },
+      {
+        "en": "Per-character levelling with automatic stat gains; respawn timers scale 15-60 s by level."
+      },
+      {
+        "en": "Difficulties: Easy, Normal, Hard, Very Hard, Hell."
+      },
+      {
+        "en": "Reward boxes awarded twice daily on completion, scaled by difficulty."
+      },
+      {
+        "en": "Stage styles: survival, pursuit (checkpoints/barriers), defence, raid, annihilation (all bosses)."
+      }
+    ],
+    "maxPlayers": 10,
+    "release": [],
+    "trivia": [
+      {
+        "en": "Main page of the wiki lists Zombie Scenario among the Zombie modes."
+      },
+      {
+        "en": "Season 7 is described by the wiki as the last instalment of the series."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Zombie_Scenario",
+      "title": "Zombie Scenario",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  },
+  {
+    "slug": "zombie-shelter",
+    "name": "New Zombie Shelter",
+    "aliases": ["Zombie Shelter", "Zombie Shelter: Co-op", "Zombie Shelter: Team Match", "ZSHT"],
+    "family": "pve",
+    "tagline": {
+      "en": "Gather wood and steel by day, build and defend your shelter by night, and survive 30 days of the dead."
+    },
+    "summary": {
+      "en": "New Zombie Shelter replaces the original Zombie Shelter with a team-oriented base-building survival mode. Squads harvest wood and steel, craft weapons at a worktable, unlock four tiers of shelter structures (towers, fences, generators, turrets) and spend skill points across Combat, Survival and Engineer trees while zombies attack every night. Co-op teams must kill the final boss or call in a rescue within 30 days; Team Match pits two shelters against each other."
+    },
+    "description": {
+      "en": "The wiki describes New Zombie Shelter as a complete expansion of the old Zombie Shelter with more features and mechanics: where the old mode was simply PvPvE with a shelter per player, the new one has two variations - Team Match and Co-op - and is teamwork-oriented, with each team caring for one shared shelter. The Hammer was removed and the Shelter Axe tweaked so one slash reaps one unit of a resource; the Jungle Knife yields two resources per hit and a crowbar variant four. Primary resources are wood and steel, with electricity powering defences; storage buildings raise the resource cap. The Worktable (requires Beginner Engineer) crafts items such as the Machete, USP45, crowbar and claw hammer. Structures unlock by shelter tier: Tier 1 observation post, barbed-wire fence and gate, alarm, mines, gun tower, small generator; Tier 2 reconnaissance guard post, enhanced fencing, thorn trap, flamethrower, communication tower, medium generator, liquid-nitrogen cylinder; Tier 3 enhanced gate, claymore, gatling tower, large generator; Tier 4 shop post, plasma turret, electronics tower, mega generator. Players gain 3 skill points on day 1 and 1 per day after, spent in Combat (gun mastery, ammo/health up, Bombing Request), Survival (harvest, speed, campfire, tracker, Cloak, resource transporting) and Engineer (engineer ranks, auto repair, recycle, Wrecking Team with C4, turret moving) trees. Building menu: B key; skill tree: N key. Firing recklessly raises a noise gauge that draws zombies; players who die at night spectate with night-vision goggles; buildings cannot be destroyed by players who join after day 5."
+    },
+    "rules": [
+      {
+        "en": "Co-op: 4 players; win by annihilating the final target boss zombie or successfully requesting rescue; lose if the main shelter is destroyed or the boss is not beaten within 30 days."
+      },
+      {
+        "en": "Rescue: all personnel must request rescue and group up within 60 seconds; the request can be repeated after 60 seconds if aborted."
+      },
+      {
+        "en": "Team Match: 6+ players; destroy the enemy's main shelter to win; lose if yours is destroyed."
+      },
+      {
+        "en": "Day/night cycle: harvest and build by day, defend against escalating zombie waves each night."
+      },
+      {
+        "en": "Skill points: 3 on day 1, then 1 per day; three skill trees (Combat, Survival, Engineer)."
+      },
+      {
+        "en": "Noise gauge: reckless gunfire attracts zombies."
+      }
+    ],
+    "maxPlayers": 6,
+    "release": [],
+    "trivia": [
+      {
+        "en": "Player count: 4 (Co-op) / 6+ (Team Match)."
+      },
+      {
+        "en": "The Shelter Tier 4 icon appeared before its update was released, reusing the old Zombie Shelter model."
+      },
+      {
+        "en": "After the Indonesian release, players were still given the old Zombie Shelter special missions by mistake, and the old City of Damned map remained playable."
+      },
+      {
+        "en": "Current maps have many structures that bosses can jump onto, making them hard to defeat."
+      },
+      {
+        "en": "A Cloak-skill glitch once allowed indefinite invisibility until patched."
+      },
+      {
+        "en": "Medals: [The Last Survivor] for 100 Co-op clears (4-player rooms) and a Team Match medal for 100 victories (6+ player rooms)."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/New_Zombie_Shelter",
+      "title": "New Zombie Shelter",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": true,
+    "tags": []
+  },
+  {
+    "slug": "zombie-the-mutation",
+    "name": "Zombie: The Mutation",
+    "aliases": ["Zombie Mod 2", "Zombie 2"],
+    "family": "zombie",
+    "tagline": {
+      "en": "The zombies fight back: new mutant classes, healing and evolution give the infected a fighting chance."
+    },
+    "summary": {
+      "en": "Zombie: The Mutation is the second Zombie Mod. Because humans dominated the original mode, it introduces zombie variants with unique abilities - Normal (Berserk), Light (Invisibility), Heavy (Trap), PC Zombie (Smoke screen) and Doctor Zombie (Healing) - plus health regeneration and an evolution path from lesser zombie to Host (7000 HP) to Prime Zombie (14000 HP). Supply boxes drop weapons and gear every 20 seconds."
+    },
+    "description": {
+      "en": "The wiki notes that, as humans mainly had the advantage in the predecessor, this mode introduces new zombie variants and unique abilities so zombies can find a fighting chance. Host zombies regenerate 400 HP/s and lesser zombies 200 HP/s; a lesser zombie that infects 3 humans evolves into a Host Zombie (7000 HP) and a Host with 5 kills becomes a Prime Zombie (14000 HP). Supply boxes spawn every 20 seconds with weapons and equipment. A Classic option disables human skills, the evolution system and restricts zombie abilities. Map captured: Abyss 2 (zm_abyss2)."
+    },
+    "lore": {
+      "en": "The Abyss 2 map briefing: headquarters assigns a new rescue mission after confirming that survivors were left behind in building B-1 of the Rex Research Institute; players must cross Block C to reach them while zombies roam the facility."
+    },
+    "rules": [
+      {
+        "en": "Humans win by surviving the round or killing all zombies; zombies win by infecting all humans."
+      },
+      {
+        "en": "Zombie classes: Normal (Berserk), Light (Invisibility), Heavy (Trap), PC Zombie (Smoke screen), Doctor Zombie (Healing)."
+      },
+      {
+        "en": "Zombie regeneration: Host 400 HP/s, lesser 200 HP/s."
+      },
+      {
+        "en": "Evolution: 3 infections -> Host Zombie (7000 HP); 5 kills as Host -> Prime Zombie (14000 HP)."
+      },
+      {
+        "en": "Supply boxes every 20 seconds."
+      },
+      {
+        "en": "Classic mode: no human skills, no evolution, restricted zombie abilities."
+      }
+    ],
+    "release": [],
+    "trivia": [],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Zombie:_The_Mutation",
+      "title": "Zombie: The Mutation",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "zombie-touchdown",
+    "name": "Zombie Touchdown",
+    "aliases": ["ZTD"],
+    "family": "zombie",
+    "tagline": {
+      "en": "Zombies carry the flag and try to touch the humans' target; sides swap every round."
+    },
+    "summary": {
+      "en": "Zombie Touchdown (December 2018) is an objective-based zombie mode. A flag-carrying zombie must touch (attack) the human faction's target object before time runs out while humans defend; zombies win on a successful touchdown, humans win by holding out, and the factions switch at the end of each round. Nobody is permanently dead - all players resurrect."
+    },
+    "description": {
+      "en": "The wiki's in-game blurb: zombies hold the flag and touch the target of the human faction; zombie victory if the attack succeeds, human victory if they defend within the time limit; at the end of each round the factions are switched. Flags can only be carried by zombies, who can pass them using a skill; humans standing near a fallen flag can reset it to its initial position. All players can be resurrected without permanent death. The mode's ranking variant is played with a hero shop system. Compatible maps: Last Shelter (ztd_lastshelter_cso) and Checkmate (ztd_checkmate_cso)."
+    },
+    "rules": [
+      {
+        "en": "A flagged zombie must touch the human target object before the timer ends."
+      },
+      {
+        "en": "Humans defend the target for the duration; humans near a dropped flag can reset it."
+      },
+      {
+        "en": "Flags can only be held by zombies and passed between them with a skill."
+      },
+      {
+        "en": "Factions switch at the end of each round."
+      },
+      {
+        "en": "All players resurrect; no permanent death."
+      }
+    ],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2018-12-27"
+      },
+      {
+        "region": "cn",
+        "date": "2018-12-27"
+      },
+      {
+        "region": "tw",
+        "date": "2019-01-03",
+        "note": "Taiwan/Hong Kong"
+      },
+      {
+        "region": "id",
+        "date": "2019-01-03"
+      }
+    ],
+    "trivia": [],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Zombie_Touchdown",
+      "title": "Zombie Touchdown",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  },
+  {
+    "slug": "zombie-z",
+    "name": "Zombie Z",
+    "aliases": ["Zombie Annihilate (main-page listing)", "ZZ"],
+    "family": "zombie",
+    "tagline": {
+      "en": "Every round both sides evolve: spend virus score on random mutations and grow stronger."
+    },
+    "summary": {
+      "en": "Zombie Z is a zombie infection mode (released September 2018) in which humans and zombies level up during the match. Players earn a virus score in battle and spend it on mutations that grant random powers; level unlocks zombie classes and human weapons. Since December 2021 a Competitive Rule variant runs 13 rounds of 3 minutes for up to 32 players, with AI participants and doubled Karma rewards."
+    },
+    "description": {
+      "en": "The wiki's in-game blurb: every round evolving zombie and human abilities - earn a virus score through battle, spend it to mutate, and each mutation grants a random power. Humans must survive the zombie attacks or kill all zombies before time runs out; zombies must infect all humans. Level (max 40 since July 2021, previously 30) determines which zombie classes and weapons are available; random weapon purchases only show level-appropriate options and damage numbers are displayed on hit. Humans start with a Battle Glock instead of the USP. Mutations can convert the flashbang into a Liquid-Nitrogen Grenade that freezes zombies and the smoke grenade into a Vaccine Grenade whose blue mist damages zombies. Competitive maps: Italy, Assault, Estate, Falls, Dust, Cargo Ship."
+    },
+    "rules": [
+      {
+        "en": "Humans win by surviving or killing all zombies; zombies win by infecting all humans."
+      },
+      {
+        "en": "Virus score earned in battle is spent on mutations granting random powers."
+      },
+      {
+        "en": "Level gates zombie classes and human weapon choices (max level 40)."
+      },
+      {
+        "en": "Competitive Rule: 13 rounds x 3 minutes, up to 32 players, rooms cannot be password-locked, AI players fill in, Karma doubled."
+      },
+      {
+        "en": "Zombie Heroes appear randomly once all zombies are unlocked."
+      }
+    ],
+    "maxPlayers": 32,
+    "release": [
+      {
+        "region": "kr",
+        "date": "2018-09-13"
+      },
+      {
+        "region": "tw",
+        "date": "2018-09-19",
+        "note": "Taiwan/Hong Kong"
+      },
+      {
+        "region": "cn",
+        "date": "2018-09-19"
+      },
+      {
+        "region": "jp",
+        "date": "2018-09-19"
+      },
+      {
+        "region": "id",
+        "date": "2018-09-19"
+      },
+      {
+        "region": "csn",
+        "date": "2018-10-10",
+        "note": "Counter-Strike Nexon: Zombies"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "Competitive Rule system introduced in December 2021 in South Korea."
+      },
+      {
+        "en": "Season Pass weapons receive enhancements in this mode."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Zombie_Z",
+      "title": "Zombie Z",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featured": false,
+    "tags": []
+  }
+]

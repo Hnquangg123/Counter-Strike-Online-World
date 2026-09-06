@@ -1,0 +1,63 @@
+{
+  "slug": "envy-mask",
+  "name": "Envy Mask",
+  "aliases": ["zs_envymask"],
+  "gameMode": "Zombie Scenario",
+  "season": "Season 4",
+  "chapter": 3,
+  "tagline": "Jim hunts the mystery client through a super-soldier laboratory guarded by two masked sisters, Neid and Zavist.",
+  "summary": "Envy Mask is the third chapter of Zombie Scenario: Season 4. Red Lizard Jim pursues the mysterious client behind an illegal super-soldier program through a research complex full of experimental facilities and discovers the client is Dr. Rex, running a government-funded program that turns humans into weapons. The chapter ends against two former human test subjects - Neid, the Dual Sword Wielder, and Zavist, the Heavy Artillery - the first Zombie Scenario map with two main bosses and the first with female bosses.",
+  "story": "The wiki summarises the story as Red Lizard Jim investigating a mysterious client who is conducting illegal super-soldier experiments. Jim learns that the client is Dr. Rex, who runs a government-funded program converting humans into enhanced weapons. Neid and Zavist were once human subjects transformed into superhuman combatants. Players fight through a research complex filled with experimental facilities - including holograms of captured female characters held in rejuvenation chambers - encounter Frozen Terror as a mini-boss, and finally confront the two sisters. Hypnosis audio elements (chanting, screaming, marching sounds) play in parts of the map. The chapter title refers to the Hannya mask, which represents a jealous female demon or serpent.",
+  "objectives": [
+    "Wiki objective text: pursue the mystery client and investigate the secret super-soldier program; defeat the Dual Sword Wielder Neid and the Heavy Artillery Zavist.",
+    "Follow the display checkpoints.",
+    "Press E at devices labelled [E] to operate them.",
+    "Destroy the red-glowing obstacles to continue the pursuit to the checkpoints.",
+    "Structure: 2 rounds, pursuit style."
+  ],
+  "bosses": ["Neid (Dual Sword Wielder)", "Zavist (Heavy Artillery)", "Frozen Terror (mini-boss)"],
+  "characters": [
+    "Gerard",
+    "Jim (Red Lizard Jim)",
+    "Dr. Rex",
+    "Neid",
+    "Zavist",
+    "David Black",
+    "Jennifer",
+    "Natasha",
+    "Yuri",
+    "Alice",
+    "Choi Ji Yoon",
+    "Lucia",
+    "Blair",
+    "May",
+    "Erika",
+    "Michaela"
+  ],
+  "maps": ["Envy Mask (zs_envymask)"],
+  "difficulties": ["easy", "normal", "hard", "very-hard", "hell"],
+  "rewards": [
+    "Season 4 reward list on the wiki includes the Envy Tattoo (alongside Frozen Terror's club, Snow Crystal Tattoo, Snake Tattoo and Gluttony Tattoo)"
+  ],
+  "nextChapter": "Paranoia",
+  "release": [
+    { "region": "kr", "date": "2014-01-28", "note": null },
+    { "region": "tw", "date": "2014-02-11", "note": "Taiwan/Hong Kong" },
+    { "region": "jp", "date": "2014-02-12", "note": null },
+    { "region": "cn", "date": "2014-02-13", "note": null },
+    { "region": "sg", "date": "2014-09-11", "note": "Singapore/Malaysia" },
+    { "region": "id", "date": "2014-10-15", "note": null },
+    { "region": "csn", "date": "2015-06-29", "note": "Counter-Strike Nexon: Zombies" },
+    { "region": "vn", "date": "2015-11-24", "note": null }
+  ],
+  "trivia": [
+    "'Envy Mask' refers to the Hannya mask, which represents a jealous female demon or serpent.",
+    "First Zombie Scenario map with two main bosses, and the first with female bosses.",
+    "Sections of the map replicate parts of Half-Life (Blast Pit, Surface Tension, Lambda Core).",
+    "Inspired by the 2006 Half-Life mod Poke646: Vendetta.",
+    "Features holograms of captured female characters in rejuvenation chambers and hypnosis audio (chanting, screaming, marching).",
+    "Trailers exist for the Singapore/Malaysia, China, Zombie Scenario Re:boot and Korean releases."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Envy_Mask"
+}

@@ -1,0 +1,185 @@
+{
+  "slug": "david-black",
+  "name": "David Black",
+  "aliases": ["David", "davidblack (system name)"],
+  "kind": "human",
+  "side": "tr",
+  "grade": null,
+  "classType": "Premium male Terrorist character (Code Box); also a guiding/hidden NPC in Zombie Scenario",
+  "factions": [
+    "Terrorist",
+    "SAS (formerly)",
+    "AFC (Anti-Force Corps / David's Terrorist-side army, per ZS3 storyline)",
+    "Rescue team"
+  ],
+  "profile": {
+    "gender": "Male",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": null,
+    "nationality": null,
+    "occupation": "Veteran soldier; former SAS instructor; later leads the AFC army and the rescue effort for Erika",
+    "bloodType": null,
+    "birthday": null,
+    "raceAffiliation": "Human / SAS (formerly), Rescue team",
+    "status": "Alive"
+  },
+  "tagline": "The SAS instructor who walked out of the Rex basement and never went back to the side he came from.",
+  "summary": "David Black is a premium Terrorist character obtainable from Code Box and one of the pillars of the Zombie Scenario storyline. A veteran SAS instructor who survived the Rex laboratory explosion, he was so disillusioned by what he saw underground that he accepted the Terrorists' offer of a way out in exchange for helping them obtain confidential documents. His former protege Gerard hunts him, and the two men's relationship - rivalry, then reluctant alliance - runs through Seasons 3 to 9.",
+  "story": "**Background (character page).** David is a battle-hardened veteran and a former SAS instructor. He was among the survivors trapped in the laboratory basement during the Rex laboratory explosion. What he witnessed there left him disillusioned, and he agreed to join the Terrorists after they promised to get him out of the lab if he helped them secure confidential documents. Learning that Gerard was pursuing him, he chose to face him on the battlefield in the hope of persuading Gerard to join the Terrorist side.\n\n**Zombie Scenario: Season 3 (Contact / Behind / Threat / Panic Room).** As leader of the AFC army, David receives an urgent request from Norman and, when contact is cut, tracks Norman's last signal to a deserted, sandstorm-swept town that hides the secret entrance to the Vanguard Laboratory. His force breaks into Vanguard headquarters at heavy cost; Erika - whom David treats like a daughter - is wounded. Norman watches through the lab cameras and sends AMP Suits, ostensibly as support. David fortifies the munitions factory as a foothold, but the AMP Suit kidnaps Erika and David rides the lift to the Panic Room to rescue her and take revenge on Norman, unaware of Norman's true intentions. The Panic Room, supposedly the safest place in Vanguard, becomes the worst battlefield of all.\n\n**Zombie Scenario: Season 7 (Rex Labs / Lowdown).** After escaping the Panic Room, Erika suffers unexplained recurring pain. Soi contacts David and tells him to come to the Rex Labs if he wants a cure; they arrive to find the lab already attacked, and follow coordinates found there to a meeting with Gerard rather than Soi. Gerard reveals that Douglas Jacob was the hidden hand behind Dr. Rex and behind Erika's kidnapping.\n\n**Zombie Scenario: Season 8 (Upcoming Threat).** David, Erika and Gerard form a new team and set out to recruit the person who once blew up the Rex Labs (Yuri), tracking them to an abandoned munitions factory - where Douglas sends a hunter after them. Ritsuka is also dispatched to stop the party but fails. By Season 9 David is named among the heroes (with Soi and Jennifer) working to stop Douglas.",
+  "personality": null,
+  "quotes": [],
+  "abilities": [
+    {
+      "name": "Zombie Scenario stat profile",
+      "description": "Higher HP (+4) and higher reserve ammo (+2), but lower attack power (-2) and lower mobility (-3). Suited to survival rather than raw combat."
+    }
+  ],
+  "zombieScenarioStats": {
+    "health": "25/28",
+    "attack": "19/28",
+    "mobility": "18/28",
+    "armor": "21/28",
+    "ammo": "22/28"
+  },
+  "favoriteWeapons": ["Pistol", "Shotgun", "Sniper rifle", "Machine gun", "Melee"],
+  "obtainedFrom": "Code Box",
+  "appearances": {
+    "gameModes": ["Zombie Scenario", "Original / general modes (Terrorist team)"],
+    "maps": [
+      "Behind",
+      "Threat",
+      "Panic Room",
+      "Illusion",
+      "Third Report",
+      "Rex Labs",
+      "Lowdown",
+      "Upcoming Threat"
+    ],
+    "scenarios": [
+      "Zombie Scenario: Season 3 (guiding NPC)",
+      "Zombie Scenario: Season 5 - Third Report (hidden NPC supporting Soy)",
+      "Zombie Scenario: Season 7 - Rex Labs, Lowdown",
+      "Zombie Scenario: Season 8"
+    ]
+  },
+  "weapons": [
+    "Quad-barreled shotgun (seen in a Third Report cutscene protecting Soy)",
+    "Nata Knife (CSN:Z promotional art)",
+    "Desert Eagle, Glock, M95, Destroyer, Minigun, Catapult (weapon icons shown on his page)"
+  ],
+  "relatedCharacters": [
+    "Gerard - Counter-Terrorist counterpart, former protege turned pursuer, later ally",
+    "Erika - rescued survivor he treats like a daughter",
+    "Norman - Vanguard financier who kidnapped Erika",
+    "Soy (Soi) - Aegis researcher he protects in Third Report",
+    "Douglas Jacob - the antagonist behind Erika's kidnapping",
+    "Outlaw David - anarchist variant",
+    "Boss David Black - transcendence variant",
+    "Drill Instructor Gerard"
+  ],
+  "voiceActors": [],
+  "release": [],
+  "trivia": [
+    "Appears as a guiding NPC in Behind, Threat, Panic Room and Illusion.",
+    "Appears as a hidden NPC supporting Soy in the Third Report chapter, revealing himself at the end.",
+    "A cutscene shows him wielding a Quad-barreled shotgun to protect Soy from three zombies.",
+    "His hidden-NPC message graphic is shared with Gerard.",
+    "Variants: Outlaw David (anarchist version) and Boss David Black (transcendence version)."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f8/Davidblack.png",
+      "caption": "Infobox portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/5/5f/Davidblack_model.png",
+      "caption": "Shop model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/89/Davidblack_ingamemdl.png",
+      "caption": "In-game model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/0c/David_wdevil_costume.png",
+      "caption": "David Black wearing Devil costume"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f6/Davidblack_icon.png",
+      "caption": "Buy icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/7/72/David_black_concept_art.png",
+      "caption": "Promotional art"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/3b/Zsm_poster.jpg",
+      "caption": "Lost City poster (Gerard, David Black, Ritsuka)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/ef/Gerrard_and_davidblack.jpeg",
+      "caption": "Gerard confronting David Black"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/65/2009102901.jpg",
+      "caption": "Zombie 3: Hero poster (Gerard, David Black and Hero in Abyss3)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f0/Cs1z.jpg",
+      "caption": "Last Clue poster: 707, David Black and Gerard fighting Phobos"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/8d/Csnz_originalpromotionalart.png",
+      "caption": "CSN:Z promotional art (David Black with Nata Knife)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/3e/Davidblack_msg.png",
+      "caption": "NPC message portrait (ZS Season 3, Third Report)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/c8/Anonymous_msg.png",
+      "caption": "Hidden NPC (anonymous) message portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/63/David_Black.jpg",
+      "caption": "In-game screenshot"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/0/0a/Hud_davidblack.png",
+      "caption": "HUD portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/bd/Black_angry.png",
+      "caption": "Expression: Angry"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/61/Black_embar.png",
+      "caption": "Expression: Embarrassed"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/cb/Black_frown.png",
+      "caption": "Expression: Frown"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/ee/Black_laugh.png",
+      "caption": "Expression: Laugh"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/b9/Black_sad.png",
+      "caption": "Expression: Sad"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/96/Black_smile.png",
+      "caption": "Expression: Smile"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/3/3b/Black_usual.png",
+      "caption": "Expression: Usual"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/David_Black",
+  "sections": ["History", "Zombie Scenario Stats", "Favorite weapons", "Gallery", "Trivia"],
+  "sourceNotes": "Storyline paragraphs summarised from Zombie Scenario: Season 3, 7 and 8 pages (https://cso.fandom.com/wiki/Zombie_Scenario:_Season_3, .../Season_7, .../Season_8) and Douglas Jacob page.",
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

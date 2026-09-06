@@ -1,0 +1,32 @@
+{
+  "slug": "zombie-z",
+  "name": "Zombie Z",
+  "aliases": ["Zombie Annihilate (main-page listing)", "ZZ"],
+  "family": "zombie",
+  "tagline": "Every round both sides evolve: spend virus score on random mutations and grow stronger.",
+  "summary": "Zombie Z is a zombie infection mode (released September 2018) in which humans and zombies level up during the match. Players earn a virus score in battle and spend it on mutations that grant random powers; level unlocks zombie classes and human weapons. Since December 2021 a Competitive Rule variant runs 13 rounds of 3 minutes for up to 32 players, with AI participants and doubled Karma rewards.",
+  "description": "The wiki's in-game blurb: every round evolving zombie and human abilities - earn a virus score through battle, spend it to mutate, and each mutation grants a random power. Humans must survive the zombie attacks or kill all zombies before time runs out; zombies must infect all humans. Level (max 40 since July 2021, previously 30) determines which zombie classes and weapons are available; random weapon purchases only show level-appropriate options and damage numbers are displayed on hit. Humans start with a Battle Glock instead of the USP. Mutations can convert the flashbang into a Liquid-Nitrogen Grenade that freezes zombies and the smoke grenade into a Vaccine Grenade whose blue mist damages zombies. Competitive maps: Italy, Assault, Estate, Falls, Dust, Cargo Ship.",
+  "lore": null,
+  "rules": [
+    "Humans win by surviving or killing all zombies; zombies win by infecting all humans.",
+    "Virus score earned in battle is spent on mutations granting random powers.",
+    "Level gates zombie classes and human weapon choices (max level 40).",
+    "Competitive Rule: 13 rounds x 3 minutes, up to 32 players, rooms cannot be password-locked, AI players fill in, Karma doubled.",
+    "Zombie Heroes appear randomly once all zombies are unlocked."
+  ],
+  "maxPlayers": 32,
+  "release": [
+    { "region": "kr", "date": "2018-09-13", "note": null },
+    { "region": "tw", "date": "2018-09-19", "note": "Taiwan/Hong Kong" },
+    { "region": "cn", "date": "2018-09-19", "note": null },
+    { "region": "jp", "date": "2018-09-19", "note": null },
+    { "region": "id", "date": "2018-09-19", "note": null },
+    { "region": "csn", "date": "2018-10-10", "note": "Counter-Strike Nexon: Zombies" }
+  ],
+  "trivia": [
+    "Competitive Rule system introduced in December 2021 in South Korea.",
+    "Season Pass weapons receive enhancements in this mode."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Zombie_Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "zombie-hero",
+  "name": "Zombie 3: Hero",
+  "aliases": ["Zombie: The Hero", "Zombie Hero", "Zombie Mod 3", "ZH"],
+  "family": "zombie",
+  "tagline": "Humans versus zombies - with a Hero or Heroine wielding exclusive weapons on the human side.",
+  "summary": "Zombie 3: Hero is the third Zombie Mod and, according to the wiki, the most popular zombie mode in the game. At round start a human is chosen as Hero or Heroine (others may be sidekicks) and armed with hero-exclusive weapons, while zombies gain an Anger Bar that lets them evolve into stronger forms as they take damage or infect humans. Humans win by surviving the round or killing every zombie; zombies win by infecting everyone.",
+  "description": "The wiki describes Zombie: The Hero (Zombie Mod 3) as the third Zombie Mod in Counter-Strike Online, providing several new features for both humans and zombies and introducing new zombie types. At round start humans may be designated Hero/Heroine or sidekick (sidekick chances are higher). Heroes and Heroines access exclusive powerful weapons through selection menus; after the Zombie Mode Rework they pick specific hero-exclusive weapons instead of fixed loadouts. Zombies have an Anger Bar filled by taking damage or infecting humans; when full the zombie evolves, increasing maximum health and armour. Lesser zombies can use host-equivalent skills with reduced efficiency; humans gain weapon damage bonuses through morale (up to 230%); zombies revive instantly unless killed by headshot; certain weapons (for example the Crossbow) do not raise the anger meter. Zombie classes: Regular, Light, Heavy, Voodoo and Banshee. Maps listed include Abyss3 (the basement of the Rex Research Institute), Italy, Dust, Assault, Estate, Winter Shelter and Abyss2.",
+  "lore": "The Abyss maps are set in the Rex Research Institute, the facility where Dr. Rex's virus research took place; Abyss3 is its basement. No further narrative was captured from the mode page.",
+  "rules": [
+    "Humans win by surviving the time limit or killing all zombies; zombies win by infecting all humans.",
+    "One or more humans become Hero/Heroine with exclusive weapons; others may be sidekicks.",
+    "Zombie Anger Bar fills from damage taken or infections; full bar triggers evolution (more HP and armour).",
+    "Zombies revive instantly unless killed by headshot.",
+    "Human morale raises weapon damage up to 230%."
+  ],
+  "maxPlayers": null,
+  "release": [
+    { "region": "sg", "date": "2011-12-21", "note": "Singapore/Malaysia" },
+    { "region": "id", "date": "2012-02-15", "note": null },
+    { "region": "tr", "date": "2013-11-20", "note": null },
+    { "region": "csn", "date": "2014-09-23", "note": "Counter-Strike Nexon: Zombies" },
+    { "region": "vn", "date": "2015-03-26", "note": null }
+  ],
+  "trivia": [
+    "Described by the wiki as the most popular zombie mode of all zombie modes in the game.",
+    "A 'Zombie Hero Classic' variant page exists (https://cso.fandom.com/wiki/Zombie_Hero_Classic)."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Zombie_3:_Hero",
+  "_notes": "Korean/Taiwanese/Chinese/Japanese release dates exist on the page but were not captured in the digest."
+}

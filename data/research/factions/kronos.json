@@ -1,0 +1,112 @@
+{
+  "slug": "kronos",
+  "name": "Kronos",
+  "aliases": ["Kronos Company", "Kronos Corporation"],
+  "side": "neutral",
+  "sideNote": "A multinational corporation that funds both Counter-Terrorists and Terrorists for its own gain; the true antagonist organisation of the later Zombie Scenario seasons and the force behind the conscious-zombie 'agents'.",
+  "summary": "Kronos is the multinational company founded by Douglas Jacob that funds research projects worldwide - including Dr. Rex's Super Soldier Project, which became the Lost City zombie outbreak. After Dr. Rex's death Kronos continued his research and released a stream of anti-zombie products while hiding the truth: it was perfecting conscious super-soldier zombies, seeding outbreaks (Deimos and Ganymede containers), running an experimental 'Neon City', and stealing Aegis technology. Its exposure and Douglas Jacob's death form the climax of Zombie Scenario Seasons 7-9.",
+  "description": "A multinational company founded by Douglas Jacob that provides funding for various research projects. Publicly it produces anti-zombie weapons (the Hunter Killer series, the M32 MGL Zombie Killer, mounted Browning M2HB guns bearing its logo) and its containers appear in maps such as Port and Hell Ride. Privately it inherited and completed Dr. Rex's work, created living weapons (Cyborg, Amy, Angelina) and employed operatives such as Agent Ritsuka and Pyromaniac Yuri.",
+  "lore": "**Hidden hand.** Douglas Jacob was the anonymous informer who steered Dr. Rex toward the Heorgen corpses and kept funding him after the government pulled out. Kronos funded both sides of the CT-TR conflict, financed the Asia Red Army through Mr. X, owned the Vanguard Company as a mercenary subsidiary, and turned Jack into Laser Wing, its first conscious zombie.\n\n**Exposure.** Anomalous encrypted signals from the quarantined Lost City turned out to be Super Soldier Agent B contacting Kronos (Hell Ride); Kronos containers holding Deimos and Ganymede were found in Episode Lucia and Rendezvous; Kronos discovered and attacked the Aegis Institute's secret communication base with mass-produced Mad Mechanics (Cordon). Alin and Dominique destroyed a Kronos secret lab (Isolation), and the shockwave revealed the locations of its secret facilities, prompting worldwide investigations and turning Douglas's former allies against him.\n\n**Endgame.** Douglas struck his key enemies simultaneously and seized the Aegis laboratories (Obstacle); recaptured intelligence exposed a dangerous 'Secret Plan' built on Kronos's worldwide military factories; Kronos-released zombies overran cities worldwide (Convoy); and the Aegis Allied Force finally stormed Douglas's hideout, where he piloted the Adamant/Adamant-Z before dying in an airstrike while trying to launch an ICBM.",
+  "places": [
+    "Port (Kronos-logo containers)",
+    "Hell Ride (Kronos-logo containers; Agent B signal)",
+    "Isolation",
+    "Cordon",
+    "Obstacle",
+    "Secret Plan",
+    "Neon City (planned experimental city)"
+  ],
+  "leaders": ["Douglas Jacob - founder and president/chairman"],
+  "members": [
+    "Douglas Jacob",
+    "Alice - adopted daughter of a US political family who joined Kronos's defence system (NHP equipment support troops)",
+    "Cyborg - a man turned into a living weapon by Kronos through non-consensual experimental surgery",
+    "Agent Ritsuka - hired to kidnap or kill those who resist Kronos",
+    "Pyromaniac Yuri - explosives specialist working destructive jobs",
+    "Angelina - war orphan turned star under Douglas's sponsorship; coerced into taking a Kronos serum and awakened as a Super Soldier thanks to a unique gene structure",
+    "Amy - a humanoid android built by Kronos, now unstable after meeting a doctor",
+    "Mr. X (Asia Red Army, funded by Kronos)",
+    "Super Soldier Agents (Agent B, Agent C, Agent H, Agent J, Laser Wing)",
+    "Mad Mechanics (mass-produced units)",
+    "Mammon"
+  ],
+  "weapons": {
+    "epic": [
+      "Arbalest (built with the Cosmic Stone stolen from the Aegis Institute)",
+      "Space Arbalest (Astral Stone)",
+      "Abyss Repulsor (anti-gravity)"
+    ],
+    "hunterKillerSeries": [
+      "Hunter Killer X-15 (assault rifle)",
+      "Hunter Killer X-90 (SMG)",
+      "Hunter Killer X-12 (shotgun)",
+      "Hunter Killer X-7 (machine gun)",
+      "Hunter Killer X-45 (pistol)"
+    ],
+    "other": [
+      "Browning M2HB heavy machine gun (mounted; Kronos logo on barrel)",
+      "M32 MGL Zombie Killer",
+      "Recoil Blitz T3 (2026 Season 25; design resembles Hunter Killer)"
+    ]
+  },
+  "bosses": [
+    "Adamant / Adamant-Z",
+    "Crono Athletic",
+    "Crono Wing",
+    "Laser Wing",
+    "Mammon",
+    "Deimos and Ganymede (seeded via containers)"
+  ],
+  "trivia": [
+    "Kronos's logo appears on cargo containers in Port and Hell Ride and on the barrel of the mounted Browning M2HB."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/c2/20200419_155731.JPG",
+      "caption": "Kronos logo (page header image)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/63/Port_gfx.png",
+      "caption": "Port map graphic"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/97/Zsh_hellride_cso.png",
+      "caption": "Hell Ride map icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/8a/Zs_mall_cso.png",
+      "caption": "Isolation map icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/62/Zs_defense2_cso.png",
+      "caption": "Cordon map icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f6/Zs_obstacle3_cso.png",
+      "caption": "Obstacle map icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/10/Zs_secretplan2_cso.png",
+      "caption": "Secret Plan map icon"
+    },
+    { "url": "https://static.wikia.nocookie.net/cso/images/6/6f/Ma_alice.png", "caption": "Alice" },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/19/Jacob_msg.png",
+      "caption": "Douglas Jacob"
+    },
+    { "url": "https://static.wikia.nocookie.net/cso/images/a/a3/Cyborg.png", "caption": "Cyborg" }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Kronos",
+  "sections": [
+    "Overview",
+    "Appearance",
+    "Places",
+    "Related characters",
+    "Weapons",
+    "Bosses",
+    "Clues",
+    "Season Pass",
+    "Trivia"
+  ],
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

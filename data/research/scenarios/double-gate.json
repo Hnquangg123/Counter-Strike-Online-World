@@ -1,0 +1,31 @@
+{
+  "slug": "double-gate",
+  "name": "Double Gate",
+  "aliases": ["zs_2gate"],
+  "gameMode": "Zombie Scenario",
+  "season": "Season 1",
+  "chapter": 2,
+  "tagline": "Soldiers fortify a construction site with two gates - unaware the radio they salvaged is a beacon for the dead.",
+  "summary": "Double Gate is the second Zombie Scenario map. Soldiers escaping the zombie-infested city centre spot two mysteriously equipped individuals fleeing a construction site, pick up the radio equipment they left behind and fortify a defensive position with construction materials. Players hold two reinforceable gates against waves of zombies arriving from three directions over 5 rounds.",
+  "story": "According to the wiki, soldiers escaping the zombie-infested city centre discovered two mysteriously equipped individuals fleeing a construction site. After acquiring the radio equipment the strangers left behind, the soldiers fortified a defensive position using construction materials to prepare for the zombie attack. A second account on the page describes an advance unit finding suspicious individuals in a village who flee, leaving their gear behind; the unit takes the radio equipment, unaware that it has attracted the zombies.",
+  "objectives": [
+    "Survive the attacks from waves of incoming zombies arriving from three different locations.",
+    "5 rounds with a 3-minute time limit per round.",
+    "Reinforce the gates: $5,000 per level, up to a maximum of 28 levels."
+  ],
+  "bosses": [],
+  "characters": [
+    "Advance unit soldiers",
+    "Two unidentified individuals (later revealed to be connected to Dr. Rex)"
+  ],
+  "maps": ["Double Gate (zs_2gate)"],
+  "difficulties": ["easy", "normal", "hard", "very-hard", "hell"],
+  "rewards": ["Honor mission [Gate Keeper]: clear Double Gate 400 times"],
+  "nextChapter": "Trap",
+  "release": [],
+  "trivia": [
+    "The 26 March 2015 South Korea update reduced the round count from 20 to 5 and raised the honor requirement from 100 to 400 clears; the medal graphics and Steam achievement were not updated to reflect the change."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Double_Gate"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "m4a1",
+  "name": "M4A1",
+  "aliases": ["Maverick M4A1 Carbine"],
+  "category": "assault-rifle",
+  "grade": "common",
+  "origin": "United States",
+  "manufacturer": null,
+  "caliber": "5.56 NATO",
+  "tagline": "The Counter-Terrorists' balanced carbine, with a detachable silencer.",
+  "summary": "The M4A1 is the Counter-Terrorist exclusive assault rifle of Original mode, described by the wiki as the best CT rifle thanks to its balance of damage and accuracy. It fires 30 rounds of 5.56 NATO, has low recoil and good long-range accuracy, and can mount a silencer that hides muzzle flash and sound at the cost of some firepower.",
+  "description": "The M4A1 (Maverick M4A1 Carbine) is a 30-round 5.56 NATO carbine exclusive to Counter-Terrorists in Original mode. The wiki calls it the best assault rifle among Counter-Terrorists due to its fair balance between damage and accuracy: medium damage, good long-range accuracy and low recoil. Its silencer attachment reduces muzzle flash and firing sound and improves recoil control, but lowers firepower and long-range accuracy. Compared with the AK-47 it deals 2 points less damage, costs $600 more and reloads about 0.5 seconds slower, which is why the wiki considers it less recommended for Scenario modes. Tactical advice from the wiki: aim for the head at close range, burst at the chest at medium range and single-tap the torso at long range; it is optimal for middle-to-close combat.",
+  "stats": {
+    "damage": "Wiki states 2 points lower than the AK-47 (AK-47 = 28 Normal)",
+    "accuracy": null,
+    "recoil": "Low",
+    "rateOfFire": "High",
+    "weight": "Light",
+    "knockback": null,
+    "stun": null
+  },
+  "ammo": { "magazine": 30, "reserve": null, "type": "5.56 NATO" },
+  "price": "$600 more than the AK-47 ($2500), i.e. $3100",
+  "fireModes": ["Automatic", "Silenced (attachable silencer)"],
+  "obtainMethod": "Basic weapon; purchasable by Counter-Terrorists (exclusive in Original mode)",
+  "advantages": [
+    "High accuracy at long range",
+    "Silencer reduces firing noise",
+    "Light weight",
+    "High rate of fire",
+    "Low recoil",
+    "High damage"
+  ],
+  "disadvantages": [
+    "Lower damage than the AK-47 (-2 points)",
+    "More expensive than the AK-47 (+$600)",
+    "Longer reload time than the AK-47 (+0.5 seconds)",
+    "Less recommended for Scenario modes"
+  ],
+  "variants": [
+    "M4A1 Scope",
+    "M4A1 Gold",
+    "M4A1 Dragon",
+    "M4A1 Camouflage",
+    "M4A1 Red",
+    "M4A1 Dark Knight",
+    "Brick Piece V2",
+    "M4A1 White Gold",
+    "M4A1 10th Anniversary"
+  ],
+  "characters": [],
+  "abilities": [
+    {
+      "name": "Silencer",
+      "description": "Attachable suppressor that reduces muzzle flash and firing sound and improves recoil control, while reducing firepower and long-range accuracy."
+    }
+  ],
+  "release": [
+    {
+      "region": "tw",
+      "date": "2009-09-29",
+      "note": "Listed on the wiki page as 'Taiwan/Hong Kong & China: 29 September 2009' - likely refers to a variant/update rather than the base rifle (unverified)"
+    },
+    { "region": "cn", "date": "2009-09-29", "note": "See above" },
+    {
+      "region": "kr",
+      "date": "2010-02-09",
+      "note": "Listed as 'South Korea & Taiwan/Hong Kong: 9 February 2010' - likely a variant release (unverified)"
+    },
+    {
+      "region": "cn",
+      "date": "2010-02-10",
+      "note": "Listed as 'China: 10 February 2010' - likely a variant release (unverified)"
+    }
+  ],
+  "trivia": ["Its Terrorist counterpart in Original mode is the AK-47."],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/M4A1",
+  "_notes": "Base weapon available since launch. The dates on the page appear to belong to variant releases; treat them with caution."
+}

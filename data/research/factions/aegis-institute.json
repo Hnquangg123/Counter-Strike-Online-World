@@ -1,0 +1,175 @@
+{
+  "slug": "aegis-institute",
+  "name": "Aegis Institute",
+  "aliases": [
+    "Aegis Research Institute",
+    "Aegis Research Center",
+    "Aegis Lab",
+    "Aegis Laboratory",
+    "Aegis Allied Force / Aegis Alliance Unit (its joint combat force)"
+  ],
+  "side": "neutral",
+  "sideNote": "Founded by the Counter-Terrorism Alliance, but has maintained a deliberately neutral position between Counter-Terrorists and Terrorists so that both can run joint anti-zombie operations.",
+  "summary": "The Aegis Institute is the zombie-research and anti-zombie-weapons institute at the heart of Counter-Strike Online's Zombie Scenario storyline. Established by the Counter-Terrorism Alliance once it became clear Dr. Rex's research would not reduce the zombie threat, it gathers top scientists and weapons experts from many countries, arms the Zombie Extermination Squadron, and searches for a cure for the Zombie Virus. Its best-known face is Senior Researcher Soy (Ahn Soi), the voice guiding players through most scenario chapters.",
+  "description": "The Counter-Terrorism Alliance created the Aegis Research Center to develop specialised anti-zombie weapons and to study zombies, at the same time organising a separate zombie-extermination unit to declare war on the undead. The institute's staff are excellent scientists and researchers from each country who combine scientific knowledge with deep weapons expertise; they manufacture weapons for the Zombie Extermination Squadron while trying to cure the Zombie Virus. Its neutrality between CT and TR laid the groundwork for the two sides to carry out missions together - most notably large-scale joint operations built on the close friendship of David Black (AFC) and Gerard (PMC). A mysterious 'Doctor A' is said to be secretly aiding the counter-terrorism coalition.",
+  "lore": "**Campaign role.** The Institute frames the Season 2 pursuit of Dione: one year after the Lost City incident, Senior Researcher Soy briefs the LS team over the Caribbean (Toxicity) to search for clues about Dr. Rex, then orders the wounded Dione captured or killed (Culvert). Later, the Institute's secret communication base is discovered by Kronos, which sends zombies and mass-produced AMP Suits / Mad Mechanics to destroy it (Cordon). After Alin and Dominique blow up a Kronos secret lab and expose Kronos's facilities, Douglas Jacob strikes back and captures the Aegis laboratories; Jennifer and Dr. Soi arm themselves to retake them (Obstacle). With heroes and super soldiers engaged elsewhere, the government forms a special relief force to rescue survivors in isolated cities (Convoy). In the finale, the Aegis Allied Force storms Douglas Jacob's hideout and Soi calls in the airstrike that kills him.\n\n**Zombie classification.** Aegis has classified several notable zombies after first contact - e.g. Ganymede, categorised as a Siege Type Deimos: high HP, agile, able to slip past bullets and rush enemies at great speed. Other classified samples include Frozen Terror's Mane and Gluttony's Tongue.\n\n**Discontinued special missions.** 'Collect Hero's Information' (win 3 rounds as Hero in Zombie Hero mode), 'Morale Boost Experience', 'Airstrike Support'.",
+  "products": {
+    "note": "Anti-zombie weapon lines developed by the Aegis Institute (each has its own wiki page).",
+    "series": [
+      {
+        "name": "BALROG Series",
+        "members": ["BALROG-I", "BALROG-III", "BALROG-V", "BALROG-VII", "BALROG-IX", "BALROG-XI"],
+        "gimmick": "Balrog Charging System - explosions after continuous fire; AHE ammunition"
+      },
+      {
+        "name": "JANUS Series",
+        "members": ["JANUS-1", "JANUS-3", "JANUS-5", "JANUS-7", "JANUS-9", "JANUS-11"],
+        "gimmick": "Janus Transformation System - unlimited-fire form after enough hits"
+      },
+      {
+        "name": "THANATOS Series",
+        "members": [
+          "THANATOS-1",
+          "THANATOS-3",
+          "THANATOS-5",
+          "THANATOS-7",
+          "THANATOS-9",
+          "THANATOS-11"
+        ],
+        "gimmick": "Thanatos Blade System - sustained damage to multiple targets in a blade radius"
+      },
+      {
+        "name": "VULCANUS Series",
+        "members": [
+          "VULCANUS-1",
+          "VULCANUS-3",
+          "VULCANUS-5",
+          "VULCANUS-7",
+          "VULCANUS-9",
+          "VULCANUS-11"
+        ],
+        "gimmick": "Vulcanus Parts System - laser trails and missile launcher"
+      },
+      {
+        "name": "Tiamat Series",
+        "members": ["Plasma Rifle MK-1", "Plasma Rifle MK-2", "Tiamat MK-3", "Tiamat MK-4"],
+        "gimmick": "Plasma-energy prototype rifles"
+      },
+      {
+        "name": "IGNITE Series",
+        "members": ["IGNITE-7", "IGNITE-10"],
+        "gimmick": "Split magazine and Ignite Force system"
+      },
+      {
+        "name": "Season Pass",
+        "members": ["Mechasaurus MK-4"],
+        "gimmick": "Re-studied Transform System / Berserk mode"
+      },
+      {
+        "name": "Transcendent",
+        "members": ["Astra", "Gigantic Drill", "Demolition Hammer", "Ascalon"],
+        "gimmick": "e.g. Astra's returning projectile"
+      },
+      { "name": "Legend", "members": ["USAS-12 Thunderfall"], "gimmick": null }
+    ],
+    "stolenTech": "Kronos built the Arbalest from the Cosmic Stone stolen from the Aegis Institute, and the Space Arbalest from an Astral Stone derived from it."
+  },
+  "leaders": [
+    "Soy (Ahn Soi) - Senior Researcher / founder-figure of the Institute; later 'Leader Soi'"
+  ],
+  "members": [
+    "Soy (Soi)",
+    "Walter",
+    "Ha Ly",
+    "Dr. Han",
+    "Laser Wing (listed among known characters)",
+    "Jack (listed among known characters)",
+    "Super Soldier Jennifer",
+    "Leader Soi",
+    "Doctor A (identity unknown; rumoured secret ally)"
+  ],
+  "alliedCharacters": [
+    "David Black (AFC)",
+    "Gerard (PMC)",
+    "Jennifer",
+    "Jim (Red Lizard)",
+    "Carlito",
+    "Alin and Dominique",
+    "Mirage (tries to contact the Aegis Lab with the Krono World log)"
+  ],
+  "enemies": ["Dr. Rex / Rex Research Institute", "Kronos / Douglas Jacob", "Vanguard Company"],
+  "trivia": [
+    "In Greek mythology the Aegis is the shield or breastplate of Athena or Zeus, said to withstand anything.",
+    "Super Soldier Jennifer is the only known Aegis personnel who uses enemy weapons and equipment."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f6/Soy.png",
+      "caption": "Soy (Senior Researcher) portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/8c/Leader_soi_icon.png",
+      "caption": "Leader Soi icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/15/Super_solider_jennifer_icon.png",
+      "caption": "Super Soldier Jennifer icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/13/Walter_icon.png",
+      "caption": "Walter icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/d/d7/Vngirl_icon.png",
+      "caption": "Ha Ly icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/6a/Nojinctbuy.png",
+      "caption": "Dr. Han buy icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/9a/Zs_trace_cso.png",
+      "caption": "Toxicity map icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/c9/Zs_culvert.png",
+      "caption": "Culvert map icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/62/Zs_defense2_cso.png",
+      "caption": "Cordon map icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f6/Zs_obstacle3_cso.png",
+      "caption": "Obstacle map icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/a/ab/Zs_convoy_cso.png",
+      "caption": "Convoy map icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/b/b8/Balrog7.png",
+      "caption": "BALROG-VII"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/c/c9/Janus-5.png",
+      "caption": "JANUS-5"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/7/7d/Deimos2_gfx.png",
+      "caption": "Ganymede (Siege Type Deimos) classification image"
+    }
+  ],
+  "emblemNote": "No dedicated emblem/logo image is present on the wiki page; the closest visual identifiers are Soy's portrait and the map icons above.",
+  "wikiUrl": "https://cso.fandom.com/wiki/Aegis_Institute",
+  "sections": [
+    "Details",
+    "Special Missions (discontinued)",
+    "Campaign (Toxicity, Culvert, Cordon, Obstacle, Convoy)",
+    "Products (BALROG, JANUS, THANATOS, VULCANUS, Tiamat, IGNITE, Season Pass, Transcendent, Epic, Legend)",
+    "Known characters",
+    "Classification",
+    "Trivia"
+  ],
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

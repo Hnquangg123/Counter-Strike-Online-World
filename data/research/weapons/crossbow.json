@@ -1,0 +1,63 @@
+{
+  "slug": "crossbow",
+  "name": "Crossbow",
+  "aliases": [],
+  "category": "assault-rifle",
+  "grade": null,
+  "origin": null,
+  "manufacturer": null,
+  "caliber": "Crossbow bolts",
+  "tagline": "A 50-bolt crossbow with a scope whose projectiles never anger zombies.",
+  "summary": "The Crossbow is fed with 50 crossbow bolts per clip and, although classed as an assault rifle in-game, fires real projectiles that travel to the target rather than hitscan bullets. It has a usable sniper scope, low recoil, penetrates Kevlar, knocks incoming zombies back and is the first weapon that does not raise a zombie's anger bar. It debuted in February 2010 alongside the MP5 Tiger and later gained an upgraded form, Crossbow Advance.",
+  "description": "The wiki describes the in-game Crossbow as fed with 50 rounds of crossbow bolts; the fired bolt does not instantly hit the target, so shots must be led. Its rate of fire is lower than other assault rifles (higher when unscoped, on par with the M14 EBR), recoil is lower than the M4A1, weight is the same as the Galil and knockback is similar to the TAR-21; stun on zombies is low. Reserve ammo is 200 in Original mode and 600 in Zombie Scenario; the weapon costs $3,500 ($4,700 with ammo in Original, $7,100 in Zombie Scenario) with ammo at $300 per 50-bolt clip. Damage to armored targets by body part: head 146, chest 48, gut and arm 47, legs 34; against zombies 1,700-7,300 in Zombie Infection and 40,000-80,000 to bosses in Zombie Scenario at maxed attack. Because it does not increase the zombie anger bar, it is well suited to defence in Zombie Hero. It was originally obtained by collecting four Happy New Year cards and is now distributed through the Event Decoder; owners could once upgrade it to Crossbow Advance by collecting kill points.",
+  "stats": {
+    "damage": "Head 146 / chest 48 / gut & arm 47 / legs 34 (armored); zombies 1,700-7,300; bosses 40,000-80,000 (maxed attack)",
+    "accuracy": null,
+    "recoil": "Lower than the M4A1",
+    "rateOfFire": "Lower than other assault rifles; same as the M14 EBR",
+    "weight": "Same as the Galil (light)",
+    "knockback": "Similar to the TAR-21; knocks incoming zombies away",
+    "stun": "Low toward zombies"
+  },
+  "ammo": {
+    "magazine": 50,
+    "reserve": "200 (Original) / 600 (Zombie Scenario)",
+    "type": "Crossbow bolts ($300 per 50-bolt clip)"
+  },
+  "price": "$3,500 ($4,700 with full ammo in Original; $7,100 in Zombie Scenario)",
+  "fireModes": ["Semi-automatic bolts (projectile)", "Scoped"],
+  "obtainMethod": "Event Decoder (current); originally by collecting 4 Happy New Year cards; upgradeable to Crossbow Advance via kill points (one-time event)",
+  "advantages": [
+    "Lightweight",
+    "Usable sniper scope for long-range engagement",
+    "Low recoil",
+    "Penetrates Kevlar armor",
+    "Does not increase the zombie anger meter",
+    "Knocks away incoming zombies",
+    "Relatively high rate of fire for its damage"
+  ],
+  "disadvantages": [
+    "Bolts are projectiles with travel time (non-hitscan)",
+    "No longer obtainable through normal means",
+    "Cannot penetrate objects",
+    "Expensive for an assault rifle",
+    "Low stun effectiveness on zombies"
+  ],
+  "variants": ["Crossbow Advance"],
+  "characters": [],
+  "abilities": [],
+  "release": [
+    { "region": "kr", "date": "2010-02-09", "note": "Released alongside the MP5 Tiger" },
+    { "region": "tw", "date": "2010-02-09", "note": "Taiwan/Hong Kong" },
+    { "region": "cn", "date": "2010-02-10", "note": null }
+  ],
+  "trivia": [
+    "The bolts are actual projectiles, not hitscan bullets.",
+    "Classed as an assault rifle in the game even though it is not technically one.",
+    "First weapon that does not increase the zombie anger bar.",
+    "Enemy damage indicators appear from every direction when a Crossbow user shoots."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Crossbow",
+  "_notes": "The fetched digest labelled the grade 'Transcendent'; this may belong to Crossbow Advance rather than the base Crossbow, so grade is left null pending verification."
+}

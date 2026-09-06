@@ -1,0 +1,189 @@
+{
+  "slug": "choi-ji-yoon",
+  "name": "Choi Ji Yoon",
+  "aliases": ["최지윤", "Captain Choi", "choijiyoon (system name)"],
+  "kind": "human",
+  "side": "ct",
+  "grade": null,
+  "classType": "Cash female Counter-Terrorist character; NPC captain in Zombie Scenario (Chaos, Episode Choi, All-Out)",
+  "factions": [
+    "Counter-Terrorist",
+    "707 Special Mission Battalion (Korea)",
+    "Intelligence bureau of the special forces / CIA (per Season 6 storyline)",
+    "Rescue team"
+  ],
+  "profile": {
+    "gender": "Female",
+    "age": null,
+    "height": null,
+    "weight": null,
+    "birthplace": null,
+    "nationality": "Korean",
+    "occupation": "Intelligence agent / special-forces captain; undercover infiltrator of the Asia Red Army",
+    "bloodType": null,
+    "birthday": null,
+    "raceAffiliation": "Human / 707, Rescue team",
+    "status": "Alive"
+  },
+  "tagline": "Two-headed serpent spy - the agent who infiltrated the Asia Red Army and never stopped chasing its secrets.",
+  "summary": "Choi Ji Yoon is a female Counter-Terrorist character (official description: 'Two-headed serpent spy') and Ritsuka's CT counterpart. An intelligence-bureau officer of the special forces, she went undercover inside the Asia Red Army; her cover was blown while she was reading the group's confidential files and she fled home, joining the Counter-Terrorists in the hope of one day recovering those documents. She is also the captain who leads players through the Rex basement in the Chaos chapter, and the heroine of Zombie Scenario Season 6's 'Episode Choi'.",
+  "story": "**Background.** A member of the special forces' intelligence bureau, Choi Ji Yoon was assigned to infiltrate a Terrorist group (the Asia Red Army, ARA). Another agent (Ritsuka) exposed her while she was looking through ARA's confidential documents, forcing her to flee back to her country. She then joined the Counter-Terrorists hoping to get her hands on those documents again.\n\n**Zombie Scenario: Season 1 - Chaos.** Choi Ji Yoon appears as the troop captain who orders the rescue team to press into the Rex laboratory basement. According to signal corpsman Felix's diary, the government issued an urgent retreat order, but Captain Choi's behaviour changed when she learned the team's location: she cut communications with headquarters and asked the team to carry out an internal investigation of the laboratory complex - leaving Felix wondering what she was really trying to find.\n\n**Z-VIRUS trailer.** She is shown investigating a lab when a Sting Finger attacks her from behind; fleeing, she encounters a Venom Guard and defends herself with an M32 MGL found on the ground.\n\n**Zombie Scenario: Season 6 - Episode Choi.** Sent by the CIA to infiltrate the Asia Red Army for intelligence, she is discovered by Ritsuka and held hostage; another CIA agent, May, is dispatched to rescue her. The episode reveals that the ARA, led by Mr. X, is funded by Douglas Jacob to deploy a biological weapon that turns people into monsters and zombies. She also appears in Season 7's All-Out chapter.\n\n**Family.** Her sister, a Female Researcher at the Rex Research Institute, turned into the Sting Finger zombie during the escape from the institute.",
+  "personality": null,
+  "quotes": [{ "text": "Two-headed serpent spy.", "context": "Official description" }],
+  "abilities": [],
+  "zombieScenarioStats": {
+    "health": "22/28",
+    "attack": "16/28",
+    "mobility": "24/28",
+    "armor": "26/28",
+    "ammo": "17/28"
+  },
+  "favoriteWeapons": ["Pistol", "Assault rifle", "Equipment"],
+  "appearanceDescription": "Short black hair tied up, bangs almost covering one eye, brown eyes; glasses, earrings, dark-blue coat with matching mini skirt, unbuttoned white shirt, silver watch, tights, black high heels; a blue butterfly tattoo on her left chest. (Selection icon and manhwa show brown hair; in-game model is dark blue.)",
+  "costPerRegion": {
+    "Taiwan/Hong Kong": "199 Cash (Permanent)",
+    "Singapore/Malaysia": "2000 Cash (3 days) / 2800 (10 days) / 4200 (30 days)",
+    "Indonesia": "7500 MI-Cash (1 day) / 15,000 (3 days) / 30,000 (10 days) / 45,000 (30 days) / 90,000 (Permanent)",
+    "Vietnam": "189 Golds (Permanent)"
+  },
+  "obtainedFrom": "Cash shop (released with Ritsuka in the Double Agent Package)",
+  "appearances": {
+    "gameModes": ["Original / general modes (Counter-Terrorist team)", "Zombie Scenario"],
+    "maps": ["Chaos", "Episode Choi", "All-Out"],
+    "scenarios": [
+      "Zombie Scenario: Season 1 - Chaos (NPC captain)",
+      "Zombie Scenario: Season 6 - Episode Choi (NPC)",
+      "Zombie Scenario: Season 7 - All-Out (NPC)",
+      "Z-VIRUS trailer"
+    ]
+  },
+  "weapons": ["M4A1 (pictured)", "M32 MGL (Z-VIRUS trailer)"],
+  "relatedCharacters": [
+    "Ritsuka - Terrorist counterpart; the agent who exposed her",
+    "Female Researcher / Sting Finger - her sister",
+    "May - CIA agent sent to rescue her",
+    "Mr. X - leader of the Asia Red Army",
+    "Douglas Jacob - funds the ARA",
+    "Transcendent Choi Ji Yoon, Princess Choi Ji Yoon, Lady CJY - transcendent variants",
+    "Choi Ji Yoon (Soccer), (Spy) - alternate skins"
+  ],
+  "voiceActors": [],
+  "release": [
+    {
+      "region": "sg",
+      "date": "2011-09-21",
+      "note": "Singapore/Malaysia - with Ritsuka and Double Agent Package"
+    },
+    { "region": "id", "date": "2012-01-04", "note": "Indonesia" },
+    { "region": "tr", "date": "2013-07-24", "note": "Turkey" },
+    { "region": "csn", "date": "2014-12-16", "note": "CSN:Z" },
+    { "region": "vn", "date": "2015-04-23", "note": "Vietnam" }
+  ],
+  "trivia": [
+    "Three alternate skins exist: Soccer, Limited Edition and Transcendence.",
+    "Her hair is brown in the selection icon and manga but dark blue on the in-game model (the same happens with Ritsuka).",
+    "Appears as a non-playable supporting character in Chaos (Season 1) and Episode Choi (Season 6).",
+    "Her NPC portrait is similar in Counter-Strike Online 2.",
+    "Her blue butterfly tattoo does not appear in the manga."
+  ],
+  "images": [
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/6/6b/Choijiyoon_gfx.png",
+      "caption": "Infobox portrait"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/ec/Choijiyoon_shopmodel.png",
+      "caption": "Shop model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/9a/Choi_hd.png",
+      "caption": "HD model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/7/7d/Choiji-Yoon.jpg",
+      "caption": "South Korea wallpaper"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/2/2b/Newgirl.jpg",
+      "caption": "South Korea poster (with Ritsuka)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/7/76/Choijiyoon_promo.jpg",
+      "caption": "Singapore/Malaysia poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/9e/Chritsucp.jpg",
+      "caption": "China poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/8b/Images_%285%29.jpg",
+      "caption": "Taiwan/Hong Kong poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/93/Choijiyoon_poster_th.jpg",
+      "caption": "Thailand poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/e1/Ritsuka_choijiyoon_turkey_poster.png",
+      "caption": "Turkey resale poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/87/Capnhatcuahang.png",
+      "caption": "Vietnam poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/7/7b/Choijiyoon_msg.png",
+      "caption": "NPC message portrait (Chaos, Episode Choi)"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/7/75/Choiji-Yoon-CS_Online.jpg",
+      "caption": "Choi Ji Yoon with M4A1"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/8c/Choijiyoon_spray.png",
+      "caption": "Spray"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/4/47/Choijiyoon_sd_HD.png",
+      "caption": "SD spray"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/ff/Choijiyoon.png",
+      "caption": "Buy icon"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/f/f0/Choiji-Yoon-011.jpg",
+      "caption": "In-game model"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/e/e8/Sexylegs.jpg",
+      "caption": "Choi Ji Yoon at the scene where Gerard and David Black confront each other"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/9/9b/Summerart2015.jpg",
+      "caption": "CSO Summer 2015 poster"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/1/10/Choi_Ji-Yoon.jpg",
+      "caption": "In-game screenshot"
+    },
+    {
+      "url": "https://static.wikia.nocookie.net/cso/images/8/83/Hud_choijiyoon.png",
+      "caption": "HUD portrait"
+    }
+  ],
+  "wikiUrl": "https://cso.fandom.com/wiki/Choi_Ji_Yoon",
+  "sections": [
+    "Background",
+    "Appearance (NPC appearances)",
+    "Related characters",
+    "Events",
+    "Favorite weapons",
+    "Zombie Scenario Stats",
+    "Appearance (looks)",
+    "Gallery",
+    "Trivia"
+  ],
+  "sourceNotes": "Chaos captain details from Zombie Scenario: Season 1 storyline (Felix's diary); Episode Choi summary from https://cso.fandom.com/wiki/Zombie_Scenario:_Season_6.",
+  "license": "Adapted from the Counter Strike Online Wiki (cso.fandom.com), CC BY-SA 3.0"
+}

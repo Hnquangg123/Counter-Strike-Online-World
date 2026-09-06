@@ -1,0 +1,39 @@
+{
+  "slug": "zombie-4-darkness",
+  "name": "Zombie 4: Darkness",
+  "aliases": ["Zombie: Darkness", "Zombie Mod 4"],
+  "family": "zombie",
+  "tagline": "Humans rule the day, zombies rule the night - a day/night cycle decides who is hunting whom.",
+  "summary": "Zombie 4: Darkness is a standalone zombie infection mode built around a day/night cycle: humans are stronger in daylight and zombies grow more powerful when darkness falls. It drops the Hero and evolution systems of Zombie Hero, adds sprinting, kicking and Concentrated Fire for humans, climbing and adrenaline skills for zombies, and introduces the Night Stalker and Spin Diver classes.",
+  "description": "The wiki describes a mode where players are divided into a minority of zombies and a majority of humans; zombies must find and infect the humans within the time limit, humans must kill all zombies or survive the round, and zombies become stronger when darkness comes. There is a set duration for day and night. Compared with Zombie Hero there are no Hero/Heroine characters and no evolution system, plus new HUD icons and the M2 Browning. Five zombie classes: Regular (rushes, climbs walls), Light (hides, high jumps, low defence), Heavy (defence, tremor jump), Night Stalker (selected at nightfall with enhanced abilities) and Spin Diver (exclusive to the Shadow Conqueror set; rolling and pouncing). Humans double-tap W to sprint using adrenaline, press 5 to kick and 6 for Concentrated Fire (needs 30%+ gauge); attack power rises 1% per second, grenades deal more damage and do not hurt the thrower. Zombies use adrenaline-based special abilities with class-specific right-click skills, heal faster at night and keep full respawn health. Maps: Dark City (zm_darkcity_cso) and Shoreline (zm_shoreline_cso).",
+  "lore": "The Counter-Strike Nexon: Zombies tagline reads 'Darkness... Is coming.' The wiki states the mode does not continue the previous Zombie Modes' story; its setting is a night-fall siege where Ospreys and Apache helicopters can be seen at daybreak on some maps.",
+  "rules": [
+    "Humans win by killing all zombies or surviving; zombies win by infecting all humans.",
+    "Timed day and night phases: humans stronger by day, zombies stronger at night.",
+    "No Hero/Heroine and no zombie evolution.",
+    "Human skills: sprint (adrenaline), kick (key 5), Concentrated Fire (key 6, 30%+ gauge).",
+    "Zombie skills: class-specific adrenaline abilities, wall climbing, faster night healing.",
+    "Night Stalker chosen at nightfall (later selectable with the Shadow Conqueror set)."
+  ],
+  "maxPlayers": null,
+  "release": [
+    { "region": "kr", "date": "2014-01-09", "note": null },
+    { "region": "tw", "date": "2014-01-14", "note": "Taiwan/Hong Kong" },
+    { "region": "cn", "date": "2014-01-15", "note": null },
+    { "region": "jp", "date": "2014-01-15", "note": null },
+    { "region": "sg", "date": "2014-06-03", "note": "Singapore/Malaysia" },
+    { "region": "id", "date": "2014-08-06", "note": null },
+    { "region": "csn", "date": "2015-06-28", "note": "Counter-Strike Nexon: Zombies" },
+    { "region": "vn", "date": "2015-08-20", "note": null }
+  ],
+  "trivia": [
+    "First CSO mode to introduce kicking (humans) and climbing (zombies).",
+    "The trailer resembles Left 4 Dead although the gameplay differs.",
+    "The background music 'Good Night' plays when the map darkens.",
+    "New HUD numbers reuse Half-Life fonts.",
+    "Initially allowed Expert/Master weapon variants, later patched.",
+    "Discontinued in CSO China in mid-2021."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Zombie_4:_Darkness"
+}

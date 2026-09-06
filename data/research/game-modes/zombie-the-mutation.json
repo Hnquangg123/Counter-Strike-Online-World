@@ -1,0 +1,24 @@
+{
+  "slug": "zombie-the-mutation",
+  "name": "Zombie: The Mutation",
+  "aliases": ["Zombie Mod 2", "Zombie 2"],
+  "family": "zombie",
+  "tagline": "The zombies fight back: new mutant classes, healing and evolution give the infected a fighting chance.",
+  "summary": "Zombie: The Mutation is the second Zombie Mod. Because humans dominated the original mode, it introduces zombie variants with unique abilities - Normal (Berserk), Light (Invisibility), Heavy (Trap), PC Zombie (Smoke screen) and Doctor Zombie (Healing) - plus health regeneration and an evolution path from lesser zombie to Host (7000 HP) to Prime Zombie (14000 HP). Supply boxes drop weapons and gear every 20 seconds.",
+  "description": "The wiki notes that, as humans mainly had the advantage in the predecessor, this mode introduces new zombie variants and unique abilities so zombies can find a fighting chance. Host zombies regenerate 400 HP/s and lesser zombies 200 HP/s; a lesser zombie that infects 3 humans evolves into a Host Zombie (7000 HP) and a Host with 5 kills becomes a Prime Zombie (14000 HP). Supply boxes spawn every 20 seconds with weapons and equipment. A Classic option disables human skills, the evolution system and restricts zombie abilities. Map captured: Abyss 2 (zm_abyss2).",
+  "lore": "The Abyss 2 map briefing: headquarters assigns a new rescue mission after confirming that survivors were left behind in building B-1 of the Rex Research Institute; players must cross Block C to reach them while zombies roam the facility.",
+  "rules": [
+    "Humans win by surviving the round or killing all zombies; zombies win by infecting all humans.",
+    "Zombie classes: Normal (Berserk), Light (Invisibility), Heavy (Trap), PC Zombie (Smoke screen), Doctor Zombie (Healing).",
+    "Zombie regeneration: Host 400 HP/s, lesser 200 HP/s.",
+    "Evolution: 3 infections -> Host Zombie (7000 HP); 5 kills as Host -> Prime Zombie (14000 HP).",
+    "Supply boxes every 20 seconds.",
+    "Classic mode: no human skills, no evolution, restricted zombie abilities."
+  ],
+  "maxPlayers": null,
+  "release": [],
+  "trivia": [],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/Zombie:_The_Mutation",
+  "_notes": "The first Zombie Mod page (Zombie: The Original) returned 402 on every attempt."
+}

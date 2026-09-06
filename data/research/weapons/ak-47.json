@@ -1,0 +1,62 @@
+{
+  "slug": "ak-47",
+  "name": "AK-47",
+  "aliases": ["CV-47", "Avtomat Kalashnikova Model 1947"],
+  "category": "assault-rifle",
+  "grade": "common",
+  "origin": "Soviet Union / Russia",
+  "manufacturer": "Izmash",
+  "caliber": "7.62 NATO (as written on the wiki infobox)",
+  "tagline": "The Terrorists' hard-hitting workhorse rifle: huge damage, wild recoil.",
+  "summary": "The AK-47 is the Terrorist faction's standard assault rifle in Counter-Strike Online and a basic (Common-grade) weapon purchasable in Original mode. It deals high damage per hit and has a short reload, but its recoil is very high, so sustained spraying quickly destroys accuracy. Its Counter-Terrorist counterpart is the M4A1.",
+  "description": "Designed by Mikhail Kalashnikov and manufactured by Izmash, the AK-47 is fed with 30 rounds of 7.62 ammunition and fires in automatic mode. In Counter-Strike Online it is the Terrorist-exclusive basic rifle of Original mode ($2500 in match). The wiki characterises it as doing high damage per hit but with high recoil, so spraying makes the user lose accuracy tremendously; controlled bursts or single taps at range are the intended play style. Its damage listed by mode: 28 (Normal), 40-47 (Zombie), 56-66 (Scenario). Rated stats: accuracy 83%, recoil 21%, rate of fire 91%. The AK-47 has spawned a long line of reskins and reworks in CSO (Dragon, 60R, Gold, AKM, HQ, Red, Paladin, White Gold, 10th Anniversary).",
+  "stats": {
+    "damage": "28 (Normal) / 40-47 (Zombie) / 56-66 (Scenario)",
+    "accuracy": "83%",
+    "recoil": "21%",
+    "rateOfFire": "91%",
+    "weight": null,
+    "knockback": null,
+    "stun": null
+  },
+  "ammo": { "magazine": 30, "reserve": 90, "type": "7.62 NATO" },
+  "price": "$2500",
+  "fireModes": ["Automatic"],
+  "obtainMethod": "Basic weapon; purchasable by Terrorists (exclusive in Original mode)",
+  "advantages": [
+    "High damage for an assault rifle",
+    "Short reload time",
+    "High rate of fire",
+    "Cheaper than the M4A1",
+    "Accurate at long range (when tapped)"
+  ],
+  "disadvantages": [
+    "Loses accuracy after just several shots",
+    "Very loud, reveals the shooter's position",
+    "Purchasable only for Terrorists in Original mode",
+    "Very high recoil",
+    "Wild spray pattern",
+    "Quite expensive ammunition cost"
+  ],
+  "variants": [
+    "AK-47 Dragon",
+    "AK-47 60R",
+    "AK-47 Gold",
+    "AKM",
+    "AK-47 HQ",
+    "AK-47 Red",
+    "AK-47 Paladin",
+    "AK-47 White Gold",
+    "AK-47 10th Anniversary"
+  ],
+  "characters": [],
+  "abilities": [],
+  "release": [],
+  "trivia": [
+    "Its Counter-Terrorist counterpart in Original mode is the M4A1.",
+    "Designer credited on the wiki: Mikhail Kalashnikov."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/AK-47",
+  "_notes": "Base weapon available since launch; the wiki page did not expose per-region release dates in our fetch. Variant list is given on the wiki as a compact list (Dragon | 60R | Gold | AKM | HQ | Red | Paladin | White Gold | 10th Anniversary) and has been expanded to full names here."
+}

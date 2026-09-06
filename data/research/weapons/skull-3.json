@@ -1,0 +1,57 @@
+{
+  "slug": "skull-3",
+  "name": "SKULL-3",
+  "aliases": ["Skull-3"],
+  "category": "submachine-gun",
+  "grade": null,
+  "origin": "Based on the UMP45",
+  "manufacturer": "Government (in-game lore)",
+  "caliber": ".45 Anti-Zombie",
+  "tagline": "A silenced anti-zombie UMP45 that can be dual-wielded on the fly.",
+  "summary": "SKULL-3 is an anti-zombie submachine gun chambered with 35 rounds of .45 Anti-Zombie cartridge that can be dual-wielded for 70 rounds. It carries a non-detachable suppressor, foregrip, an extended magazine (+10 over the UMP45) and a scope usable in single mode. Single mode is light and accurate; dual mode trades weight and recoil for high damage, rate of fire and penetration.",
+  "description": "The wiki describes SKULL-3 as an anti-zombie submachine gun chambered with 35 rounds of .45 Anti-Zombie cartridge and capable of being dual-wielded (70 rounds). It includes a non-detachable suppressor, a foregrip, an extended magazine (+10 capacity compared to the UMP) and a scope usable in single mode. It costs $4,000 in both Original and Scenario, with ammo at $1,050 (Original) / $3,000 (Scenario). Damage in single mode (armor / no armor): head 81 / 100+, chest 20 / 28, gut 20 / 28, leg 20 / 21; in dual mode: head 105 / 100+, chest 26 / 35, gut 26 / 35, leg 26 / 26. In zombie modes, 35 rounds of A mode deal roughly 700-2,800 damage and 70 rounds of B mode 1,960-7,840. Recommended use: single mode for medium/long range or escaping, dual mode for close combat and safe-area zombie killing, firing in 3-round bursts.",
+  "stats": {
+    "damage": "Single: head 81/100+, chest & gut 20/28, leg 20/21; Dual: head 105/100+, chest & gut 26/35, leg 26 (armor / no armor)",
+    "accuracy": "Good at long range in single mode",
+    "recoil": "Low (single) / High (dual)",
+    "rateOfFire": "High (dual)",
+    "weight": "Light (single) / Very heavy (dual)",
+    "knockback": "Low",
+    "stun": "High stun to zombies (dual)"
+  },
+  "ammo": { "magazine": "35 (single) / 70 (dual)", "reserve": "High", "type": ".45 Anti-Zombie" },
+  "price": "$4,000 (Original) / $4,000 (Scenario); ammo $1,050 / $3,000",
+  "fireModes": ["Single mode (A mode, scoped, suppressed)", "Dual mode (B mode, akimbo)"],
+  "obtainMethod": null,
+  "advantages": [
+    "Single mode: low recoil, light weight, short reload, usable scope, good long-range accuracy",
+    "Dual mode: high damage to humans and zombies, high rate of fire, silent, penetrates up to 4 objects, high stun on zombies, high reserve ammo"
+  ],
+  "disadvantages": [
+    "Single mode: low damage and magazine capacity, low knockback",
+    "Dual mode: very heavy, unusable scope, high recoil, runs dry quickly, expensive, low knockback"
+  ],
+  "variants": ["UMP45 (base weapon)", "Dual Kriss (comparison)", "BALROG-III (comparison)"],
+  "characters": [],
+  "abilities": [],
+  "release": [
+    { "region": "kr", "date": "2012-01-12", "note": null },
+    { "region": "tw", "date": "2012-01-17", "note": "Taiwan/Hong Kong" },
+    { "region": "cn", "date": "2012-01-18", "note": null },
+    { "region": "jp", "date": "2012-02-22", "note": null },
+    { "region": "id", "date": "2012-09-12", "note": null },
+    { "region": "sg", "date": "2012-11-07", "note": "Singapore/Malaysia" },
+    { "region": "tr", "date": "2014-05-14", "note": null },
+    { "region": "csn", "date": "2014-09-23", "note": "Counter-Strike Nexon: Zombies" },
+    { "region": "vn", "date": "2015-03-26", "note": null }
+  ],
+  "trivia": [
+    "The text 'SKULL-3' appears on the weapon.",
+    "Throwing the dual SKULL-3s during reload increases running speed.",
+    "An earlier version charged only $35 per 35 bullets.",
+    "The scope remains functional despite being obstructed by its cap; it reads 'Aopoint', parodying Aimpoint.",
+    "Dual-mode SKULL-3 weighs more than SKULL-4 despite being a submachine gun."
+  ],
+  "images": [],
+  "wikiUrl": "https://cso.fandom.com/wiki/SKULL-3"
+}
