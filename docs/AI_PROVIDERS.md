@@ -104,7 +104,10 @@ AI_3D_MODEL=fal-ai/hunyuan3d/v2
 AI_EMBEDDING_PROVIDER=openai        AI_EMBEDDING_MODEL_OPENAI=text-embedding-3-large   AI_EMBEDDING_MODEL_GOOGLE=gemini-embedding-2
 ```
 
-Put keys in `apps/web/.env` (never committed) — the AI CLI reads the same file via `node --env-file`.
+Put keys in `apps/web/.env` (never committed). The site, the seed script and the `pnpm ai` / `pnpm ingest` CLIs all
+read that file — the CLIs load it automatically (also `apps/web/.env.local`, a root `.env`, or `packages/ai/.env`).
+`pnpm ai -- status` prints which env files were loaded and which providers have a key; a `·` next to a provider means
+its variable is empty or misspelled. Real environment variables always take precedence over the files.
 
 ## Suggested first session with the tools
 

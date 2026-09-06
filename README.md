@@ -59,7 +59,7 @@ tools                   one-off scripts (research → seed converter)
 | `pnpm lint` / `pnpm lint:fix` | Biome lint + format |
 | `pnpm typecheck` / `pnpm test` / `pnpm build` | Across the workspace via Turborepo |
 | `pnpm ingest -- --help` | Wiki ingestion CLI (run from your own machine) |
-| `pnpm ai -- --help` | AI pipelines (needs API keys, see `docs/AI_PROVIDERS.md`) |
+| `pnpm ai -- status` / `pnpm ai -- --help` | AI pipelines — reads keys from `apps/web/.env` (see `docs/AI_PROVIDERS.md`) |
 
 ## Principles
 

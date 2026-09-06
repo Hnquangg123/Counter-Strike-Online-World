@@ -1,0 +1,2998 @@
+[
+  {
+    "slug": "abandoned-hound",
+    "name": "Abandoned Hound",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Abandoned Hound (zs_crack) is the third chapter of Zombie Scenario: Season 8 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "Ritsuka, who received a request to stop David Black and Erica's party and Douglas' support, surprises them at a remote factory. But Ritsuka was unable to stop David Black's party, and loses contact with Douglas and even the supported super soldiers and retreats. Ritsuka returns to the Asian Red Army Faction's hideout to reorganize her forces, but what she encounters is a hideout that has turned into ruins."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "abandoned-hound"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/95/MGmGVlL.jpg/revision/latest?cb=20230301205214",
+        "caption": {
+          "en": "Official wallpaper"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:MGmGVlL.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/45/Crack1-3.jpg/revision/latest?cb=20230220061320",
+        "caption": {
+          "en": "Official screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Crack1-3.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/ef/Crack2-2.jpg/revision/latest?cb=20230220061321",
+        "caption": {
+          "en": "Ditto"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Crack2-2.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Abandoned_Hound",
+      "title": "Abandoned Hound",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 298225,
+      "fetchedAt": "2026-09-06T14:27:43.825Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "all-out",
+    "name": "All-Out",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Episode All-Out (zs_allout) or Total War is the first chapter of the season 7 of Zombie Scenario in Counter-Strike Online."
+    },
+    "story": {
+      "en": "Veteran mercenary Carlito of Vanguard Company. With the incident of Douglas Jacob at the Vanguard Company, he now breaks the bond between Vanguard and Kronos. After securing intelligence that Kronos is raiding a secret research complex, Carlito's mercenary squad carries out a frenzied vengeance and advances to a secret research complex for counter-insurgency.\n\nIn order to attack Douglas Jacob's Kronos, he led the Blaze and crossed the desert zone and received an air raid on the XT-300 Goliath from the air. Nearly at the end of the Kronos, the blaze will deviate from its normal orbit due to a fatal blow. In the raid of an unidentified huge Kronos army, the squad of government forces and Aegis researchers face severe difficulties..."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "all-out"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/ca/Buffm249.png/revision/latest?cb=20190127074011",
+        "caption": {
+          "en": "Buffm249"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Buffm249.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e7/BuffM3.png/revision/latest?cb=20190127074026",
+        "caption": {
+          "en": "BuffM3"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:BuffM3.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/1f/Buffaug.png/revision/latest?cb=20190127074230",
+        "caption": {
+          "en": "Buffaug"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Buffaug.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/54/M95tigernb.png/revision/latest?cb=20190321104945",
+        "caption": {
+          "en": "M95tigernb"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:M95tigernb.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f5/Bouncer.png/revision/latest?cb=20170824124246",
+        "caption": {
+          "en": "Bouncer"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Bouncer.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/bd/Bpgm.png/revision/latest?cb=20170323105136",
+        "caption": {
+          "en": "Battle Hecate II"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Bpgm.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/42/Laserfist.png/revision/latest?cb=20190523075620",
+        "caption": {
+          "en": "Laserfist"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Laserfist.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b8/Laserfistex.png/revision/latest?cb=20200819120742",
+        "caption": {
+          "en": "Laserfistex"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Laserfistex.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9e/Costitanback.png/revision/latest?cb=20140128102003",
+        "caption": {
+          "en": "Titan Doll"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Costitanback.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/47/Cosjackmaskface.png/revision/latest?cb=20150210093145",
+        "caption": {
+          "en": "Jack Mask"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Cosjackmaskface.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/All-Out",
+      "title": "All-Out",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 293056,
+      "fetchedAt": "2026-09-06T14:27:33.657Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "another-truth",
+    "name": "Another Truth",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Another Truth (zs_anothertruth) or Another Side of Truth is the third chapter of Zombie Scenario: Season 5 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "* 1) Jennifer sets out to find the mysterious voice in the radio.\n * 2) In the process of searching for the questionable voice, the person in question does a strange thing to help her in danger.\n * 3) After passing through many zombies, she finally meets a mysterious person, and surprisingly, the person is Researcher Soi.\n * 4) Researcher Soi says he needs the help of people like her to stop a third force and that force that threatens her and the world.\n * 5) In an unsolved situation, they are attacked by a mechanized monster, and after one battle, Researcher Soi asks her to go together to the base, telling her about another truth that has been unknown."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "another-truth"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/34/Anothertruth.jpg/revision/latest?cb=20150707110418",
+        "caption": {
+          "en": "Official screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Anothertruth.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/49/Anothertruthtwhkposter.png/revision/latest?cb=20150712173332",
+        "caption": {
+          "en": "Taiwan/Hong Kong poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Anothertruthtwhkposter.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/26/Anothertruthchinaposter.png/revision/latest?cb=20150712173911",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Anothertruthchinaposter.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Another_Truth",
+      "title": "Another Truth",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 293128,
+      "fetchedAt": "2026-09-06T14:27:24.723Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "chaos",
+    "name": "Chaos",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Chaos (zs_chaos) is the fifth chapter of Zombie Scenario: Season 1 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "* 1) The rescue unit is divided into a transport unit to transport the samples obtained and a search unit to continue the investigation, and the search unit follows the Last clue and infiltrates the research complex.\n * 2) At the request of Choi Ji Yoon, a member of the intelligence agency, she begins to explore the research complex and gradually approaches the core facilities.\n * 3) In order to eliminate the intruder, three Siege Types were simultaneously released for combat, but since they are still unfinished, Siege Type Oberon and Dione attempt to escape from the lab.\n * 4) The search force, which suffered heavy damage from encounters with Siege-type Oberon and Dione, tries to track the two fleeing dogs, but a Siege-type Phobos appears in front of them.\n * 5) The search force succeeded in defeating it after a fierce battle with the Siege-type Phobos.\n * 6) CF. Choi Ji Yoon is a member of the Intelligence Agency and is investigating some kind of relationship between counter-terrorism, terrorists, and the government and the shadow government. While she is being marked for pursue by Ritsuka, a member of the Red Army faction in Asia, she gets information that Dr. Rex is currently being helped by an unknown military company and infiltrates the research complex.\n * 7) CF. May follows behind her to observe an intelligence service agent acting alone.\n * 8) CF. The Siege Type Phobos was produced as a combat type, unlike the prototype for testing. It's a much more intimidating target than before, but if you defeat it, you'll get a lot of samples to help with your anti-zombie research."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "chaos"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/36/Choijiyoon.jpg/revision/latest?cb=20120403085903",
+        "caption": {
+          "en": "Choijiyoon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Choijiyoon.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/0d/Chaoskp.png/revision/latest?cb=20131003124507",
+        "caption": {
+          "en": "South Korea poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Chaoskp.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Chaos",
+      "title": "Chaos",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 293648,
+      "fetchedAt": "2026-09-06T14:27:07.001Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "chaser",
+    "name": "Chaser",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "* For the zombie type, see Chaser Zombie."
+    },
+    "story": {
+      "en": "After preventing a dangerous attempt at a secret research facility, the party finds out that Mammon escaped without dying and begins tracking its location. Mamon was causing damage while circling a nearby village, and Soi, who found out its location, immediately looks for the nearest personnel. She relays this mission to Gerard, who happened to be conducting an operation nearby, and Gerard immediately stops his existing operation and moves to the village to chase after Mamon."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "chaser"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/0f/ZS9-3.jpg/revision/latest?cb=20250212031110",
+        "caption": {
+          "en": "Official Wallpaper"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:ZS9-3.jpg"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/7e/Zbs93boss1.png/revision/latest?cb=20250206081537",
+        "caption": {
+          "en": "Boss model (front)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zbs93boss1.png"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d6/Zbs93boss2.png/revision/latest?cb=20250206081537",
+        "caption": {
+          "en": "Boss model (back)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zbs93boss2.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Chaser",
+      "title": "Chaser",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 303220,
+      "fetchedAt": "2026-09-06T14:27:49.691Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "collapse",
+    "name": "Collapse",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Collapse or Boss Chase (zs_bosschase) is a special Zombie Scenario \"raid\" map introduced in Zombie Scenario: Season 5."
+    },
+    "story": {
+      "en": "Collapse or Boss Chase (zs_bosschase) is a special Zombie Scenario \"raid\" map introduced in Zombie Scenario: Season 5.\n\n## Overview\n\nPlayers are able to battle against several bosses from previous seasons. They are Oberon, Dione, Revenant, Fallen Titan, Neid and Zavist, Siege Type Phobos and Frozen Terror, albeit as mini-bosses the last two.\n\n## Official description\n\nUsing the data collected from a secret laboratory, a secret Intelligence was founded to revive the bosses for simulation experiment.\n\nLocate the place and defeat all the bosses before they have a chance to escape. Destroy the lab!\n\n## Goal\n\n* Find and eliminate all the bosses.\n\n## Release date\n\n* South Korea: 17 September 2015.\n * Taiwan/Hong Kong: 22 September 2015.\n * China: 23 September 2015.\n * Japan: 30 September 2015.\n * CSN:Z: 18 December 2015.\n * Indonesia: 3 February 2016.\n * Vietnam: 26 May 2016.\n\n## Transcripts\n\n* 1) Can you hear me? Thanks God if you are safe! Let’s start the mission briefing.\n * 2) Your mission is to launch an attack on the lab and eliminate all zombies.\n * 3) All the bosses are in recreated areas which mimic their original locations where they first appeared. Thry are called as \"testing area\".\n * 4) I believe the path to the next one will appear when you defeat the boss in the current area.\n * 5) The security is tight, so I can’t keep an eye on where you are located or where you’ll be heading next.\n * 6) So be cautious and complete the mission!\n * 7) The door to the next stage is open! Move!\n\n## Trivia\n\n* This map introduces a new gameplay of Scenario: Raid. The main goal is similar to Annihilation style, eliminate all the bosses.\n * The differences are, instead of defeating each boss in each round, the game only consists one round, and players must find the arenas to defeat the bosses. In other words, this gameplay is a combination of Pursuit style and Annihilation style.\n * This map is a mixture of each boss arena, from Dead End, Toxicity, Decoy, Contact and Envy Mask. Note that the selection is random, the game can start at any 1 of them.\n * Defeating bosses in this map does not increase the counter of [Phobos Slayer], [Oberon Slayer], [Dione Pursuer], [Firefighter], [Titan Attacker] and [Detective] medals.\n * Players will face seperately Siege Type Phobos and Frozen Terror in a small area as mini-bosses that have to be defeated in order to proceed to the next area as they will block the way during breakthrough. Their behavior is akin to previous chapters - lower healthpoints and basic attacks, however, only Frozen Terror will be launching basic attacks.\n * If Round Retry is used, the game will not be restarted but continue as is currently, meaning that health points will not be affected.\n * This is the second time where players are able to kill Dione after in Zombie Giant."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "collapse"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/73/Collapse.jpg/revision/latest?cb=20150915133839",
+        "caption": {
+          "en": "Official screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Collapse.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/93/Bosschasetwhk.png/revision/latest?cb=20150922063346",
+        "caption": {
+          "en": "Taiwan/Hong Kong poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Bosschasetwhk.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/53/Collapsevn.jpg/revision/latest?cb=20160525110754",
+        "caption": {
+          "en": "Vietnam poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Collapsevn.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Collapse",
+      "title": "Collapse",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 303907,
+      "fetchedAt": "2026-09-06T14:27:25.826Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "conspiracy",
+    "name": "Conspiracy",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Conspiracy (zs_conspiracy) is the second chapter of Zombie Scenario: Season 4 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "* 1) Jim and Gerrard finally arrive at the lab where they will deliver samples.\n * 2) As soon as the sample is delivered to the research center that seems to be hidden in the polar region and is about to withdraw, a large number of zombies appear and engage in combat.\n * 3) Anomalies are witnessed, such as zombies showing interest in samples, and as the zombies attack intensify, a rescue helicopter is called to escape, but fails.\n * 4) While searching the research center to hold the client accountable, he follows a mysterious voice and engages in a fierce battle with a huge infectious organism he encounters.\n * 5) CF. It turned out that part of the Rex virus was left behind in a sample Gerrard was carrying. Why zombies react to the Rex virus is still being studied.\n * 6) CF. The new Gluttony is a boss zombie with a huge mouth that devours everything it sees before its eyes. If you do get eaten, you should quickly install a C4 on Savaging Glutney's stomach and pray that you can escape. In addition, the skin of the Glutonny cannot be damaged by standard firepower, so the weak point on the top of the body must be attacked."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "conspiracy"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/96/Janusbanner.png/revision/latest?cb=20130911160407",
+        "caption": {
+          "en": "Banner"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Janusbanner.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/68/HCss1.jpg/revision/latest?cb=20130911161130",
+        "caption": {
+          "en": "HCss1"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:HCss1.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/31/HCss3.jpg/revision/latest?cb=20130911161420",
+        "caption": {
+          "en": "HCss3"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:HCss3.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f8/HCss2.jpg/revision/latest?cb=20130911161401",
+        "caption": {
+          "en": "HCss2"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:HCss2.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3a/HCss5.jpg/revision/latest?cb=20130911164345",
+        "caption": {
+          "en": "HCss5"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:HCss5.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/85/HCss4.png/revision/latest?cb=20130911161504",
+        "caption": {
+          "en": "HCss4"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:HCss4.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/61/FRss3.jpg/revision/latest?cb=20130911162118",
+        "caption": {
+          "en": "FRss3"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:FRss3.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/42/FRss2.jpg/revision/latest?cb=20130911162057",
+        "caption": {
+          "en": "FRss2"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:FRss2.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e4/FRss1.jpg/revision/latest?cb=20130911161905",
+        "caption": {
+          "en": "FRss1"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:FRss1.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/47/FRss4.jpg/revision/latest?cb=20130911162137",
+        "caption": {
+          "en": "FRss4"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:FRss4.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Conspiracy",
+      "title": "Conspiracy",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 293123,
+      "fetchedAt": "2026-09-06T14:27:17.106Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "convoy",
+    "name": "Convoy",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Convoy or Rescue: Isolated City is a side story of Zombie Scenario: Season 9."
+    },
+    "story": {
+      "en": "* Zombie Scenario Season 9 Side Story\n\nWhile many heroes, including Soi, Jennifer, and David Black, were working to stop Douglas's ambitions, the zombies that Douglas had sent to the surface were spreading not only to the Aegis Research Institute but also all over the world, invading numerous cities. The civilian survivors in the attacked city continued their desperate struggle for survival, using various items, equipment, and furniture, endlessly waiting for relief aid that might arrive at any moment. The government also did not wait for the super soldiers to do their part, but formed special forces to continuously rescue the survivors. One day, a rescue signal arrived to them as they were simply trying to save people amidst the endless zombie attacks. The survivors were taking refuge in a temporary shelter amid the zombie attacks that had swarmed the city, and they were asking for rescue. Content. Will they be able to safely reach the temporary shelter where the survivors are holding out and rescue them?"
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "convoy"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Convoy",
+      "title": "Convoy",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 303910,
+      "fetchedAt": "2026-09-06T14:27:48.660Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "cube",
+    "name": "Cube",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Cube (zs_cube) was an extra Zombie Scenario map in Counter-Strike Online."
+    },
+    "story": {
+      "en": "Cube (zs_cube) was an extra Zombie Scenario map in Counter-Strike Online.\n\n## Overview\n\n* This map was removed after Zombie Scenario Reboot.\n\nCube is a small survival-based map. It is separated into two sectors; with the same amount of players on each side. Zombies will spawn from four different locations.\n\nThis map is the only Zombie Scenario map where the players are divided into two teams and both teams have to battle while surviving. The players will be divided into Team Red & Team Blue while the objective of this map is to annihilate the rival team while surviving the onslaught of zombies. The team that has annihilated the rival team will win the round and that team will win the game once they have won three times.\n\nThere are items that are inclusive to this map only such as Bombs, Turrets and many more.\n\n## Remove date\n\nCube was removed alongside Zombie Scenario Re:boot on:\n * South Korea: 28 January 2014.\n * Taiwan/Hong Kong: 11 February 2014.\n * Japan: 12 February 2014.\n\n## Trivia\n\n* This is the first Zombie Scenario map that introduced Ganymede.\n * This is the only map that makes the player divided into two and battle each other.\n * Cube is unreleased in Singapore/Malaysia and Indonesia region for unknown reason.\n * This map was removed after Zombie Scenario Re:boot, making it the second removed map in Counter Strike Online, after City of Damned."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "cube"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b7/Cu1.jpeg/revision/latest?cb=20130723170157",
+        "caption": {
+          "en": "In-game screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Cu1.jpeg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/51/Cubecp.jpg/revision/latest?cb=20130907154220",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Cubecp.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9f/Cubekp.png/revision/latest?cb=20131002160449",
+        "caption": {
+          "en": "Korea poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Cubekp.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Cube",
+      "title": "Cube",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 303906,
+      "fetchedAt": "2026-09-06T14:27:08.152Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "culvert",
+    "name": "Culvert",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "season": "Season 2",
+    "summary": {
+      "en": "Pipebomb"
+    },
+    "story": {
+      "en": "While fighting zombies in the underground waterway that followed Dione, Dr.A learned that Dione was evolving on his own, but in the end, the capture failed."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "culvert"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f1/Doctora.png/revision/latest?cb=20120405100909",
+        "caption": {
+          "en": "Doctora"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Doctora.png"
+      },
+      {
+        "kind": "audio",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/68/Radiotone.ogg/revision/latest?cb=20121229102148",
+        "caption": {
+          "en": "Radiotone.ogg"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Radiotone.ogg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/01/Culvertkp.jpg/revision/latest?cb=20130930162743",
+        "caption": {
+          "en": "Korea poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Culvertkp.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/50/Mk48tp.png/revision/latest?cb=20130919144836",
+        "caption": {
+          "en": "Taiwan/Hong Kong poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Mk48tp.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/03/Culvcp.jpg/revision/latest?cb=20130829031611",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Culvcp.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Culvert",
+      "title": "Culvert",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 294509,
+      "fetchedAt": "2026-09-06T14:27:11.523Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "dead-end",
+    "name": "Dead End",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Pursuit: Dead End (zs_deadend) is the last Zombie Scenario: Season 1 map in Counter-Strike Online."
+    },
+    "story": {
+      "en": "* 1) When the search force finished the battle with the Siege-type Phobos, the rest of the troops captured the Siege-type Oberon, who had escaped from the laboratory.\n * 2) The surviving reconnaissance forces gathered at the construction site outside for defense, but the Siege-Type Oberon absorbs the Siege-Type Dione and escapes from the capture net.\n * 3) In the end, the surviving units enter the battle again and kill the Siege-Type Oberon.\n * 4) With this, all Siege-type bosses released from the lab are killed, and the Lost City nightmare finally comes to an end.\n * 5) CF. The Siege-Type Oberon has been confirmed to have the ability to absorb other zombies. Absorption ability can be said to be the most innovative among the zombie abilities discovered so far, whereas the prototype Oberon has not been confirmed yet, so further confirmation was impossible."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "dead-end"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/21/Dead-end%282%29.jpg/revision/latest?cb=20130222112604",
+        "caption": {
+          "en": "Ditto"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Dead-end(2).jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/83/DEcp.jpg/revision/latest?cb=20130906130057",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:DEcp.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/2f/DEcp2.jpg/revision/latest?cb=20130906130123",
+        "caption": {
+          "en": "Ditto"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:DEcp2.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/29/Decp3.jpg/revision/latest?cb=20130906130147",
+        "caption": {
+          "en": "Decp3"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Decp3.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Dead_End",
+      "title": "Dead End",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 293102,
+      "fetchedAt": "2026-09-06T14:27:09.235Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "double-gate",
+    "name": "Double Gate",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Double Gate (zs_2gate) is the second Zombie Scenario map in Counter-Strike Online."
+    },
+    "story": {
+      "en": "The advance unit requested a rescue unit, but communication with the headquarters was not easy, and while they were out of the battle area for a while and reorganizing the battlefield, they found a suspicious duo in the village. The advance crew spoke to them, but they hurriedly run away, leaving only their gear behind.\n\nThe advance crew who acquired the radio equipment left behind by this mysterious duo moves along with the radio equipment without knowing that the equipment has attracted zombies."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "double-gate"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Double_Gate",
+      "title": "Double Gate",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 293098,
+      "fetchedAt": "2026-09-06T14:27:05.973Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "electron",
+    "name": "Electron",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Electron or Trace: Rule A (zs_electron) is the extra chapter of Zombie Scenario: Season 7."
+    },
+    "story": {
+      "en": "In a virtual training area, an enhanced virtual battle simulation of intrepid combatants takes place."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "electron"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/54/M95tigernb.png/revision/latest?cb=20190321104945",
+        "caption": {
+          "en": "M95tigernb"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:M95tigernb.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/42/Laserfist.png/revision/latest?cb=20190523075620",
+        "caption": {
+          "en": "Laserfist"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Laserfist.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b8/Laserfistex.png/revision/latest?cb=20200819120742",
+        "caption": {
+          "en": "Laserfistex"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Laserfistex.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/84/Voidpistol.png/revision/latest?cb=20200707083339",
+        "caption": {
+          "en": "Voidpistol"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Voidpistol.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/31/Dgaxe.png/revision/latest?cb=20210713114259",
+        "caption": {
+          "en": "Dgaxe"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Dgaxe.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a1/Buffm2.png/revision/latest?cb=20210601093327",
+        "caption": {
+          "en": "Buffm2"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Buffm2.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/cc/Dualswordnb.png/revision/latest?cb=20190321104211",
+        "caption": {
+          "en": "Dualswordnb"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Dualswordnb.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/25/Thanatos9.png/revision/latest?cb=20150421114133",
+        "caption": {
+          "en": "Thanatos9"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Thanatos9.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/52/Jetgunex.png/revision/latest?cb=20210507081307",
+        "caption": {
+          "en": "Jetgunex"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Jetgunex.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/13/Sgmissile.png/revision/latest?cb=20181017070736",
+        "caption": {
+          "en": "Sgmissile"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Sgmissile.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b4/Sgmissileex.png/revision/latest?cb=20210630135633",
+        "caption": {
+          "en": "Sgmissileex"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Sgmissileex.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3e/Magicknife.png/revision/latest?cb=20200820111712",
+        "caption": {
+          "en": "Magicknife"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Magicknife.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Electron",
+      "title": "Electron",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 295755,
+      "fetchedAt": "2026-09-06T14:27:39.307Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "encounter",
+    "name": "Encounter",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Encounter (zs_encounter) is the first chapter of Zombie Scenario: Season 4 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "* 1) Gerard's sample recovery team, who survived the zombie chase, moves to the checkpoint where the red lizard luggage is in charge of the transport team.\n * 2) While moving along the bitter cold of the polar region, a sample is stolen from a monster that appears to be a Yeti who suddenly appeared, and Gerard hastily starts to pursue it.\n * 3) The place that the Yeti entered was a mysterious research facility disguised as a warehouse, and Jim also moves to the research facility to help Gerard.\n * 4) Gerard defeats the infected Yeti to reclaim the sample and joins the transport team.\n * 5) CF. It was confirmed that the frozen rat was used as a test object in a mysterious laboratory. Traces of some tissues were also found infected with the Rex virus, and judging from the destroyed large cage, Frozen Terror seems to have escaped the laboratory by running into a runaway as a result of continuous virus injection."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "encounter"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b7/NguoiTuyet.jpg/revision/latest?cb=20150916094602",
+        "caption": {
+          "en": "Vietnam poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:NguoiTuyet.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Encounter",
+      "title": "Encounter",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 293120,
+      "fetchedAt": "2026-09-06T14:27:15.940Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "envy-mask",
+    "name": "Envy Mask",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Envy Mask (zs_envymask) is the third chapter of Zombie Scenario: Season 4 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "* 1) Gerrard leaves Jim and acts independently to find traces of David Black.\n * 2) Jim moves to a key facility to take revenge on an unidentified client who put the mercenary group in danger.\n * 3) At the core facility of the research complex, you will meet several experimental sites and a man who introduces himself as Dr. Rex, the culprit of the Lost City incident.\n * 4) Also, with the announcement that the Super Soldier Project was successful, the man who calls himself Dr. Rex disappears and the battle with the Super Soldier begins.\n * 5) CF. Neid and Zavist were originally human, but were reborn as perfect weapons by the Super Soldier program. It is not known what kind of experiment they went through, but they can often be seen competing and quarreling with each other as if they was trying to get one of themselves to recognize that who is stronger."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "envy-mask"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/59/606x295-quydia.jpg/revision/latest?cb=20151123142616",
+        "caption": {
+          "en": "Vietnam poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:606x295-quydia.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Envy_Mask",
+      "title": "Envy Mask",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 293646,
+      "fetchedAt": "2026-09-06T14:27:19.677Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "episode-carlito",
+    "name": "Episode Carlito",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Episode Carlito (zs_carlito) is the fourth and final chapter of Zombie Scenario: Season 6 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "* 1) Douglas Jacob first contacted me and gave me a mission, and the mission was to steal data from a research institute.\n * 2) The lab, where no one should be, had become a den of zombies, and traps were installed everywhere.\n * 3) They managed to steal the data and send it to Douglas, but Douglas said it was misinformation and ordered additional missions.\n * 4) While sending the radio to return to the headquarters after completing the additional mission safely, they receive an urgent rescue request from the headquarters.\n * 5) The Vanguard Company branch that Carlito belong to had already been destroyed by zombies, and he also tried to escape the Vanguard Company under Douglas Jacob's instructions.\n * 6) At a critical moment waiting for a rescue helicopter sent by Douglas, a helicopter that he thought was an ally, bombard at the remaining survivors indiscriminately, and this attack resulted on him losing one eye.\n * 7) It turns out that the enemy that attacked the Vanguard Company was none other than Douglas Jacob, and he had a decisive battle with Agent J, whom he sent.\n * 8) CF. During the attack of the helicopter that attacked the allies, the guided missile was able to intercept the air, reducing damage.\n * 9) CF. Judging from the conversation with Douglas, it seems that the Vanguard Company branch that Carlito was affiliated with was trying to destroy the Vanguard Company branch under the guise of a zombie attack so that the government did not find out about his link with the Vanguard Company.\n * 10) CF. No one knows Agent J real name, but she is Douglas' servant, and, judging from her abilities, she seems to be related to the Super Soldier Project that Douglas was working on.\n * 11) CF. In the final battle, Agent J could not be handled perfectly. She ran away alive, so if Carlito chases Douglas in the future, Agent J will stand in front of him once again."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "episode-carlito"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/ca/Buffm249.png/revision/latest?cb=20190127074011",
+        "caption": {
+          "en": "Buffm249"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Buffm249.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/1f/Buffaug.png/revision/latest?cb=20190127074230",
+        "caption": {
+          "en": "Buffaug"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Buffaug.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/2b/Buffsg552enh.png/revision/latest?cb=20190127074505",
+        "caption": {
+          "en": "SG552_Lycanthrope Expert"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Buffsg552enh.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/bd/Bpgm.png/revision/latest?cb=20170323105136",
+        "caption": {
+          "en": "Battle Hecate II"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Bpgm.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/52/Reddragoncannon.png/revision/latest?cb=20170117115742",
+        "caption": {
+          "en": "Reddragoncannon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Reddragoncannon.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f2/Dualswordphantomslayer.png/revision/latest?cb=20190127074215",
+        "caption": {
+          "en": "Dualswordphantomslayer"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Dualswordphantomslayer.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9e/Costitanback.png/revision/latest?cb=20140128102003",
+        "caption": {
+          "en": "Titan Doll"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Costitanback.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/47/Cosjackmaskface.png/revision/latest?cb=20150210093145",
+        "caption": {
+          "en": "Jack Mask"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Cosjackmaskface.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Episode_Carlito",
+      "title": "Episode Carlito",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 293134,
+      "fetchedAt": "2026-09-06T14:27:31.438Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "episode-choi",
+    "name": "Episode Choi",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Episode Choi (zs_mschoi) is the first chapter of Zombie Scenario Season 6 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "* 1) Choi Ji Yoon infiltrates and investigates the Asian Red Army, and realizes that there is a force behind the terrorist attack.\n * 2) Choi Ji Yoon begins to pursue the existence of the power behind it, and when Ritsuka finds out about this fact, she begins to pursue Choi Ji Yooni.\n * 3) Meanwhile, the forces behind sent Mr.X to help the Asian Red Army.\n * 4) Ritsuka acquired the help of Mr.X, which led to success in capture Choi Ji-yoon.\n * 5) Meanwhile, the intelligence agency, which has not been informed of this fact, is suspicious of Choi Ji Yoon, who has lost contact, and dispatches Mei as a watchdog.\n * 6) Mei, who was monitoring Choi Ji Yoon as a supervisor, finds out that Choi Ji-yoon wasn't betraying her but was looking for another truth, and starts looking for her.\n * 7) Finally, she finds out about the facility that imprisoned Choi Ji Yoon by Ritsuka and proceed to rescues her.\n * 8) Choi Ji Yoon learns that the person supporting terrorism is Douglas Jacob of Kronos.\n * 9) CF. Mr. X is Douglas Jacob's minion in charge of terrorism support. He appears to be conducting experiments with zombies on the one hand while supporting terrorism."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "episode-choi"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/62/Epcjy.jpg/revision/latest?cb=20160726131455",
+        "caption": {
+          "en": "Screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Epcjy.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/aa/Zs6humanboss.png/revision/latest?cb=20160728014911",
+        "caption": {
+          "en": "Human boss"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zs6humanboss.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/7f/Epcjy1.jpg/revision/latest?cb=20160726132446",
+        "caption": {
+          "en": "Engaging GSG-9 force"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Epcjy1.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/46/Epcjy2.jpg/revision/latest?cb=20160726132509",
+        "caption": {
+          "en": "Healing and recovery station"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Epcjy2.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9e/Epcjy3.jpg/revision/latest?cb=20160726132546",
+        "caption": {
+          "en": "Hold the [E] button to activate the object"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Epcjy3.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a6/Epcjy4.jpg/revision/latest?cb=20160726132617",
+        "caption": {
+          "en": "Press [E] to enable Choi Ji Yoon to follow you"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Epcjy4.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/07/Epcjy5.jpg/revision/latest?cb=20160726132637",
+        "caption": {
+          "en": "Escort her to safety"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Epcjy5.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/73/Epcjy6.jpg/revision/latest?cb=20160726132711",
+        "caption": {
+          "en": "Beware of Choi Ji Yoon's health!"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Epcjy6.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Episode_Choi",
+      "title": "Episode Choi",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 305252,
+      "fetchedAt": "2026-09-06T14:27:28.084Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "episode-lucia",
+    "name": "Episode Lucia",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Episode Lucia (zs_lusia) is the third chapter of Zombie Scenario: Season 6."
+    },
+    "story": {
+      "en": "Douglas Jacob trying to convince the virus and to reinforce his influence. Story of Lucia struggling in raids as part of its expansion. Goal: Help Lucia to survive in the attack and find the rear of the situation."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "episode-lucia"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/44/Cosbrachyuraback.png/revision/latest?cb=20170302110902",
+        "caption": {
+          "en": "Cosbrachyuraback"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Cosbrachyuraback.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Episode_Lucia",
+      "title": "Episode Lucia",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 293132,
+      "fetchedAt": "2026-09-06T14:27:30.300Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "episode-victor",
+    "name": "Episode Victor",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Episode Victor (zs_victor) is the second chapter for Zombie Scenario: Season 6."
+    },
+    "story": {
+      "en": "* 1) Victor is surrounded by Norman belonging to the Vanguard Company while he is returning to the headquarters after successfully acquiring the corpse sample of 'Phobos'.\n * 2) During the detour operation, he encounters a unique infectious agent released by the Vanguard Company and battles it.\n * 3) They try to find the sniper team and overcome the difficulties, but they have already been wiped out, and they request support from the command center through the radio.\n * 4) When they announce their location, Broken Arrow is triggered and they learn that something is putting them in a corner.\n * 5) Chen's interruption allows Norman to buy time to catch Victor.\n * 6) After being besieged by Norman, Victor watches the death of Walter and transport crew except himself, and is imprisoned in the Eagle's Nest as a prisoner.\n * 7) Evelyn search operation finds Victor's location, and Ahn Soi leads the rescue team herself to the Eagle's Nest.\n * 8) The rescue team succeeds in defeating the infectious agent, and Victor vows to avenge the crew and the transport team.\n * 9) CF. Chen self-interest drives him to buy and drive transport troops with his old friend Victor, resulting in the loss of one of his most important research materials, the Phobos' DNA. The Vanguard Company seems to be conducting experiment with the DNA somewhere."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "episode-victor"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f1/Doctora.png/revision/latest?cb=20120405100909",
+        "caption": {
+          "en": "Doctora"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Doctora.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e3/Epvictor1.jpg/revision/latest?cb=20161129143302",
+        "caption": {
+          "en": "Screenshots"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Epvictor1.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/ae/Epvictor2.jpg/revision/latest?cb=20161129143315",
+        "caption": {
+          "en": "Ditto"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Epvictor2.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f8/Epvictor3.jpg/revision/latest?cb=20161129143327",
+        "caption": {
+          "en": "epvictor3"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Epvictor3.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/2a/Epvictor4.jpg/revision/latest?cb=20161129143340",
+        "caption": {
+          "en": "Fighting fleeing Condemned Criminal from Battle Rush"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Epvictor4.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/51/Epvictor5.jpg/revision/latest?cb=20161129143359",
+        "caption": {
+          "en": "epvictor5"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Epvictor5.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/46/Epvictor6.jpg/revision/latest?cb=20161129143407",
+        "caption": {
+          "en": "Commander Victor"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Epvictor6.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Episode_Victor",
+      "title": "Episode Victor",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 305279,
+      "fetchedAt": "2026-09-06T14:27:29.183Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "forest-keeper",
+    "name": "Forest Keeper",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Forest Keeper (zs_multiboss) is the extra chapter of Zombie Scenario: Season 6."
+    },
+    "story": {
+      "en": "Forest Keeper (zs_multiboss) is the extra chapter of Zombie Scenario: Season 6.\n\n## Overview\n\nCorrespondence in a virtual battle simulations of specific situations, the training is conducted under the subject of Dr. Evelyn.\n\n## Objective\n\nDestroy multiple mutant infected objects randomly appearing in virtual training locations and collect battle data.\n * Objective: Defeat all boss zombies.\n\n## Tips\n\n* Play the game through the guide information displayed on the map.\n * [E] is marked. If you press the E key at the place where the displayed device is activated.\n * You can destroy a structure that glows in red and proceed with the game.\n * After destroying the XT-300, you can capture it by pressing the [E] key and board it.\n\n## Release date\n\n* South Korea: 15 October 2020.\n * Taiwan/Hong Kong: 21 October 2020.\n * China: 21 October 2020.\n * CSN:S: 11 November 2020.\n\n## Transcripts\n\n* Nice to meet you, brave combatants.\n * It is an honor to be in charge of conducting virtual battle simulations for combatants.\n * I am Evelyn from the National Security Agency.\n * Evelyn: Earlier, I would like to express my respect for the determination you have applied for this project.\n * Evelyn: This simulation is based on events from around the world...\n * Evelyn: ...by General Victor, Dr. Soi, Choi Ji Yoon, Jennifer, Jim and Gerard...\n * Evelyn: ...based on complex and vast data.\n * Evelyn: It is designed as a guide to tactical team-wide responses in context.\n * Evelyn: Each combatant's behavior data is analysed.\n * Evelyn: It will be a high example for the morale of the follow-up testers in the future.\n * Evelyn: Well, I wish you a meaningful and rewarding experience.\n * System: The next step will be opened upon achieving [Suppression of 2 main infectious agents] deployed in each zone\n\n * Wave 4-Enter Multi Boss Room 1\n * [Combat Protocol 1: Situation 1-14]\n * Tactical response to multiple mutant infected objects and operation of enemy equipment.\n\n * Wave 9-Enter Multi Boss Room 2\n * [Combat Protocol 2: Situation 2-37]\n * Quick judgment and replacement of infectious agents in complex behavior patterns.\n\n * Wave 11-Enter Multi Boss Room 3\n * [Combat Protocol 3: Situation 3-52]\n * Tactical position and effective history based on team unit by situation.\n\n * Wave 16-Enter Multi Boss Room 4\n * [Combat Protocol 4: Situation 4-29]\n * Securing escape routes and follow-up measures in unpredictable situations.\n\n * Wave 17-Arrival point\n * System: Basic Combat Protocol-Unfulfilled End Conditions\n * [Majority of Combatants Reunion] Required\n\n * Wave 18-Start of the final boss room\n * [Final Battle Protocol]\n * Analysis of threat patterns and acquisition of combat data of evolving infections.\n\n## Event\n\n* Receive the ultimate challenge, complete treasure!\n * Duration: 15-29 October 2020 (Korea)\n\nReach 180 scores from clearing Forest Keeper on different difficulties to get Dual Sword Hellfire with its Leather paint.\n * Hell: 6 points\n * Very hard: 4 points\n * Hard: 2 point\n * Normal/Easy: 0 point\n\n * Conditions\n * You must participate in the game for at least 10 minutes to accumulate the score.\n * You can participate in rooms of 4 or more people.\n * Up to 18 per day Score accumulation is possible.\n * Only one payment per account is given\n\n## Trivia\n\n* The loading background shows \"Multiboss\" which refers to multiple boss fights in the map. The players fight two bosses at a time, unlike Collapse, which is just one.\n * XT-300 Goliath is given in every boss fight for the players to kill and drive.\n * The map environment is similar to ancient relics and many Ghost Knights are seen.\n * The map skybox is Nebula, a space-themed skybox.\n * The simulated bosses and zombies have distorted appearance like a hologram, though with the lack of hologram effect.\n * All types of zombies, including the new ones, are seen in this map. However, they don't have any special skills and serve as regular zombies.\n * Despite being teased with Season 7 Bosses and Golden Angra in the Season 7 Preview, they are not seen in this map.\n * The hard-coded bosses, Bio Scorpion, Kraken, Gluttony, Crono Wing, Mr. X, Tyrant Crab and Agent Jay, are not seen.\n * Siege Type Dione does not have a death animation since it does not die in Sewer chapter, so it plays a dummy animation instead."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "forest-keeper"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/92/Multiboss.png/revision/latest?cb=20201013132040",
+        "caption": {
+          "en": "Loading background"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Multiboss.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Forest_Keeper",
+      "title": "Forest Keeper",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 288630,
+      "fetchedAt": "2026-09-06T14:27:35.786Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "illusion",
+    "name": "Illusion",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Illusion Illusion is an extra chapter of Zombie Scenario: Season 3 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "Illusion Illusion is an extra chapter of Zombie Scenario: Season 3 in Counter-Strike Online.\n\n## Overview\n\nZombie Scenario=\n\nIllusion consists of various bosses form Zombie Scenario: Season 3. Annihilate each Boss that comes in each round, similar to Nightmare and Poisoning. The host must has Illusion Key to start the game. Attack on Titan=\n * -|\n\nIf choosing Attack On Titan, players will meet Armored Titan as the main bosses. To participate in, it requires the Snap Blade instead.\n\n## Release date\n\nNormal= Attack On Titan=\n * South Korea: 10 October 2013.\n * Taiwan/Hong Kong: 22 October 2013.\n * China/Japan: 23 October 2013.\n * Singapore/Malaysia: 7 May 2014.\n * Indonesia: 2 July 2014.\n * Vietnam: 18 June 2015.\n * CSN:Z: 16 December 2015.\n * -|\n * Taiwan/Hong Kong: 4 November 2014.\n * Japan: 5 November 2014.\n * China: 6 November 2014.\n\n## Bosses\n\nBelow is the list of the bosses in each round, each round also has a different guiding NPC.\n\nZombie Scenario= Attack on Titan=\n * -|\n\nIn Attack On Titan mode, there is only one round. The gameplay is similar to each normal round above, except the zombies will only appear during the first few minutes of the round, until the titans come out.\n\n## Transcripts\n\n* Round 1\n\n * 1) Erika's Nightmare - [Juggernaut]\n * 2) Erika: Did you hear the stomach growling sound??\n * 3) Erika: Eh?? The sound is coming closer to us!!\n * 4) Erika: Oops~ How many things do we need to eat to become so big like that giant!?\n\n * Round 2\n\n * 1) David's Nightmare - [Seize Type Deimos]\n * 2) David Black: Argh!? What is this scream sound!?\n * 3) David Black: It's getting closer... Everyone, prepare for the sudden attack!!\n * 4) David Black: What a trouble... It appeared again! Come on!! I will kill you!!!\n\n * Round 3\n\n * 1) Victor's Nightmare - [Fallen Titan]\n * 2) Victor: We did well, it seems like there aren't many Vanguard people left now...\n * 3) Victor: Everyone, try to reorganize our battle line now.\n * 4) Victor: Argh!! What's that monster!? It looks similar to the thing I saw in the desert area?!\n * 5) Victor: He's calling for his partner!!\n * 6) Victor: His movement looks very fast!! Be careful!!\n * 7) Victor: He arms himself heavily! Be careful with his attack from a long distance!!\n * 8) Victor: Be careful! They are trying to attack us together!\n\n * Round 4\n\n * 1) Zim's Nightmare - [Rusty Scorpion]\n * Zim: Hmm...? What's this vibration on the floor!?\n * Zim: The vibration is getting stronger than before! Everyone, move to the corner~!!\n * Zim: Argh~!!! What's this huge lobster~!!! Is it a scorpion?! Move away from it!!\n * Zim: He's trying to hide on the floor! Be careful, everyone!\n * Zim: He is making a defense mode!\n * Zim: Well done, everyone~! Today, we will have a scorpion dish~! Haha!!\n\n * Round 5\n\n * 1) Norman's Oblivion - [Mad Machine]\n * 2) Norman: Hey, David... I just tried to help you...\n * 3) Norman: Anyway, I will send a proper person, so hurry up.....\n * 4) David Black: You are liar, Norman!! You can't cheat on me again...!!\n\n## Trivia\n\n* Despite being the boss for Season 3, Kraken does not appear in Illusion, possibly due to how Illusion's arena is designed.\n * This map consists of bosses that the player has met and fought in Zombie Scenario Season 3.\n * Defeating bosses in this map doesn't increase the counter of [Titan Attacker], [Scorpion Chief] and [Erika Guardian] medals.\n * Host zombies make no appearance in this map, only origin zombies appear, except the Sting Finger (only host Sting Finger appears, no origin one).\n * At the corners of this map, there are tables that can heal the players if they approach it. On these tables, there are some unusable Holy Bombs.\n * Although there is no sand in this map, Bio Scorpion can still dive and emerge from below the floor, with blue-colored dust instead of sand.\n * Jim and Victor appear as NPC guides even though they both did not appear in Zombie Scenario: Season 3 maps.\n * This map features some dynamic lights and moving clouds.\n * Fallen Titan drops only one supply box for each player, other bosses drop two.\n * Damaging the Fallen Titan fast enough may force it try to summon its partner, but sometimes none will spawn.\n * The system name for Attack On Titan version is at_attack."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "illusion"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b7/Welcomebanner.png/revision/latest?cb=20131008122018",
+        "caption": {
+          "en": "Welcomebanner"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Welcomebanner.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/36/Giantknife.png/revision/latest?cb=20141104113037",
+        "caption": {
+          "en": "Giantknife"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Giantknife.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/30/Welcomekp.jpg/revision/latest?cb=20131008122249",
+        "caption": {
+          "en": "South Korea poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Welcomekp.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/16/Welcomeditokp.png/revision/latest?cb=20131009011742",
+        "caption": {
+          "en": "Ditto, in-game"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Welcomeditokp.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/78/Welcomeround1.png/revision/latest?cb=20131008122426",
+        "caption": {
+          "en": "Round 1"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Welcomeround1.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/4e/Welcomeround2.png/revision/latest?cb=20131008122602",
+        "caption": {
+          "en": "Round 2"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Welcomeround2.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f4/Welcomeround3.png/revision/latest?cb=20131008122840",
+        "caption": {
+          "en": "Round 3"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Welcomeround3.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/ac/Welcomeround4.png/revision/latest?cb=20131008122906",
+        "caption": {
+          "en": "Round 4"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Welcomeround4.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/18/Welcomeround5.png/revision/latest?cb=20131008122932",
+        "caption": {
+          "en": "Round 5"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Welcomeround5.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/68/Welcomekeykp.png/revision/latest?cb=20131008123117",
+        "caption": {
+          "en": "The Illusion Key"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Welcomekeykp.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6d/Welcomess.jpg/revision/latest?cb=20131010155534",
+        "caption": {
+          "en": "In-game screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Welcomess.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f6/Illusioncsnz.png/revision/latest?cb=20151216103640",
+        "caption": {
+          "en": "CSN:Z poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Illusioncsnz.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Illusion",
+      "title": "Illusion",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 254533,
+      "fetchedAt": "2026-09-06T14:27:18.208Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "isolation",
+    "name": "Isolation",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Isolation (zs_mall) is an epilogue chapter of Zombie Scenario: Season 8 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "○○month ○○day △△hour △△minute\n\nAnomaly signals began to be picked up in the Lost City, which was closed down due to a zombie apocalypse not long ago. A sudden stop in a forbidden place where civilian access is restricted. The signal that started to occur was suspicious. After identifying and interpreting the signal pattern, I was able to figure out a surprising fact. The signal was an encrypted communication, and its content was the one that put Gerard and David Black in a corner. It was about Super Soldier Agent B contacting Kronos. This information was reported to the superior immediately and they decided to continue monitoring their communications.\n * From the journal of an Aegis spy agent"
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "isolation"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Isolation",
+      "title": "Isolation",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 295435,
+      "fetchedAt": "2026-09-06T14:27:46.290Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "last-clue",
+    "name": "Last Clue",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Last Clue (zs_lastclue) is the fourth Zombie Scenario map in Counter-Strike Online."
+    },
+    "story": {
+      "en": "* 1) The Counter-terrorism coalition, which received a request for rescue by the advance force, dispatched a rescue force, but the advance force had already been annihilated.\n * 2) The rescue team finds Andrei's notebook, the last clue left by the advance team in the middle of horrific corpse. A notebook that Andrei left while dying, it contains a lot of information about the Lost City incident. Since Dr. Rex's frantic mutterings were recorded on the roof of the last battle, it became information that could lead to Dr. Rex's laboratory.\n * 3) The rescue team moves to Dr. Rex's laboratory, which is the area marked in the notebook, in order to find even a little bit more traces of the advance force  Upon hearing that the rescue team is breaking into the lab, Dr. Rex hurriedly releases the Prototype Phobos and leaves the lab.\n * 4) After a fierce battle, the rescue team kills the prototype Phobos and obtains a corpse sample.\n * 5) CF. Prototype Phobos is the first named-type giant boss encountered. Even if it is a prototype, it is aiming for a perfect zombie that has removed all of its weaknesses, including hard skin, strong physical strength, speed and excellent combat sense formed through long term mutation."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "last-clue"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Last_Clue",
+      "title": "Last Clue",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 301136,
+      "fetchedAt": "2026-09-06T14:27:03.726Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "last-ride",
+    "name": "Last Ride",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Last Ride (zs_lastride) or Last Flight is the final chapter of Zombie Scenario: Season 5 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "* 1) Jennifer travels by helicopter to Soi's base.\n * 2) While moving, they are being tracked by Kronos' reconnaissance drones.\n * 3) After a while, a mechanized monster that sent a reconnaissance drone appears.\n * 4) They shakes off Krono Wing, who has been tracking Jennifer and the others, but in the end, the helicopter is badly damaged and crashes.\n * 5) Jennifer's group, who crash-landed, attempts to go with Soi's to request HQ for rescue.\n * 6) Even the rescue request succeeded, but Krono Wing, who had shaken off earlier, was waiting for Jennifer and the others.\n * 7) Jennifer and Soi defeat Krono Wing and discover the identity of the third force that threatens the world is Kronos and Douglas Jacob.\n * 8) CF. Krono Wing was born as part of the mechanized Super Soldier project, like Kronobotics series. She is characterized by powerful ranged attacks while disturbing the enemy based on excellent mobility. She shows a strong loyalty to Douglas Jacob, and sometimes seems to have more than just loyalty."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "last-ride"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/ae/Lastridepromo.jpg/revision/latest?cb=20160202103000",
+        "caption": {
+          "en": "Promotion art"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Lastridepromo.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e3/Zs5c4.jpg/revision/latest?cb=20160121072353",
+        "caption": {
+          "en": "South Korea teaser poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zs5c4.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/80/Lastridechinapos.jpg/revision/latest?cb=20160203061614",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Lastridechinapos.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/e/e5/Lastflight4.jpg/revision/latest?cb=20160127134847",
+        "caption": {
+          "en": "Crono Wing"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Lastflight4.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/be/Lastflight.jpg/revision/latest?cb=20160126131415",
+        "caption": {
+          "en": "Lastflight"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Lastflight.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/bd/Lastride1.jpg/revision/latest?cb=20160203072021",
+        "caption": {
+          "en": "Lastride1"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Lastride1.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/53/Lastride2.jpg/revision/latest?cb=20160203072049",
+        "caption": {
+          "en": "Lastride2"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Lastride2.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/79/Lastride3.jpg/revision/latest?cb=20160203072124",
+        "caption": {
+          "en": "Lastride3"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Lastride3.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c7/Lastride4.jpg/revision/latest?cb=20160203072146",
+        "caption": {
+          "en": "Lastride4"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Lastride4.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/bd/Lastflight1.jpg/revision/latest?cb=20160127134736",
+        "caption": {
+          "en": "Defending the Osprey from Drone attack"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Lastflight1.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/7f/Lastflight2.jpg/revision/latest?cb=20160127134809",
+        "caption": {
+          "en": "Protecting the equipment"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Lastflight2.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/4e/Lastflight3.jpg/revision/latest?cb=20160127134826",
+        "caption": {
+          "en": "Usable Bazooka"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Lastflight3.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Last_Ride",
+      "title": "Last Ride",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 293129,
+      "fetchedAt": "2026-09-06T14:27:27.004Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "lost-city",
+    "name": "Lost City",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Survival: Lost City (zs_lostcity) is the first chapter of Zombie Scenario: Season 1 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "* 1) The advance team encounters a zombie in the Lost City. There were so many zombies that even escaping was not easy. The remaining members of the advance unit fight the zombies by making a simple defensive wall, but it is not enough to defeat the zombies.\n * 2) CF. Lost City was a small town in North America. Many factories and facilities were built due to industrialization, but many factories could not withstand the sudden recession and closed their doors. With its sparsely populated and adequate infrastructure, the Lost City was a suitable place for Dr. Rex to continue his research.\n * 3) CF. Erica is rescued by David Black, who later joined the rescue team. In particular, Erica is famous as the sole survivor of Lost City, where David Black has a gut feeling that Erica doesn't think she was able to survive simply because she was lucky and she has something special. Erica follows David Black to join the AFC mercenary group."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "lost-city"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/24/Zstrkt.png/revision/latest?cb=20130910052003",
+        "caption": {
+          "en": "Turkey poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zstrkt.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Lost_City",
+      "title": "Lost City",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 300581,
+      "fetchedAt": "2026-09-06T14:27:05.075Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "lowdown",
+    "name": "Lowdown",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Lowdown, Truth Uncovered or Inside Story Revealed (zs_deadmall) is the final chapter of Zombie Scenario: Season 7 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "David Black and Erica moved in search of the coordinates obtained from the laboratory. At the place they arrive, they meet Gerard, not Soi. Gerard learns of Douglas' identity hidden behind Rex and that the kidnapping of Erica in the past was caused by Douglas behind him. David and Erica realize the truth and decide what to do next. But Douglas' black hand was already reaching out to them..."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "lowdown"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/1b/Lowdown.png/revision/latest?cb=20210728104832",
+        "caption": {
+          "en": "Loading background"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Lowdown.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a7/Lowdown2.png/revision/latest?cb=20210729061212",
+        "caption": {
+          "en": "Official screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Lowdown2.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/2f/Lowdown1.png/revision/latest?cb=20210729061216",
+        "caption": {
+          "en": "Ditto"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Lowdown1.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Lowdown",
+      "title": "Lowdown",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 289178,
+      "fetchedAt": "2026-09-06T14:27:38.042Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "madness",
+    "name": "Madness",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Madness (zs_nightmare4) is the extra chapter of Zombie Scenario: Season 4 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "Madness (zs_nightmare4) is the extra chapter of Zombie Scenario: Season 4 in Counter-Strike Online.\n\n## Overview\n\nThe players are able to battle against the bosses from Zombie Scenario Season 4. The host must have the Madness key to open this chapter.\n\n## Madness key\n\nA powerful key can be acquired under certain conditions. If a player holds one, they will be sent to a temporary nightmare where strong creatures await.\n\nWhen in possession, you are able to host the extra Zombie Scenario Season 4 chapter, Madness. This key will deplete upon usage.\n\n## Goal\n\nDefeat the zombie boss appeared in each round.\n\n## Tips\n\n* You can buy and upgrade weapons by pressing the key in the shop area.\n * Press the or  keys to recover stamina and  key to revive.\n * If your team has been annihilated, you can use the Round Retry item by pressing the key as long as you or someone possesses the item.\n * Surviving the round will result as money bonus. If not the case, you will receive a small amount as compensation, once your team has cleared the round.\n\n## Bosses\n\nBelow is the list of the bosses and zombies in each round.\n\n## Transcripts\n\n* First Madness - Juggernaut\n\n * 1) Jim: Where am I?\n * 2) Jim: Here comes a huge guy, be ready! (After 55 seconds)\n\n * Second Madness - Frozen Wrath\n\n * 1) Jim: It is not over yet?\n * 2) Gerard: A strong zombie is coming! All ready! (After 55 seconds)\n\n * Third Madness - Savaging Gluttony\n * 1) Jim: What is this awful place? All hurry up and find the exit!\n * 2) Jim: What is that huge thing? It's coming here! (After 55 seconds)\n\n * Fourth Madness - Neid & Zavist\n\n * 1) Jim: What a strange dream... Why are you here again?\n * 2) ???: I'll crush you, silly!\n\n * Last Madness - Dr. Rex\n * 1) Jim: This is... Watch out for the traps in the room!\n * 2) Jim: That's really worse than the previous monsters, it's you again!\n\n## Release date\n\nMadness was released on:\n * South Korea: 6 November 2014.\n * Taiwan/Hong Kong: 18 November 2014.\n * China/Japan: 19 November 2014.\n * Indonesia: 27 May 2015.\n * CSN:Z: 17 December 2015.\n\n## Trivia\n\n* Madness is a state of frenzied or chaotic activity.\n * Defeating bosses in this map does not increase the counter of [Wrath Controller], [Diet Controller], [Detective] and [Madness Terminator] medals.\n * Host zombies make no appearance in this map, only origin zombies appear, except the Sting Finger (only host Sting Finger appears, no origin one).\n * This is the first extra chapter which Ganymede does not appear as the main boss of Round 2.\n * This is the first extra chapter that bosses don't appear in one arena together. Each boss arena is based on the one of each chapter in Zombie Scenario: Season 4 (except Round 1 and 2 are the same).\n * In Taiwan/Hong Kong and Indonesia regions, there are few glitches such as sound looping or the fact that it is almost impossible to hit Frozen Terror when he's going to perform the Snowball Slam.\n * There is a mistake of showing NPC message during the cutscene in round 2, which the texts show Gerard, but the image message shows Jim.\n * There is a bug in round 1 which Juggernaut does not give any damage, only the zombies do so."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "madness"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/50/Bosskey4.png/revision/latest?cb=20141106093345",
+        "caption": {
+          "en": "Bosskey4"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Bosskey4.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3e/Tn11updateindoposter.png/revision/latest?cb=20150527024543",
+        "caption": {
+          "en": "Indonesia poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Tn11updateindoposter.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a0/Madnesscsnz.jpg/revision/latest?cb=20151217075441",
+        "caption": {
+          "en": "CSN:Z poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Madnesscsnz.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Madness",
+      "title": "Madness",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 242086,
+      "fetchedAt": "2026-09-06T14:27:22.574Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "memories",
+    "name": "Memories",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Memories (zs_memories) is the second chapter of Zombie Scenario: Season 5 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "* 1) Jennifer begins an investigation in the vicinity of a mysterious assassin.\n * 2) As a result of the investigation, he finds an underground facility that seems familiar somewhere, and there he finds his very old ID.\n * 3) As soon as they enter the underground facility, a huge explosion occurs and Jennifer passed out.\n * 4) Jennifer, who has passed out, enters a subconscious to searches for memories of the past that she had forgotten.\n * 5) It turns out that it was Jack who killed Laser Wing, who was trying to provide information, and led Jennifer to the underground facility with his ID. A battle begins with her Jack, who is trying to kill her, unlike other bosses who try to drag Jennifer into her potential.\n * 6) CF. Jennifer's colleague, Jack, went on an infiltration coverage of the Rex Lab with Jennifer in the past, but was trapped there during the lab terrorist incident caused by Yuri. Jack, who has been living as a modified Super Soldier so far, informs her that he has a different power than Rex, and tries to kill Jennifer with a voluntary decision.\n * 7) CF. As a Super Soldier, Jack has excellent physical abilities. He is a zombie that is more like a human who can use weapons differently from the existing zombies. A battle begins between Jennifer, who doesn't want to fight, and Jack, who wants to finish something..."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "memories"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/47/Cosjackmaskface.png/revision/latest?cb=20150210093145",
+        "caption": {
+          "en": "Jack's Mask"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Cosjackmaskface.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f4/Indo14july20152.jpg/revision/latest?cb=20150714113938",
+        "caption": {
+          "en": "Indonesia poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Indo14july20152.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/fc/Kyuc.jpg/revision/latest?cb=20160121115143",
+        "caption": {
+          "en": "Vietnam poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Kyuc.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/2c/Crazyzschina.png/revision/latest?cb=20160510101006",
+        "caption": {
+          "en": "Tips, China version"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Crazyzschina.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/69/Crazyzskrpos.png/revision/latest?cb=20160421130942",
+        "caption": {
+          "en": "South Korea poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Crazyzskrpos.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/46/Crazyzstwhk.jpg/revision/latest?cb=20160426060339",
+        "caption": {
+          "en": "Taiwan/Hong Kong poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Crazyzstwhk.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/40/Crazyzschina1.jpg/revision/latest?cb=20160427042723",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Crazyzschina1.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/94/Specialpierrot.jpg/revision/latest?cb=20160421125856",
+        "caption": {
+          "en": "In-game screenshot, the special Pierrot in yellow"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Specialpierrot.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/98/Droppedweapons.jpg/revision/latest?cb=20160421125946",
+        "caption": {
+          "en": "Ditto, dropped weapons from destroying Pierrot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Droppedweapons.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/ff/Unlimitedammo.jpg/revision/latest?cb=20160421130026",
+        "caption": {
+          "en": "Ditto, unlimited spare ammo"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Unlimitedammo.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Memories",
+      "title": "Memories",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 293127,
+      "fetchedAt": "2026-09-06T14:27:23.622Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "neon-city",
+    "name": "Neon City",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Neon City or Tracking: A Planned Tragedy (zs_neoncity) is the second chapter of Zombie Scenario: Season 8 in Counter-Terrorist."
+    },
+    "story": {
+      "en": "Queen and her party managed to escape from the laboratory, and while traveling in a helicopter, they crashed on the roof of an unidentified city building due to a chase attack. A bizarre city full of colorful lights but no traces of people. It was a tragedy rather than hope that awaited them in Kronos' planned experimental city. A mysterious monster appears in front of Queen's and the group, who slowly entered their planned trap by going back and forth between the roof and the inside of the building."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "neon-city"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/ff/Neoncity2.png/revision/latest?cb=20220920090530",
+        "caption": {
+          "en": "Auto turrets, top: active, bottom: wait untill recovery"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Neoncity2.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/df/Neoncity3.png/revision/latest?cb=20220920090532",
+        "caption": {
+          "en": "Metatronic's appearance"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Neoncity3.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/07/Neoncity4.png/revision/latest?cb=20220920090532",
+        "caption": {
+          "en": "Hippomenes ultimate attack, enters barrier state"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Neoncity4.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d6/Neoncity5.png/revision/latest?cb=20220920090533",
+        "caption": {
+          "en": "Destroy the lava orbs which leave safe zone for players to enter before Hippomenes breaks its barrier"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Neoncity5.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Neon_City",
+      "title": "Neon City",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 298223,
+      "fetchedAt": "2026-09-06T14:27:42.782Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "nightmare",
+    "name": "Nightmare",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "\"Dare to Enter Your Dream?\""
+    },
+    "story": {
+      "en": "After receiving the Nightmare key, the player would fall asleep where fearsome nightmares await."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "nightmare"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/59/Zsnightmarekp.png/revision/latest?cb=20131001101719",
+        "caption": {
+          "en": "South Korea poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zsnightmarekp.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/ab/Zsnightcp.jpg/revision/latest?cb=20130829131709",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zsnightcp.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/5b/Indopromotionpostersk11.jpg/revision/latest?cb=20130102094431",
+        "caption": {
+          "en": "Indonesia poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Indopromotionpostersk11.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/de/Nightmarecsnz.png/revision/latest?cb=20151214100015",
+        "caption": {
+          "en": "CSN:Z poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Nightmarecsnz.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3c/Teddycsnz1.png/revision/latest?cb=20160316045247",
+        "caption": {
+          "en": "CSN:Z poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Teddycsnz1.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Nightmare",
+      "title": "Nightmare",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 300206,
+      "fetchedAt": "2026-09-06T14:27:10.441Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "no-way-out",
+    "name": "No Way Out",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "No Way Out is the final chapter of Zombie Scenario: Season 9 and Zombie Scenario as a whole."
+    },
+    "story": {
+      "en": "Based on the information obtained from recapturing the research lab, Soi identifies Douglas Jacob's whereabouts and the location of the core facility where Kronos' various weapons are manufactured. Accordingly, she mobilizes all members to participate in the operation."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "no-way-out"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/91/Zbs94.png/revision/latest?cb=20260709113501",
+        "caption": {
+          "en": "zbs94"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zbs94.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/36/Zs94-1.png/revision/latest?cb=20260708141357",
+        "caption": {
+          "en": "Poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zs94-1.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/46/Zs94-2.png/revision/latest?cb=20260708141400",
+        "caption": {
+          "en": "Screenshots"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zs94-2.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/76/Zs94-3.png/revision/latest?cb=20260708141400",
+        "caption": {
+          "en": "zs94-3"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zs94-3.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/66/Zs94-4.png/revision/latest?cb=20260708141400",
+        "caption": {
+          "en": "zs94-4"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zs94-4.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3d/Zs94-5.png/revision/latest?cb=20260708141400",
+        "caption": {
+          "en": "zs94-5"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zs94-5.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8c/Zs94-6.png/revision/latest?cb=20260708141359",
+        "caption": {
+          "en": "zs94-6"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zs94-6.png"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6f/Zs94-7.png/revision/latest?cb=20260708141358",
+        "caption": {
+          "en": "Douglas Jacob in 3d model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zs94-7.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f4/Zs94-8.png/revision/latest?cb=20260708141400",
+        "caption": {
+          "en": "zs94-8"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zs94-8.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/11/Zbs94-2.png/revision/latest?cb=20260709113502",
+        "caption": {
+          "en": "Ditto, with Douglas"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zbs94-2.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/No_Way_Out",
+      "title": "No Way Out",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 304775,
+      "fetchedAt": "2026-09-06T14:27:50.568Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "oblivion",
+    "name": "Oblivion",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Annihilation: Oblivion (zs_nightmare5) is the epilogue chapter of Zombie Scenario: Season 5 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "Annihilation: Oblivion (zs_nightmare5) is the epilogue chapter of Zombie Scenario: Season 5 in Counter-Strike Online.\n\n## Overview\n\nYou can battle with the bosses of season 5 of the Zombie Scenario. Goal: Defeat the boss who appears every round.\n\n## Oblivion Key\n\nA key that exists only in forgotten memories. If you have this key, you may come back forgotten tonight. When you own this item, you can play Zombie Scenario Mode \"Annihilation: Oblivion\" map. This item is a Zombie Scenario item that you will be paid when you clear.\n\n## Goal\n\nDefeat the zombie boss appeared in each round.\n\n## Tips\n\n* Press 'B' in the store area to buy and upgrade weapons.\n * Press '5' or '6' keys to instantly replenish health.\n * If the team is wiped, you can use the Respawn item by pressing the R key.\n * You will receive more round clear bonuses.\n\n## Bosses\n\nBelow is the list of the bosses and zombies in each map.\n\n## Transcripts\n\n* First Memory - [Laser Wing]\n * 1) Jennifer: Ah... My head... Where are we?\n * 2) Jennifer: Oh! You were not shot?\n * 3) I got a piece of memory about the Laser Wings.\n * 4) After a while, we move on to the next memory.\n * 5) Destroyed! Oblivion Round 1, clear!!\n\n * Second memory - [Jack]\n * 1) Jennifer: Ah... the headache is so bad.\n * 2) Jennifer: Jack?! What happened? Wake up!\n * 3) I got a piece of memory about Jack.\n * 4) After a while, we move on to the next memory.\n * 5) Destroyed! Oblivion Round 2, clear!!\n\n * The third memory - [Cronobotics]\n * 1) Jennifer: What is it? Why is it so strange?\n * 2) Jennifer: No! You! It must have been done with my own hand!\n * 3) I got a piece of memory about Chronobotics.\n * 4) After a while, we move on to the next memory.\n * 5) Destroyed! Oblivion Round 3, clear!!\n\n * Last Memory - [Crono Wing]\n * 1) Jennifer: Oh... I'm confused. Why am I doing this...?!\n * 2) Jennifer: It's a situation I've already experienced, why do I repeat it again?!\n * 3) I got a piece of memory about the Chrono Wing.\n * 4) A puzzle piece of all memorable memories was completed.\n * 5) Destroyed! Oblivion, All Round Clear!!\n\n## Release date\n\n* South Korea: 28 December 2017.\n * Indonesia: 10 January 2018.\n * CSNZ: 9 May 2018.\n\n## Trivia\n\n* The map loading background shows \"Nightmare\" instead of the real map name.\n * Among the epilogue series, this epilogue has four different maps and the players have to defeat four bosses only, instead of five."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "oblivion"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8b/Bosskey5.png/revision/latest?cb=20171214073230",
+        "caption": {
+          "en": "Bosskey5"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Bosskey5.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Oblivion",
+      "title": "Oblivion",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 288628,
+      "fetchedAt": "2026-09-06T14:27:32.476Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "obstacle",
+    "name": "Obstacle",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Obstacle or Trap of Arrogance is a Zombie Scenario Season 9 map in Counter-Strike Online."
+    },
+    "story": {
+      "en": "Alin and Dominique have destroyed the secret lab, ruining the hidden experiments kept inside. The powerful shockwave created by the destruction of its core has revealed the locations of Kronos' secret facilities, information which forced the governments of the world to launch detailed investigations. As the cover-up became known, former allies began to turn their backs on Douglas Jacob, who decided to take his wrath out on the world. By simultaneously attacking his most important enemies, he was able to convert their outposts for his own defense.\n\nDue to Douglas Jacob's sudden ambush, the laboratories at the Aegis Institute were captured. In response, Jennifer and Dr. Soi have armed themselves, preparing to recapture the facilities."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "obstacle"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Obstacle",
+      "title": "Obstacle",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 299618,
+      "fetchedAt": "2026-09-06T14:27:47.266Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "omen",
+    "name": "Omen",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Omen (zs_evacuate) is the first chapter of Zombie Scenario: Season 5 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "* 1) This is an incident that takes place at the place where Jennifer went to check the truth of the report.\n * 2) Jennifer leaves the investigation to the location where it was reported.\n * 3) There, Jennifer encounters a large monster that is different from the previous zombies.\n * 4) Knowing that it is different from the tip, the battle against the large talking monster, Laser Wing, begins...\n * 5) CF. Laser Wing can speak differently from the zombies in the past.  Jennifer decides that Lazer Wing knows many things she doesn't know, so she do her best to get information from him."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "omen"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a9/606x295-omen.jpg/revision/latest?cb=20160111095724",
+        "caption": {
+          "en": "Vietnam poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:606x295-omen.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Omen",
+      "title": "Omen",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 293126,
+      "fetchedAt": "2026-09-06T14:27:21.845Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "overflow",
+    "name": "Overflow",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Overflow of Pursuit: Nexus Space Rift is a the final chapter of Zombie Scenario: Season 8 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "Dominique and Alin were tasked with heading to the rendezvous point to help Yuri, and traveled to the provided coordinates. However, when they arrived, they only found a village full of strange rifts of all sizes."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "overflow"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/cd/Zs8bg.jpg/revision/latest?cb=20240119094626",
+        "caption": {
+          "en": "Official wallpaper"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zs8bg.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Overflow",
+      "title": "Overflow",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 299189,
+      "fetchedAt": "2026-09-06T14:27:44.964Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "panic-room",
+    "name": "Panic Room",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "ZS3BGM07 Panic Room (zs_panic) is the final chapter of Zombie Scenario: Season 3 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "* 1) Black reconnects with Erica, who was lost on the way to the panic room, and Erica mentions that Norman is already infected and that his condition is getting weirder.\n * 2) Black hurriedly heads to the panic room, but an infected armsuit appears along the way and fights. Then, suddenly, the floor collapses under the attack of a large organism.\n * 3) A huge infestation appeared and stopped them, and that was the Norman, completely infected and fused with the Panic Room defenses.\n * 4) In the end, Black and his crew defeat Norman, who has become a huge infection, and enter the panic room to rescue Erica and escape.\n * 5) The incident reported the de facto collapse of the Vanguard Company, and David Black returned to the AFC with some unresolved questions.\n * 6) CF. The Lost Guardian is a gigantic organism in which an infected Norman is fused with the Panic Room defense system. The system will not freeze unless it fuses with the fixed defense system and destroys the core at the center. The huge tentacles are being regenerated by the virus indefinitely, so it's best to destroy the armor and missile turrets first so that you can quickly defeat the core.\n * 7) CF. When the Lost Guardian is defeated, the Panic Room also collapses. In the end, Norman's greed resulted in the destruction of the Vanguard Company and himself, and the question of why Norman kidnapped Erica remained unresolved."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "panic-room"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/46/Panickp.png/revision/latest?cb=20130930134948",
+        "caption": {
+          "en": "South Korea poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Panickp.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/ca/PanicRoom3.jpg/revision/latest?cb=20130422092804",
+        "caption": {
+          "en": "In-game screenshot, the tentacle"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:PanicRoom3.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f5/PanicRoom4.jpg/revision/latest?cb=20130422092853",
+        "caption": {
+          "en": "Ditto, engaging Kraken"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:PanicRoom4.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f0/0000800139.PNG/revision/latest?cb=20130929161147",
+        "caption": {
+          "en": "Official screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:0000800139.PNG"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9a/Panicroom.png/revision/latest?cb=20131202023352",
+        "caption": {
+          "en": "Ditto"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Panicroom.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Panic_Room",
+      "title": "Panic Room",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 293118,
+      "fetchedAt": "2026-09-06T14:27:14.868Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "paranoia",
+    "name": "Paranoia",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Paranoia (zs_paranoia) is the final chapter of Zombie Scenario: Season 4 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "* 1) This event occurred at the same time as the mask of jealousy at the beginning of the battle.\n * 2) Jim moves to a key facility to take revenge on an unidentified client who put the mercenary group in danger.\n * 3) In order to find a man named Rex, he directly hacks into the research facility's computer and enters an underground secret lab.\n * 4) At the end of the underground research facility, Rex is seen sitting in a wheelchair, and the final battle begins.\n * 5) CF. Rex attacks using the laboratory's facilities in a safe tempered glass room. However, the powerful firepower of Gerard's forces forces Rex into a corner and transforms into the ultimate form..."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "paranoia"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "audio",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/44/Scene.ogg/revision/latest?cb=20140530140210",
+        "caption": {
+          "en": "Scene.ogg"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Scene.ogg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Paranoia",
+      "title": "Paranoia",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 293125,
+      "fetchedAt": "2026-09-06T14:27:20.355Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "poisoning",
+    "name": "Poisoning",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "season": "Season 2",
+    "summary": {
+      "en": "Poisoning (zs_nightmare2) or Addiction (for Counter-Strike Nexon: Zombies) is an extra Zombie Scenario: Season 2 map in Counter-Strike Online."
+    },
+    "story": {
+      "en": "Poisoning (zs_nightmare2) or Addiction (for Counter-Strike Nexon: Zombies) is an extra Zombie Scenario: Season 2 map in Counter-Strike Online.\n\n## Overview\n\nEliminate every boss zombie which appears in every round. 60 seconds are given in every round to prepare the arrival of the boss. For the last boss, Angra, the player must escape to power plant's entrance after defeating it.\n\nA map similar to Nightmare, the room host needs to have the Poisoning key to play this map. Instead of facing the bosses in Zombie Scenario: Season 1, the players will face the bosses from Zombie Scenario:Season 2.\n\n## Events\n\nPoisoning was released on:\n * South Korea: 12 August 2012.\n * China: 22 August 2012.\n * Singapore/Malaysia: 31 July 2013.\n * Indonesia: 31 July 2013.\n * Vietnam: 9 April 2015.\n * CSN:Z: 15 December 2015.\n\n## Gameplay\n\nThere are 5 rounds in this map:\n\n### Round 1/2\n\nKill zombies as many as possible to quickly level up health and attack power. Focus on these first before engaging the boss. Use any machine gun, equipment such as Black Dragon Cannon, AT4-CS, or M32 MGL, or any SKULL, BALROG or JANUS series weapon to clear the zombies and attack the boss.\n\nIt will be easier to upgrade the health and attack power to max level with the help of BALROG-I while there is only you in a room. Zombies will go in groups so it is easier to kill.\n\nWhen engaging Juggernaut, beware of the traps set by Juggernaut and keep your distance.\n\nWhen engaging Ganymede, players should stay back while 1 player distracts the boss.\n\n### Round 3/4/5\n\n* Anti-zombie weapons are recommended.\n * Grenades and launchers are needed too because there will be many zombies appearing within these three rounds.\n * Aim for the source that the zombies mainly come out of to delay their approach.\n * Always remember to buy Kevlar, Primary weapon ammo and upgrade Health and Attack.\n * Prioritize Health over Attack because the player would take a lot of damage in this map.\n * Use AT4-CS or Thunderbolt to defeat the Bosses quickly.\n\n## Transcript\n\n* Round 1\n * Boss Zombie coming Juggernaut.\n * Juggernaut will be coming in 60 seconds.\n * Juggernaut will be coming in 30 seconds.\n * Juggernaut is coming.\n\n * Round 2\n * Boss Zombie coming Ganymede.\n * Ganymede will be coming in 60 seconds.\n * Ganymede will be coming in 30 seconds.\n * Ganymede is coming.\n\n * Round 3\n * Soy: This sound.. Dione is collecting the poison, run away!\n * Soy: Please be careful of the floor! That is a tentacle attack from Dione!\n * Soy: Be careful! The strong tentacle attack is coming!\n * Soy: Dione is collecting the poison again, run away!\n * Soy: It seems like tentacle attack is happening again! Please watch for the sign of the floor carefully!\n * Soy: This sound is..?! Dione is collecting the poison! Get out of his sight!\n * Soy: His movement has become faster and stronger than before. Be careful!\n * Soy: I’ve found Dione’s weakness point! Aim his chest!\n * Soy: Fine! He looks exhausted! I think we might be able to capture him!\n * Soy: Don’t put down your guard, everyone! This is not the end! Stay far away!\n * Soy: Ah! It ran away.. It’s miracle that it still survive. I think we should find a solution as fast as possible.\n\n * Round 4\n * Soy: Is this Revenant? Some huge object is approaching here! Everybody, be careful!\n * Soy: What's that outlook!? Is that a transform from Siege type?\n * Soy: This strange object's flame is getting bigger! Be careful!\n * Soy: The flame will kill everybody! If we have any available coolant pipe, we should open it right now!\n * Soy: What is this!? Watch out!! A huge energy is releasing from the strange transform object!\n * Soy: The coolant pipe is holding the flame! It is time! Concentrate on all your fire powers on it!\n * Soy: It feels like we've fought with a devil… If Revenant's transform is successful, it will be even more dangerous! Let's find Dione as fast as possible!\n * Tip: You can press keyboard button to use the floor type weapon or cancel it. Bullets are available to use until consuming all that is provided to an individual.\n * Soy: We are too late in activating the ice pipe! It has becomes even stronger!\n * Soy: The strange transform object is resting. The flame is getting smaller!\n\n * Round 5\n * Soy: I've sent a backup force. We need to check if Dione's pupa has been destroyed.\n * Soy: What is this?! I feel that something is approaching toward us. So be careful and stay alert!\n * Soy: That's the last transformed Dione?! It's so huge than I've expected!\n * Soy: I will name it as the origin of evil, ‘Angra’ from now on. We should stop it from going out of the building!\n * Soy: You might need a stronger weapon to defeat Angra! I will request for the airstrike!\n * Soy: Be careful! That is the poison attack!\n * Soy: Angra will make a tentacle attack soon! Watch out!\n * Soy: Angra becomes more violent than before! Please be careful!\n * Soy: This is the time! Complete the co-ordinates at that corner so that the airstrike can commence!\n * Soy: We failed to operate the radar scanning! Be careful!\n * Soy: This is Hawk 3, we will start the airstrike support!\n * Soy: This is the chance! Gather all your strengths!\n * Soy: Finally, you defeated him! I feel relief now! We will take care of it now. You really did a great job!\n * Soy: Please press -button on the power supply switch in the control room. I will make a remote access to there. Now, we can open every door by hacking.\n * Soy: This is the place! We will plant the bomb at every pillars and leave this place!\n * Soy: Wait a minute! I've found a laboratory facility at the upper side of building. Please investigate the facility.\n * Soy: We have to leave this area as soon as possible! There is no much time to investigate in this area!\n * Soy: There might be a clue about the Zombie Virus. If we are lucky, we could find a method to stop it!\n * Soy: Oh no! Let's stick together, team! Proceed to the experiment room at the upper level!\n * Soy: Argh! There is no way out!\n * Soy: That is the secret connector to the other passage behind this wall. Bomb it!\n * Soy: Angra is at the red side of the wall! Watch out!\n * Soy: Angra is at the destroyed warehouse area! Be careful!\n * Soy: Angra has disappeared. Please operate every radar scanning!\n * Soy: We should protect the generator until it had exploded!\n * Soy: I will open the next route for you. Please hold on!\n * Soy: Angra is going to escape!\n * Soy: Run quickly! We will be crushed to death if we cannot escape within the time limit.\n * Soy: This is its unique tentacle pattern! I'm studying its movement.\n\n## Trivia\n\n* This map consists of various bosses that the player has met and fought from Zombie Scenario: Season 2, and it is even more terrifying than the previous bosses from Zombie Scenario, making the player to have their worst nightmare to fight them all over again.\n * Defeating bosses in this map doesn't increase the counter of [Dione Pursuer], [Fire Fighter] and [Last Soldier] medals.\n * Host zombies make no appearance in this map, only origin zombies appear, except the Sting Finger (only host Sting Finger appears, no origin one).\n * Siege Type Deimos is the former name for Ganymede, titled by Aegis Institute.\n * In Indonesia region, there is no Angra's location warning message even if the players have pressed the radio.\n * Also in Indonesia region, there is a bug where players cannot obtain Poisoning key after clearing any maps from Zombie Scenario: Season 2, making this map cannot be played again. This bug was fixed after the release of Illusion."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "poisoning"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f1/Doctora.png/revision/latest?cb=20120405100909",
+        "caption": {
+          "en": "Doctora"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Doctora.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/76/%E3%80%90%E5%9F%BA%E8%BC%AA%E5%B8%B6%E4%BD%A0%E9%AB%94%E9%A9%97%E9%9F%93%E6%9C%8D%E6%9B%B4%E6%96%B0%E3%80%91CSO%E5%99%A9%E5%A4%A2%E4%B9%8B%E6%9C%AB%E5%86%8D%E9%96%8B%E6%94%BE%EF%BC%8C%E5%8F%A6%E7%A8%AE%E5%9C%B0%E5%9C%96%E5%87%BA%E7%8F%BE%EF%BC%811/revision/latest?cb=20130618224929",
+        "caption": {
+          "en": "425px"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:%E3%80%90%E5%9F%BA%E8%BC%AA%E5%B8%B6%E4%BD%A0%E9%AB%94%E9%A9%97%E9%9F%93%E6%9C%8D%E6%9B%B4%E6%96%B0%E3%80%91CSO%E5%99%A9%E5%A4%A2%E4%B9%8B%E6%9C%AB%E5%86%8D%E9%96%8B%E6%94%BE%EF%BC%8C%E5%8F%A6%E7%A8%AE%E5%9C%B0%E5%9C%96%E5%87%BA%E7%8F%BE%EF%BC%811"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/dc/Nm2poisoning.jpg/revision/latest?cb=20130731101653",
+        "caption": {
+          "en": "Singapore/Malaysia poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Nm2poisoning.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3e/Inwll.png/revision/latest?cb=20130806170304",
+        "caption": {
+          "en": "Indonesia website banner"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Inwll.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/05/Poison.png/revision/latest?cb=20130810075137",
+        "caption": {
+          "en": "China website wallpaper"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Poison.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/2f/Poisontw.png/revision/latest?cb=20130919141910",
+        "caption": {
+          "en": "Ditto, poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Poisontw.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/5d/Poisoningcsnz.png/revision/latest?cb=20151215095928",
+        "caption": {
+          "en": "CSN:Z poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Poisoningcsnz.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Poisoning",
+      "title": "Poisoning",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 242083,
+      "fetchedAt": "2026-09-06T14:27:12.629Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "rendezvous",
+    "name": "Rendezvous",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Rendezvous (zs_rendezvous) is the second chapter of Zombie Scenario Season 7 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "The Lucia fleet captures repeated signals that are transmitted. Following the signal, she finds an unidentified facility on the way and instinctively begins a search operation with intuition that she is associated with Michaela.\n\nLucia, intimidated that she is close, risks taking the end of the long battle and making her final pursuit with offshore equipment."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "rendezvous"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/85/Rendezvous.jpg/revision/latest?cb=20190123131442",
+        "caption": {
+          "en": "Map screenshots"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Rendezvous.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/59/Rendezvous1.jpg/revision/latest?cb=20190123132027",
+        "caption": {
+          "en": "Promo art"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Rendezvous1.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/82/Rendezvous2.jpg/revision/latest?cb=20190123132040",
+        "caption": {
+          "en": "Map screenshot featuring Enzo"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Rendezvous2.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/90/Rendezvous3.jpg/revision/latest?cb=20190123132111",
+        "caption": {
+          "en": "Ditto, Raven"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Rendezvous3.jpg"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/46/Rendezvous4.jpg/revision/latest?cb=20190123132126",
+        "caption": {
+          "en": "Ditto, Special Agent Lucia"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Rendezvous4.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Rendezvous",
+      "title": "Rendezvous",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 297507,
+      "fetchedAt": "2026-09-06T14:27:34.676Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "rex-labs",
+    "name": "Rex Labs",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Rex Labs (zs_biolabs), Missed Connections or Staggered Steps is the third chapter of Zombie Scenario Season 7 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "After escaping Panic Room, Erica, who was trying to control her body, began to periodically experience unexplained pain. David Black struggles to find the cause, but one day, when there is no way out, he was contacted by Soi. Soi heard news about Erica, and after seeing related information in the lab data, she told him to come to the Rex Labs if she wants to cure Erica. David Black and Erica set out for the Rex Lab after listening to it. But it wasn't Soi that greeted them, but a lab that seemed to have been attacked. Now they start searching the lab for any clues."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "rex-labs"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Rex_Labs",
+      "title": "Rex Labs",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 305235,
+      "fetchedAt": "2026-09-06T14:27:36.945Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "threat",
+    "name": "Threat",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "ContactBGM Threat (zs_defense) is the third Zombie Scenario: Season 3 map in Counter-Strike Online."
+    },
+    "story": {
+      "en": "* 1) David Black's forces managed to enter the base, but suffered heavy losses in the battle against the Rusty Scorpion. In particular, when Erica is seriously injured during the battle, David decides that it is impossible to proceed further and settles down at the military factory facility inside the base and prepares the ranks.\n * 2) Norman, watching all this in a closed circuit, sends an armsuit to help them, but an Infected AMP Suit arrives and attacks David Black.\n * 3) The infected AMP ssuit kidnaps Erica and runs away, while David Black is puzzled by Norman's bizarre behavior and heads to the Vanguard Company's defense facility, the Panic Room.\n * 4) CF. Mad Mechanic is an infection of the Vanguard Company's AMP suit, and the original AMP suit was made for support rather than military purposes. Originally, it was equipped with a flamethrower and a small laser to secure an access route for cargo or soldiers, but after being infected with a virus, it is used to attack humans. As a model that has already been developed, many exist within the Vanguard Company.\n * 5) CF. It's unclear why Mad Mechanic kidnapped Erica, but David Black is convinced by his intuition that Erica has something special about her."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "threat"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/29/Mountgun.png/revision/latest?cb=20131112230220",
+        "caption": {
+          "en": "Mountgun"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Mountgun.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Threat",
+      "title": "Threat",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 293117,
+      "fetchedAt": "2026-09-06T14:27:13.706Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "trap",
+    "name": "Trap",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Trap (zs_trap) is the third chapter of Zombie Scenario: Season 1 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "Hearing a mysterious voice calling himself Rex, they gathers on the roof of the building, the source of the sound, for the final battle for survival, but the advance force is annihilated by endless zombies."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "trap"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d4/0916-main.jpg/revision/latest?cb=20130918102816",
+        "caption": {
+          "en": "Turkey poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:0916-main.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Trap",
+      "title": "Trap",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 293099,
+      "fetchedAt": "2026-09-06T14:27:02.598Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "upcoming-threat",
+    "name": "Upcoming Threat",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Upcoming Threat or An Approaching Threat (zs_dronefactory) is the first chapter of Zombie Scenario: Season 8 in Counter-Strike Online."
+    },
+    "story": {
+      "en": "David Black and Erica decide to create a new team after hearing the truth from Gerard. They leave to find the person who demolished the Rex Labs in the past, agreeing to add them to the team. The clues lead them to a defunct munitions factory. David tries to enter the factory to see what's left inside, but as Erica's pain returns, they decide to lay low and get some rest. However, Douglas, who has been tracking the two, orders a group of hunters to finish them once and for all..."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "upcoming-threat"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/2f/Zs81-2.png/revision/latest?cb=20220209144403",
+        "caption": {
+          "en": "Zs81-2"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zs81-2.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/bf/Zs81-3.png/revision/latest?cb=20220209144406",
+        "caption": {
+          "en": "Zs81-3"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zs81-3.png"
+      },
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/66/Zs81-4.png/revision/latest?cb=20220209144407",
+        "caption": {
+          "en": "Zs81-4"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zs81-4.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Upcoming_Threat",
+      "title": "Upcoming Threat",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 294541,
+      "fetchedAt": "2026-09-06T14:27:42.301Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "void-zone",
+    "name": "Void Zone",
+    "aliases": [],
+    "gameMode": "zombie-scenario",
+    "summary": {
+      "en": "Void Zone or Tracking: Evelynn's Trial B (zs_voidzone) is the second part of Electron, released as the epilogue chapter of Zombie Scenario: Season 7''."
+    },
+    "story": {
+      "en": "In a virtual training place, intensified virtual battle simulation of brave combatants is conducted."
+    },
+    "objectives": [],
+    "bosses": [],
+    "characters": [],
+    "maps": [
+      "void-zone"
+    ],
+    "difficulties": [],
+    "rewards": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "screenshot",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/65/Voidzone.png/revision/latest?cb=20211116140351",
+        "caption": {
+          "en": "Loading background"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Voidzone.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Void_Zone",
+      "title": "Void Zone",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 294369,
+      "fetchedAt": "2026-09-06T14:27:40.263Z"
+    },
+    "tags": [],
+    "featured": false
+  }
+]

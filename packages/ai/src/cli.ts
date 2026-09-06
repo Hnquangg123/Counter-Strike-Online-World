@@ -1,4 +1,11 @@
 #!/usr/bin/env node
+import fs from 'node:fs/promises'
+import path from 'node:path'
+import { fileURLToPath } from 'node:url'
+import { parseArgs } from 'node:util'
+import type { CharacterSeed, Locale, WeaponSeed } from '@csow/schema'
+import { DEFAULTS, hasKey, type ImageProvider } from './config'
+import { embedDocuments } from './embeddings'
 /**
  * @csow/ai — enrich, translate, illustrate and embed the world.
  *
@@ -14,13 +21,8 @@
  *
  * Guardrails: nothing runs without --slug or --limit; --dry-run prints prompts and token estimates.
  */
-import fs from 'node:fs/promises'
-import path from 'node:path'
-import { fileURLToPath } from 'node:url'
-import { parseArgs } from 'node:util'
-import type { CharacterSeed, Locale, WeaponSeed } from '@csow/schema'
-import { DEFAULTS, hasKey, type ImageProvider } from './config'
-import { embedDocuments } from './embeddings'
+// Load apps/web/.env (and friends) before config.ts evaluates its defaults.
+import { ENV_CANDIDATES, loadedEnvFiles } from './env'
 import { generateArt } from './images'
 import { characterPrompt, weaponPrompt } from './prompts'
 import { enrich, translateRecord } from './text'
@@ -125,8 +127,15 @@ async function main() {
 
   switch (command) {
     case 'status': {
+      console.log(
+        'env files loaded:',
+        loadedEnvFiles.length ? loadedEnvFiles.join(', ') : '(none found)',
+      )
+      if (!loadedEnvFiles.length)
+        console.log(`  looked in: ${ENV_CANDIDATES.map((f) => path.relative(ROOT, f)).join(', ')}`)
+      console.log('')
       for (const [name, check] of Object.entries(hasKey))
-        console.log(`${check() ? '✓' : '·'} ${name}`)
+        console.log(`${check() ? '✓' : '·'} ${name}${check() ? '' : '  (no key)'}`)
       console.log('\ndefaults:', JSON.stringify(DEFAULTS, null, 2))
       return
     }
@@ -385,6 +394,12 @@ async function main() {
 }
 
 main().catch((err) => {
-  console.error(`[ai] ${(err as Error).message}`)
+  const message = (err as Error).message
+  console.error(`[ai] ${message}`)
+  if (/api key|apiKey|credentials|401|403/i.test(message)) {
+    console.error(
+      `[ai] env files loaded: ${loadedEnvFiles.length ? loadedEnvFiles.join(', ') : '(none)'} — put your keys in apps/web/.env and run \`pnpm ai -- status\` to verify.`,
+    )
+  }
   process.exitCode = 1
 })

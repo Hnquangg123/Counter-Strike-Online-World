@@ -1,0 +1,1978 @@
+[
+  {
+    "slug": "abia",
+    "name": "Abia",
+    "aliases": [],
+    "kind": "human",
+    "side": "tr",
+    "grade": "unknown",
+    "classType": "Character",
+    "factions": [],
+    "profile": {
+      "gender": "Female"
+    },
+    "summary": {
+      "en": "Abia is a Transcendent grade Terrorist character in Counter-Strike Online."
+    },
+    "story": {
+      "en": "Abia is a Transcendent grade Terrorist character in Counter-Strike Online.\n\n## Overview\n\nA scientist with exceptional talent in biotechnology. However, she is considered a heretic in the academic world for her claim that combining the resilient vitality and healing abilities of deep-sea creatures with human genes could lead to incredible evolution. To achieve her dream, she joined Kronos Corporation with the support of the Douglas Foundation. To avoid interference from the Aegis Research Institute, she conducted research on the fusion of marine life and human cells in the deep seas far south, but failed. However, while disposing of test subjects, Abia discovered the existence of mermaids and resolved to pay any price if she could capture and experiment on them.\n * Transcendence Class TR\n * Transcendence Class-exclusive voice acting.\n\n## Background\n\nThe scientist Abia, who had achieved outstanding accomplishments in marine genetics, finally published her in-depth study. She stated that, by fusing unique genes from marine organisms into the human body, one could overcome the limitations of the human physique, gaining immense strength, rapid adaptability, and extended lifespan.\n\nThe scientific community criticized her work as too radical, implying ethical and moral risks, and companies that assessed the risks also halted their investment funding.\n\nAmid this turmoil, the Douglas Foundation, which had been monitoring her, proposed a joint project. They pledged to provide a deep-sea exploration vessel and a large research team to support her. Abia readily signed a contract with Kronos, and immediately proceeded with her experiments.\n\nAvoiding interference from the Aegis Institute, she descended to the depths of the distant southern sea, where she extracted genes from marine organisms and attempted to fuse them with human cells.\n\nWhile some genes successfully enhanced human cellular capabilities, there were significant side effects: cells either collapsed or mutated, becoming uncontrollable.\n\nFailed test subjects were immediately discarded into the sea, where their leaked cells went viral, causing severe damage to the marine ecosystem.\n\nBeyond her genetic research, Abia also studied the theoretical existence of merfolk, creatures long considered mere legend.\n\nEven the Douglas Foundation protested, arguing she was wasting time and resources on an old fairy tale. Yet her conviction remained unchanged: if merfolk existed, they must have adapted to life in the depths, thus proving her theories.\n\nResolved to discover the key to human evolution at any price, Abia set out once more for her deep-sea exploration.\n\n## Zombie Scenario Skill\n\n* Passive\n * When playing a zombie scenario with the Gracia class, increases critical hit by 10% and obstacle damage by 300% (bonding system, cannot be stacked with other bonding buffs).\n * <Support Attack> add-on effect applies by default (add-ons can be equipped multiple times, increasing their effectiveness).\n * Increases attack power against elite and boss zombie monsters.\n\n * Active\n * Grants invincibility to self and attacks enemies around the character, applying a forced knockback effect.\n\n## Buffs\n\n* Playing with this character grants a 10% experience/point bonus. (20% point bonus in PC cafes)\n * This character has a higher maximum level than the regular class in Zombie Scenario mode.\n * This character gains one additional initial mutation in Zombie Z mode.\n * This character's current speed is displayed on the bottom HUD.\n * This character displays a dedicated kill mark when killing an enemy.\n * Zombies with less than 20% health are displayed in Zombie mode.\n\n## Release date\n\n* South Korea: November 13, 2025.\n * China: November 19, 2025.\n * Taiwan & Hong Kong/CSN (Global): November 26, 2025."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2025-11-13"
+      }
+    ],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/54/Buffclass25s4trspray.png/revision/latest?cb=20251113232222",
+        "caption": {
+          "en": "SD Abia Spray"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Buffclass25s4trspray.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Abia",
+      "title": "Abia",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 305069,
+      "fetchedAt": "2026-09-06T13:58:13.677Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "ace",
+    "name": "Ace",
+    "aliases": [],
+    "kind": "human",
+    "side": "neutral",
+    "grade": "unknown",
+    "factions": [],
+    "profile": {},
+    "summary": {
+      "en": "* For her Counter-Terrorist counterpart, see Rebecca."
+    },
+    "story": {
+      "en": "* For her Counter-Terrorist counterpart, see Rebecca.\n\nAce is a female Terrorist character in Counter-Strike Online.\n\n## Overview\n\nAn unidentified assassin with code name 'Ace'. Being wanted for the first degree murder due to some embroidery, she surrendered. However, she was venturing to escape immediately to prove her innocence.\n * Choosing this character when playing the game will result in EXP/Point Bonus of 5% (10% on internet cafe).\n\n## Release date\n\n* South Korea: 3 December 2015.\n * Taiwan/Hong Kong: 2 February 2016.\n * CSN:Z: 22 June 2016.\n * China: 6 July 2016.\n\n## Trivia\n\n* Ace is one of Counter-Strike Online characters whose real name is unknown. The others are Spade, Lingling and Gunsmith."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "Ace is one of Counter-Strike Online characters whose real name is unknown. The others are Spade, Lingling and Gunsmith."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/98/Thpolset.png/revision/latest?cb=20151203115745",
+        "caption": {
+          "en": "Ditto, with Rebecca"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Thpolset.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/9c/Sk2rebecacepharatwhk.jpg/revision/latest?cb=20160202103444",
+        "caption": {
+          "en": "Taiwan/Hong Kong poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Sk2rebecacepharatwhk.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/46/AceRebeccacsnz.png/revision/latest?cb=20160622105231",
+        "caption": {
+          "en": "CSN:Z poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:AceRebeccacsnz.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Ace",
+      "title": "Ace",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 299463,
+      "fetchedAt": "2026-09-06T13:58:01.883Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "aetheris",
+    "name": "Aetheris",
+    "aliases": [],
+    "kind": "human",
+    "side": "ct",
+    "grade": "unknown",
+    "classType": "Character",
+    "factions": [],
+    "profile": {
+      "gender": "Female"
+    },
+    "summary": {
+      "en": "\"There must be balance. \""
+    },
+    "story": {
+      "en": "\"There must be balance. \"\n\n- Aetheris opening speech\n\n * See Axion for her companion.\n\nAetheris is a Transcendent grade Counter-Terrorist character in Counter-Strike Online.\n\n## Overview\n\nAn Overseer field captain. She comes from another dimension, and is Axion's superior. She is benevolent and prefers to solve confrontations peacefully, as seen when she ordered Axion to back down in Rendezvous. Her mission is to survey this world and recover lost Overseer technology that was hidden within a meteor, used to create Gungnir.\n\n## Buffs\n\n* Exclusive voice over.\n * Playing with this character grants 10% bonus EXP/Points (20% bonus in PC Café).\n * Increases maximum level in Zombie Scenario to 110.\n * Displays a mark when killing an enemy.\n * Displays movement speed in all modes.\n * Displays a target mark ([[File:Targetmark.png]]) on zombies with 20% health or below.\n * 1 bonus mutation point in Zombie Z.\n * Special buff skill in scenario mode: Regenerate your and nearby player's health points in 10 seconds.\n * Special effect when using Gungnir special attack.\n\n## Release date\n\n* South Korea: April 4 2019.\n * Indonesia: April 5 2019.\n * Taiwan/Hong Kong: April 9 2019.\n * China: April 10 2019.\n * CSN:Z: April 17 2019.\n\n## Aetheris' Sigil\n\nThis costume can be obtained from using 100 Lucky Transcendence Class Box during the event period. It can be equipped on the back.\n\n## Trivia\n\n* This is the first transcendent character to be paired with not a transcendent weapon, but an epic weapon, Gungnir."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "This is the first transcendent character to be paired with not a transcendent weapon, but an epic weapon, Gungnir."
+      }
+    ],
+    "media": [
+      {
+        "kind": "audio",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/7b/Gamestart1.ogg/revision/latest?cb=20190715131848",
+        "caption": {
+          "en": "Gamestart1.ogg"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Gamestart1.ogg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6e/Buff.png/revision/latest?cb=20200626025932",
+        "caption": {
+          "en": "Buff"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Buff.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/5a/Gungnir.png/revision/latest?cb=20190123041258",
+        "caption": {
+          "en": "Gungnir"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Gungnir.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/42/Laserfist.png/revision/latest?cb=20190523075620",
+        "caption": {
+          "en": "Laserfist"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Laserfist.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3e/Dreadnova.png/revision/latest?cb=20190709091122",
+        "caption": {
+          "en": "Dreadnova"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Dreadnova.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/26/Aetheris.png/revision/latest?cb=20190403055331",
+        "caption": {
+          "en": "Icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Aetheris.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/7b/ID190405AetherisPoster.jpg/revision/latest?cb=20190423134651",
+        "caption": {
+          "en": "Indonesia poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:ID190405AetherisPoster.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/1c/TW190409AxionAetherisPoster.jpg/revision/latest?cb=20190409114630",
+        "caption": {
+          "en": "Taiwan/Hong Kong poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:TW190409AxionAetherisPoster.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c9/CN190410AtherisAxionPoster.jpg/revision/latest?cb=20190404105710",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:CN190410AtherisAxionPoster.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/36/AetheriswLaserFist.png/revision/latest?cb=20190605040503",
+        "caption": {
+          "en": "Aetheris with Infinity Laser Fist"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:AetheriswLaserFist.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Aetheris",
+      "title": "Aetheris",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 303393,
+      "fetchedAt": "2026-09-06T13:58:05.046Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "agent-ritsuka",
+    "name": "Agent Ritsuka",
+    "aliases": [],
+    "kind": "human",
+    "side": "ct",
+    "grade": "unknown",
+    "classType": "Character",
+    "factions": [],
+    "profile": {
+      "gender": "Female"
+    },
+    "summary": {
+      "en": "\"\""
+    },
+    "story": {
+      "en": "\"\"\n\n- Squash the insects, exterminate the rats!\n\n * For her original version, see Ritsuka.\n * For her Terrorist counterpart, see Pop Star Alin.\n\nAgent Ritsuka is a Transcendent grade Counter-Terrorist female character in Counter-Strike Online.\n\n## Background\n\nBorn in Asia, Ritsuka wandered from one war zone to the next and grew in the midist of battle. She is currently under the employ of Kronos to kidnap or murder those who dare to resist the company. After being placed under heavy scrutiny due to the failed kidnapping of Choi Ji Yoon, she hid her affiliation and personally engages in mission to ensure their success.\n * This is a class that has been changed to CT.\n * Play as this character, 10% EXP and 10% point (20% in PC room) bonuses are applied.\n * This character has a higher maximum level than the normal class in Zombie Scenario Mode.\n\n## Buffs\n\n* A dedicated voice is applied to this class.\n * Scenario max level increases by 10\n * When an enemy is killed, a dedicated mark is displayed at the target location\n * Your current damage displayed at the bottom of the screen\n * In zombie mode Shows zombies with less than 20% HP\n * Adds 1 first mutation in Zombie Z mode\n * In a zombie scenario, immediately activates a powerful attack on a specific zombie. Can use skills that increase own attack power.\n * Base Shadow Blade add-on effect applied (can be stacked, and effect increases).\n * Psychic Harmonium, Psychic Sizer special skill. Reduces ammunition consumption. When using Psychic Sizer Animato, the slow debuff on self and animato is removed\n * When using Psychic Harmonium and Psychic Sizer, exclusive dialogue is output\n * Add 200% of game points when holding this character\n * Add 50% of game points to all users who played with this character\n\n## Release date\n\n* South Korea: February 24 2022.\n * China: March 2 2022\n * Taiwan & Hong Kong/CSNS (Global): March 10 2022\n\n## Trivia\n\n* This character along with Pop Star Alin, are the first transcendence classes who has a Flex weapon as their signature weapon."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2022-02-24"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "This character along with Pop Star Alin, are the first transcendence classes who has a Flex weapon as their signature weapon."
+      }
+    ],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Agent_Ritsuka",
+      "title": "Agent Ritsuka",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 303391,
+      "fetchedAt": "2026-09-06T13:58:08.393Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "ain-berg",
+    "name": "Ain Berg",
+    "aliases": [],
+    "kind": "human",
+    "side": "neutral",
+    "grade": "unknown",
+    "classType": "Character",
+    "factions": [],
+    "profile": {
+      "gender": "Male"
+    },
+    "summary": {
+      "en": "is a member of the Arctic Avengers in Counter-Strike Online 2."
+    },
+    "story": {
+      "en": "is a member of the Arctic Avengers in Counter-Strike Online 2.\n * See Jean Pierre for his rival.\n\n## Overview\n\nAin Berg is a former member of Arctic Avengers. He is the close comrade to Leet and responsible for the destruction of Big City. He wears a black beret, orange snow goggles and the snow camouflage outfit. He can be seen wielding dual Buckmaster 184s in promotional posters.\n\n## Trivia\n\n* Ain Berg's appearance is based on Arctic Avengers from Counter-Strike: Condition Zero."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "Ain Berg's appearance is based on Arctic Avengers from Counter-Strike: Condition Zero."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8a/CSO2ArcticAvenger.jpg/revision/latest?cb=20120718160123",
+        "caption": {
+          "en": "South Korea poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:CSO2ArcticAvenger.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/16/Trcso2.png/revision/latest?cb=20130814162009",
+        "caption": {
+          "en": "Description"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Trcso2.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Ain_Berg",
+      "title": "Ain Berg",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 298168,
+      "fetchedAt": "2026-09-06T13:57:55.702Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "alice-limited-edition",
+    "name": "Alice (Limited Edition)",
+    "aliases": [],
+    "kind": "human",
+    "side": "neutral",
+    "grade": "unknown",
+    "factions": [],
+    "profile": {},
+    "summary": {
+      "en": "* For her Terrorist counterpart, see Yuri (Limited Edition)."
+    },
+    "story": {
+      "en": "* For her Terrorist counterpart, see Yuri (Limited Edition).\n\nAlice: Limited Edition is a female Counter-Terrorist character in Counter-Strike Online.\n\n## Background\n\nThis uniform is worn by Alice when she invaded into Kronos Company’s rival top executive house as a maid. She has completed the mission without any problems due to her understanding of high society culture.\n * You will receive an extra bonus of 20% EXP and 25% of points if you play with this character.\n\n## Package\n\nRabbit Ears item is included alongside Yuri (Limited Edition).\n\n## Events\n\nThis model was released alongside Yuri (Limited Edition) on:\n * South Korea: 17 January 2013 with Zombie Shelter.\n * Taiwan/Hongkong: 22 January 2013 with Zombie Shelter.\n * China/Japan: 22 January 2013 with Zombie Shelter.\n * Singapore/Malaysia: 6 November 2013 with Airstrip.\n * Indonesia: 10 April 2014 with Item Re:boot.\n * CSNZ: 12 April.\n\n## Appearance\n\nShe attains most of her look from the original model\n\nShe now wears a navy blue maid uniform, A hairband with matching color, light blue tie, a bracelet with bunny brown doll decoration on her left hand, A pair of tights which covered most of her legs, and a high heels matching with her uniform\n\n## Trivia\n\n* This is the first variant model for Alice.\n * This model resembles Alice from Alice in Wonderland as an innuendo.\n * This is one of the few female characters who doesn't come with a custom background when selected in the shop or barracks. The others are Yuri (Limited Edition), Lingling and Isabelle."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "This is the first variant model for Alice."
+      },
+      {
+        "en": "* This model resembles Alice from Alice in Wonderland as an innuendo."
+      },
+      {
+        "en": "* This is one of the few female characters who doesn't come with a custom background when selected in the shop or barracks. The others are Yuri (Limited Edition), Lingling and Isabelle."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8a/Yurialice2.png/revision/latest?cb=20140423113247",
+        "caption": {
+          "en": "Yuri & Alice"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Yurialice2.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6c/6940049224801202696.png/revision/latest?cb=20130115115244",
+        "caption": {
+          "en": "Buy icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:6940049224801202696.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/25/Girlstwrsl.png/revision/latest?cb=20130825143006",
+        "caption": {
+          "en": "Taiwan/Hong Kong resale poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Girlstwrsl.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Alice_(Limited_Edition)",
+      "title": "Alice (Limited Edition)",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 279674,
+      "fetchedAt": "2026-09-06T13:57:58.707Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "alice",
+    "name": "Alice",
+    "aliases": [],
+    "kind": "human",
+    "side": "neutral",
+    "grade": "unknown",
+    "factions": [],
+    "profile": {},
+    "summary": {
+      "en": "Alice is a Metal Arena character in Counter-Strike Online. However, this character also can be used in other modes."
+    },
+    "story": {
+      "en": "Alice is a Metal Arena character in Counter-Strike Online. However, this character also can be used in other modes.\n\n## Overview\n\nAlice is an American political family's daughter who is training to be a field medic when she grows up. Though Alice does not belong to any faction, she chooses to help the losing faction. She is also known to hate war as she hopes that war will one day be terminated.\n\nIn Metal Arena, Alice belongs to the support class which uses light machine guns such as the QBB-95, HK 23E and MG36. In other modes, she can use any weapons and can freely join the Counter-Terrorists or the Terrorists.\n\n## Weapons\n\nThese following weapons can be used by Alice in Metal Arena Mode: Melee= Pistol= Submachine gun= Machine gun=\n * -|\n * -|\n * -|\n\n## Release date\n\nThis character was released alongside Metal Arena on:\n * Turkey: 3 September 2014.\n\nThis character was released through events on:\n * Indonesia: 3 August 2015.\n\n## Appearance\n\nShe has blonde hair, And light blue eyes\n\nShe wore either blue or red metal arena armor with a withe cross on it's chest and hand area, It also has a bunny logo on it's left arm area, And a cylinder on the back, possibly containing medicine.\n\n## Trivia\n\n* Alice's hand models are different from average players, except in Metal Arena.\n * There is an alternative version of this model which is exclusive to Counter-Terrorist.\n * This is the first character that has double affiliation for both CT and TR. The second is Jin Se-yeon.\n * Despite being featured in several posters wielding Science Fiction weapons, Alice cannot equip either in Metal Arena.\n * This character is not available in regions that did not patch in Metal Arena. However, she can still be obtained through certain events, depending on the region.\n * In the latest update of VIP system, Alice can be obtained with the [VVIP] status."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "Alice's hand models are different from average players, except in Metal Arena."
+      },
+      {
+        "en": "* There is an alternative version of this model which is exclusive to Counter-Terrorist."
+      },
+      {
+        "en": "* This is the first character that has double affiliation for both CT and TR. The second is Jin Se-yeon."
+      },
+      {
+        "en": "* Despite being featured in several posters wielding Science Fiction weapons, Alice cannot equip either in Metal Arena."
+      },
+      {
+        "en": "* This character is not available in regions that did not patch in Metal Arena. However, she can still be obtained through certain events, depending on the region."
+      },
+      {
+        "en": "* In the latest update of VIP system, Alice can be obtained with the [VVIP] status."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c7/Sealknife.png/revision/latest?cb=20120312125029",
+        "caption": {
+          "en": "Sealknife"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Sealknife.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c8/Hdagger.png/revision/latest?cb=20121114062716",
+        "caption": {
+          "en": "Hdagger"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Hdagger.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/14/Dragontail.png/revision/latest?cb=20151212124801",
+        "caption": {
+          "en": "Dragontail"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Dragontail.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/cf/P228.png/revision/latest?cb=20120723104256",
+        "caption": {
+          "en": "P228"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:P228.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/7a/Deserteagle.png/revision/latest?cb=20151212120420",
+        "caption": {
+          "en": "Deserteagle"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Deserteagle.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6c/Deserteagleg.png/revision/latest?cb=20151212120424",
+        "caption": {
+          "en": "Desert Eagle Gold"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Deserteagleg.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d9/Fiveseven.png/revision/latest?cb=20120723104916",
+        "caption": {
+          "en": "Fiveseven"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Fiveseven.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/83/Luger.png/revision/latest?cb=20130620135454",
+        "caption": {
+          "en": "Luger"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Luger.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/0d/Waterpistol.png/revision/latest?cb=20120425095840",
+        "caption": {
+          "en": "Waterpistol"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Waterpistol.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/51/Catapult.png/revision/latest?cb=20151212120400",
+        "caption": {
+          "en": "Catapult"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Catapult.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/54/Mp5.png/revision/latest?cb=20120724091802",
+        "caption": {
+          "en": "Mp5"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Mp5.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/2b/Qbb95.png/revision/latest?cb=20121113092116",
+        "caption": {
+          "en": "Qbb95"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Qbb95.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/12/Mg3.png/revision/latest?cb=20130620140323",
+        "caption": {
+          "en": "Mg3"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Mg3.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/4f/Hk23g.png/revision/latest?cb=20120114162557",
+        "caption": {
+          "en": "HK 23E Gold"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Hk23g.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/2a/M60.png/revision/latest?cb=20121024061421",
+        "caption": {
+          "en": "M60"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:M60.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/40/Pkm.png/revision/latest?cb=20131005092811",
+        "caption": {
+          "en": "Pkm"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Pkm.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6a/Mk48.png/revision/latest?cb=20120314125802",
+        "caption": {
+          "en": "Mk48"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Mk48.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/ac/GsGA4d392ad7c1118p1n2-s.jpg/revision/latest?cb=20120318103310",
+        "caption": {
+          "en": "Alice promotional poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:GsGA4d392ad7c1118p1n2-s.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Alice",
+      "title": "Alice",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 299459,
+      "fetchedAt": "2026-09-06T13:57:52.768Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "alin",
+    "name": "Alin",
+    "aliases": [],
+    "kind": "human",
+    "side": "neutral",
+    "grade": "unknown",
+    "classType": "Character",
+    "factions": [],
+    "profile": {
+      "gender": "Female"
+    },
+    "summary": {
+      "en": "* For her Counter-Terrorist counterpart, see Dominique."
+    },
+    "story": {
+      "en": "* For her Counter-Terrorist counterpart, see Dominique.\n * For her transcendence version, see Pop Star Alin.\n\nAlin is a female Terrorist character obtainable through Code Box in Counter-Strike Online.\n\n## Background\n\n* This character can be obtained via Code Box only.\n\nThe B-girl Alin was born in China. She is infamous for her trick to deceive with her cute look yet fearsome skills to sweep out her competitors. She was forced to participate in the Super Soldier project during a contest. After sucessfully managing to escape, she joined the Terrorist for revenge against those who subjected her.\n * This character has one of the best profiles in Zombie Scenario.\n * This character comes with the extra [Kiss] and [Dance] emotions.\n\n## Zombie Scenario Stats\n\n* She is the third character who possesses the highest level (106 without using items) in Zombie Scenario after Lingling and Isabelle.\n\n## Release date\n\nThis character was released on:\n * South Korea: 23 October 2014.\n * Taiwan/Hong kong: 4 November 2014.\n * China/Japan: 5 November 2014.\n * CSN:Z: 1 April 2015.\n * Vietnam: 24 November 2015.\n * Indonesia: 2 December 2015.\n\n## Trivia\n\n* The Alin name may be a resemblance after a Taiwanese celebrity, A-Lin (Chinese: 黃麗玲). The most similar part is the hairstyle.\n * B-Girl can refer to either a Bar Girl or a Breakdance Girl. In this case, Alin is a Breakdance Girl, due to her clothing style and the official naming convention.\n * Similar to most current Code Box characters, Alin comes with new animations. And, to actually be the first character who features a big bonus for both EXP and Game points alongside new added emotions.\n * The dance emotion is similar to Walter and Carlito.\n\n## External link\n\n* A-Lin at Wikipedia."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2014-10-23"
+      },
+      {
+        "region": "tw",
+        "date": "2014-11-04"
+      },
+      {
+        "region": "cn",
+        "date": "2014-11-05"
+      },
+      {
+        "region": "csn",
+        "date": "2015-04-01"
+      },
+      {
+        "region": "vn",
+        "date": "2015-11-24"
+      },
+      {
+        "region": "id",
+        "date": "2015-12-02"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "The Alin name may be a resemblance after a Taiwanese celebrity, A-Lin (Chinese: 黃麗玲). The most similar part is the hairstyle."
+      },
+      {
+        "en": "* B-Girl can refer to either a Bar Girl or a Breakdance Girl. In this case, Alin is a Breakdance Girl, due to her clothing style and the official naming convention."
+      },
+      {
+        "en": "* Similar to most current Code Box characters, Alin comes with new animations. And, to actually be the first character who features a big bonus for both EXP and Game points alongside new added emotions."
+      },
+      {
+        "en": "* The dance emotion is similar to Walter and Carlito."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/78/Alin.png/revision/latest?cb=20141023100913",
+        "caption": {
+          "en": "Alin with STG44 in Splash"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Alin.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/62/Stg44.png/revision/latest?cb=20111228060126",
+        "caption": {
+          "en": "Stg44"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Stg44.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/83/Alinwithairburster.png/revision/latest?cb=20150728075153",
+        "caption": {
+          "en": "Alin with Air Burster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Alinwithairburster.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/51/Arin.png/revision/latest?cb=20141021101144",
+        "caption": {
+          "en": "Buy icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Arin.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/4b/606x295-ruongbau.jpg/revision/latest?cb=20151123142830",
+        "caption": {
+          "en": "Vietnam poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:606x295-ruongbau.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/4e/Alin.gif/revision/latest?cb=20150429105926",
+        "caption": {
+          "en": "Preview"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Alin.gif"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/4e/Alin.jpg/revision/latest?cb=20151231212001",
+        "caption": {
+          "en": "In-game screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Alin.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Alin",
+      "title": "Alin",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 291784,
+      "fetchedAt": "2026-09-06T13:57:59.392Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "alpaca-anemone",
+    "name": "Alpaca Anemone",
+    "aliases": [],
+    "kind": "human",
+    "side": "tr",
+    "grade": "unknown",
+    "classType": "Character",
+    "factions": [],
+    "profile": {
+      "gender": "Female"
+    },
+    "summary": {
+      "en": "* For original version, see Anemone."
+    },
+    "story": {
+      "en": "* For original version, see Anemone.\n\nAlpaca Anemone is a female Terrorist character in Counter-Strike Online.\n\n## Overview\n\nBecause of a bet with Mirage, Anemone is embarrassed to appear on the air in different clothes, but in fact, she is a professional gamer of Krono World, a VR platform, and is making a name for herself in world game competitions with her outstanding skills. Unlike her twin sister, Mirage, she is characterized by her strong stamina and affinity. She accompanies Mirage as a guardian to protect Mirage, who has discovered that Krono World's producers are carrying out suspicious schemes.\n * Transcendence Class TR\n * Exclusive voice for Transcendence class is applied\n\n## Background\n\nHold on\n\nThe best way to do an interview is to do a winning interview, but doing it like this feels strange again. Should I say that something was omitted in the middle? Unfortunately, the timing is not good either. Originally, I didn't like clothes like this, but I decided to wear them as a penalty because I lost a bet with Mirage. Wait a minute, reporter, are you looking for the right timing? ugh... I wouldn't wear it if it was really normal, but I tend to keep what I decided to do with Mirage. In the past, Mirage was not feeling well, so the habit of taking care of her then remained. I'm fine now, but I'd better be careful though. When I was young, I went out to play, but since Mirage had to stay indoors, she played with the computer a lot. Even after I feel better, it's always a headache because she's been avoiding society, maybe because she was too passive. We should get some outside. So when we played together, I also played games on the computer together. Did I do better than I thought? So, as I continued to do it, I came to the pro before I knew it. Actually, I liked playing outside more when I was younger, so when I grew up, I should become an athlete! I thought, but I really don't know people. I'm still having a lot of fun, so I'm satisfied! Winning the game is always the best, and this goddess of victory knows no defeat haha! Fans often ask me what the secret to winning is, but there is always something to talk about. Talent is important, but I think the most important thing is the desire to win. They say that I'm the best and that if I run into it, I can see the way~ It's quite fun to broadcast with Mirage from time to time. I don't usually show what I practice, so many people like it when I come out with them. I just wish that peaceful days would pass like this in the future... Well, I'm worried that Mirage seems to be doing something quite harsh. Should I stop worrying now and end it at this point?\n\nLater! when Mirage returns, she will definitely ask for a live dance together, but I can't bear to go there... I have to go now, cya!\n\n## Buffs\n\n* Paired weapon: Magnum Launcher\n * When right-clicking, special bullets are fired in 3 rows\n * In Zombie and Zombie scenario mode, direct hit damage from special bullets increases but explosion damage decreases\n * Zombie Scenario Skill: Protection of Valor\n * Passive: Critical hit rate and movement speed increase when progressing with a zombie scenario with the class <Blue Rabbit Mirage> (Bondage system, does not overlap with other bond buffs).\n * <Capitalism> Basic application of add-on effect (duplicated add-on can be installed, and the effect increases when duplicated)\n * Active: Grants a shield effect to yourself and nearby allies for a certain period of time.\n * Increases own attack power for a certain period of time (attack power increases greatly at first and decreases over time).\n * When playing with this character, a 10% EXP/point bonus is applied. (20% EXP/point bonus applied in Internet Cafe)\n * This character has a higher maximum level than the normal class in Zombie Scenario Mode.\n * For this character, one mutation is added for the first time in Zombie Z mode.\n * This character's current damage is displayed on the bottom HUD.\n * For this character, a dedicated kill mark is displayed when an enemy is defeated.\n * In zombie mode, zombies with less than 20% health are displayed.\n\n## Release date\n\n* South Korea: June 1 2023.\n * China: June 7 2023\n * Taiwan & Hong Kong/CSNS (Global): June 14 2023."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2023-06-01"
+      }
+    ],
+    "trivia": [],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Alpaca_Anemone",
+      "title": "Alpaca Anemone",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 303387,
+      "fetchedAt": "2026-09-06T13:58:10.325Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "amy",
+    "name": "Amy",
+    "aliases": [],
+    "kind": "human",
+    "side": "tr",
+    "grade": "unknown",
+    "classType": "Character",
+    "factions": [],
+    "profile": {
+      "gender": "Female"
+    },
+    "summary": {
+      "en": "Amy is a female Terrorist character in Counter-Strike Online."
+    },
+    "story": {
+      "en": "Amy is a female Terrorist character in Counter-Strike Online.\n\n## Overview\n\nA humanoid android made by Kronos. Except for certain parts, it is well-made to the point that it looks human. Originally, it was motived to obey, help, and live a good life to humans, but after meeting a doctor, even its strong mental attack defense was disabled, and it is currently in a state where one screw is missing. Normally, it shows android-like appearance, but when it gets temporarily stressed, it vents anger and irritation, and sometimes shows very aggressive tendencies.\n * Transcendence Class TR\n * Transcendence Class exclusive voice is applied.\n\n## Background\n\nHello. I am medical android Amy Ver. 6.89. You can just call me Amy.\n\nI was designed to treat patients. I tried my best to fulfill my job and contribute to the humanity's health. But...why do I have to stay with that crazy doc?\n\nYou saw his face, right? He's totally out of his mind. He is very arrogant and rude, to the point he can neutralize my mental defenses... Oh no, my circuits are overloading... (A brief silence)\n\nHehe, did I surprise you? Sorry, I think I was just a little tired. Let's relax and start the interview!\n\nApparently, countless nurses tried to work with that maniac and quit. The record for the longest tenure was 4 hours. I must admit that he's the best at annoying people. He can even fry my electronic brain!\n\nBut because I am truly great, I'm still standing.\n\nOf course, I am using my great electronic brain to record information about Pablo and send it to Kronos.\n\nOh no, I said something I shouldn't have.\n\nYou look like a naughty child. Let me treat you for a moment. No anesthetics needed. Isn't that exciting?!\n\nHmm? Shocks? I mean, what's the worst that could happen? You die? Well, life is short, don't worry about it. Come with me!\n\n## Pairing Weapon\n\n* Pulse Reactor\n * B Mode movement range change removed\n * B Mode damage increased\n\n## Zombie Scenario Skill\n\n* Passive\n * When proceeding with the zombie scenario with the <Pablo> class, total health is recovered and movement speed is increased (relationship system, cannot be applied in conjunction with other relationship buffs).\n * <Steel Stamina> add-on effect is applied as default (add-on duplication is possible, and the effect increases when duplicated).\n * Increased attack power against elite and boss zombie monsters.\n\nInvincible for 8 seconds + HP recovery of 3% per second, when using a skill, grants volatile HP (blue shield) (normal standard 5000) to nearby allies for 8 seconds.\n * Active\n\n## Buffs\n\n* When playing as this character, a 10% experience/point bonus is applied. (20% point bonus is applied in PC rooms)\n * This character has a higher maximum level than the general class in Zombie Scenario mode.\n * This character receives 1 initial mutation in Zombie Z mode.\n * This character's current speed is displayed on the bottom HUD.\n * This character displays a dedicated kill mark when killing an enemy.\n * Zombies with less than 20% health are displayed in Zombie mode.\n\n## Release date\n\n* South Korea: April 29, 2025.\n * China: May 7, 2025.\n * Taiwan & Hong Kong/CSN (Global): May 14, 2025.\n\n## Costume\n\nAmy exclusive costume\n * Syringe Robot"
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2025-04-29"
+      }
+    ],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/31/Buffclass25s2trspray.png/revision/latest?cb=20250501053048",
+        "caption": {
+          "en": "Spray"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Buffclass25s2trspray.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/2a/Amy.png/revision/latest?cb=20250429100054",
+        "caption": {
+          "en": "Icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Amy.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Amy",
+      "title": "Amy",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 305052,
+      "fetchedAt": "2026-09-06T13:58:12.310Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "anemone",
+    "name": "Anemone",
+    "aliases": [],
+    "kind": "human",
+    "side": "tr",
+    "grade": "unknown",
+    "classType": "Character",
+    "factions": [],
+    "profile": {
+      "gender": "Female"
+    },
+    "summary": {
+      "en": "\"\""
+    },
+    "story": {
+      "en": "\"\"\n\n- Anemone, online!\n\n * For her Counter-Terrorist counterpart, see Mirage (Character).\n * For her variant, see Alpaca Anemone.\n\nAnemone is a Transcendent grade Terrorist character in Counter-Strike Online.\n\n## Overview\n\nAnemone, a pro gamer of Krono World, a VR platform, is making a name for itself in world game competitions with her outstanding skills. Unlike her twin sister, Mirage, she is characterized by her strong physical strength and affinity. She accompanies Mirage as a guardian when she discovers that the creators of Krono World are running a suspicious scheme.\n * This character can be obtained from Class Decoder.\n * 21-2 Transcendence Class TR\n * Transcendence class exclusive voice is applied.\n * Pairing Weapon: M2 Devastator\n\n## Buffs\n\n* Exclusive Skill: Resolver - When used in a Zombie Scenario, activates a range skill that increases the defense of you and your allies, and increases your attack power up to 3 times when you or your allies are attacked during activation.\n * If you play as this character, a 10% experience/point bonus is applied. (Experience/point bonus 20% applied in PC room)\n * This character has a higher level than normal class in Zombie Scenario Mode.\n * One initial mutation is added in Zombie Z mode.\n * The current damage is displayed on the lower HUD.\n * When you kill an enemy, a dedicated kill mark is displayed.\n\n## Release date\n\n* South Korea: July 1 2021\n * Taiwan & Hong Kong/CSNS (Global): July 14 2021\n\n## Anemone's Drone\n\nDrone costume used by Anemone.\n\n## Trivia\n\n* Anemone is a genus of flowering plants in the buttercup family Ranunculaceae."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2021-07-01"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "Anemone is a genus of flowering plants in the buttercup family Ranunculaceae."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3c/Anemoneconceptart.png/revision/latest?cb=20210821175256",
+        "caption": {
+          "en": "Anemone concept art (Old)"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Anemoneconceptart.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Anemone",
+      "title": "Anemone",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 303386,
+      "fetchedAt": "2026-09-06T13:58:06.942Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "angelina",
+    "name": "Angelina",
+    "aliases": [],
+    "kind": "human",
+    "side": "tr",
+    "grade": "unknown",
+    "classType": "Character",
+    "factions": [],
+    "profile": {
+      "gender": "Female"
+    },
+    "summary": {
+      "en": "Angelina is a Transcendent grade Terrorist character in Counter-Strike Online."
+    },
+    "story": {
+      "en": "Angelina is a Transcendent grade Terrorist character in Counter-Strike Online.\n\n## Overview\n\nAs a child, Angelina lost her parents in the war and had to join the army to survive. During her time there, she was invited to come back to America with Douglas Jacob, who was visiting the war zone as part of his relief organization. His wealth and her incredible beauty quickly propelled the former soldier on the path to fame and stardom, but in exchange for Jacob's sponsorship, Angelina was coerced to take a special Kronos-developed serum. However, thanks to a unique gene structure that prevents the virus from mutating within her, Angelina awakened from her operation as a powerful Super Soldier.\n\n## Background\n\nHi! Nice to meet you. Did you come to me to write a report? Ah~ Don't take too many photos. The angle was also taken at the position I specified. Alright, let's also set up a shading film. If you tan in this kind of light, you will not be in a good mood. That's it.\n\nIt's nice to meet you. My name is Angelina. As we all know, the recent note for my popularity as a celebrity comes from my clothes, bags, perfume, hairstyle and everything else. This exhausted life is beyond the endurance of children. Can people understand such troublesome experience and persisting hunger from a person like me? To Douglas Jacob's blessing, I am also here, why curious about my past? It's not about spending money, I'll tell you, take note of it.\n\nWhen I was a child, I lost my parents due to war and volunteered to join the military for a living. Have you ever heard of teenage soldiers? In short, during the process of enlisting and receiving training, I was noticed by Douglas Jacob, who was participating in rescue group activities at the time. My beauty was already outstanding and should be very prominent. Under his advice, I came here together. Although I followed in a daze, this was really a new world. At the moment when that guy wanted to wash his image through social contribution, thanks to me. Thanks to my beauty, I made it to the front page of the news and instantly became a star. My current tone seems to have developed at that time, but I really like this tone. Isn't there any dissatisfaction?\n\nIn short, since then, I have decided to live a celebrity life and eat the nutritional supplements paid by Kronos. This is also a contractual condition for me to come here. Although I only found out later what this medicine is. I heard it's not a nutrient, but super soldier serum? Didn't the reporter also know? Ah, don't show a panicked expression. Isn't this something that everyone already knows. Ah-If it's a surprise, I'll awaken to that super soldier thanks to my special genes, I heard theres a case that I would mutate into a zombie with this virus, why does it feels like you're looking at insects? Ah, you cutie really want to move away now? It's time to disappear forever.\n\n## Release date\n\n* South Korea: May 2 2024.\n * China: May 9 2024\n * Taiwan & Hong Kong/CSNS (Global): May 16 2024\n\n## Buffs\n\n* Transcendent Class TR\n * Exclusive voice line class.\n * If you play as this character, a 10% bonus to experience and 10% to points (20% in PC rooms) is applied.\n * This character has a higher maximum level than the regular class in zombie scenario mode. (+10 level cap in Zombie Scenario mode)\n * Marks a zombie when that zombie health is less than 20% in Zombie Mode\n * 1 initial mutation point added in Zombie Z mode\n * Displays movement speed in the bottom of the screen\n * When killing an enemy, a unique mark is displayed at the target location\n\n## Pairing Weapon\n\n* Tyrant Mace\n * Increased range from basic attack and general attack speed\n * Increased basic attack damage\n * Decreased charging time for Glacial Impact\n\n## Zombie Scenario Skill\n\n* Passive\n * When playing Zombie Scenario with a player using Evita, movement speed is slightly increased, damage received is slightly reduced (Connection effect, does not stack with other connection effects).\n * Applies [Thorns] add-on effect by default (Can be stacked and effect increases)\n * Increased attack power against Elite and Boss monsters\n\n * Active\n * Grants conceal effect on self, when conceal effect breaks, inflicts explosion damage in a set radius, increase attack power on self and allies (the increased amounts differs between self and allies)."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2024-05-02"
+      }
+    ],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/76/24s2t.png/revision/latest?cb=20240430133111",
+        "caption": {
+          "en": "Inventory Icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:24s2t.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/fd/20240604115056.png/revision/latest?cb=20240627090004",
+        "caption": {
+          "en": "20240604115056"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:20240604115056.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/41/24-2-%EC%B4%88%EC%9B%94%ED%81%B4%EB%9E%98%EC%8A%A4-TR-%EC%9B%94%ED%8E%98%EC%9D%B4%ED%8D%BC.jpg/revision/latest?cb=20240502013650",
+        "caption": {
+          "en": "Official Wallpaper"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:24-2-%EC%B4%88%EC%9B%94%ED%81%B4%EB%9E%98%EC%8A%A4-TR-%EC%9B%94%ED%8E%98%EC%9D%B4%ED%8D%BC.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Angelina",
+      "title": "Angelina",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 301672,
+      "fetchedAt": "2026-09-06T13:58:10.852Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "angra",
+    "name": "Angra",
+    "aliases": [],
+    "kind": "boss",
+    "side": "neutral",
+    "grade": "unknown",
+    "factions": [],
+    "profile": {},
+    "summary": {
+      "en": "Angra is a powerful boss that appeared in Angra Nest and was released alongside Z-VIRUS: Scenario. Later, it appears in Poisoning at round 5, Desert Plant and Zombie Giant mode."
+    },
+    "story": {
+      "en": "Angra is a powerful boss that appeared in Angra Nest and was released alongside Z-VIRUS: Scenario. Later, it appears in Poisoning at round 5, Desert Plant and Zombie Giant mode.\n\n## Overview\n\nAngra is an evolved form of Siege Type Dione. The players will be facing Dione for the third time but in a more evolved form and thus, much more powerful then its pre-evolution as it gains new techniques and abilities, while it retains its poison element. This will also be the first time that the players would be facing a boss zombie that has the ability to fly due to it's wings, making it the first soaring enemy known in Zombie Scenario.\n\nIn Desert Plant, Angra appears in some certain days, starting from the 7th day. Once appeared, it will fly to the player's shelter to throw some Venom Guards and special zombie types, which come in a dark-blue colored skin, until it reaches outside the map, specifically near the truck which blocks the way where he lands on.\n\nLater, it becomes a playable character for Zombie team which can be controlled through third-person-view in Zombie Giant mode.\n\n## Tactics and Tips\n\n* Angra has the ability to drop your weapon. To prevent that from happening, jump when Angra is just about to land on to the ground.\n * Move behind Angra when he is using his poison breathe to avoid damage.\n * When Angra is collecting poison for poison breathe, he will lock on to one player. To avoid being hit, keep running and jump to the left or right side to avoid a direct hit.\n * Be generous and drop powerful weapons for your teammates as Angra has extremely high HP and attacking damage.\n * Do not stand below Angra when it is flying because when it lands on the ground, it will instantly kill a player.\n * Focus on increasing your level of HP as you will be receiving a lot of damage on that round.\n * Use a weapon that has high rate of fire and damage e.g BALROG-V, SKULL-6, SKULL-5, SKULL-3, Thunderbolt or AT4-CS.\n * Use Browning M2HB Heavy Machine Gun to damage Angra whenever possible as it can deal very high damage.\n * While Angra is flying out the area, quickly run to the radar computer and switch on by press button to detect Angra and prevent death instantly by its poison (Note: there are 2 radar computers that need to be switched on together, so 2 players are recommended to stand beside them).\n * Angra has the same tentacle attack as Dione, but it is more damaging and has a different pattern.\n * Angra has three tentacle attack patterns; one instantly damages the player if he/she is under the tentacle areas, the other has a time delay before all tentacles attack at the same time, and the last and most difficult to avoid is when Angra stomps on the ground multiple times to trigger more tentacles. Be advised that while doing this attack Angra can predict where the player will be and therefore the tentacle will most likely appear after the players. It is recommended to draw a circle on the ground to avoid being hit.\n * If you can't dodge tentacle attack from Angra while he can predict your moves, try to jump on radar computer at the corner so you're not being hit. Alternatively, duck so that the tentacles won't be able to toss you upwards.\n\n## Zombie Giant\n\nIn Zombie Giant, Angra was added as one of the playable zombies, all his skills is accessible.\n\nOnce evolved, Angra will change appearance into bluish color scheme with some part colored cyan (similar to Fallen Titan, and gains access to his fourth skill, which can release poison fog.\n\n## Trivia\n\n* Angra is the final evolution of Dione, which evolved to Siege Type Dione. The iconic part is the wings. It is also the first boss in Zombie Scenario that has ability of flying.\n * Angra is based on an European Dragon.\n * Angra is the Avestan-language name of Angra Mainyu which means \"Evil Spirit\". In Persian Mythology, Angra Mainyu was the god of darkness, death and destruction.\n * Angra is one of the strongest boss ever to deal with due to its abilities that are often cause disorientation. Examples include its toxic breath which covers a wide range with a short warmup, and its shockwave landing which drops all players' weapon if they don't jump on time.\n * Previously, Angra just appeared as a summon in Zombie Giant. It can be summoned using Dione's fourth ability. It will soar throughout the sky and use the poison breath attack."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "Angra is the final evolution of Dione, which evolved to Siege Type Dione. The iconic part is the wings. It is also the first boss in Zombie Scenario that has ability of flying."
+      },
+      {
+        "en": "* Angra is based on an European Dragon."
+      },
+      {
+        "en": "* Angra is the Avestan-language name of Angra Mainyu which means \"Evil Spirit\". In Persian Mythology, Angra Mainyu was the god of darkness, death and destruction."
+      },
+      {
+        "en": "* Angra is one of the strongest boss ever to deal with due to its abilities that are often cause disorientation. Examples include its toxic breath which covers a wide range with a short warmup, and its shockwave landing which drops all players' weapon if they don't jump on time."
+      },
+      {
+        "en": "* Previously, Angra just appeared as a summon in Zombie Giant. It can be summoned using Dione's fourth ability. It will soar throughout the sky and use the poison breath attack."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b8/Balrog7.png/revision/latest?cb=20120713085145",
+        "caption": {
+          "en": "Balrog7"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Balrog7.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/29/Mountgun.png/revision/latest?cb=20131112230220",
+        "caption": {
+          "en": "Mountgun"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Mountgun.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c8/M32.png/revision/latest?cb=20120702140713",
+        "caption": {
+          "en": "M32"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:M32.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/86/Skull11.png/revision/latest?cb=20150120140150",
+        "caption": {
+          "en": "Skull11"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Skull11.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/91/Gogg.png/revision/latest?cb=20130424032917",
+        "caption": {
+          "en": "Ditto, HD"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Gogg.png"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/94/Monksssssssssssss.png/revision/latest?cb=20120717115006",
+        "caption": {
+          "en": "Tentacle model"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Monksssssssssssss.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/bb/Zombipoison.png/revision/latest?cb=20120714054711",
+        "caption": {
+          "en": "Poison effect when inflicted by Angra"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zombipoison.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/94/Angraposter.png/revision/latest?cb=20120712003204",
+        "caption": {
+          "en": "South Korea poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Angraposter.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/af/Angracp.png/revision/latest?cb=20130810075320",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Angracp.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d1/Angragameplay.png/revision/latest?cb=20120711132657",
+        "caption": {
+          "en": "In-game screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Angragameplay.png"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/fa/Angrazgmodel.png/revision/latest?cb=20151027093229",
+        "caption": {
+          "en": "Ditto"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Angrazgmodel.png"
+      },
+      {
+        "kind": "render",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/81/Angrazgmodel1.png/revision/latest?cb=20151027093421",
+        "caption": {
+          "en": "Ditto"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Angrazgmodel1.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/73/Zgv3twhkpos.jpg/revision/latest?cb=20151027092925",
+        "caption": {
+          "en": "Taiwan/Hong Kong poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zgv3twhkpos.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/03/Zgver3chinapos.jpg/revision/latest?cb=20151028062033",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zgver3chinapos.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/63/Zgupdate.jpg/revision/latest?cb=20160317042018",
+        "caption": {
+          "en": "Vietnam poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Zgupdate.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/87/Angrazgindopos.jpg/revision/latest?cb=20160405075615",
+        "caption": {
+          "en": "Indonesia poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Angrazgindopos.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/19/Angrazgscreenshot.jpg/revision/latest?cb=20151025124057",
+        "caption": {
+          "en": "In-game screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Angrazgscreenshot.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b7/Angrazgsceenshot2.jpg/revision/latest?cb=20151025124135",
+        "caption": {
+          "en": "Ditto, after evolving"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Angrazgsceenshot2.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Angra",
+      "title": "Angra",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 279707,
+      "fetchedAt": "2026-09-06T13:57:54.523Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "asia-red-army-soccer",
+    "name": "Asia Red Army (Soccer)",
+    "aliases": [],
+    "kind": "human",
+    "side": "neutral",
+    "grade": "unknown",
+    "factions": [],
+    "profile": {},
+    "summary": {
+      "en": "* See Max Thacker for his rival."
+    },
+    "story": {
+      "en": "* See Max Thacker for his rival.\n\nAsia Red Army (Soccer) is a new selection model of Asia Red Army for Soccer mode and also available for other modes.\n\n## Overview\n\nYou can use a Terrorist character, Asia Red Army with wearing a soccer uniform during the game. If you use the character in the soccer mode, Strength level +1 and start bonus will be applied.\n\n### Benefits\n\n* Strength +1\n * Start bonus\n\n## Release date\n\n* Turkey: 25 June 2014.\n * CSN:Z: 26 May 2016.\n\n## Trivia\n\n* There is a \"JRA\" writing on the back of uniform, referring to Japanese Red Army."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "There is a \"JRA\" writing on the back of uniform, referring to Japanese Red Army."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/07/Arasc.png/revision/latest?cb=20150722163502",
+        "caption": {
+          "en": "Buy icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Arasc.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/32/Soccerteam.png/revision/latest?cb=20130805170553",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Soccerteam.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/58/SG%2FMYjramaxsoccer.jpg/revision/latest?cb=20130203033931",
+        "caption": {
+          "en": "Singapore/Malaysia poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:SG/MYjramaxsoccer.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/0/0e/Indosoccerpromo.jpg/revision/latest?cb=20130131132835",
+        "caption": {
+          "en": "Indonesia poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Indosoccerpromo.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Asia_Red_Army_(Soccer)",
+      "title": "Asia Red Army (Soccer)",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 276463,
+      "fetchedAt": "2026-09-06T13:57:53.321Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "athena",
+    "name": "Athena",
+    "aliases": [],
+    "kind": "human",
+    "side": "neutral",
+    "grade": "unknown",
+    "factions": [],
+    "profile": {},
+    "summary": {
+      "en": "Athena is a Terrorist character in Counter-Strike Online 2."
+    },
+    "story": {
+      "en": "Athena is a Terrorist character in Counter-Strike Online 2.\n\n## Release date\n\n* South Korea: 20 October 2016."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [],
+    "trivia": [],
+    "media": [],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Athena",
+      "title": "Athena",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 280816,
+      "fetchedAt": "2026-09-06T13:58:02.603Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "axion",
+    "name": "Axion",
+    "aliases": [],
+    "kind": "human",
+    "side": "tr",
+    "grade": "unknown",
+    "classType": "Character",
+    "factions": [],
+    "profile": {
+      "gender": "Male"
+    },
+    "summary": {
+      "en": "\"\"This is Axion, commencing mission!\" \""
+    },
+    "story": {
+      "en": "\"\"This is Axion, commencing mission!\" \"\n\n- Axion game start speech\n\n * See Aetheris for his companion.\n\nAxion is a Transcendent grade Terrorist character in Counter-Strike Online.\n\n## Overview\n\nAn Overseer field agent. He comes from another dimension and works directly under Aetheris. He's violent, as seen in Rendezvous -- he suggests to wipe out the player's squad when encountered. His mission is to survey this world and recover lost Overseer technology that was hidden within a meteor, used to create Gungnir.\n\n## Buffs\n\n* Exclusive voice over.\n * Playing with this character grants 10% bonus EXP/Points (20% bonus in PC Café).\n * Increases maximum level in Zombie Scenario to 110.\n * Displays a mark when killing an enemy.\n * Displays movement speed in all modes.\n * Displays a target mark ([[File:Targetmark.png]]) on zombies with 20% health or below.\n * 1 bonus mutation point in Zombie Z.\n * Special buff skill in scenario mode: increase your and nearby player's attack damage.\n * Special effect when using Gungnir special attack.\n\n## Release date\n\n* South Korea: April 4 2019.\n * Indonesia: April 5 2019.\n * Taiwan/Hong Kong: April 9 2019.\n * China: April 10 2019.\n * CSN:Z: April 17 2019.\n\n## Axion's Combat Helmet\n\nThis costume can be obtained from using 50 Lucky Transcendence Class Box during the event period. It can be equipped on the head."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [],
+    "trivia": [],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6e/Buff.png/revision/latest?cb=20200626025932",
+        "caption": {
+          "en": "Buff"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Buff.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/84/Voidpistol.png/revision/latest?cb=20200707083339",
+        "caption": {
+          "en": "Voidpistol"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Voidpistol.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c2/Gunslinger.png/revision/latest?cb=20190127074147",
+        "caption": {
+          "en": "Gunslinger"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Gunslinger.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/23/Axion.png/revision/latest?cb=20190403051132",
+        "caption": {
+          "en": "Icon"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Axion.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/b/b7/ID190405AxionPoster.jpg/revision/latest?cb=20190423134649",
+        "caption": {
+          "en": "Indonesia poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:ID190405AxionPoster.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/1c/TW190409AxionAetherisPoster.jpg/revision/latest?cb=20190409114630",
+        "caption": {
+          "en": "Taiwan/Hong Kong poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:TW190409AxionAetherisPoster.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c9/CN190410AtherisAxionPoster.jpg/revision/latest?cb=20190404105710",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:CN190410AtherisAxionPoster.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Axion",
+      "title": "Axion",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 300808,
+      "fetchedAt": "2026-09-06T13:58:03.932Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "bio-scorpion",
+    "name": "Bio Scorpion",
+    "aliases": [],
+    "kind": "boss",
+    "side": "zombie",
+    "grade": "unknown",
+    "classType": "Boss",
+    "factions": [],
+    "profile": {
+      "gender": "Male"
+    },
+    "summary": {
+      "en": "Bio Scorpion is a mutated machine scorpion appears as a boss in Behind chapter. It also appears in Illusion at round 4."
+    },
+    "story": {
+      "en": "Bio Scorpion is a mutated machine scorpion appears as a boss in Behind chapter. It also appears in Illusion at round 4.\n\n## Overview\n\nThe players will meet this boss in the second round of Behind chapter. They must defeat it to complete the pursuit.\n\nBio Scorpion can dash, sting and hide in the sands. It can also create sand typhoon to send humans flying and heal itself if the players don't shoot its tail.\n\n## Abilities\n\n* Hiding: The boss will create a black hole (which can pull players and cause damage) to hide in the sand then summon dust storm which injures the players.\n * Rush: The boss will charge towards a random player.\n * Tentacle summon: The boss will summon tentacles with its tail that can immobilize the players for a few seconds.\n * Healing: The boss will heal itself. This ability can be canceled by shooting its tail.\n\n## Tactics\n\n* Always share your best weapon to your teammates.\n * Shooting directly at his face can deal cirtical damage.\n * When it's trying to summon tentacles, use this as an advantage to shoot its face because it's the weakness spot.\n * If it tries to hide and launch tornado attacks, make sure you stay far from the boss as its black hole can pull you in, and watch where the tornado comes to avoid it.\n * When Scorpion is ready to use healing skill, focus to shoot the tail to stop it.\n * There is a skill to know where the boss's tornado comes. When the boss is using the tornado skill, check the floor's colour near the boss. If the floor near the boss when it is starting to hide is black, the tornado will be coming either left or right hand side. If the floor colour doesn't change, the tornado comes from the middle of the boss.\n\n## Trivia\n\n* This boss is an infected HEV, combat APC or Humvee which later evolved to a machine scorpion.\n * This is the second boss that has healing skill at mid-battle after Revenant.\n * In Indonesia region, this boss' official name is just \"Scorpion\".\n * In Illusion map, tornado wind's color is pale blue.\n * In Singapore/Malaysia region, sometimes player can see a Phobos' portrait on the boss health bar instead of the Scorpion due to a bug.\n * This is the first boss that has weakness on its face, the second one is Frozen Terror.\n * The black hole model is the same as the Oberon's."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "This boss is an infected HEV, combat APC or Humvee which later evolved to a machine scorpion."
+      },
+      {
+        "en": "* This is the second boss that has healing skill at mid-battle after Revenant."
+      },
+      {
+        "en": "* In Indonesia region, this boss' official name is just \"Scorpion\"."
+      },
+      {
+        "en": "* In Illusion map, tornado wind's color is pale blue."
+      },
+      {
+        "en": "* In Singapore/Malaysia region, sometimes player can see a Phobos' portrait on the boss health bar instead of the Scorpion due to a bug."
+      },
+      {
+        "en": "* This is the first boss that has weakness on its face, the second one is Frozen Terror."
+      },
+      {
+        "en": "* The black hole model is the same as the Oberon's."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/db/Thunderbolt.png/revision/latest?cb=20131201114357",
+        "caption": {
+          "en": "Thunderbolt"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Thunderbolt.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/cc/Oicw.png/revision/latest?cb=20121023142444",
+        "caption": {
+          "en": "Oicw"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Oicw.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d5/Balrog5.png/revision/latest?cb=20120923041121",
+        "caption": {
+          "en": "Balrog5"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Balrog5.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/d8/Balrog9.png/revision/latest?cb=20151212114023",
+        "caption": {
+          "en": "Balrog9"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Balrog9.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/18/Bioscorpionss.jpg/revision/latest?cb=20130914014024",
+        "caption": {
+          "en": "In-game screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Bioscorpionss.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Bio_Scorpion",
+      "title": "Bio Scorpion",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 289306,
+      "fetchedAt": "2026-09-06T13:57:57.207Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "black-lord-kai",
+    "name": "Black Lord Kai",
+    "aliases": [],
+    "kind": "human",
+    "side": "tr",
+    "grade": "unknown",
+    "classType": "Character",
+    "factions": [],
+    "profile": {
+      "gender": "Male"
+    },
+    "summary": {
+      "en": "* For original version, see Kai."
+    },
+    "story": {
+      "en": "* For original version, see Kai.\n\nBlack Pillar Kai is a Transcendent grade Terrorist character in Counter-Strike Online.\n\n## Overview\n\nKai, who channeled his fighting spirit, inner rage, and the emptiness he felt from losing everything into a raging inferno, forging black iron to finally complete the sacred armor of mythology. Together with the Black Lord, he transcended the pinnacle of humanity, entered the realm of the gods, and thus threw himself into an all-out war to rule over everything.\n\n## Perks\n\n* Class with exclusive voice\n * Displays exclusive mark at target location upon killing enemy\n\n## Release date\n\n* South Korea: 25 June 2026.\n\n## Ruyi Stick costume\n\nRuyi Stick imbued with the majesty of Kai the Black Lord that can be equipped on the back. Available from 2026 Season 26.\n\n## Trivia\n\n* There was supposed to be an exclusive active skill for this character but it's replaced with Ishmael's.\n * This character is inspired from Sun Wukong, a main character of Journey to the West."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "There was supposed to be an exclusive active skill for this character but it's replaced with Ishmael's."
+      },
+      {
+        "en": "* This character is inspired from Sun Wukong, a main character of Journey to the West."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/dd/20260708114148.png/revision/latest?cb=20260723134113",
+        "caption": {
+          "en": "20260708114148"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:20260708114148.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/9/98/Stamp.png/revision/latest?cb=20260613000932",
+        "caption": {
+          "en": "Stamp"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Stamp.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a6/%E5%A3%81%E7%B4%99.jpg/revision/latest?cb=20260723135003",
+        "caption": {
+          "en": "Official wallpaper"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:%E5%A3%81%E7%B4%99.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/19/Season26-1.jpg/revision/latest?cb=20260623164718",
+        "caption": {
+          "en": "Season banner"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Season26-1.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/d/db/Season26-2.jpg/revision/latest?cb=20260623164717",
+        "caption": {
+          "en": "Kai with Ruyi Stick costume"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Season26-2.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/1/1a/Season26-5.jpg/revision/latest?cb=20260623164716",
+        "caption": {
+          "en": "HD Spray"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Season26-5.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Black_Lord_Kai",
+      "title": "Black Lord Kai",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 304818,
+      "fetchedAt": "2026-09-06T13:58:15.037Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "black-rose-miho",
+    "name": "Black Rose Miho",
+    "aliases": [],
+    "kind": "human",
+    "side": "ct",
+    "grade": "unknown",
+    "classType": "Character",
+    "factions": [],
+    "profile": {
+      "gender": "Female"
+    },
+    "summary": {
+      "en": "\"Nana, what's our target today? \""
+    },
+    "story": {
+      "en": "\"Nana, what's our target today? \"\n\n- Game start dialogue\n\n * For her companion, see Pink Heart Shiho.\n\nBlack Rose Miho is a 2019 Season 3 transcendent character in Counter-Strike Online.\n\n## Overview\n\nShe is a magical girl who came to this world by dimensional collapse. Cold, but always worried about Shiho. She is looking for a way to return to their world.\n * When you play with this character, you will receive additional 10% EXP and 10% points (20% in the PC room).\n * This character has a higher level than normal class in Zombie Scenario mode.\n\n## Buffs\n\n* This class is equipped with dedicated voices.\n * Increases Scenario level to level 10.\n * Show exclusive mark on target location when killing enemy.\n * Show damage indication at the bottom of the screen.\n * Show a mark ([[File:Targetmark.png]]) to zombies with health of less than 20%.\n * Add 1 first mutation in Zombie Z mode\n * Unlimited range buff skills for Zombie Scenario (3x more primary magazine when reloaded during skill duration)\n * Weapons using special bullets are excluded.\n * Dedicated dialogue output when using magic weapon.\n\n## Badass Cat Nana\n\nThe cat Miho carries with her on her back. Obtainable from opening 100 or 150 Premium Top Class Decoder by selecting Black Rose Miho.\n\n## Release date\n\n* South Korea: September 26 2019.\n * CSN:Z: October 16 2019.\n\n## Trivia\n\n* The dress is probably inspired from some Japanese pop idols.\n\n## External link\n\n* Miho at Tales Runner wiki."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [
+      {
+        "region": "kr",
+        "date": "2019-09-26"
+      }
+    ],
+    "trivia": [
+      {
+        "en": "The dress is probably inspired from some Japanese pop idols."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/4d/Magicsg.png/revision/latest?cb=20200207093356",
+        "caption": {
+          "en": "Magicsg"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Magicsg.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/3e/Magicknife.png/revision/latest?cb=20200820111712",
+        "caption": {
+          "en": "Magicknife"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Magicknife.png"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Black_Rose_Miho",
+      "title": "Black Rose Miho",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 300812,
+      "fetchedAt": "2026-09-06T13:58:06.335Z"
+    },
+    "tags": [],
+    "featured": false
+  },
+  {
+    "slug": "blair",
+    "name": "Blair",
+    "aliases": [],
+    "kind": "human",
+    "side": "neutral",
+    "grade": "unknown",
+    "factions": [],
+    "profile": {},
+    "summary": {
+      "en": "\"The Exorcism Legends\""
+    },
+    "story": {
+      "en": "\"The Exorcism Legends\"\n\n- SG/MY description\n\n * For her Counter-Terrorist counterpart, see Fernando.\n\n * For her transcendent version, see Transcendent Blair.\n\nBlair is a female Terrorist character released alongside Zombie: The Hero: The Origins.\n\n## Official description\n\nA hunter from Ireland, Blair gained her fame as a troubleshooter for an unofficial incident. However, she had disappeared without a trace when she reached her peak. A horrible rumor about zombies was spreading in the mainland in Europe after she was missing, leading to people believing that her disappearance is related with this.\n\n## Events\n\nThis character was released alongside Fernando on:\n * Taiwan/Hong Kong: 26 July 2011.\n * Singapore/Malaysia: 6 June 2012.\n * Indonesia: 23 July 2012.\n * CSN:Z: 4 May 2016.\n\n## Zombie Scenario Stats\n\nBlair starts building her attack power first. Therefore players should worry about her health when attacking zombies.\n\n## Favorite weapons\n\nPistol= Shotgun= Assault rifle= Sniper rifle= Machine gun= Melee= Equipment=\n * -|\n * -|\n * -|\n * -|\n * -|\n * -|\n\n## Trivia\n\n* The design of this character resembles the \"Black Widow\" from Marvel Universe, specifically from The Avengers movie."
+    },
+    "quotes": [],
+    "abilities": [],
+    "weapons": [],
+    "scenarios": [],
+    "gameModes": [],
+    "maps": [],
+    "relatedCharacters": [],
+    "voiceActors": [],
+    "scenarioStats": {},
+    "costumes": [],
+    "release": [],
+    "trivia": [
+      {
+        "en": "The design of this character resembles the \"Black Widow\" from Marvel Universe, specifically from The Avengers movie."
+      }
+    ],
+    "media": [
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/77/Lugers.png/revision/latest?cb=20151212120437",
+        "caption": {
+          "en": "Lugers"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Lugers.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/7/79/Cyclone.png/revision/latest?cb=20151212120354",
+        "caption": {
+          "en": "Cyclone"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Cyclone.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/c/c2/Gunslinger.png/revision/latest?cb=20190127074147",
+        "caption": {
+          "en": "Gunslinger"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Gunslinger.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/f7/Xm1014red.png/revision/latest?cb=20120615044842",
+        "caption": {
+          "en": "Xm1014red"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Xm1014red.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/4f/M1887.png/revision/latest?cb=20130517163240",
+        "caption": {
+          "en": "M1887"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:M1887.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/2f/Crow5.png/revision/latest?cb=20160128105516",
+        "caption": {
+          "en": "Crow5"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Crow5.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/3/38/Sg552buff.png/revision/latest?cb=20190127074500",
+        "caption": {
+          "en": "Sg552buff"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Sg552buff.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/2/2b/Bandita.png/revision/latest?cb=20140624085833",
+        "caption": {
+          "en": "Vandita"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Bandita.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/4f/Hk23g.png/revision/latest?cb=20120114162557",
+        "caption": {
+          "en": "Hk23g"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Hk23g.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/f/fd/Nataknifed.png/revision/latest?cb=20120702140726",
+        "caption": {
+          "en": "Nataknifed"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Nataknifed.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/af/Poisongun.png/revision/latest?cb=20120702140539",
+        "caption": {
+          "en": "Poisongun"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Poisongun.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/6/6c/4269453051368046605.jpg/revision/latest?cb=20111025234628",
+        "caption": {
+          "en": "South Korea wallpaper"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:4269453051368046605.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/4/46/Moreinfo.jpg/revision/latest?cb=20120318105310",
+        "caption": {
+          "en": "China poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Moreinfo.jpg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/5/53/Ditto.jpeg/revision/latest?cb=20120421080717",
+        "caption": {
+          "en": "Taiwan/Hong Kong poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Ditto.jpeg"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/a2/Blaircsnz.png/revision/latest?cb=20160504085351",
+        "caption": {
+          "en": "CSN:Z poster"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Blaircsnz.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/a/ae/Blair-Gunslinger.png/revision/latest?cb=20180422131636",
+        "caption": {
+          "en": "Blair with Dual Beretta Gunslinger"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Blair-Gunslinger.png"
+      },
+      {
+        "kind": "portrait",
+        "src": "https://static.wikia.nocookie.net/cso/images/8/8d/Blairs.jpg/revision/latest?cb=20150429174746",
+        "caption": {
+          "en": "In-game screenshot"
+        },
+        "credit": "Counter-Strike Online Wiki / Nexon",
+        "sourceUrl": "https://cso.fandom.com/wiki/File:Blairs.jpg"
+      }
+    ],
+    "wikiSource": {
+      "url": "https://cso.fandom.com/wiki/Blair",
+      "title": "Blair",
+      "license": "CC-BY-SA-3.0",
+      "revisionId": 294075,
+      "fetchedAt": "2026-09-06T13:57:50.386Z"
+    },
+    "tags": [],
+    "featured": false
+  }
+]
