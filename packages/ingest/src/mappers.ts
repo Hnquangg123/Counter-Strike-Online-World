@@ -79,6 +79,33 @@ const kindOf = (box: Record<string, string>, categories: string[]) => {
   return 'human' as const
 }
 
+/**
+ * Media kind from file name + caption, first match wins. Mirrors KIND_HINTS in
+ * tools/research-to-seed.py — see docs/MEDIA_PIPELINE.md for what each wiki
+ * file pattern looks like. The first image on a page is its infobox image.
+ */
+export const mediaKind = (
+  file: string,
+  caption: string | undefined,
+  defaultKind: MediaInput['kind'],
+  isInfobox = false,
+): MediaInput['kind'] => {
+  const text = `${file} ${caption ?? ''}`.toLowerCase()
+  if (/\.(ogg|mp3|wav)$/i.test(file)) return 'audio'
+  if (/\.(glb|gltf)$/i.test(file)) return 'model-3d'
+  if (/icon\b|killmark|kill mark/.test(text)) return 'icon'
+  if (/hud\b/.test(text)) return 'hud'
+  // `_msg` files are the dialogue/message bust portraits.
+  if (/portrait|infobox|_msg\b/.test(text)) return 'portrait'
+  // Shop / player / in-game *model* captures (`_shopmodel`, `_ingamemdl`) — official renders, often on white (restore them).
+  if (/shopmodel|playermodel|mdl\b/.test(text)) return 'render'
+  // First-person view models and in-game captures have busy backgrounds → screenshot.
+  if (/view ?model|\bv_[a-z0-9]+_|screenshot|in-?game|gameplay/.test(text)) return 'screenshot'
+  if (/\bmodel\b|render/.test(text)) return 'render'
+  if (/poster|concept|\bart\b|wallpaper|background|costume|drone|skill/.test(text)) return 'artwork'
+  return isInfobox ? defaultKind : defaultKind === 'portrait' ? 'artwork' : defaultKind
+}
+
 const mediaFrom = (
   page: ParsedPage,
   images: ImageInfo[],
@@ -87,18 +114,12 @@ const mediaFrom = (
   const byFile = new Map(images.map((i) => [i.file.toLowerCase(), i]))
   const seen = new Set<string>()
   const out: MediaInput[] = []
-  for (const img of page.images) {
+  for (const [index, img] of page.images.entries()) {
     const info = byFile.get(img.file.replace(/^File:/, '').toLowerCase())
     if (!info || seen.has(info.url)) continue
     seen.add(info.url)
     const caption = img.caption
-    const kind: MediaInput['kind'] = /icon|hud/i.test(img.file)
-      ? 'icon'
-      : /model|render/i.test(`${img.file} ${caption}`)
-        ? 'render'
-        : /\.ogg$|\.mp3$|\.wav$/i.test(img.file)
-          ? 'audio'
-          : defaultKind
+    const kind = mediaKind(img.file, caption, defaultKind, index === 0)
     out.push({
       kind,
       src: info.url,

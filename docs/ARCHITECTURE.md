@@ -43,7 +43,7 @@
 
 1. `src/proxy.ts` (Next 16 "proxy", formerly middleware) resolves the locale (`/` = en, `/vi/...` = vi) and rewrites to `app/(frontend)/[locale]/...`. `/admin` and `/api` are excluded.
 2. Pages are React Server Components. They call `src/lib/world.ts` (Payload Local API, `overrideAccess: false` so only published docs are visible) and render with `revalidate = 300`. Detail pages pre-render known slugs via `generateStaticParams`.
-3. Media: `src/lib/media.ts` resolves `heroImage` → gallery → `remoteMedia` (wiki CDN) and builds responsive `srcSet`s (Payload sizes locally, `scale-to-width-down` on the wiki CDN). `EntityImage` renders a designed fallback when art is pending.
+3. Media: `src/lib/media.ts` resolves `heroImage` → gallery (portrait → artwork → render → screenshot) → `remoteMedia` (wiki CDN) and builds responsive `srcSet`s (Payload sizes locally, `scale-to-width-down` on the wiki CDN). `EntityImage` probes each image's tone (`src/lib/image-tone.ts`) and puts light studio captures on a plate; it renders a designed fallback when art is pending. `docs/MEDIA_PIPELINE.md` covers restore/reimagine.
 4. Client islands: `EntityImage`, `Reveal` (Motion), `FigureViewer` (R3F, dynamically imported, no SSR), `CommandPalette`, `Countdown`, `AudioPlayer`, `Gallery`, `LocaleSwitcher`, `MobileNav`.
 
 ## Request flow (API)
@@ -61,6 +61,7 @@ wiki ──(packages/ingest: MediaWiki API → wtf_wikipedia → mappers)──�
      ──(pnpm ingest -- build-seed)──► data/seed/ingested/<type>.json
 data/research (agent captures) ──(tools/research-to-seed.py)──► data/seed/<type>.json   (curated, committed)
 packages/ai ──► data/seed/ai/<type>.json (text overlays) + data/media/generated/** (art, GLB with provenance)
+            └─► data/media/restored/** (wiki captures: upscaled, background removed — canon, fair-use)
 pnpm seed: curated ▷ ingested ▷ ai merged by slug (curated wins) → Payload Local API (en, then vi) → published docs
 ```
 

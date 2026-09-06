@@ -76,24 +76,29 @@ def release(items) -> list[dict]:
 
 
 KIND_HINTS = [
-    ("icon", r"\bicon\b|killmark|kill mark"),
-    ("hud", r"\bhud\b"),
-    ("portrait", r"portrait|infobox"),
-    ("render", r"\bmodel\b|view model|viewmodel|render|shopmodel"),
-    ("screenshot", r"screenshot|in-game|ingame|gameplay"),
+    ("icon", r"icon\b|killmark|kill mark"),
+    ("hud", r"hud\b"),
+    ("portrait", r"portrait|infobox|_msg\b"),
+    # shop / player / in-game *model* captures (_shopmodel, _ingamemdl): official renders, often on white (see MEDIA_PIPELINE.md)
+    ("render", r"shopmodel|playermodel|mdl\b"),
+    # first-person view models and in-game captures are screenshots (busy backgrounds)
+    ("screenshot", r"view ?model|viewmodel|v_[a-z0-9]+_|screenshot|in-?game|gameplay"),
+    ("render", r"\bmodel\b|render"),
     ("artwork", r"poster|concept|art|background|costume|drone|skill"),
 ]
 
 
-def media_kind(caption: str, url: str) -> str:
+def media_kind(caption: str, url: str, default: str = "artwork") -> str:
     text = f"{caption or ''} {url}".lower()
     for kind, pattern in KIND_HINTS:
         if re.search(pattern, text):
             return kind
-    return "artwork"
+    return default
 
 
-def remote_media(images, audio=None) -> list[dict]:
+def remote_media(images, audio=None, default_kind: str = "artwork") -> list[dict]:
+    """Wiki images → remote media entries. `default_kind` is what an unhinted image is:
+    artwork for characters/world pages, render for weapons (their infobox image is the side-profile render)."""
     out, seen = [], set()
     for img in images or []:
         url = (img.get("url") or "").strip()
@@ -101,7 +106,7 @@ def remote_media(images, audio=None) -> list[dict]:
             continue
         seen.add(url)
         caption = img.get("caption")
-        out.append({"kind": media_kind(caption, url), "src": url, **({"caption": L(caption)} if caption else {}), "credit": "Counter-Strike Online Wiki / Nexon"})
+        out.append({"kind": media_kind(caption, url, default_kind), "src": url, **({"caption": L(caption)} if caption else {}), "credit": "Counter-Strike Online Wiki / Nexon"})
     for a in audio or []:
         url = (a.get("url") or "").strip()
         if not url or url in seen:
@@ -300,7 +305,7 @@ for w in weapons_raw:
         "abilities": [{"name": L(a["name"]), "description": L(a.get("description"))} for a in (w.get("abilities") or []) if a.get("name")],
         "release": release(w.get("release")),
         "trivia": [L(t) for t in (w.get("trivia") or []) if t],
-        "media": remote_media(w.get("images")),
+        "media": remote_media(w.get("images"), default_kind="render"),
         "wikiSource": wiki_source(w.get("wikiUrl"), w["name"]),
         "featured": w["slug"] in FEATURED_WEAPONS, "tags": [],
     })
@@ -321,7 +326,7 @@ if sig:
             {"name": L("Unlimited reserve ammo"), "description": L("Reserve ammunition is unlimited in Scenario mode.")},
         ],
         "release": release(sig.get("release")), "trivia": [],
-        "media": remote_media(sig.get("images")),
+        "media": remote_media(sig.get("images"), default_kind="render"),
         "wikiSource": wiki_source(sig.get("wikiUrl"), sig["name"]),
         "featured": True, "tags": [],
     })

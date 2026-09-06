@@ -31,7 +31,8 @@ pnpm dev                        # http://localhost:3000
 - API: http://localhost:3000/api/v1 · docs at http://localhost:3000/api/v1/docs · spec at `/api/v1/openapi.json`
 
 Images and voice lines are streamed from the wiki's CDN until you run the ingestion pipeline (`docs/INGESTION.md`),
-which downloads them into your own media library.
+which downloads them into your own media library. `docs/MEDIA_PIPELINE.md` explains how wiki captures become CSOW hero
+art: **restore** (faithful cutout + upscale, every entity) and **reimagine** (AI key art from restored references).
 
 ## Repository map
 
@@ -45,7 +46,7 @@ packages/ai             @csow/ai — enrichment, translation, art, 3D figures, e
 data/seed               curated seed bundle (characters, weapons, scenarios, modes, factions, maps, music, storyline)
 data/research           raw research captured from the wiki, with sources (provenance for the seed)
 data/wiki, data/media   ingestion output (gitignored, regenerated)
-docs                    ARCHITECTURE · DESIGN_SYSTEM · DATA_MODEL · DEPLOYMENT · INGESTION · AI_PROVIDERS · CONTRIBUTING
+docs                    ARCHITECTURE · DESIGN_SYSTEM · DATA_MODEL · DEPLOYMENT · INGESTION · MEDIA_PIPELINE · AI_PROVIDERS · CONTRIBUTING
 tools                   one-off scripts (research → seed converter)
 ```
 
@@ -58,8 +59,9 @@ tools                   one-off scripts (research → seed converter)
 | `pnpm generate:types` | Regenerate `payload-types.ts` after changing collections |
 | `pnpm lint` / `pnpm lint:fix` | Biome lint + format |
 | `pnpm typecheck` / `pnpm test` / `pnpm build` | Across the workspace via Turborepo |
-| `pnpm ingest -- --help` | Wiki ingestion CLI (run from your own machine) |
+| `pnpm ingest -- --help` | Wiki ingestion CLI (run from your own machine); `pnpm ingest -- verify-media` reports dead links and white-background captures |
 | `pnpm ai -- status` / `pnpm ai -- --help` | AI pipelines — reads keys from `apps/web/.env` (see `docs/AI_PROVIDERS.md`) |
+| `pnpm ai -- restore --type characters --slug anemone` | Clean up a wiki capture (upscale, cut out the background) into a hosted hero image (`docs/MEDIA_PIPELINE.md`) |
 
 ## Principles
 

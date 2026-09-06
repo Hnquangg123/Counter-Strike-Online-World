@@ -228,6 +228,9 @@ importers:
       ai:
         specifier: ^7.0.93
         version: 7.0.93(zod@4.5.4)
+      sharp:
+        specifier: 0.34.2
+        version: 0.34.2
       zod:
         specifier: 'catalog:'
         version: 4.5.4
@@ -250,6 +253,9 @@ importers:
       '@csow/schema':
         specifier: workspace:*
         version: link:../schema
+      sharp:
+        specifier: 0.34.2
+        version: 0.34.2
       wtf_wikipedia:
         specifier: ^10.4.2
         version: 10.4.2

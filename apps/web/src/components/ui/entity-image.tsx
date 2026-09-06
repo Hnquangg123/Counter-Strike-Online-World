@@ -2,6 +2,7 @@
 
 import type { MediaRef } from '@csow/schema'
 import { useEffect, useRef, useState } from 'react'
+import { type ImageTone, probeTone } from '@/lib/image-tone'
 import { cn } from '@/lib/utils'
 
 type Props = {
@@ -13,13 +14,21 @@ type Props = {
   imgClassName?: string
   sizes?: string
   priority?: boolean
+  /** Defaults per media kind: icons/HUD contain, everything else covers. */
   fit?: 'cover' | 'contain'
+  /**
+   * Background tone of the source. `auto` (default) probes the image and
+   * moves light studio captures onto a plate; pass a value to skip the probe.
+   */
+  tone?: ImageTone | 'auto'
   /** Caption shown while artwork is pending. */
   pendingLabel?: string
 }
 
 const WIKI_HOST = 'static.wikia.nocookie.net'
 const WIDTHS = [320, 640, 960, 1280, 1920]
+const CONTAIN_KINDS = new Set(['icon', 'hud'])
+const PROBE_KINDS = new Set(['render', 'portrait', 'artwork', 'screenshot', 'icon', 'hud', 'other'])
 
 /** Fandom's CDN can resize on the fly; local media ships pre-generated sizes. */
 const buildSrcSet = (media: MediaRef): string | undefined => {
@@ -41,9 +50,13 @@ const buildSrcSet = (media: MediaRef): string | undefined => {
 }
 
 /**
- * Renders a MediaRef with responsive sources and a designed fallback — an
- * illuminated initial on a tactical grid — for entries whose art is pending
- * or whose remote source is unreachable.
+ * Renders a MediaRef with responsive sources and two designed treatments:
+ *
+ * - a **studio plate** for light-background captures (shop/in-game model
+ *   shots): a warm light sweep with the image multiplied onto it, so the white
+ *   box dissolves and the subject sits on a plate instead of a blank tile;
+ * - a **fallback** — an illuminated initial on a tactical grid — for entries
+ *   whose art is pending or whose remote source is unreachable.
  */
 export function EntityImage({
   media,
@@ -53,11 +66,13 @@ export function EntityImage({
   imgClassName,
   sizes = '(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw',
   priority,
-  fit = 'cover',
+  fit,
+  tone = 'auto',
   pendingLabel,
 }: Props) {
   const ref = useRef<HTMLImageElement>(null)
   const [failed, setFailed] = useState(false)
+  const [detected, setDetected] = useState<ImageTone>('unknown')
 
   // The error event can fire before React hydrates; check the element's state on mount.
   useEffect(() => {
@@ -66,10 +81,45 @@ export function EntityImage({
     if (el.complete && el.naturalWidth === 0) setFailed(true)
   }, [])
 
+  const url = media?.url
+  const kind = media?.kind
+  const shouldProbe =
+    tone === 'auto' && Boolean(url) && Boolean(kind) && PROBE_KINDS.has(kind ?? '')
+  useEffect(() => {
+    if (!shouldProbe || !media) return
+    let live = true
+    probeTone(media).then((result) => {
+      if (live) setDetected(result)
+    })
+    return () => {
+      live = false
+    }
+  }, [shouldProbe, media])
+
+  const resolvedTone: ImageTone = tone === 'auto' ? detected : tone
+  const plate = resolvedTone === 'light'
+  const resolvedFit = plate
+    ? 'contain'
+    : (fit ?? (CONTAIN_KINDS.has(kind ?? '') ? 'contain' : 'cover'))
   const show = Boolean(media) && !failed
 
   return (
-    <div className={cn('relative overflow-hidden bg-steel', className)}>
+    <div
+      className={cn('relative overflow-hidden bg-steel', className)}
+      data-tone={show ? resolvedTone : undefined}
+    >
+      {plate && (
+        <div
+          aria-hidden
+          className="absolute inset-0 animate-fade-in"
+          style={{
+            background:
+              'radial-gradient(ellipse at 50% 28%, #fbf9f4 0%, #ebe7de 45%, #d3cec3 100%)',
+            boxShadow:
+              'inset 0 0 0 1px rgba(0,0,0,0.08), inset 0 -60px 80px -40px rgba(0,0,0,0.25)',
+          }}
+        />
+      )}
       {media && !failed && (
         <img
           ref={ref}
@@ -82,10 +132,21 @@ export function EntityImage({
           decoding="async"
           onError={() => setFailed(true)}
           className={cn(
-            'h-full w-full transition-transform duration-700 ease-(--ease-cso)',
-            fit === 'cover' ? 'object-cover' : 'object-contain',
+            'relative h-full w-full transition-transform duration-700 ease-(--ease-cso)',
+            resolvedFit === 'cover' ? 'object-cover' : 'object-contain',
+            plate && 'mix-blend-multiply',
             imgClassName,
           )}
+        />
+      )}
+      {plate && (
+        <span
+          aria-hidden
+          className="pointer-events-none absolute inset-x-0 bottom-0 h-px"
+          style={{
+            background:
+              'linear-gradient(90deg, transparent, color-mix(in srgb, var(--accent) 70%, transparent), transparent)',
+          }}
         />
       )}
       {!show && (

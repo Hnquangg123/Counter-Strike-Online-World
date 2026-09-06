@@ -9,3 +9,4 @@ Ground rules:
 - Types flow from `packages/schema` (Zod) → collections → `payload-types.ts` (regenerate with `pnpm generate:types`) → `lib/world.ts` mappers → API + SDK.
 - Run `pnpm lint:fix && pnpm typecheck && pnpm test` before finishing; `pnpm seed` must stay idempotent.
 - Sandboxed agents cannot reach cso.fandom.com or its CDN; do not "fix" image loading by removing remote media — the user's machine and production can reach them.
+- Media: infobox `portrait` is the hero; white-background `render` captures go through `pnpm ai -- restore` (see `docs/MEDIA_PIPELINE.md`) — never crop them raw into dark tiles.

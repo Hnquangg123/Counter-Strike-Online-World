@@ -389,7 +389,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "artwork",
+        "kind": "portrait",
         "src": "https://static.wikia.nocookie.net/cso/images/1/19/Jacob_msg.png",
         "caption": {
           "en": "Douglas Jacob"
@@ -549,7 +549,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "artwork",
+        "kind": "icon",
         "src": "https://static.wikia.nocookie.net/cso/images/5/50/Terror_icon.png",
         "caption": {
           "en": "Phoenix Connexion"
@@ -557,7 +557,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "artwork",
+        "kind": "icon",
         "src": "https://static.wikia.nocookie.net/cso/images/d/d3/Leet_icon.png",
         "caption": {
           "en": "Elite Crew"
@@ -565,7 +565,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "artwork",
+        "kind": "icon",
         "src": "https://static.wikia.nocookie.net/cso/images/0/00/Arctic_icon.png",
         "caption": {
           "en": "Arctic Avengers"
@@ -573,7 +573,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "artwork",
+        "kind": "icon",
         "src": "https://static.wikia.nocookie.net/cso/images/d/d8/Guerilla_icon.png",
         "caption": {
           "en": "Guerrilla Warfare"

@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@csow/schema": "workspace:*",
+    "sharp": "0.34.2",
     "wtf_wikipedia": "^10.4.2",
     "zod": "catalog:"
   },

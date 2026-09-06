@@ -1155,7 +1155,7 @@
     "trivia": [],
     "media": [
       {
-        "kind": "artwork",
+        "kind": "render",
         "src": "https://static.wikia.nocookie.net/cso/images/a/a1/Buffm2.png",
         "caption": {
           "en": "M2HB Devastator"
@@ -1163,7 +1163,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "render",
+        "kind": "screenshot",
         "src": "https://static.wikia.nocookie.net/cso/images/e/e4/V_mgsm_anemo.png",
         "caption": {
           "en": "Anemone-themed view model skin (V_mgsm_anemo)"
@@ -1171,7 +1171,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "render",
+        "kind": "screenshot",
         "src": "https://static.wikia.nocookie.net/cso/images/8/8d/V_mgsm_mirajoo.png",
         "caption": {
           "en": "Mirage-themed view model skin"

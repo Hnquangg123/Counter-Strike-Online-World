@@ -8,6 +8,9 @@
  *   pnpm ingest -- pages --type weapon --recursive
  *   pnpm ingest -- media --type character [--slug anemone]   # download images into data/media
  *   pnpm ingest -- build-seed                          # merge data/wiki/* into data/seed/ingested/*.json
+ *   pnpm ingest -- verify-media [--type characters] [--no-tone] [--concurrency 4]
+ *                                                      # check every remote image/audio in data/seed → data/wiki/media-report.json
+ *                                                      # (dead links, sizes, and which captures sit on a white background)
  *
  * Output lives in data/wiki (normalized JSON + raw wikitext + manifest of revision ids),
  * so re-runs only fetch pages whose revision changed.
@@ -21,6 +24,7 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { parseArgs } from 'node:util'
 import { DEFAULT_CATEGORIES, type EntityKind, MAPPERS } from './mappers'
+import { checkAll, type MediaCheck } from './media-check'
 import { slugify } from './normalize'
 import { WikiClient } from './wiki/client'
 import { parseWikitext } from './wiki/parse'
@@ -29,6 +33,8 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../.
 const WIKI_DIR = path.join(ROOT, 'data', 'wiki')
 const MEDIA_DIR = path.join(ROOT, 'data', 'media')
 const SEED_DIR = path.join(ROOT, 'data', 'seed', 'ingested')
+const CURATED_SEED_DIR = path.join(ROOT, 'data', 'seed')
+const BUNDLES = ['characters', 'weapons', 'scenarios', 'game-modes', 'factions', 'maps', 'music']
 
 const KIND_TO_BUNDLE: Record<EntityKind, string> = {
   character: 'characters',
@@ -54,6 +60,8 @@ const { values, positionals } = parseArgs({
     force: { type: 'boolean', short: 'f', default: false },
     'dry-run': { type: 'boolean', default: false },
     delay: { type: 'string', default: '1100' },
+    concurrency: { type: 'string', default: '4' },
+    'no-tone': { type: 'boolean', default: false },
     verbose: { type: 'boolean', short: 'v', default: false },
     help: { type: 'boolean', short: 'h', default: false },
   },
@@ -232,6 +240,84 @@ async function main() {
       const attrFile = path.join(MEDIA_DIR, 'ATTRIBUTION.json')
       const existing = await readJson<Record<string, unknown>[]>(attrFile, [])
       await writeJson(attrFile, [...existing, ...attribution])
+      return
+    }
+    case 'verify-media': {
+      type Ref = { type: string; slug: string; name: string; kind: string; url: string }
+      const refs: Ref[] = []
+      const bundles = values.type ? [values.type] : BUNDLES
+      for (const bundle of bundles) {
+        for (const layer of ['', 'ingested', 'ai']) {
+          const items = await readJson<
+            { slug: string; name: string; media?: { src: string; kind: string }[] }[]
+          >(path.join(CURATED_SEED_DIR, layer, `${bundle}.json`), [])
+          for (const item of items)
+            for (const m of item.media ?? [])
+              if (/^https?:\/\//.test(m.src))
+                refs.push({
+                  type: bundle,
+                  slug: item.slug,
+                  name: item.name,
+                  kind: m.kind,
+                  url: m.src,
+                })
+        }
+      }
+      const unique = [...new Map(refs.map((r) => [r.url, r])).keys()]
+      console.error(
+        `checking ${unique.length} remote assets referenced by ${refs.length} media entries…`,
+      )
+      let done = 0
+      const checks = await checkAll(unique, {
+        concurrency: Number(values.concurrency),
+        delayMs: 150,
+        tone: !values['no-tone'],
+        onResult: (c) => {
+          done += 1
+          if (!c.ok) console.error(`  ✗ ${c.status || c.error} ${c.url}`)
+          else if (values.verbose) console.error(`  ✓ ${c.status} ${c.tone ?? ''} ${c.url}`)
+          if (done % 25 === 0) console.error(`  … ${done}/${unique.length}`)
+        },
+      })
+      const byUrl = new Map<string, MediaCheck>(checks.map((c) => [c.url, c]))
+      const rows = refs.map((r) => ({ ...r, ...byUrl.get(r.url)! }))
+      const dead = rows.filter((r) => !r.ok)
+      const light = rows.filter((r) => r.tone === 'light')
+      const summary = {
+        checkedAt: new Date().toISOString(),
+        assets: unique.length,
+        references: refs.length,
+        ok: checks.filter((c) => c.ok).length,
+        dead: dead.length,
+        tones: Object.fromEntries(
+          ['transparent', 'light', 'dark', 'unknown'].map((t) => [
+            t,
+            checks.filter((c) => c.tone === t).length,
+          ]),
+        ),
+        lightByType: Object.fromEntries(
+          bundles.map((b) => [b, light.filter((r) => r.type === b).length]),
+        ),
+      }
+      await writeJson(path.join(WIKI_DIR, 'media-report.json'), { summary, dead, light, rows })
+      console.error(
+        `\n${summary.ok}/${summary.assets} reachable · ${summary.dead} dead · tones: ${JSON.stringify(summary.tones)}`,
+      )
+      if (dead.length) {
+        console.error('\ndead links (the site shows its designed fallback for these):')
+        for (const d of dead)
+          console.error(`  ${d.type}/${d.slug} [${d.kind}] ${d.status || d.error} ${d.url}`)
+      }
+      if (light.length) {
+        console.error(
+          `\n${light.length} light-background captures — restore them with \`pnpm ai -- restore --type <type> --slug <slug>\`:`,
+        )
+        for (const l of light.slice(0, 40))
+          console.error(`  ${l.type}/${l.slug} [${l.kind}] ${l.width}×${l.height} ${l.url}`)
+        if (light.length > 40)
+          console.error(`  … and ${light.length - 40} more (see data/wiki/media-report.json)`)
+      }
+      console.error(`\nreport: ${path.relative(ROOT, path.join(WIKI_DIR, 'media-report.json'))}`)
       return
     }
     case 'build-seed': {

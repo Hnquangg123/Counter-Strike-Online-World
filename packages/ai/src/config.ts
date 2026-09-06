@@ -38,6 +38,13 @@ export const DEFAULTS = {
     /** fal.ai image-to-3D endpoint (verify the current id at fal.ai/models). */
     model: env('AI_3D_MODEL') ?? 'fal-ai/hunyuan3d/v2',
   },
+  /** Deterministic clean-up of wiki captures — no generation involved (docs/MEDIA_PIPELINE.md). */
+  restore: {
+    /** Cutout model. Alternative: 'fal-ai/birefnet/v2' (finer hair/strap edges). */
+    removeBackground: env('AI_BG_REMOVE_MODEL') ?? 'fal-ai/bria/background/remove',
+    /** Faithful GAN upscaler (no invented detail). Creative alternative: 'fal-ai/clarity-upscaler'. */
+    upscale: env('AI_UPSCALE_MODEL') ?? 'fal-ai/aura-sr',
+  },
   embeddings: {
     provider: (env('AI_EMBEDDING_PROVIDER') as EmbeddingProvider) ?? 'openai',
     models: {

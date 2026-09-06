@@ -107,7 +107,12 @@ export const audioOf = (doc: WithMedia): MediaRef[] =>
     .map(remoteRef)
     .filter((m) => m.kind === 'audio' || /\.(ogg|mp3|wav)$/i.test(m.url))
 
-const HERO_PRIORITY: MediaKind[] = ['render', 'portrait', 'artwork', 'screenshot', 'icon', 'other']
+/**
+ * Wiki infobox portraits are usually official renders with transparent
+ * backgrounds; shop/in-game model captures ("render") often sit on white or
+ * grey and crop badly, so they come after posters. See docs/MEDIA_PIPELINE.md.
+ */
+const HERO_PRIORITY: MediaKind[] = ['portrait', 'artwork', 'render', 'screenshot', 'icon', 'other']
 
 /** Explicit hero → best gallery image by kind priority → null. */
 export const heroOf = (doc: WithMedia): MediaRef | null => {

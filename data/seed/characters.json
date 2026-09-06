@@ -204,7 +204,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "render",
+        "kind": "screenshot",
         "src": "https://static.wikia.nocookie.net/cso/images/0/07/Buffclass21s2tr_viewmodel.png",
         "caption": {
           "en": "View model"
@@ -768,7 +768,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "render",
+        "kind": "screenshot",
         "src": "https://static.wikia.nocookie.net/cso/images/f/f0/Choiji-Yoon-011.jpg",
         "caption": {
           "en": "In-game model"
@@ -1191,7 +1191,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "render",
+        "kind": "screenshot",
         "src": "https://static.wikia.nocookie.net/cso/images/1/1e/Dione_modelhd_2.png",
         "caption": {
           "en": "In-game model (HD)"
@@ -1199,7 +1199,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "render",
+        "kind": "screenshot",
         "src": "https://static.wikia.nocookie.net/cso/images/3/38/Dione_modelhd_1.png",
         "caption": {
           "en": "In-game model (HD, 2)"
@@ -1837,7 +1837,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "render",
+        "kind": "screenshot",
         "src": "https://static.wikia.nocookie.net/cso/images/2/20/Erica_model.png",
         "caption": {
           "en": "In-game model"
@@ -2428,7 +2428,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "render",
+        "kind": "screenshot",
         "src": "https://static.wikia.nocookie.net/cso/images/6/67/Buffclass24s3tr_femalelong.png",
         "caption": {
           "en": "View model"
@@ -2611,7 +2611,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "render",
+        "kind": "screenshot",
         "src": "https://static.wikia.nocookie.net/cso/images/2/27/Marinegirl_model.png",
         "caption": {
           "en": "In-game model"
@@ -2893,7 +2893,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "render",
+        "kind": "screenshot",
         "src": "https://static.wikia.nocookie.net/cso/images/9/91/Buffclass24s3ct_femalelong.png",
         "caption": {
           "en": "View model"
@@ -3167,7 +3167,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "render",
+        "kind": "screenshot",
         "src": "https://static.wikia.nocookie.net/cso/images/1/10/Buffclass21s2ct_viewmodel.png",
         "caption": {
           "en": "View model"
@@ -3857,7 +3857,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "render",
+        "kind": "screenshot",
         "src": "https://static.wikia.nocookie.net/cso/images/b/b8/Phobos_model.png",
         "caption": {
           "en": "In-game model, front view"
@@ -4441,7 +4441,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "artwork",
+        "kind": "icon",
         "src": "https://static.wikia.nocookie.net/cso/images/2/2f/Yuri2_icon.png",
         "caption": {
           "en": "Variant: Yuri (Limited Edition)"
@@ -4457,7 +4457,7 @@
         "credit": "Counter-Strike Online Wiki / Nexon"
       },
       {
-        "kind": "artwork",
+        "kind": "icon",
         "src": "https://static.wikia.nocookie.net/cso/images/c/ce/Buffclass23s1tr_icon.png",
         "caption": {
           "en": "Variant: Pyromaniac Yuri"

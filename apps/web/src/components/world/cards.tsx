@@ -51,7 +51,8 @@ export function CharacterCard({
                 'linear-gradient(180deg, transparent 45%, rgba(7,8,10,0.55) 75%, rgba(7,8,10,0.96) 100%)',
             }}
           />
-          <div className="absolute left-3 top-3 flex flex-wrap gap-1.5">
+          {/* On a light studio plate the badges get a dark backing so they stay legible. */}
+          <div className="absolute left-3 top-3 flex flex-wrap gap-1.5 group-has-[[data-tone=light]]/card:*:bg-carbon/90">
             {character.side && character.side !== 'neutral' && <SideBadge side={character.side} />}
             {character.kind === 'boss' && <Tag className="text-blood">Boss</Tag>}
           </div>

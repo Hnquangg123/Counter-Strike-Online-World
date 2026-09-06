@@ -61,6 +61,8 @@ experimentation.
 - `pnpm ai -- art` (default provider): `fal-ai/flux-pro/v1.1-ultra` — the highest-fidelity photoreal/cinematic renders,
   fast (seconds), cheap (~$0.06/image). `fal-ai/flux-pro/kontext/max` is used automatically when you pass `--reference`
   URLs, for character-consistent variations.
+- `pnpm ai -- restore --type characters --slug anemone`: **faithful clean-up** of wiki captures — AuraSR upscale +
+  Bria RMBG 2.0 (or BiRefNet) background removal → transparent PNG hosted by us. Not generative; see `docs/MEDIA_PIPELINE.md`.
 - `pnpm ai -- figure --slug anemone --image <render>`: **image → GLB** with Hunyuan3D / TRELLIS-class models so the
   character page's 3D stage shows a real, rotatable figure instead of the hologram placeholder. Verify the current
   endpoint id at https://fal.ai/models (they iterate monthly) and set `AI_3D_MODEL`.
@@ -82,7 +84,7 @@ Both are pay-per-second/per-image with no subscription.
 | **Ideogram Character** | Character-consistent generation from one reference | Another strong option for "same character, many scenes"; on fal as `fal-ai/ideogram/character` | Available through fal |
 | **ElevenLabs** | Voice | *Not recommended* for recreating characters' voices (actors' rights). Could narrate the storyline page in an original narrator voice | Decide later |
 | **Suno / Udio** | Music | The CSO OST is Nexon's; generating "inspired by" tracks is a legal grey area. Prefer licensing or original compositions | Not recommended |
-| **Upscalers (fal `clarity-upscaler`, `aura-sr`)** | 2–4× upscale of small wiki renders | Many wiki assets are 512px; upscaling before display would help hero images | Cheap; add a `pnpm ai -- upscale` command later |
+| **Upscalers + cutouts (fal `aura-sr`, `bria/background/remove`, `birefnet/v2`)** | Faithful ×4 upscale and background removal of wiki captures | Turns Nexon's white-background shop captures into transparent hero cutouts without inventing anything | **Wired:** `pnpm ai -- restore` (`docs/MEDIA_PIPELINE.md`) |
 
 ## Environment variables
 
@@ -101,6 +103,8 @@ AI_IMAGE_EDIT_MODEL_FAL=fal-ai/flux-pro/kontext/max
 AI_IMAGE_MODEL_OPENAI=gpt-image-2   AI_IMAGE_MODEL_GOOGLE=gemini-3.1-flash-image-preview
 AI_IMAGE_MODEL_REPLICATE=black-forest-labs/flux-2-pro
 AI_3D_MODEL=fal-ai/hunyuan3d/v2
+AI_BG_REMOVE_MODEL=fal-ai/bria/background/remove   # or fal-ai/birefnet/v2 — `pnpm ai -- restore`
+AI_UPSCALE_MODEL=fal-ai/aura-sr                    # or fal-ai/clarity-upscaler (creative; adds detail)
 AI_EMBEDDING_PROVIDER=openai        AI_EMBEDDING_MODEL_OPENAI=text-embedding-3-large   AI_EMBEDDING_MODEL_GOOGLE=gemini-embedding-2
 ```
 
@@ -112,6 +116,8 @@ its variable is empty or misspelled. Real environment variables always take prec
 ## Suggested first session with the tools
 
 1. `pnpm ai -- status` — confirm keys.
+1. `pnpm ingest -- verify-media` then `pnpm ai -- restore --type characters --slug anemone` and `pnpm seed` — her
+   official render becomes a clean, hosted hero image (no generation involved; see `docs/MEDIA_PIPELINE.md`).
 2. `pnpm ai -- art --type characters --slug anemone --dry-run` — read the prompt; tweak `packages/ai/src/prompts.ts` until it describes her the way you see her.
 3. `pnpm ai -- art --type characters --slug anemone --variant hero` then `--variant portrait --reference <the hero file URL>` for a consistent set.
 4. `pnpm ai -- figure --slug anemone --image <hero URL>` — a GLB appears in `data/media/generated/figures/anemone/`; set `model3d` on the character (or let the seed pick it up).
