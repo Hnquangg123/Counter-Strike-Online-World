@@ -74,3 +74,12 @@ tools                   one-off scripts (research → seed converter)
 
 Code: MIT. Encyclopedic content: CC BY-SA 3.0 (adapted from the Counter-Strike Online Wiki). Game assets © Nexon;
 Counter-Strike is a trademark of Valve Corporation. Unofficial fan project — not affiliated with Nexon or Valve.
+
+## UI
+<img width="1440" height="900" alt="preview-home" src="https://github.com/user-attachments/assets/d4f57882-2d40-4563-86b2-e522d7814463" />
+<img width="1440" height="4773" alt="preview-anemone-page" src="https://github.com/user-attachments/assets/c7216149-554a-4095-b6d9-916997e5440f" />
+<img width="1440" height="900" alt="preview-ak47-page" src="https://github.com/user-attachments/assets/4c88e45e-6c4f-4129-99aa-59b079874eb8" />
+<img width="1440" height="6011" alt="preview-scenarios" src="https://github.com/user-attachments/assets/325debc2-8450-40e8-8524-2b7ed8e69b34" />
+
+
+
